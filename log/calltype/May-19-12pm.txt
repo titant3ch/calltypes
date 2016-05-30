@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 12:00 PM FXRS 5/19/2016
+
+FXRS: issue with smart post / Issue with ground baracode / database swap / 1d on / delete pkg from server / 
+
+Web Services: MPS rates are not correct / drc fuctitoons / issue with rates not matching fxct tool / 
+
+Café: customer disconnect / enable return in system settings / 
+
+FXCT: 
+
+MISDIRECTS: dot com call / 
+
+AHT Drivers: FXRS MPS rates are not correct 51 min / FXRS database swap 32 min / FXRS issue with smart post 25 min / 
+
+------------
+
+Cafe on FXRS: 
+
+FXRS on Cafe: 

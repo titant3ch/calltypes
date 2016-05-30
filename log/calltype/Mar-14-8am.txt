@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 8:00 AM FXRS 3/14/2016
+
+FXRS: Line test / Urs expired issue / 
+
+Web Services: FXCT Registration / 
+
+Café: 
+
+FXCT: 
+
+MISDIRECTS: Wrong que / Bad transfer from dot.com / 
+
+AHT Drivers: FXRS Urs expired issue 23 min / FXRS Bad transfer from dot.com 16 min / FXRS FXCT Registration 13 min / 
+
+------------
+
+Cafe on FXRS: BPU not starting / 
+
+FXRS on Cafe: 

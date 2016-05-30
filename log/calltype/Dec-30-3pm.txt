@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 3:00 PM FXRS 12/30/2015
+
+FXRS: sha-2 upgrade / Non-comm meter / comms / issues with city / 
+
+Web Services: LTL errors / coding / 
+
+Café: IE script error / 
+
+FXCT: 
+
+MISDIRECTS: to dot.com / Cust. Svc. Transfer / to dot.com / to dot.com / 
+
+AHT Drivers: FXRS LTL errors 39 min / FXRS issues with sha-2 update 17 min / Café IE script error 15 min / 
+
+------------
+
+Cafe on FXRS: issues with sha-2 update / 
+
+FXRS on Cafe: 

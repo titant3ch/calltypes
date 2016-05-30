@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 8:00 AM FXRS 11/13/2015
+
+FXRS: 
+
+Web Services: Cert Request / 
+
+Café: Line test / defaulting shipping profiles / 
+
+FXCT: 
+
+MISDIRECTS: 
+
+AHT Drivers: FXRS Cert Request 7 min / Café defaulting shipping profiles 5 min / Café Line test 1 min / 
+
+------------
+
+Cafe on FXRS: 
+
+FXRS on Cafe: 

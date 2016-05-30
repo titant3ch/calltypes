@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 10:00 AM FXRS 12/29/2015
+
+FXRS: Questions about SHA-2 / 
+
+Web Services: issues with CSP creds / 
+
+Café: Software request / BPU will not boot / 
+
+FXCT: 
+
+MISDIRECTS: dotcom / dotcom / to dot.com / 
+
+AHT Drivers: FXRS issues with CSP creds 13 min / Café BPU will not boot 10 min / Café Software request 9 min / 
+
+------------
+
+Cafe on FXRS: 
+
+FXRS on Cafe: 

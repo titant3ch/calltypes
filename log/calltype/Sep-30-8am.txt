@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 8:00 AM FXRS 9/30/2015
+
+FXRS: No pkg on manifest / Canada Postal code Issue / 
+
+Web Services: 
+
+Café: Line test / writing as deleted / 
+
+FXCT: 
+
+MISDIRECTS: 
+
+AHT Drivers: FXRS -i transd by .com on serv line 35 min / FXRS No pkg on manifest 17 min / Café writing as deleted 15 min / 
+
+------------
+
+Cafe on FXRS: -i transd by .com on serv line / 
+
+FXRS on Cafe: 

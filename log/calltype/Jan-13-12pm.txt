@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 12:00 PM FXRS 1/13/2016
+
+FXRS: stop transmitting / 
+
+Web Services: register for production / Service type not valid with commitm / 
+
+Café: not able to reprint the mps label / 
+
+FXCT: FXCT database issues / 
+
+MISDIRECTS: to customer service / 
+
+AHT Drivers: FXRS FXCT database issues 9 min / Café not able to reprint the mps label 9 min / FXRS Service type not valid with commitm 8 min / 
+
+------------
+
+Cafe on FXRS: attach a signature / 
+
+FXRS on Cafe: 

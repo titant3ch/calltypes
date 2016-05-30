@@ -1,0 +1,21 @@
+Reported Calls for: May-10-2pm
+
+Agent, Computer Name, Duration of Call, LOB, Type, Message,
+rhagemann,ausrca0054,55 min,FXRS,FSMS,Bad Delivery Date
+rhagemann,ausrca0054,30 min,FXRS,FSMS,ETD Assist
+rmanley,ausrca0070,16 min,FXRS,WIS,wrong account for ltl rates
+rhagemann,ausrca0054,16 min,FXRS,WIS,Rates on Test Server
+gdeharo,ausrca0227,15 min,FXRS,Café,software download/register
+sroberts,ausrca0074,15 min,FXRS,FXCT,Assist w/reinstall, etc
+chkelley,ausrca0055,15 min,FXRS,FXCT,new install
+sroberts,ausrca0074,13 min,Café,Café,Account Validation Issue
+sroberts,ausrca0074,12 min,Café,Café,Assist w/Tracking Issue
+rmcneil,ausrcwa059,12 min,FXRS,WIS,Random lost comm
+rhagemann,ausrca0054,7 min,FXRS,FXCT,Backup
+macampbell,ausrcwa049,5 min,FXRS,FXCT,Install FXCT
+mbarth,ausrca0058,5 min,Café,Café,credit privs ddl rates
+mbarth,ausrca0058,5 min,Café,Café,print to laser
+wcrosby,ausrca0071,5 min,FXRS,Misdirect,.com
+macampbell,ausrcwa049,3 min,Café,Café,FSM login prompt
+mbarth,ausrca0058,2 min,FXRS,WIS,fxct disconnect before trans
+rmcneil,ausrcwa059,2 min,FXRS,FSMS,Needed product code for 14.04

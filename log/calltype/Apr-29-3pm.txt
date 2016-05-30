@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 3:00 PM FXRS 4/29/2016
+
+FXRS: MPS transaction review / soupcall / duplicate tracking number / URSA / versions / ae inquiry hazmat / 
+
+Web Services: Verify communications / web services general questions / SA notifications / register for test credentials / Test Creds / Test Creds / 
+
+Café: Printer on wrong port / tech ticket requested by AE / issues with printer setup / reprint from shipping list / relocation / DG defaults config / Validate for product key / issue with reports not printing / HW Removal / Comms Failed / Update New Install Notes / Korean Zip Code / 
+
+FXCT: CIC request new FXCT install / FXCT Install / FXCT Backup / ltl account / weird beeping and misdirect / 
+
+MISDIRECTS: dot com caller / dot com caller / Dotcom / to dot.com / 
+
+AHT Drivers: FXRS soupcall 60 min / FXRS export error not putting delivery date 38 min / FXRS MPS transaction review 30 min / 
+
+------------
+
+Cafe on FXRS: customer disconnect / host/client issues / label issues wrong printer selected / server error needs mod / uploads and comms / export error not putting delivery date / Discussed rate issue w/caller. / software download request / install software and fxct cic / 
+
+FXRS on Cafe: 

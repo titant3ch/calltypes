@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 12:00 PM FXRS 10/29/2015
+
+FXRS: Error Inserting Record Into Databas / 
+
+Web Services: no rates / 
+
+Café: client installation assist / 
+
+FXCT: not able to rate LTL freight / 
+
+MISDIRECTS: NC transfer dotcom / 
+
+AHT Drivers: Café client installation assist 24 min / FXRS Error Inserting Record Into Databas 13 min / FXRS not able to rate LTL freight 8 min / 
+
+------------
+
+Cafe on FXRS: 
+
+FXRS on Cafe: 

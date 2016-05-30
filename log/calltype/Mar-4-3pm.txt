@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 3:00 PM FXRS 3/4/2016
+
+FXRS: Reset Comms / URSA / Admin Service is down. Restarted / URSA Expired / Disable 1D On Meter / 
+
+Web Services: drc fucntion test / wrong key / CSP needing email for Cert / Test Creds and Server Info / FXCT Dimension Import / 
+
+Café: FSM Printer Issue/Resolved / 
+
+FXCT: 
+
+MISDIRECTS: Dot Com Transfer / Dotcom transfer / .com Transfer / Domestic Transfer / 
+
+AHT Drivers: Café FSM Printer Issue/Resolved 27 min / FXRS Admin Service is down. Restarted 20 min / FXRS FXCT Dimension Import 20 min / 
+
+------------
+
+Cafe on FXRS: 
+
+FXRS on Cafe: 

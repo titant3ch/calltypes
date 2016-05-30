@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 9:00 AM FXRS 5/17/2016
+
+FXRS: comms down / disconnect / URSA expired IT not at site / solution type needed to be updated. / delivery times / cic work request / 
+
+Web Services: cust need the carrrier track # / printer feeding extra labels / drc reg / error 1000 / 
+
+Café: -i integartion / Transfer/restore databases / Help print 1421C / Install network-client setup / Repair software / Needed link and product code / Dg paperwork not printing / 
+
+FXCT: ltl accounts / product key / 
+
+MISDIRECTS: transferred to fedex.com / dot com caller / 
+
+AHT Drivers: Café Repair software 58 min / Café Install network-client setup 47 min / Café Needed link and product code 27 min / 
+
+------------
+
+Cafe on FXRS: 
+
+FXRS on Cafe: 

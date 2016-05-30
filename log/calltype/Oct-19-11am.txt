@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 11:00 AM FXRS 10/19/2015
+
+FXRS: mru / no barcode issues with services / clsoe alrady running / admin and shipmanager issues / printer / 
+
+Web Services: 
+
+Café: printer install questions / software req / issues with printer / fxi / 2912 failed upgrade & cleanload / CIC needed FE whitelist IPs / 
+
+FXCT: FXCT Install / Batch rating assist / 
+
+MISDIRECTS: needs .com / dotcom / csp / needs ebay / 
+
+AHT Drivers: Café 2912 failed upgrade & cleanload 50 min / FXRS Batch rating assist 35 min / FXRS admin and shipmanager issues 25 min / 
+
+------------
+
+Cafe on FXRS: comms issues / issues with FXI needs TIS / Rates are not correct. / 
+
+FXRS on Cafe: 

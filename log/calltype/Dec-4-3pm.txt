@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 3:00 PM FXRS 12/4/2015
+
+FXRS: IPD errors / ETD not uploading CI / Callback on TSR Request / TSR Request / 
+
+Web Services: Certification request. / activate the test address validatio / cert process / 
+
+Café: 
+
+FXCT: 
+
+MISDIRECTS: transfer to CS / transfer to cs / 
+
+AHT Drivers: FXRS IPD errors 90 min / FXRS ETD not uploading CI 50 min / FXRS rates/dl but don"t ip/ran modify 30 min / 
+
+------------
+
+Cafe on FXRS: rates/dl but don"t ip/ran modify / 
+
+FXRS on Cafe: Request for hardware ticket/printer / 

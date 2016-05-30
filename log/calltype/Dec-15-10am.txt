@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 10:00 AM FXRS 12/15/2015
+
+FXRS: 
+
+Web Services: Error 1000 / 
+
+Café: list rates not downloading / registering software assistance / smart post questions / issue with rates escalated / Unhandled Exception / extra garble label printing / Registration / dead PS60 scale / SSC request by customer / Canadian software download reqeuest / 
+
+FXCT: installing / 
+
+MISDIRECTS: customer service / rev services / 
+
+AHT Drivers: Café Unhandled Exception 38 min / Café extra garble label printing 20 min / Café Registration 16 min / 
+
+------------
+
+Cafe on FXRS: 
+
+FXRS on Cafe: 

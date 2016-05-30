@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 11:00 AM FXRS 11/6/2015
+
+FXRS: URSA comm issues / close already running / ZM400 printer parts / 
+
+Web Services: register and cert request / where is my prod password? / authentication failed / issue with web services / GU postal code issue / 
+
+Café: rates / network client config / 
+
+FXCT: 
+
+MISDIRECTS: dotcom / dotcom / 
+
+AHT Drivers: FXRS register and cert request 40 min / FXRS URSA comm issues 28 min / FXRS AVG ate my admin service 28 min / 
+
+------------
+
+Cafe on FXRS: not able to connect to the internet / AVG ate my admin service / setting return address on FXIA / issues launching the software / 
+
+FXRS on Cafe: 

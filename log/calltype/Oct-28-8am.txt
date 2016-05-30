@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 8:00 AM FXRS 10/28/2015
+
+FXRS: not able to login to server / wis reg / no rates for international / 
+
+Web Services: 
+
+Café: New account added / 
+
+FXCT: 
+
+MISDIRECTS: 
+
+AHT Drivers: FXRS no rates for international 30 min / FXRS wis reg 20 min / Café New account added 8 min / 
+
+------------
+
+Cafe on FXRS: 
+
+FXRS on Cafe: 

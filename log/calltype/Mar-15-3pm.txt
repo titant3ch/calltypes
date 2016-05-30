@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 3:00 PM FXRS 3/15/2016
+
+FXRS: issues with tracking / McAfee Stopping Services / SP not enabled / issues with URSA / empty line / McAfee stops shipmanager / 
+
+Web Services: printer not printing sent TSR / rating error / Registration for WS / issues with printing labels / AE with questions about DRC / Empty Line / WIS assistance / Prod Key Failure / Printer not aligning / Empty Line / International Rates / Getting creds setting up module / Non Revenue Account Q&A / Assisted w/Error 1000 / assisted with setting up website / Diconnected / Printer Install / 
+
+Café: return label / misdirect for .com / enable ETD / b13a assistance / product key request / issues with return address / installation assistance.. / Printer issue / network client lost ipaddress / Shipments still in shpng list after eod / installation / missing service types / Writing As Deleted / FastClient / issues with printer setup / product key request / 
+
+FXCT: Rate wrong / 3 installs / adding ltl acct / comm: cust using config script / "My Rate" not showing / 
+
+MISDIRECTS: .com / transferred to dotcom / transfer to CA cs / transferred to dotcom / to dot.com / 
+
+AHT Drivers: FXRS McAfee Stopping Services 52 min / FXRS Rate wrong 46 min / FXRS Install Printer 46 min / 
+
+------------
+
+Cafe on FXRS: hardware printer / Install Printer / various shipping questions / Software upgrade / Unable to ship Hazmat / Miss admin services / international return / 
+
+FXRS on Cafe: printer issue / billing questions.. / 

@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 11:00 AM FXRS 10/2/2015
+
+FXRS: Failed 13.07 upgrade / URSA / TD close issues / printer keeps jamming / Certification Request / How much does it cost to use WIS? / installing printer / 
+
+Web Services: Not able to process rate request / drc reg / Authentication Failed / finding saturday delivery / reset the web service password / 
+
+Café: fxi and sender code / EEI filing walk through / ltl / FXIA issues / export address / tech tix scale / 
+
+FXCT: 
+
+MISDIRECTS: TRANSFER TO DOTCOM / dotcom / 
+
+AHT Drivers: Café FXIA issues 64 min / FXRS Printer not responding 30 min / FXRS TD close issues 22 min / 
+
+------------
+
+Cafe on FXRS: Printer not responding / 
+
+FXRS on Cafe: 

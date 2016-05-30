@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 8:00 AM FXRS 10/13/2015
+
+FXRS: request for 1501 product key / duplicate tracking numbers / not getting ETD on label / 
+
+Web Services: not getting LTL freight responce / 
+
+Café: 
+
+FXCT: "wrong" rates / 
+
+MISDIRECTS: needs .com / Dot.com / 
+
+AHT Drivers: FXRS not getting ETD on label 11 min / FXRS not getting LTL freight responce 10 min / FXRS request for 1501 product key 5 min / 
+
+------------
+
+Cafe on FXRS: 
+
+FXRS on Cafe: 

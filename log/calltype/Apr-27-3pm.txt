@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 3:00 PM FXRS 4/27/2016
+
+FXRS: Clean install upgrade / Move meters to a new server / question about installing 14xx / SP Hub ID / SmartPost Hub ID / international rate table expired / 
+
+Web Services: ae coding / Needed product key / rate request / DRC registration / drc reg / DRC Questions / Web Svcs Disruption / AE called re: Svc Disruption / issues with communications / Test Creds / Issues with tracking / Answered Web Svcs Question / URSA Issue / Assisted w/Web Svcs p/u request / 
+
+Café: Reset comms & add proxy / Non-comm meter / printer / clean load required / Tracking Range / Import Issue / TSR Called regarding scale. / Hard Drive Replacement / Repair using delta / CIC wanted info on windows 10 / 
+
+FXCT: FXCT installation / Rating Outage / LTL Dimensions / Does LTL work on FXCT / 
+
+MISDIRECTS: Not support / autoamted data batches? / beta / Dot Com Svc Disruption / LTL online / needs csp / 
+
+AHT Drivers: FXRS Clean install upgrade 113 min / FXRS fxia 75 min / FXRS international rate table expired 70 min / 
+
+------------
+
+Cafe on FXRS: previous escalated call issue / scale calibrate / FXI failed upgrade / No admin rights / fxia / 
+
+FXRS on Cafe: 

@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 8:00 AM FXRS 2/8/2016
+
+FXRS: line test / Openship not started / Line test / openship / 
+
+Web Services: Error 1000 authentication failed / 
+
+Café: Line test / 
+
+FXCT: 
+
+MISDIRECTS: misdirect to customer service. / Wrong que / needs password reset / dot com caller / 
+
+AHT Drivers: FXRS Error 1000 authentication failed 11 min / FXRS openship 10 min / FXRS needs password reset 5 min / 
+
+------------
+
+Cafe on FXRS: 
+
+FXRS on Cafe: 

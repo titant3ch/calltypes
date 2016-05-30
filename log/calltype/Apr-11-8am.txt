@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 8:00 AM FXRS 4/11/2016
+
+FXRS: Line test / Laser printer busted replace / Shipmanager Service Crashing / 
+
+Web Services: WIS unable to register / 
+
+Café: 
+
+FXCT: Line Test / 
+
+MISDIRECTS: 
+
+AHT Drivers: FXRS Shipmanager Service Crashing 6 min / FXRS Laser printer busted replace 5 min / FXRS WIS unable to register 2 min / 
+
+------------
+
+Cafe on FXRS: 
+
+FXRS on Cafe: 

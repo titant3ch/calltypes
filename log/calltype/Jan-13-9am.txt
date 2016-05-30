@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 9:00 AM FXRS 1/13/2016
+
+FXRS: Line test / 
+
+Web Services: error 1000 / 
+
+Café: 
+
+FXCT: not loading up / 
+
+MISDIRECTS: 
+
+AHT Drivers: FXRS error 1000 8 min / FXRS not loading up 3 min / FXRS Line test .15 min / 
+
+------------
+
+Cafe on FXRS: 
+
+FXRS on Cafe: 

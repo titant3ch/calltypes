@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 12:00 PM FXRS 3/8/2016
+
+FXRS: URSA will not download / product key for version 12.09 / issues with duties and taxes / ursa and comms / misdirect / 1d / No comm / printer through web serv and server / misdirect / EPDI Inquiry / CIC Preassigned tracking numbers / certification / credentials / ZP505 install / 
+
+Web Services: OS updated cause no printer / S/P returns / generic WIS questions / needed Rev Svcs / error processing dg shipment / no rates / web-services registration / LTL 3P rating errors / Cert Inquiry / Incorrect Rates / Rate Inquiry / Account Details / DRC registration / 
+
+Café: issues with locale does not match / Failed upgrade / reports / Printer tech ticket / download request / Change address/postal code / software req / URSA expired caller disconnected / Integration -i issue / issues with printing BOL / Tech request..comm issue / networkcleint / tech tix scale / Incorrect Rates on FSM. / Installation assistance / Writing As Deleted / Add an account to FSM / Upgrade failed / Software Installation / Intl DG shipment / 
+
+FXCT: Rate discrepancy / fxct icon / LTL Rate errors / 
+
+MISDIRECTS: needs .com / hyperlink? / needs .com / needs .com / needed fedex.com / 
+
+AHT Drivers: FXRS CIC Preassigned tracking numbers 120 min / FXRS LTL 3P rating errors 50 min / Café Incorrect Rates on FSM. 39 min / 
+
+------------
+
+Cafe on FXRS: Printer issue / fxia / FSM Download Request / Failed updated to 2915 / Tech Ticket (Printer) / 
+
+FXRS on Cafe: 

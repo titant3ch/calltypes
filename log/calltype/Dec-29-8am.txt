@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 8:00 AM FXRS 12/29/2015
+
+FXRS: Error Inserting Record into Databas / 
+
+Web Services: 
+
+Café: 
+
+FXCT: 
+
+MISDIRECTS: 
+
+AHT Drivers: FXRS Error Inserting Record into Databas 55 min / FXRS Out of ground tracking numbers 23 min / FXRS Missing sender profile 4 min / 
+
+------------
+
+Cafe on FXRS: Out of ground tracking numbers / Missing sender profile / 
+
+FXRS on Cafe: 

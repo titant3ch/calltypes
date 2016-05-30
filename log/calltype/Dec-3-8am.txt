@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 8:00 AM FXRS 12/3/2015
+
+FXRS: 
+
+Web Services: error with the shipments / no services available. / 
+
+Café: request for software / 
+
+FXCT: 
+
+MISDIRECTS: dotcom / 
+
+AHT Drivers: FXRS URSA Expired 10 min / Café request for software 8 min / FXRS no services available. 8 min / 
+
+------------
+
+Cafe on FXRS: URSA Expired / 
+
+FXRS on Cafe: 

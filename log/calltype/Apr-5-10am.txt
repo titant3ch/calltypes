@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 10:00 AM FXRS 4/5/2016
+
+FXRS: DRC registration / Comm setup URSA download / dropped call / issues with HUFs / 
+
+Web Services: issues with printing shipping labels / 
+
+Café: Configuration / return shipment / new software install / 
+
+FXCT: 
+
+MISDIRECTS: Return ship / 
+
+AHT Drivers: FXRS DRC registration 14 min / Café return shipment 11 min / FXRS issues with printing shipping labels 10 min / 
+
+------------
+
+Cafe on FXRS: 
+
+FXRS on Cafe: 

@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 11:00 AM FXRS 9/22/2015
+
+FXRS: sp return tracking numbrs / add a meter and take it out / issues with transaction / csp wont go itn / 
+
+Web Services: not getting rate on some postal cod / printer firmware update / new creds setup / 
+
+Café: cic product key request / Issue with fxia export / address import / Should I let the system update? / gui error modify didn't work/clean / set report to print at eod / Account Validation / FXIA export database setup / customize forms for DG / windows 10 broke j# / 
+
+FXCT: needs fxct install / new install / 
+
+MISDIRECTS: cust service call / needs .com / dotcom / to ACE / dotcom / needs .com / to customer service / cust service call / 
+
+AHT Drivers: Café gui error modify didn't work/clean 69 min / FXRS issues with transaction 26 min / FXRS add a meter and take it out 17 min / 
+
+------------
+
+Cafe on FXRS: Power outtage damaged computer / Automatic Close time update / 
+
+FXRS on Cafe: 

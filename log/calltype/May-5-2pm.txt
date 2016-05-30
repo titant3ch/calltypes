@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 2:00 PM FXRS 5/5/2016
+
+FXRS: IP address change / label not printing with correct info / TSR Request / ZM400 / comms / customer needs hub id / HangUp / tracking # and etd processing / rate trans / 
+
+Web Services: Rate request errors / Previous call status / wis reg / wis registration / Not reaching rate servers / How to get creds / wis registration / 
+
+Café: shipping list reprint / printer / printer tech tix / URSA expired / Client configuration / ShipAlert Settings / General Assist in Cafe / Call Lost / 
+
+FXCT: needs talk ae for rates / New install / 
+
+MISDIRECTS: needed Dom CS / Customer service / Cust Hungup / 
+
+AHT Drivers: FXRS tracking # and etd processing 60 min / FXRS rate trans 20 min / Café Client configuration 18 min / 
+
+------------
+
+Cafe on FXRS: 
+
+FXRS on Cafe: 

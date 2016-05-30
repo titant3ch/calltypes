@@ -1,0 +1,21 @@
+Reported Calls for: Mar-18-11am
+
+Agent, Computer Name, Duration of Call, LOB, Type, Message,
+rmcneil,ausrcwa059,29 min,FXRS,FSMS,Invalid SP zip code
+dneal,ausrca0098,21 min,FXRS,FSMS,SQL service issue
+jpinion,ausrca0056,20 min,FXRS,FSMS,issues with comms, LDSCFG.ini
+dneal,ausrca0098,17 min,FXRS,FXCT,Add ltl account
+rhagemann,ausrca0054,12 min,Café,Café,Validation
+jpinion,ausrca0056,12 min,FXRS,WIS,issues with getting prod creds
+mbarth,ausrca0058,10 min,Café,Café,ship alert fxia
+jpinion,ausrca0056,10 min,Café,Café,new software install
+rmcneil,ausrcwa059,8.3 min,FXRS,Misdirect,Revenue services
+rhagemann,ausrca0054,8 min,FXRS,Misdirect,Tracking Tool
+cdriskell,ausrca0064,6 min,FXRS,FXCT,Consignee rating
+mbarth,ausrca0058,5 min,FXRS,Café,list rates
+mbarth,ausrca0058,5 min,FXRS,WIS,tracking
+mbarth,ausrca0058,5 min,FXRS,FSMS,drc functionality
+dneal,ausrca0098,5 min,FXRS,WIS,DRC registration
+cdriskell,ausrca0064,5 min,FXRS,FSMS,Pushed 1501 installer to customer
+rhagemann,ausrca0054,2 min,FXRS,Café,CIC asking about new install rules
+rhagemann,ausrca0054,1 min,FXRS,WIS,Fee for WIS

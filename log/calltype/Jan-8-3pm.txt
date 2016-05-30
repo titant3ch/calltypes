@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 3:00 PM FXRS 1/8/2016
+
+FXRS: to dot.com / RSPOSTAL error multiple CA meters / 
+
+Web Services: WIS registration / issues with under 1lb test spost / 
+
+Café: Customize shipment report / 
+
+FXCT: new install / 
+
+MISDIRECTS: needed Dom CS / to dot.com / 
+
+AHT Drivers: FXRS RSPOSTAL error multiple CA meters 60 min / FXRS issues with under 1lb test spost 30 min / Café Customize shipment report 22 min / 
+
+------------
+
+Cafe on FXRS: 
+
+FXRS on Cafe: 

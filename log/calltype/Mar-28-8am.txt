@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 8:00 AM FXRS 3/28/2016
+
+FXRS: Unable to add new child meter / 
+
+Web Services: Status on web issue. / DRC Registration / Authentication Failure / 
+
+Café: AE Requesting TSR / Saturday Delivery / Home delivery / 
+
+FXCT: 
+
+MISDIRECTS: Dot.com / 
+
+AHT Drivers: Café Home delivery 14 min / Café AE Requesting TSR 9 min / FXRS Unable to add new child meter 7 min / 
+
+------------
+
+Cafe on FXRS: Printer Assignment / 
+
+FXRS on Cafe: 

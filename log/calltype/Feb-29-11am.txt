@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 11:00 AM FXRS 2/29/2016
+
+FXRS: McAfee crashes Ship Mgr svc / expired ursa / 
+
+Web Services: errors due to acct in delete status / drc functions / 
+
+Café: prod key / software install / No Rates - Port Issues / 
+
+FXCT: 
+
+MISDIRECTS: 
+
+AHT Drivers: FXRS errors due to acct in delete status 17 min / FXRS McAfee crashes Ship Mgr svc 16 min / Café software install 10 min / 
+
+------------
+
+Cafe on FXRS: FXI Issues / Failed Validation / 
+
+FXRS on Cafe: 

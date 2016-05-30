@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 9:00 AM FXRS 2/16/2016
+
+FXRS: Line Test / rating exception cust.tbl / 
+
+Web Services: ground res / 
+
+Café: Needed product code fill web form / issues with new software install / 
+
+FXCT: FXCT Installation / 
+
+MISDIRECTS: needs .com / 
+
+AHT Drivers: FXRS rating exception cust.tbl 49 min / Café issues with new software install 19 min / FXRS FXCT Installation 17 min / 
+
+------------
+
+Cafe on FXRS: 
+
+FXRS on Cafe: 

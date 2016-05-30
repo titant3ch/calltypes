@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 12:00 PM FXRS 3/24/2016
+
+FXRS: Issue with deleting shipmnent / Call was dropped / issue with rates / 
+
+Web Services: DRC registration / Shipping history not supported / transaction specs / Registering an account on DRC / registration / contact info / issue with commit time international / 
+
+Café: new install/restore / change cod address / email return label / reqeust for fsm software / host/client network config update / ground rates / database /inport / 
+
+FXCT: fxct registraton / 
+
+MISDIRECTS: dot com caller / dot com caller / dot com call / 
+
+AHT Drivers: FXRS Registering an account on DRC 30 min / FXRS issue with commit time international 25 min / Café new install/restore 23 min / 
+
+------------
+
+Cafe on FXRS: reports / 
+
+FXRS on Cafe: 

@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 10:00 AM FXRS 12/28/2015
+
+FXRS: URSA questions / 
+
+Web Services: questions about SSL update / issues with requests / printer not printing / link for the sha-2 / 
+
+Café: new download request / printer info / Create international label / new software install / FXIA error with the ODBC / integration is grayed out / 
+
+FXCT: issue with rates / install / 
+
+MISDIRECTS: customer service / 
+
+AHT Drivers: FXRS install 25 min / FXRS URSA questions 16 min / FXRS issue with rates 12 min / 
+
+------------
+
+Cafe on FXRS: invalid stocktype / 
+
+FXRS on Cafe: 

@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 3:00 PM FXRS 12/15/2015
+
+FXRS: cust disconnect / tracking range increase / Smartpost del conf numbers issue / 
+
+Web Services: Invalid svc type / scale issues / new creds setup / 3rd party application issue / 
+
+Café: comms / dead PS60 scale / Product key acct validation / EOD close reports / 
+
+FXCT: install / 
+
+MISDIRECTS: misdirect / to customer service / 
+
+AHT Drivers: FXRS Smartpost del conf numbers issue 82 min / FXRS tracking range increase 21 min / Café Product key acct validation 12 min / 
+
+------------
+
+Cafe on FXRS: 
+
+FXRS on Cafe: 

@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 8:00 AM FXRS 12/9/2015
+
+FXRS: datetimesync / Printer heads gone out / AE want to order printer / 
+
+Web Services: not printing / 
+
+Café: 
+
+FXCT: 
+
+MISDIRECTS: needs cust serv / 
+
+AHT Drivers: FXRS Printer heads gone out 11 min / FXRS not printing 8 min / FXRS datetimesync 5 min / 
+
+------------
+
+Cafe on FXRS: 
+
+FXRS on Cafe: 

@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 12:00 PM FXRS 4/4/2016
+
+FXRS: meter registration / 
+
+Web Services: issues with creds / issues with pickup info / error 1000 auth failed / Test Creds / 
+
+Café: issues with scan gun / Ursa Expired / Rates missing / new software install CIC request / issues with new software install / Ship alert setup / Enable smartpost / URSA / COmms / tech ticket broken scale / issues with reports / 
+
+FXCT: LTL rating unavailable / Uninstall the FXCT / Rating unavailable error / 
+
+MISDIRECTS: to dot.com / to dot.com / Wrong que dot.com / Wrong Que Dot.com / needed fedex.com / 
+
+AHT Drivers: Café issues with reports 40 min / FXRS meter registration 25 min / Café Rates missing 22 min / 
+
+------------
+
+Cafe on FXRS: issues with creating shipment / URSA / 
+
+FXRS on Cafe: 

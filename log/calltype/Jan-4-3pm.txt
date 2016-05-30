@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 3:00 PM FXRS 1/4/2016
+
+FXRS: FXRS comms issue / rates and ursa / Intra Canada Rating issue / prior call / Services not responding / no rates / ursa and rates prior call / 
+
+Web Services: Check ESB for PU requests / needs prod creds but cant login / drc reg questions / 
+
+Café: Product key for CIC / No SP rates / EEI filing / comms and ursa / 
+
+FXCT: 
+
+MISDIRECTS: needs .com / 
+
+AHT Drivers: FXRS Services not responding 57 min / FXRS Intra Canada Rating issue 52 min / FXRS ursa and rates prior call 35 min / 
+
+------------
+
+Cafe on FXRS: 
+
+FXRS on Cafe: 

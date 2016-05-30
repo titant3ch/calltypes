@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 8:00 AM FXRS 11/27/2015
+
+FXRS: Line test / 
+
+Web Services: 
+
+Café: no rates demand downloaded / out of smartpost tracking numbers / 
+
+FXCT: 
+
+MISDIRECTS: 
+
+AHT Drivers: Café out of smartpost tracking numbers 20 min / Café no rates demand downloaded 15 min / FXRS Modify shipment 9 min / 
+
+------------
+
+Cafe on FXRS: Modify shipment / 
+
+FXRS on Cafe: 

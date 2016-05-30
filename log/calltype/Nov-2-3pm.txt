@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 3:00 PM FXRS 11/2/2015
+
+FXRS: smartpost setup / not able to start the software. / issues with URSA / issues with URSA / Disconnect / Escalation Callback / MRU failing / Batch Process Q&A / Comm Issues / 
+
+Web Services: signature file not found / register for production / cert request / register for production / 
+
+Café: new software install and FXI / issues with scale / writign as deleted 2912 / Quickbooks first time integration / trackign number / 
+
+FXCT: LTL Flat Rate / 
+
+MISDIRECTS: to dot.com / to customer service / Transfer to Dot Com / FR Cafe to FR CA Cust. Svc / 
+
+AHT Drivers: FXRS Fxia issues 121 min / FXRS Clean load 90 min / Café writign as deleted 2912 50 min / 
+
+------------
+
+Cafe on FXRS: FXI issue / no rates with smartpost / Clean load / forced upgrade / FXI issues requires CIC / Fxia issues / 
+
+FXRS on Cafe: 

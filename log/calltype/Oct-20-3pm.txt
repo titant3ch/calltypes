@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 3:00 PM FXRS 10/20/2015
+
+FXRS: 1109 wrong SCNC issue KB 15050 / issues with tracking numbers / new server isntall / 
+
+Web Services: registration / registration / Moving To Production Registration / Tracking Delay on API / 
+
+Café: Unable to edit FXIA / shipment notifications setup / new user shipment walk through / software update required to ship / Registration error cust comms issue / shipping engine service broken / issues with routing code and city / new install / International shipment assist / setup login for software / 
+
+FXCT: 
+
+MISDIRECTS: login but he will need drc later / needed fedex.com / Dot Com Transfer / to dot.com / Xfer to .COM / Integration Assistant Issues / 
+
+AHT Drivers: Café International shipment assist 55 min / Café issues with routing code and city 45 min / FXRS Tracking Delay on API 35 min / 
+
+------------
+
+Cafe on FXRS: issues with doc tab setup / new install of cafe/printer / host/client communication issues / International Shipping Label Quest. / 
+
+FXRS on Cafe: 

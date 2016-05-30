@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 9:00 AM FXRS 3/3/2016
+
+FXRS: hard drive space / Ship Manager service failing / 
+
+Web Services: 
+
+Café: cust disconnect / software installation request / printer install / 
+
+FXCT: 
+
+MISDIRECTS: 
+
+AHT Drivers: Café printer install 12 min / FXRS Ship Manager service failing 9 min / Café software installation request 5 min / 
+
+------------
+
+Cafe on FXRS: 
+
+FXRS on Cafe: 

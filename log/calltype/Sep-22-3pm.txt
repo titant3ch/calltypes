@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 3:00 PM FXRS 9/22/2015
+
+FXRS: installing on the domain / communtication / new server setup and tracking num / 
+
+Web Services: no rates for international / 
+
+Café: Ship info missing from Report / thermal printer issue / Intl shipping questions / Assisted w/Com Issue on FSM / astra ground and software req / no rates/ writing as deleted both / Assisted w/HAL Issue / upgrade / CIC needs key for software install / return label / Sender DB Edit / 
+
+FXCT: installing / new FXCT install / 
+
+MISDIRECTS: Transfer to DOTCOM / Transfer to DOTCOM / Transfer to DOTCOM / Transfer to Dot Com from server / Transfer to French CA Cust. Svc. / from Domestic to Int'l Cust. Svc. / from .com to .com / Transfer to Dot Com / needs .com / Transfer to DOTCOM / 
+
+AHT Drivers: Café no rates/ writing as deleted both 30 min / Café printer install 30 min / FXRS unable to start software 25 min / 
+
+------------
+
+Cafe on FXRS: unable to start software / ltl shipping/web services blocked / 
+
+FXRS on Cafe: 

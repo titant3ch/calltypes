@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 10:00 AM FXRS 1/7/2016
+
+FXRS: not transmitting to fedex / astra barcodes / Clean load. / Cust req SS esc w/o TS / 
+
+Web Services: register for production / WIS registration / Cert request / Enable AV on 20 meters / 
+
+Café: not getting list rates / 2914 upgrade issue / 
+
+FXCT: installing / 
+
+MISDIRECTS: dotcom / 
+
+AHT Drivers: FXRS Clean load. 120 min / FXRS Enable AV on 20 meters 25 min / FXRS installing 13 min / 
+
+------------
+
+Cafe on FXRS: 
+
+FXRS on Cafe: 

@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 8:00 AM FXRS 4/15/2016
+
+FXRS: PR shipping services / Large Database / issue with service type / comm down for web services / ScanGun Config / Adding Master Meter/Config Error / Reinstall required / Line test / 
+
+Web Services: issue with Korean postal code / WIS Certification / COD CA error / SmartPost ID / DRC Assist / Bad Address / Wait for the password / Test Creds / register for web services / 
+
+Café: LP2844 install / Group ship / export address book .csv / DB ltl freight / Add new account to FSM / Bad Account / Sender Setup / Ground Manifest / intl shipment to PR / Override Code / No Comms / help with DG 1421C form / New Install / New Install / Removal Request / 
+
+FXCT: database backup / Use package details / 
+
+MISDIRECTS: Cust. Svc. Transfer / dot com caller / .com / Cust Service / 
+
+AHT Drivers: FXRS COD CA error 62 min / FXRS comm down for web services 40 min / Café LP2844 install 30 min / 
+
+------------
+
+Cafe on FXRS: Running slow / Printer Install / Profile was not selected / 
+
+FXRS on Cafe: 

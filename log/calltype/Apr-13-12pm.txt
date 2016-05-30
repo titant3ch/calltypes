@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 12:00 PM FXRS 4/13/2016
+
+FXRS: URSA issues / 
+
+Web Services: Rates / Email notification / authentication failed / drc reg / customer disconnect bad connection / needed his key/pw answered questions / register for credentials / Credentials failing / DRC Reg Failure / LTL address mismatch / LTL payor type errors / printer tech ticket cic request / label issue / MPS / 
+
+Café: Tech ticket / EEI / Package Info Issue / Ship Alert Language / Call Dropped / label configuration / Account in bad standing / CIC asking for product key / Needed training on shipping INT MPS / Product key needed to register / cic requested tech ticket report printer / Custom label / Product Key / install zp 505 printer / 
+
+FXCT: Installing on new computer. / LTL Account / install / 
+
+MISDIRECTS: dot.com / needs .com / needs .com / Wrong que / Smartpost customer service / dot com caller / 
+
+AHT Drivers: FXRS Software not running 21 min / Café Custom label 21 min / FXRS fxia returns 15 min / 
+
+------------
+
+Cafe on FXRS: rates showing up as "0" / Commercial Invoice Reprint / TSR Request / Software not running / fxia returns / LTL Assist / Printer / CIC request- new cafe install / 
+
+FXRS on Cafe: 

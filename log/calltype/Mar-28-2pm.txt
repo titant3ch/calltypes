@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 2:00 PM FXRS 3/28/2016
+
+FXRS: tracking numbers / 1501 OS support DRC and KB mismatch / intl ship / 
+
+Web Services: 3P SW comm errors / Certification Request / 
+
+Café: Gnd COD setup / issues with email returns / issues with sender / add new account to software / issues with LTL shipment / Assisted CIC w/FXIA declared value / issues with LTL setup / lost call / Registration/com issue / Not able to register account / No communicating dial up send tech / Return a repaired product. / Assist w/FSM install / GCT issue / issues with new software install / 
+
+FXCT: Needed help with the accounts / 
+
+MISDIRECTS: The hard ware was on fedex.com meter / Transfer to Revenue Svcs / Dot.com agent try to transfer dot.com cu / 
+
+AHT Drivers: FXRS fsm corrupted and will not launch 90 min / Café Registration/com issue 24 min / FXRS The hard ware was on fedex.com meter 22 min / 
+
+------------
+
+Cafe on FXRS: issues with printer setup tech / fsm corrupted and will not launch / issues with LTL shipping / 
+
+FXRS on Cafe: 

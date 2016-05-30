@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 9:00 AM FXRS 12/30/2015
+
+FXRS: 
+
+Web Services: 
+
+Café: cafe2 / 
+
+FXCT: 
+
+MISDIRECTS: 
+
+AHT Drivers: FXRS cafe 5 min / Café cafe2 5 min / 
+
+------------
+
+Cafe on FXRS: cafe / 
+
+FXRS on Cafe: 

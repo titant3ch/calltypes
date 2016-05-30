@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 11:00 AM FXRS 5/24/2016
+
+FXRS: Enable 1D barcode in CHEERS / wanted to know Saturday hours / Troubleshoot transaction / 
+
+Web Services: certified for shipping request / Transaction assistance / not getting ground/home delivery rates / Duties and taxes / registered and didn't' get email pw / 
+
+Café: Customize forms / software download request / custom label certification / schedule ltl pickup / No communication when downloading / 
+
+FXCT: backup/restore tool onto new computer / Batch rates ltl / general rating question / 
+
+MISDIRECTS: transferred to fedex.com / misdirect to cust serv. / transferred to fedex.com / needs .com / transferred to fedex.com / 
+
+AHT Drivers: FXRS Batch rates ltl 33 min / FXRS Troubleshoot transaction 28 min / Café custom label certification 19 min / 
+
+------------
+
+Cafe on FXRS: Run FXI delta as admin / scale / bpu tech tix / issue with rates on cafe / eod / 
+
+FXRS on Cafe: 

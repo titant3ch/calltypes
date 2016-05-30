@@ -1,0 +1,29 @@
+Reported Calls for: May-13-2pm
+
+Agent, Computer Name, Duration of Call, LOB, Type, Message,
+dneal,ausrca0098,30  min,FXRS,FSMS,Reset communications
+chkelley,ausrca0055,24 min,FXRS,FSMS,no rates
+dneal,ausrca0098,20 min,Café,Café,FXIA profile setup
+mbarth,ausrca0058,20 min,FXRS,WIS,drc reg and acert
+wcrosby,ausrca0071,15 min,Café,Café,-i integration
+chkelley,ausrca0055,15 min,FXRS,FSMS,URSA not implementing
+macampbell,ausrcwa049,13 min,Café,Café,Print return walkthru
+wcrosby,ausrca0071,12 min,FXRS,WIS,wis consultation
+chkelley,ausrca0055,12 min,Café,Café,product key
+chkelley,ausrca0055,12 min,FXRS,WIS,printer install
+wcrosby,ausrca0071,10 min,FXRS,FXCT,ltl freight  processing
+mbarth,ausrca0058,10 min,FXRS,FSMS,tls error line 5
+mbarth,ausrca0058,10 min,FXRS,Café,printer dump
+wcrosby,ausrca0071,10 min,FXRS,Café,broken printer
+chkelley,ausrca0055,10 min,FXRS,FSMS,15.03 file transfer
+macampbell,ausrcwa049,10 min,FXRS,FSMS,Help with intl shipment
+macampbell,ausrcwa049,8 min,FXRS,WIS,Error 1000
+chkelley,ausrca0055,8 min,FXRS,FSMS,international shipment
+chkelley,ausrca0055,7 min,FXRS,WIS,wis registration
+chkelley,ausrca0055,5 min,FXRS,FXCT,new install
+chkelley,ausrca0055,5 min,FXRS,WIS,cert request
+chkelley,ausrca0055,5 min,FXRS,WIS,wis rating issue
+chkelley,ausrca0055,3 min,Café,FSMS,no rates
+chkelley,ausrca0055,3 min,FXRS,WIS,running a close
+macampbell,ausrcwa049,3 min,FXRS,Misdirect,transferred to domestic
+chkelley,ausrca0055,3 min,FXRS,WIS,WIS credentials

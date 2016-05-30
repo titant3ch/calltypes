@@ -1,0 +1,25 @@
+Reported Calls for: Mar-4-6pm
+
+Agent, Computer Name, Duration of Call, LOB, Type, Message,
+aljohnson,ausrca0057,60 min,FXRS,FSMS,communication/mru
+sroberts,ausrca0074,27 min,Café,Café,FSM Printer Issue/Resolved
+rhagemann,ausrca0054,25 min,FXRS,WIS,SSL Certificate Expired
+sseals,ausrca0060a,20 min,FXRS,FSMS,Admin Service is down. Restarted
+sseals,ausrca0060a,20 min,FXRS,WIS,FXCT Dimension Import
+aljohnson,ausrca0057,18 min,Café,Café,update fsm
+rhagemann,ausrca0054,17 min,FXRS,FSMS,URSA
+rhagemann,ausrca0054,17 min,FXRS,WIS,Issues with service type availability
+sseals,ausrca0060a,15 min,FXRS,FSMS,URSA Expired
+aljohnson,ausrca0057,15 min,FXRS,FSMS,HUF
+rhagemann,ausrca0054,15 min,FXRS,WIS,Disconnected after unable to provide inf
+rhagemann,ausrca0054,13 min,FXRS,WIS,CSP needing email for Cert
+mbarth,ausrca0058,10 min,FXRS,WIS,drc fucntion test
+mbarth,ausrca0058,10 min,FXRS,WIS,wrong key
+sseals,ausrca0060a,10 min,FXRS,FSMS,Disable 1D On Meter
+rhagemann,ausrca0054,8 min,FXRS,WIS,Test Creds and Server Info
+rhagemann,ausrca0054,6 min,FXRS,FSMS,Reset Comms
+sroberts,ausrca0074,4 min,Café,Misdirect,Dot Com Transfer
+rhagemann,ausrca0054,3 min,FXRS,Misdirect,Dotcom transfer
+rhagemann,ausrca0054,3 min,FXRS,Misdirect,To Dotcom
+sseals,ausrca0060a,1 min,FXRS,Misdirect,.com Transfer
+sseals,ausrca0060a,1 min,FXRS,Misdirect,Domestic Transfer

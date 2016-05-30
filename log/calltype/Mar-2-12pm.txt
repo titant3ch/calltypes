@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 12:00 PM FXRS 3/2/2016
+
+FXRS: tempfolder / CSP needs product key for FXRS / 
+
+Web Services: dcr reg / needs drc reg / DRC / Communication errors customer-end / 
+
+Café: Issue w/ CI / 
+
+FXCT: city/state not showing up with zip code / 
+
+MISDIRECTS: .com / needs .comorshipper / needed fedex.com / 
+
+AHT Drivers: FXRS FXIA ODBC setup 19 min / FXRS Communication errors customer-end 16 min / FXRS needs drc reg 15 min / 
+
+------------
+
+Cafe on FXRS: reset scale / FXIA ODBC setup / 
+
+FXRS on Cafe: 

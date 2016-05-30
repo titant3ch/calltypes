@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 12:00 PM FXRS 3/7/2016
+
+FXRS: Admin service not functioning properly / prior call / PK for 1109 installation / System specks for 1400 / TLS update letter CAFE user / issues with error server.ini missing / 
+
+Web Services: general rating questions / general rating questions / general rating questions / Test credentials / AE inquiring about WIS Sunday hrs / TLS Update / WIS Cust / WIS Password / Advised to check email / SP Rates not uploaded / Trying to find tracking info / error 1000 informed not enabled for ship / Fedex Quick Form / Disconnect / New Creds / Authentication failed / Test Creds / Smartpost HubID incorrect / 
+
+Café: Permission failed on main system / return shipment / empty / software request / Software will not upgrade / 
+
+FXCT: 
+
+MISDIRECTS: Package pickup / Customer Service Transfer / 
+
+AHT Drivers: Café Permission failed on main system 94 min / FXRS fxi repair and transfer to tis 45 min / FXRS Admin service not functioning properly 36 min / 
+
+------------
+
+Cafe on FXRS: fxi repair and transfer to tis / 
+
+FXRS on Cafe: 

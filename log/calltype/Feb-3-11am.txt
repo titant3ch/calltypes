@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 11:00 AM FXRS 2/3/2016
+
+FXRS: smartpost / install requirements / cic wants to know things / intl rates / FSMS not printing to correct print / Outdated Rates / ursa and comms / 
+
+Web Services: disconenct and prior call / password / error 1000 / Tech Ticket for Printer / Authentication Failed. / WIS Certification Request / 
+
+Café: Software Upgrade Assistance / 
+
+FXCT: FXCT Install Failed (Cash Status) / 
+
+MISDIRECTS: Fedex.com Transfer / 
+
+AHT Drivers: FXRS FSMS not printing to correct print 82m min / Café Software Upgrade Assistance 28 min / FXRS Outdated Rates 25 min / 
+
+------------
+
+Cafe on FXRS: Cannot Find Shipments in History / 
+
+FXRS on Cafe: 

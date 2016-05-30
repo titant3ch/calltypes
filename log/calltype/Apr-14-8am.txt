@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 8:00 AM FXRS 4/14/2016
+
+FXRS: enable FDX 1D barcode / Bad .jar.jar / Line test / line test / 
+
+Web Services: web services register for credentials / Authentication failed / 
+
+Café: FXIA / ODBC Connection / Line Test / 
+
+FXCT: FXCT Code / 
+
+MISDIRECTS: 
+
+AHT Drivers: FXRS enable FDX 1D barcode 30 min / FXRS web services register for credentials 21 min / Café FXIA / ODBC Connection 11 min / 
+
+------------
+
+Cafe on FXRS: 
+
+FXRS on Cafe: 

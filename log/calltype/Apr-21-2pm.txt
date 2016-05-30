@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 2:00 PM FXRS 4/21/2016
+
+FXRS: EPDI / disable 1D barcode  fro express / cancelling a shipment / Configured account for master meter / Commercial Invoice issue  (header) / add a new meter number / 
+
+Web Services: troubleshoot lp 2844 / Assisted w/Rate Request/MPS Issues / wis registration / WIS Cert / 
+
+Café: no comms / international shipment walkthrough / 
+
+FXCT: Rate quote ( consignee) / Assisted w/Backup/Restore of FXCT / Install on a new system / Product code to CIC / 
+
+MISDIRECTS: 
+
+AHT Drivers: FXRS troubleshoot lp 2844 46 min / FXRS WIS Cert 34 min / FXRS Modify software 24 min / 
+
+------------
+
+Cafe on FXRS: change communication settings / new install /cic work request / FSM Won't launch / Wants CIC to install software / No communication / Modify software / 
+
+FXRS on Cafe: client not opening / 

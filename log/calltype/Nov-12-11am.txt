@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 11:00 AM FXRS 11/12/2015
+
+FXRS: 
+
+Web Services: 
+
+Café: Line test / Sent link and production code / Check all accts on Cafe system / 
+
+FXCT: set up SP / 
+
+MISDIRECTS: 
+
+AHT Drivers: FXRS set up SP 12 min / FXRS Restart FXI 11 min / Café Sent link and production code 10 min / 
+
+------------
+
+Cafe on FXRS: Restart FXI / 
+
+FXRS on Cafe: 

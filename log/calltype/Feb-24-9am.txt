@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 9:00 AM FXRS 2/24/2016
+
+FXRS: Line test. / 
+
+Web Services: not hitting / 
+
+Café: printer / Line test / 
+
+FXCT: registration / 
+
+MISDIRECTS: Transfer to CS / 
+
+AHT Drivers: FXRS Cleanload 86 min / FXRS registration 15 min / FXRS Transfer to CS 6 min / 
+
+------------
+
+Cafe on FXRS: Cleanload / 
+
+FXRS on Cafe: 

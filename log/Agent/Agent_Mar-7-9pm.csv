@@ -1,0 +1,15 @@
+Reported Calls for: Mar-7-9pm
+
+Agent, Computer Name, Duration of Call, LOB, Type, Message,
+rhagemann,ausrca0054,22 min,FXRS,WIS,Test Creds
+rhagemann,ausrca0054,20 min,FXRS,FSMS,Comm Issue / Port Blocked
+rhagemann,ausrca0054,20 min,FXRS,WIS,Authentication Fail / Cert Request
+rhagemann,ausrca0054,19 min,FXRS,FSMS,TLS Update
+rmcneil,ausrcwa059,13 min,FXRS,FSMS,commercial invoice flag setting
+rmcneil,ausrcwa059,11 min,FXRS,FSMS,Hourly upload question
+rmcneil,ausrcwa059,4.3 min,FXRS,FSMS,Need to move out of test mode
+rmcneil,ausrcwa059,2.5 min,FXRS,WIS,No log in
+rhagemann,ausrca0054,2 min,FXRS,Misdirect,Dotcom
+rhagemann,ausrca0054,2 min,FXRS,Misdirect,Dotcom
+rhagemann,ausrca0054,2 min,FXRS,WIS,Finding Credential Email
+rmcneil,ausrcwa059,1 min,FXRS,WIS,Client hung up

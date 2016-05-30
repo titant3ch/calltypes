@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 3:00 PM FXRS 4/12/2016
+
+FXRS: EOD not printing HazMat ppwrk / reports / URSA implementation ( manual kb 14659 ) / comms uplaods / 1501 Commercial Invoice / Wanted hours for Saturday / Time frame for Friday / rates / 
+
+Web Services: Creds Registration / WS credentials registraiton / drc / Need certification. / Certification process / 
+
+Café: Product code / Labels not scanning. URSA repair / Rates Repair / 
+
+FXCT: no smartpost / Configure Assist / 
+
+MISDIRECTS: 
+
+AHT Drivers: FXRS 1501 Commercial Invoice 30 min / Café Labels not scanning. URSA repair 25 min / FXRS EOD not printing HazMat ppwrk 20 min / 
+
+------------
+
+Cafe on FXRS: comms / 
+
+FXRS on Cafe: 

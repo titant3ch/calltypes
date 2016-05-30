@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 12:00 PM FXRS 1/20/2016
+
+FXRS: uninstall of 10xx server / issues with URSA and CIC / needs install file / Disable 1D Barcodes / SP rating issue.  Rates not loaded. / Caller needs creds cannot login / rates not downloaded. / 
+
+Web Services: smart post rate error / register for credentials / issues with smartpost endorsement / general questions / authenication failure 1000 / printer ticket / new creds and LTL questions / issues with quickbooks setup / 
+
+Café: mps / software req / scale tech tix / 
+
+FXCT: reinstall walk through / general questions / added ltl accounts to fxct / 
+
+MISDIRECTS: dot com caller / to dot.com / dot com caller / to customer service / to customer service / 
+
+AHT Drivers: FXRS SP rating issue.  Rates not loaded. 44 min / FXRS new creds and LTL questions 18 min / FXRS issues with smartpost endorsement 17 min / 
+
+------------
+
+Cafe on FXRS: to dot.com / 
+
+FXRS on Cafe: 

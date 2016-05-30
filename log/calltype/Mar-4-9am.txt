@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 9:00 AM FXRS 3/4/2016
+
+FXRS: new install / 
+
+Web Services: 
+
+Café: ursa / 
+
+FXCT: fxct new account / 
+
+MISDIRECTS: 
+
+AHT Drivers: FXRS fxct new account 10 min / Café ursa 7 min / FXRS new install 7 min / 
+
+------------
+
+Cafe on FXRS: 
+
+FXRS on Cafe: 

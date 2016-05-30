@@ -1,0 +1,17 @@
+Reported Calls for: Mar-8-8am
+
+Agent, Computer Name, Duration of Call, LOB, Type, Message,
+dsims,ausrca0062,20 min,FXRS,Café,OP900LL will not print
+sseals,ausrca0060a,15 min,Café,Café,Software Validation
+rmcneil,ausrcwa059,14 min,FXRS,FSMS,Event log errors.
+dneal,ausrca0098,10 min,FXRS,FSMS,Previous case status
+dneal,ausrca0098,10 min,Café,Café,Failed upgrade
+aljohnson,ausrca0057,9 min,FXRS,FSMS,hub id issue
+rmcneil,ausrcwa059,7.5 min,FXRS,WIS,Certification start
+mbarth,ausrca0058,7 min,FXRS,WIS,cert
+jpinion,ausrca0056,7 min,FXRS,FSMS,account number not configured
+dsims,ausrca0062,6 min,FXRS,FSMS,Printer heads need to be replaced.
+mbarth,ausrca0058,5 min,FXRS,FXCT,install
+aljohnson,ausrca0057,3 min,FXRS,WIS,credentials..
+mbarth,ausrca0058,2 min,FXRS,Misdirect,misdirect to cust serv
+rmcneil,ausrcwa059,.19 min,FXRS,FSMS,Line test

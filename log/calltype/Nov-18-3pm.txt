@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 3:00 PM FXRS 11/18/2015
+
+FXRS: issues with comms / mru / 
+
+Web Services: certification for web services. / register for test/production creds / 
+
+Café: issues with BPU setup tech / 
+
+FXCT: 
+
+MISDIRECTS: misdirect to dot com / to customer service / transferred to cust serv. / needs cust srv / needs .com / to dot.com / 
+
+AHT Drivers: FXRS register for test/production creds 37 min / FXRS windows installer window 26 min / FXRS issues with comms 23 min / 
+
+------------
+
+Cafe on FXRS: software download request. / cic wants escalation / windows installer window / 
+
+FXRS on Cafe: 

@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 8:00 AM FXRS 12/21/2015
+
+FXRS: Files not transmitting / 
+
+Web Services: 
+
+Café: Line test / 
+
+FXCT: 
+
+MISDIRECTS: dotcom / 
+
+AHT Drivers: FXRS Files not transmitting 8 min / FXRS dotcom 3 min / Café Line test .20 min / 
+
+------------
+
+Cafe on FXRS: 
+
+FXRS on Cafe: 

@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 2:00 PM FXRS 4/22/2016
+
+FXRS: Future tracking # range is blank / IATA Table Issue / cert request / 
+
+Web Services: Rate Write Back / Need to talk to the CSP / Cust. used Prod. creds in Test / 
+
+Café: International to Singapore / add a new account number to the software / Create custom EOD report / TaxID # / new install / empty line / printing reports / Wrong drivers / ground call tag / override pref / software registration / 
+
+FXCT: LTL Unable to do inbound / Incorrect Rates / 
+
+MISDIRECTS: Domestic / Dotcom / transferred to fedex.com support / cs / 
+
+AHT Drivers: FXRS IATA Table Issue 51 min / Café Wrong drivers 27 min / Café new install 20 min / 
+
+------------
+
+Cafe on FXRS: 
+
+FXRS on Cafe: 

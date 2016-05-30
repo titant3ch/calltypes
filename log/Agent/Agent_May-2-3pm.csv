@@ -1,0 +1,26 @@
+Agent, Computer Name, Duration of Call, LOB, Type, Message
+dneal,ausrca0098,42 min,Café,Café,Printer issues Upgrade cafe
+mbarth,ausrca0058,30 min,FXRS,WIS,drc cert req
+rhagemann,ausrca0054,20 min,Café,Café,Postal Code Issues
+rhagemann,ausrca0054,20 min,Café,Café,BOL Email
+cdriskell,ausrca0064,19 min,FXRS,FSMS,ETN range inquiry
+dneal,ausrca0098,17 min,FXRS,WIS,DRC registration
+ahendon,ausrca0069,13 min,FXRS,WIS,Inactive account 24 hours
+ahendon,ausrca0069,12 min,FXRS,WIS,integration documentation
+macampbell,ausrcwa049,12 min,FXRS,Café,Email returns not being sent out
+mbarth,ausrca0058,10 min,FXRS,WIS,meter deletion req
+mbarth,ausrca0058,10 min,FXRS,Café,ltl CA
+wcrosby,ausrca0071,10 min,FXRS,FXCT,cust need to update ltl  acct address
+rhagemann,ausrca0054,8.5 min,FXRS,WIS,Test Creds
+sroberts,ausrca0074,7 min,Café,Café,Assisted w/product code request
+rhagemann,ausrca0054,7 min,FXRS,WIS,Test Creds
+rhagemann,ausrca0054,6.5 min,Café,Café,Sender Postal Code
+cdriskell,ausrca0064,6 min,FXRS,WIS,Error 1000 auth failed
+rmcneil,ausrcwa059,5.2 min,FXRS,WIS,Try to use LTL account
+mbarth,ausrca0058,5 min,FXRS,FSMS,mru
+cdriskell,ausrca0064,4 min,Café,Café,needed Cafe Beta
+rhagemann,ausrca0054,4 min,FXRS,WIS,Configure 3rd Party
+rhagemann,ausrca0054,4 min,FXRS,WIS,StarShip
+macampbell,ausrcwa049,2 min,Café,Misdirect,transferred to domestic
+rhagemann,ausrca0054,1 min,FXRS,Misdirect,Empty Line
+rhagemann,ausrca0054,.5 min,FXRS,FSMS,Hours of support

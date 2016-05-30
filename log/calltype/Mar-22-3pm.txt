@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 3:00 PM FXRS 3/22/2016
+
+FXRS: disable 1d / Needed to look at rates sent / Looking for TRK / ConnectShip / Billing Inquiry / 1D Disablement 1404 / Unable to Disable / 
+
+Web Services: Transaction went through / ltl 3rd party / new cert request / Confirm the data went to production / Intl Ground / Ground just enabled / issues with creds / track / issues with test creds / registration for web services / wis consult /call dropped / 3rd party billing on intl shipments / Certification / issues with service type / 
+
+Café: International mps / issues with incorrect key / issues with scale setup / Customize report / Change address in the software / scale tech tix / issues with hazmat table / issues with printer setup / Report assist / Service Type / Invalid Ship Date / Smartpost / New Install / Validation / Successful / ltl / Assist w/Upgrade ?s / FSM won't install / Get IT / Override Prefs, Configuration assist / Turn on return / 
+
+FXCT: questions about multi weight / issues with install / 
+
+MISDIRECTS: to dot.com / to dot.com / Quickform download / Dot Com Transfer / Dot Com Transfer / Dotcom Transfer / 
+
+AHT Drivers: FXRS issues with test creds 23 min / FXRS issues with install 23 min / FXRS 3rd party billing on intl shipments 20 min / 
+
+------------
+
+Cafe on FXRS: Non-comm meter / Shipmanager not responding / Deleted unshipped pkgs / Cust request CIC Install / 
+
+FXRS on Cafe: 

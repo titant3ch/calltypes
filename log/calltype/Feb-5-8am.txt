@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 8:00 AM FXRS 2/5/2016
+
+FXRS: Line Test / Server Health Check / ursa / 
+
+Web Services: drc reg / 
+
+Café: No Rates, ZP505 does not print / Line test / Transfer to TIS / 
+
+FXCT: 
+
+MISDIRECTS: Fedex.com Transfer / Fedex.com Transfer / 
+
+AHT Drivers: Café No Rates, ZP505 does not print 28 min / FXRS Server Health Check 10 min / FXRS ursa 10 min / 
+
+------------
+
+Cafe on FXRS: 
+
+FXRS on Cafe: 

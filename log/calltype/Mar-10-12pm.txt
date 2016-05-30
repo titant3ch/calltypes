@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 12:00 PM FXRS 3/10/2016
+
+FXRS: Tech request / credentials / Mcafee, shipmanger and rates / meter registration / acct validation / credentials / HUFolder Not Transmitting / duplicated tracking range from 2011 / Certification for labels / 
+
+Web Services: Registering failed / Label certification / Wants reports. / Unable to find PR / AE Notification / Xfer to .COM / Xfer to .COM / WIS/fedex.com outage / WIS/fedex.com outage / WIS/fedex.com outage / empty line / WIS/fedex.com outage / WIS/fedex.com outage / WIS/fedex.com outage / WIS/fedex.com outage / WIS/fedex.com outage / WIS/fedex.com outage / WIS/fedex.com outage / WIS/fedex.com outage / 
+
+Café: Scale issue / Writing as deleted / download request / Getting error downloading software / FXI field mapping / adding sender / FSM Install - Validation / Unknown error with ETD / FXI INTERGRATION - NOT PULLING INFO / FXIA teaching opportunity / Great rates quote on software / customize forms / Icon Disappeared / 
+
+FXCT: INSTALL CODE NEEDED / FXCT reinstall / 
+
+MISDIRECTS: Cold transfer / customer service call / Insight issue / Package tracking / dot.com / Dot.com / dot.com / needed fedex.com / Website is down / Website is down / Website is down / Fedex.com outage / fedex.com outage / Dot.com / Customer needs to track a package / Puerto Rico Cust / Dot.com / dot.com / Dotcom Login / Empty Line / Dotcom Login / Dotcom Login / Dotcom Login / Dotcom Login / Dotcom Login / Dotcom Login / Dotcom Login / Dotcom Login / dot.com / Dotcom / dot.com / dot.com / Dot.com / dot.com / 
+
+AHT Drivers: Café FXIA teaching opportunity 58 min / Café Writing as deleted 55 min / Café FXI failed upgrade 30 min / 
+
+------------
+
+Cafe on FXRS: No sender id / system configuration / FXI error / Needs new software / Software request / WIS/fedex.com outage / Client configuration / 
+
+FXRS on Cafe: FXI failed upgrade / 

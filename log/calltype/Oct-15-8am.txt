@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 8:00 AM FXRS 10/15/2015
+
+FXRS: not able to do EOD close / Failed update 1308 / product key 1063 / 
+
+Web Services: 
+
+Café: Printer reset / configure commercial invoice / 
+
+FXCT: 
+
+MISDIRECTS: dotcom / 
+
+AHT Drivers: FXRS not able to do EOD close 10 min / Café configure commercial invoice 10 min / Café Printer reset 7 min / 
+
+------------
+
+Cafe on FXRS: trying to get 2807 software / 
+
+FXRS on Cafe: 

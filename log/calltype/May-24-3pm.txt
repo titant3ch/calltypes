@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 3:00 PM FXRS 5/24/2016
+
+FXRS: Custom Label / Enable Astra labels / 
+
+Web Services: Get production credentials / Get production credentials / Free Shipping / SmartPost Rating / SP Rates Unavaliable / 
+
+Café: Validation / clean load required / Assisted w/Forced Upgrade Issues / Upgrade Prompt on 2916 / DL Rates / OP 900s not printing / Install Assist / Update current sender / Label Issue / Upgrade to 2916 / 
+
+FXCT: 
+
+MISDIRECTS: transferred to fedex.com / Cust. Svc. Transfer / transferred to fedex.com / 
+
+AHT Drivers: Café clean load required 58 min / Café Label Issue / Upgrade to 2916 34 min / FXRS Enable Astra labels 33 min / 
+
+------------
+
+Cafe on FXRS: Client Config / 
+
+FXRS on Cafe: 

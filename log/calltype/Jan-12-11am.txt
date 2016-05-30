@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 11:00 AM FXRS 1/12/2016
+
+FXRS: SHA-2 update questions / issues with tracking numbers / error bad account number / clean load to 1405 / 
+
+Web Services: sha-256 question / 
+
+Café: 
+
+FXCT: issues with batch / rate qoute into the FSM / 
+
+MISDIRECTS: revenue service call / needs dg dept / customer service / 
+
+AHT Drivers: FXRS clean load to 1405 103 min / FXRS error bad account number 40 min / FXRS issues with tracking numbers 18 min / 
+
+------------
+
+Cafe on FXRS: scale / 
+
+FXRS on Cafe: 

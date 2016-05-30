@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 11:00 AM FXRS 12/24/2015
+
+FXRS: services not starting / 
+
+Web Services: 
+
+Café: 
+
+FXCT: issue with batch rating / 
+
+MISDIRECTS: dot com caller / 
+
+AHT Drivers: FXRS services not starting 25 min / FXRS FXI transfer to TIS 12 min / FXRS issue with batch rating 7 min / 
+
+------------
+
+Cafe on FXRS: FXI transfer to TIS / 
+
+FXRS on Cafe: 

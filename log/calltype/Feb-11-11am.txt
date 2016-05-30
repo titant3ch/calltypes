@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 11:00 AM FXRS 2/11/2016
+
+FXRS: admin svc crashes at reconcile / 
+
+Web Services: Wanted meter and authen emailed / Rating Error / Rating Error / Registering Prod WIS on Test / WIS Consultation / No Smartpost In Customer Frontend / get credentials / Transacton validation / test trasnaction validation / 
+
+Café: shipping profiles / TSR request for scale replacement / Adding LTL 3rd Party Acct / Scale Replacement Request / Printer Replacement Request / 
+
+FXCT: configuration / 
+
+MISDIRECTS: Fedex.com Transfer / customer needed to add a new accoun / 
+
+AHT Drivers: Café ship manager install 70 min / FXRS admin svc crashes at reconcile 45 min / FXRS Rating Error 22 min / 
+
+------------
+
+Cafe on FXRS: 
+
+FXRS on Cafe: ship manager install / 

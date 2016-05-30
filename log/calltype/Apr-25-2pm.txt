@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 2:00 PM FXRS 4/25/2016
+
+FXRS: Not able to track MPS / South Korea invalid service / Ground is not configured on account / 
+
+Web Services: basic questions / drc rates / register production creds / tech ticket bad ZM400 / needs wait 24 hrs for gnd / Answered Web Svcs ?s / Need to check the rating settings / invalid svc type / DRC Registration / 
+
+Café: tech tix printer / Cleanload to remove bad master meter / Reset history purge times / Comms Issues / Client IP / Tracking Range / Writing to Shipping List as Deleted / Printer Setup / 
+
+FXCT: setup smartpost / cic requesting fxct product key / 
+
+MISDIRECTS: needs .com / needs cust serv / NLU Misroute / needs csp / 
+
+AHT Drivers: FXRS South Korea invalid service 95 min / Café Cleanload to remove bad master meter 78 min / FXRS Not able to track MPS 45 min / 
+
+------------
+
+Cafe on FXRS: cust fixed issue / intl DG mps shipment walk thru / Product Key Request / intl dg from CA to MX on a mac / software req / rates mismatch  .com to the fsm / cic comms / master client / ip address network client / Wanted a tech to setup integration / 
+
+FXRS on Cafe: 

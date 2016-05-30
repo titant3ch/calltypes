@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 3:00 PM FXRS 3/9/2016
+
+FXRS: csp questions / mru and config / Account not valid / MRU Failure / FXRS ETD Issue / data not uploading / drc / Transmission issue / 
+
+Web Services: hardware tech tix printer / CSP software issues / Tracking / Line Dropped / 
+
+Café: International / International / Province Issue / Agent disconnect / Assist w/Brazil EIN issue / LTL 3P shipping assist / Modify Software / ShipAlerts not arriving / 
+
+FXCT: 
+
+MISDIRECTS: Transfer to Dot Com / 
+
+AHT Drivers: Café Modify Software 48 min / FXRS FXRS ETD Issue 26 min / FXRS Transmission issue 24 min / 
+
+------------
+
+Cafe on FXRS: Need to install a client system / 
+
+FXRS on Cafe: hardware tech tix printer / 

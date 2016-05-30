@@ -1,0 +1,23 @@
+DirectoryIndex index.php
+
+ # Allow acces without using .php
+RewriteEngine On
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^([^\.]+)$ $1.php [NC,L]
+
+ # ALLOW USER BY IP
+<Files "view.php">
+require all denied
+#Christian
+require ip 192.168.88.122
+#Hope
+require ip 192.168.88.74
+#Suat
+require ip 192.168.88.80
+#Janna
+require ip 192.168.88.209
+#Jeff
+require ip 192.168.89.86
+#Charles
+require ip 192.168.89.211
+</Files>

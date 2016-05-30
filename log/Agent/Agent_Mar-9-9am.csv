@@ -1,0 +1,49 @@
+Reported Calls for: Mar-9-9am
+
+Agent, Computer Name, Duration of Call, LOB, Type, Message,
+dneal,ausrca0098,46 min,FXRS,FSMS,Meter registration errors
+rhagemann,ausrca0054,45 min,Café,Café,Network Printer
+rmcneil,ausrcwa059,38 min,FXRS,FXCT,Install
+rhagemann,ausrca0054,35 min,FXRS,WIS,Transaction Spec / Rate Issue
+dneal,ausrca0098,28 min,FXRS,FSMS,Expired URSA
+rmcneil,ausrcwa059,24 min,FXRS,Café,database corrupt
+rhagemann,ausrca0054,20 min,Café,Café,Ship Alert Settings
+aljohnson,ausrca0057,20 min,FXRS,FSMS,credentials
+mbarth,ausrca0058,16 min,FXRS,Café,comms
+rhagemann,ausrca0054,15 min,FXRS,WIS,Account Details
+rmcneil,ausrcwa059,12 min,FXRS,FSMS,EPDI not communicating
+ianderson,ausrca0050,11 min,FXRS,FXCT,add ltl and express account
+rmcneil,ausrcwa059,11 min,Café,Café,web form.
+dneal,ausrca0098,11 min,FXRS,FSMS,Configuration assistance
+sseals,ausrca0060a,10 min,FXRS,WIS,WIS Consultation
+sseals,ausrca0060a,10 min,FXRS,WIS,Incorrect Rates
+ianderson,ausrca0050,10 min,FXRS,WIS,error 1000 authentication failure
+mbarth,ausrca0058,10 min,FXRS,WIS,cert and auth failed
+rhagemann,ausrca0054,10 min,FXRS,FSMS,EPDI/ HUF Upload
+rhagemann,ausrca0054,10 min,Café,Café,Validation for CAFE
+mbarth,ausrca0058,10 min,FXRS,WIS,etd in test
+rmanley,ausrca0070,9 min,FXRS,WIS,credentials
+dneal,ausrca0098,9 min,FXRS,WIS,Fxct installation
+aljohnson,ausrca0057,8 min,Café,Café,add update
+rmcneil,ausrcwa059,7.2 min,FXRS,WIS,Failed smartpost rates
+aljohnson,ausrca0057,7 min,FXRS,FSMS,credentials
+rmanley,ausrca0070,6 min,FXRS,Misdirect,needed dotcom
+dneal,ausrca0098,6 min,Café,Café,Scale issues
+aljohnson,ausrca0057,5 min,Café,Café,printer configuration
+rhagemann,ausrca0054,5 min,Café,Café,Rates
+rhagemann,ausrca0054,5 min,FXRS,FSMS,Bad Account / Failed Resgistration
+dneal,ausrca0098,5 min,FXRS,WIS,CSP software issue
+dneal,ausrca0098,5 min,FXRS,WIS,Transaction errors
+mbarth,ausrca0058,5 min,FXRS,Café,shipping list
+mbarth,ausrca0058,5 min,FXRS,Café,cafe PU
+aljohnson,ausrca0057,4.4 min,FXRS,FSMS,.net upgrade..
+dneal,ausrca0098,4 min,Café,Café,Software request
+rmcneil,ausrcwa059,3 min,FXRS,Misdirect,Wrong que
+rmcneil,ausrcwa059,3 min,FXRS,WIS,Information about production key
+rmcneil,ausrcwa059,3 min,FXRS,Misdirect,Schedule a return pickup
+rhagemann,ausrca0054,3 min,Café,Café,Override Preds
+rhagemann,ausrca0054,3 min,Café,Café,Delete Shipment
+aljohnson,ausrca0057,2.5 min,Café,Café,int'l shipment
+rmcneil,ausrcwa059,2.4 min,FXRS,WIS,Find created shipment
+aljohnson,ausrca0057,2.1 min,FXRS,FSMS,credentials
+rmcneil,ausrcwa059,2 min,Café,Misdirect,dot.com

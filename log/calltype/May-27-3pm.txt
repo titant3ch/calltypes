@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 3:00 PM FXRS 5/27/2016
+
+FXRS: invalid etd file / expired ursa / 
+
+Web Services: sat delivery option / general questions wis / Certification status inquiry / Answered LTL Question / cust  unable to select  delivery date / Issues printing labels / Submitted Consult Request / wis registration / 
+
+Café: Return Report / Printer Install / W10 / Assisted w/FXI batch issue / intl freight shipment walk thru / Cust Hung Up / Document Reprint / Windows will not launch on Hardware / tech for scale / EOD is freezing / 
+
+FXCT: Cust Hung Up / Install fxct / FXCT questions, walkthru / 
+
+MISDIRECTS: transferred to fedex.com / 
+
+AHT Drivers: FXRS invalid etd file 30 min / FXRS expired ursa 15 min / FXRS Submitted Consult Request 14 min / 
+
+------------
+
+Cafe on FXRS: 
+
+FXRS on Cafe: 

@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 12:00 PM FXRS 5/17/2016
+
+FXRS: won't download rates comm issue / change communication level / disconnect / 
+
+Web Services: lookup trans / Certification Inquiry / issues with rates matching dot com / questions about sig type / new cert request / 
+
+Café: fxia import/export setup / clean load clean load clean load / EOD transmission file error / international returns / disconnect / 
+
+FXCT: rate mismatch with fedex.com / issues with install / 
+
+MISDIRECTS: transferred to domestic / 
+
+AHT Drivers: Café clean load clean load clean load 64 min / Café fxia import/export setup 38 min / Café EOD transmission file error 35 min / 
+
+------------
+
+Cafe on FXRS: 
+
+FXRS on Cafe: 

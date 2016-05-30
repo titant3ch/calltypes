@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 3:00 PM FXRS 11/19/2015
+
+FXRS: FXRS install call / misdirect / seeking install file for v1301 / Caller transit time is invalid / Rating table exception / No rates for Exp/Gnd / Duplicate SP DC#s / Expired rates tables / Request for new FSMS install / 
+
+Web Services: MODIFIED_TO_ACHIEVE_MATCH / Authentication Failed / setup for web services no account / billing address does not match / services type / 
+
+Café: FSM upgrade / label reprint / Assisted w/barcode issue / Running Report on FSM. / 2844 install / Alt sender issue / hazmat / URSA expired / 
+
+FXCT: installing / 
+
+MISDIRECTS: caller asking about front end / needed Rev Svcs / needed fedex.com / 
+
+AHT Drivers: FXRS Caller transit time is invalid 60 min / FXRS Import AB & template setup 40 min / Café FSM upgrade 35 min / 
+
+------------
+
+Cafe on FXRS: Import AB & template setup / 
+
+FXRS on Cafe: 

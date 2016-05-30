@@ -1,0 +1,19 @@
+Reported Calls for: Mar-23-8am
+
+Agent, Computer Name, Duration of Call, LOB, Type, Message,
+rhagemann,ausrca0054,65 min,FXRS,FSMS,URSA not downloading / implementing
+rmcneil,ausrcwa059,20 min,Café,Café,International shipment to AR
+rmcneil,ausrcwa059,15 min,FXRS,WIS,Not able to get LTL rates
+rhagemann,ausrca0054,15 min,FXRS,WIS,Test Creds
+rmcneil,ausrcwa059,11 min,FXRS,Café,Not exporting to the ODBC
+wcrosby,ausrca0071,10 min,FXRS,FSMS,cleanload
+wcrosby,ausrca0071,10 min,FXRS,FSMS,change of address /config
+rhagemann,ausrca0054,8 min,FXRS,WIS,Prod Cred Registration
+rmcneil,ausrcwa059,7.3 min,Café,Café,Transfer to sr support
+rhagemann,ausrca0054,6 min,FXRS,Misdirect,International Tracking
+rmcneil,ausrcwa059,5.5 min,FXRS,WIS,Need to contact the csp
+mbarth,ausrca0058,5 min,Café,Café,closes on ground
+rmcneil,ausrcwa059,3.5 min,FXRS,Café,Question about one rate
+wcrosby,ausrca0071,3 min,FXRS,Misdirect,transfer to .com
+rmcneil,ausrcwa059,.37 min,Café,Misdirect,wrong que
+rmcneil,ausrcwa059,.14 min,FXRS,FSMS,Line test

@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 3:00 PM FXRS 10/6/2015
+
+FXRS: astra switch / smartpost zip code issue / 
+
+Web Services: what meter number do they use / 
+
+Café: issues with printer / Assisted w/Rate Quote Issue / Answered Address Book Question / Answered AEs FXI Question / intl commodity mps / air frieght return / End of day issue / CIC software install / 
+
+FXCT: 
+
+MISDIRECTS: to dot.com / Dot Com Outage Call / Dot Com Outage Call / 
+
+AHT Drivers: FXRS astra switch 35 min / Café End of day issue 35 min / FXRS issues with FXIA export to database 18 min / 
+
+------------
+
+Cafe on FXRS: exporting address book / issues with FXIA export to database / 
+
+FXRS on Cafe: 

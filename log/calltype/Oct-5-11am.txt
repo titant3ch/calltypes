@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 11:00 AM FXRS 10/5/2015
+
+FXRS: hazmat coding / adding new account number / EOD Close not running correctly / 
+
+Web Services: inactive customer account / fedex on their website / Service is invalid / 
+
+Café: URSA expired / lost call / FXI issues, sent to TIS / Change return address / ae notice / issues with rates / 
+
+FXCT: fxct consult and prior call status / installing / 
+
+MISDIRECTS: to DG / dotcom / Very bad connection, line dropped / needs .com / Dot.com / 
+
+AHT Drivers: Café comms issues with Mercantile financ 40  min / Café issues with rates 24 min / FXRS EOD Close not running correctly 23 min / 
+
+------------
+
+Cafe on FXRS: client not connecting / 
+
+FXRS on Cafe: comms issues with Mercantile financ / 

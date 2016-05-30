@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 9:00 AM FXRS 10/8/2015
+
+FXRS: Error processing input transaction / 
+
+Web Services: 
+
+Café: Writing as deleted J# W10 / 
+
+FXCT: Installing / 
+
+MISDIRECTS: 
+
+AHT Drivers: Café Writing as deleted J# W10 29 min / FXRS Error processing input transaction 15 min / FXRS Installing 8 min / 
+
+------------
+
+Cafe on FXRS: 
+
+FXRS on Cafe: 

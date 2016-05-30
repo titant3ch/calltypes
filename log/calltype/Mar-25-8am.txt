@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 8:00 AM FXRS 3/25/2016
+
+FXRS: Line test / 
+
+Web Services: Cust cant email AE / Test Creds / Smartpost rates error / 
+
+Café: Failed update CAFE / Document Reprint / Testing cic line / 
+
+FXCT: Smartpost Hub ID / 
+
+MISDIRECTS: dot com caller / 
+
+AHT Drivers: Café Failed update CAFE 53 min / FXRS Needed sr support 17 min / FXRS EOD Reports 12 min / 
+
+------------
+
+Cafe on FXRS: fsm software request / Needed sr support / EOD Reports / 
+
+FXRS on Cafe: 

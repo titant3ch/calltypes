@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 3:00 PM FXRS 11/10/2015
+
+FXRS: Credit Priviledges / Health check / problem with demand download / 
+
+Web Services: Sales agent want exchange pritner / 
+
+Café: Email label pickup/dropoff link / NW FW & domain issue / Comms Issue / Validation / Printer installation / Downgrade from 2912 to 2807 / 
+
+FXCT: Rates discrepancy vs. other FXCTs / 
+
+MISDIRECTS: needed 3P vendor support / needed 3P platform support / CIC Scale Replacement / dotcom / dotcom / customer services / 
+
+AHT Drivers: Café Downgrade from 2912 to 2807 70 min / Café Printer installation 34 min / Café NW FW & domain issue 28 min / 
+
+------------
+
+Cafe on FXRS: one commodity need to be added / 
+
+FXRS on Cafe: 

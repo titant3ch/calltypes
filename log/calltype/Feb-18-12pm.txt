@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 12:00 PM FXRS 2/18/2016
+
+FXRS: Was not able to remote in sent to CIC / 
+
+Web Services: Registering for webservices / Account not valid / History Manager / 
+
+Café: 
+
+FXCT: 
+
+MISDIRECTS: 
+
+AHT Drivers: FXRS Account not valid 26 min / FXRS Was not able to remote in sent to CIC 21 min / FXRS Registering for webservices 7 min / 
+
+------------
+
+Cafe on FXRS: 
+
+FXRS on Cafe: 

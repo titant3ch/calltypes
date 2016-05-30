@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 9:00 AM FXRS 2/19/2016
+
+FXRS: add acct to server / Line test / ORM-D shipment questions / 
+
+Web Services: issues with return shipping / 
+
+Café: Client Install / Invalid Host IP / software download request / 
+
+FXCT: issues with incorrect LTL address / 
+
+MISDIRECTS: misdirect to dot com / 
+
+AHT Drivers: FXRS ORM-D shipment questions 21 min / Café software download request 18 min / FXRS printer 15 min / 
+
+------------
+
+Cafe on FXRS: printer / 
+
+FXRS on Cafe: 

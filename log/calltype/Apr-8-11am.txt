@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 11:00 AM FXRS 4/8/2016
+
+FXRS: MRU / New Meter / Signature release / Incorrect ursa downloaded / Meter Incorrect on FSMS / 
+
+Web Services: Cert Request / WS registration / Certification for Corporate / 
+
+Café: issues with new software install / install zm400 printer / shipment writing as deleted / Need help with end of day / 
+
+FXCT: Wanted to add more space on LTL / PK Request / Tool Down / FXCT PK / FXCT Install / 
+
+MISDIRECTS: to customer service / Disconnect / .com Transfer / 
+
+AHT Drivers: FXRS Incorrect ursa downloaded 42 min / Café shipment writing as deleted 40 min / FXRS FXCT Install 24 min / 
+
+------------
+
+Cafe on FXRS: software install / 
+
+FXRS on Cafe: 

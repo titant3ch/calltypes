@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 8:00 AM FXRS 10/7/2015
+
+FXRS: Thermal printer poor print quality. / 
+
+Web Services: don't want the weight on the labels / Invalid account number / want the hubid / Address validation request / 
+
+Café: needs eei help and trans to .com / hardware keyboard / issues with entering info / 
+
+FXCT: 
+
+MISDIRECTS: 
+
+AHT Drivers: FXRS Invalid account number 45 min / FXRS lp 2844 printer install 25 min / FXRS Address validation request 12 min / 
+
+------------
+
+Cafe on FXRS: AE want meter numbers / lp 2844 printer install / 
+
+FXRS on Cafe: 

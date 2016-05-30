@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 12:00 PM FXRS 5/16/2016
+
+FXRS: disconnect / issues with rates / New install / 
+
+Web Services: lots of service down / WIS error 1000 / service disruption resolved / issues with shipping outage / Certification Inquiry submitted / outtage qustion ae / new creds setup / Service disruption resolved / No rates returned / WIS registration / disconnect / 
+
+Café: FSM download request / Intl document shipment / Fill out i-sell / Questions on communications / failed upgrade / Avast AV ate The GSMAppEngGUI.exe / 
+
+FXCT: install / Install assist / 
+
+MISDIRECTS: to dot.com / 
+
+AHT Drivers: FXRS New install 64 min / FXRS install 35 min / Café Avast AV ate The GSMAppEngGUI.exe 35 min / 
+
+------------
+
+Cafe on FXRS: 
+
+FXRS on Cafe: 

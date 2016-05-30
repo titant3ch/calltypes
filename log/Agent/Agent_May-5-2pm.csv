@@ -1,0 +1,31 @@
+Reported Calls for: May-5-2pm
+
+Agent, Computer Name, Duration of Call, LOB, Type, Message,
+wcrosby,ausrca0071,60 min,FXRS,FSMS,tracking # and etd processing
+wcrosby,ausrca0071,20 min,FXRS,FSMS,rate trans
+dneal,ausrca0098,18 min,Café,Café,Client configuration
+rmcneil,ausrcwa059,17 min,Café,Café,URSA expired
+rhagemann,ausrca0054,17 min,Café,Café,General Assist in Cafe
+wcrosby,ausrca0071,15 min,FXRS,WIS,wis reg
+wcrosby,ausrca0071,15 min,FXRS,FSMS,label not printing with correct info
+wcrosby,ausrca0071,10 min,FXRS,WIS,wis registration
+mbarth,ausrca0058,10 min,FXRS,FSMS,comms
+macampbell,ausrcwa049,8 min,FXRS,WIS,Rate request errors
+rhagemann,ausrca0054,6 min,Café,Café,ShipAlert Settings
+chkelley,ausrca0055,6 min,FXRS,WIS,wis registration
+rhagemann,ausrca0054,5.5 min,FXRS,WIS,Not reaching rate servers
+macampbell,ausrcwa049,5 min,FXRS,WIS,Previous call status
+mbarth,ausrca0058,5 min,FXRS,FXCT,needs talk ae for rates
+mbarth,ausrca0058,5 min,Café,Café,shipping list reprint
+mbarth,ausrca0058,5 min,Café,Café,printer
+mbarth,ausrca0058,5 min,Café,Café,printer tech tix
+rhagemann,ausrca0054,5 min,FXRS,FSMS,TSR Request / ZM400
+chkelley,ausrca0055,5 min,FXRS,FSMS,customer needs hub id
+chkelley,ausrca0055,5 min,FXRS,FXCT,New install
+rhagemann,ausrca0054,5 min,FXRS,WIS,How to get creds
+cdriskell,ausrca0064,3 min,FXRS,Misdirect,needed Dom CS
+rhagemann,ausrca0054,3 min,Café,Misdirect,Cust Hungup
+rmcneil,ausrcwa059,2 min,Café,Misdirect,Customer service
+rmcneil,ausrcwa059,1.3 min,FXRS,FSMS,IP address change
+rhagemann,ausrca0054,1 min,Café,Café,Call Lost
+rhagemann,ausrca0054,.5 min,FXRS,FSMS,HangUp

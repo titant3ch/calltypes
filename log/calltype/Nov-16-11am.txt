@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 11:00 AM FXRS 11/16/2015
+
+FXRS: comms issues / dotcom / tracking number and admin / FSMS upgrade request / trk#s not trackable on fedex.com / 
+
+Web Services: register for productions / fixing their code for rating / 
+
+Café: LTL Discount not available for 3P / 
+
+FXCT: installing / Bad LTL acct address / 
+
+MISDIRECTS: customer service / dotcom / 
+
+AHT Drivers: FXRS trk#s not trackable on fedex.com 48 min / FXRS new host/client configuration setup 36 min / FXRS tracking number and admin 35 min / 
+
+------------
+
+Cafe on FXRS: unhandled exception / new software install / Notification email / Ship Manager has Encountered an Err / new host/client configuration setup / 
+
+FXRS on Cafe: 

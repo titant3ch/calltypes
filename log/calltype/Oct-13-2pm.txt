@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 2:00 PM FXRS 10/13/2015
+
+FXRS: last case ss / FXRS 1109 non-comm meter / issues with MRU, CIC needed hours / 
+
+Web Services: Registration / 
+
+Café: 2912 upgrade failed ran repair / Network Client install / CIC request new install / FXIA batch import csv formatting / missing FXIA proffiles and label / 
+
+FXCT: register the tool / 
+
+MISDIRECTS: to dot.com / needed fedex.com / to dot.com / 
+
+AHT Drivers: Café missing FXIA proffiles and label 55 min / Café 2912 upgrade failed ran repair 48 min / WIS Assisted w/Transaction Error 27 min / 
+
+------------
+
+Cafe on FXRS: FXI error / Product Key is invalid / 
+
+FXRS on Cafe: 

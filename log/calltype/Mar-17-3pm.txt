@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 3:00 PM FXRS 3/17/2016
+
+FXRS: Add the EIN / nascar ODBC error / Bad TRK Range / CIC Clean Load / Answered AE ?s re: reference field / Services stopping / Provided product key/solution type / 
+
+Web Services: Label Certification Request / wanted to get certified for shipping / error 1000 had wrong meter / Helped cust. get new creds, etc / needed his wis pw found it in email / WIS registration / Rates that are pulled / International Rate City not included / Printer installation / Prod Creds / Rating thru WIS / Test Server Status / 
+
+Café: scale issue / comm down/wanted update software / printer issue / out of tracking  ground / cic request new install / scale setup / Bad zip code / 
+
+FXCT: 
+
+MISDIRECTS: .com / Transfer to CA Cust. Svc. / Dot Com Transfer / dot.com / 
+
+AHT Drivers: FXRS International Rate City not included 67 min / FXRS Bad TRK Range / CIC Clean Load 65 min / Café comm down/wanted update software 46 min / 
+
+------------
+
+Cafe on FXRS: asddress book / issue with reprint labels/update softwar / 
+
+FXRS on Cafe: 

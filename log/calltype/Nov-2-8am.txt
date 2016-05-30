@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 8:00 AM FXRS 11/2/2015
+
+FXRS: URSA will not download / 
+
+Web Services: drc cert / 
+
+Café: Line test / hardware [printer / hardware? write as deleted? / pritner setup / 
+
+FXCT: New install / 
+
+MISDIRECTS: needs claims / 
+
+AHT Drivers: FXRS URSA will not download 20 min / FXRS drc cert 10 min / Café pritner setup 10 min / 
+
+------------
+
+Cafe on FXRS: 
+
+FXRS on Cafe: 

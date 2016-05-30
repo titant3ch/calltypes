@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 2:00 PM FXRS 5/10/2016
+
+FXRS: ETD Assist / Bad Delivery Date / Needed product code for 14.04 / 
+
+Web Services: wrong account for ltl rates / fxct disconnect before trans / Rates on Test Server / Random lost comm / 
+
+Café: FSM login prompt / Assist w/Tracking Issue / Account Validation Issue / credit privs ddl rates / print to laser / 
+
+FXCT: Backup / Install FXCT / Assist w/reinstall, etc / new install / 
+
+MISDIRECTS: .com / 
+
+AHT Drivers: FXRS Bad Delivery Date 55 min / FXRS ETD Assist 30 min / FXRS wrong account for ltl rates 16 min / 
+
+------------
+
+Cafe on FXRS: software download/register / 
+
+FXRS on Cafe: 

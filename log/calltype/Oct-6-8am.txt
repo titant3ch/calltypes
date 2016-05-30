@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 8:00 AM FXRS 10/6/2015
+
+FXRS: failed upgrade with URSA not start / out of tracking numbers / checking URSA / 
+
+Web Services: 
+
+Café: Missing tracking numbers / printer / 
+
+FXCT: 
+
+MISDIRECTS: 
+
+AHT Drivers: FXRS failed upgrade with URSA not start 40 min / Café printer 10 min / FXRS out of tracking numbers 10 min / 
+
+------------
+
+Cafe on FXRS: prod key but cic is coming / out of tracking numbers / 
+
+FXRS on Cafe: 

@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 9:00 AM FXRS 2/3/2016
+
+FXRS: Invalid Product key error / 
+
+Web Services: drc reg / printer install / fxct install / 
+
+Café: Zebra printer install / Modem issue / 
+
+FXCT: 
+
+MISDIRECTS: 
+
+AHT Drivers: Café Modem issue 13 min / FXRS Product Key request / FSM SWO 12 min / Café Zebra printer install 12 min / 
+
+------------
+
+Cafe on FXRS: Product Key request / FSM SWO / CIC Request for Callback / reference fields / Upgrade issue / comms / System Settings / 
+
+FXRS on Cafe: 

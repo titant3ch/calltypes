@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 1:00 PM FXRS 1/26/2016
+
+FXRS: Error with meter/account / Admin won't start after 1110 patch / Shipping Label Service is Down (V7) / 
+
+Web Services: ETD setup on WIS / Trying to recover lost WIS creds / SHA 2 questions / 
+
+Café: too many meters on account / ETD setup on NW Client / Registration Issues / Registration Issues / 
+
+FXCT: installation / Installation / Installation / Restore from thumb drive / 
+
+MISDIRECTS: to dot.com / CIC called incorrect line / 
+
+AHT Drivers: FXRS Admin won't start after 1110 patch 21 min / FXRS ETD setup on WIS 20 min / Café ETD setup on NW Client 18 min / 
+
+------------
+
+Cafe on FXRS: new install of software / issues with printing barcodes / Address Validation / Fedex.com (Printer) / 
+
+FXRS on Cafe: 

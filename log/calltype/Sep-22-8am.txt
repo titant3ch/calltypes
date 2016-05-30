@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 8:00 AM FXRS 9/22/2015
+
+FXRS: 
+
+Web Services: Cert request / 
+
+Café: software download request. / Server/Client Comms issue w/ client / LTL Freight shipment / international dg shipment / software req / disconnect / address checker not working / no PU on the softwae / 
+
+FXCT: general questions 14xx / 
+
+MISDIRECTS: dot com caller / 
+
+AHT Drivers: Café address checker not working 33 min / FXRS 2910 write delete 20 min / FXRS general questions 14xx 20 min / 
+
+------------
+
+Cafe on FXRS: Server/Client Comms issue w/ client / 2910 write delete / shipping profiles / 
+
+FXRS on Cafe: 

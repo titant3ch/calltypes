@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 3:00 PM FXRS 2/23/2016
+
+FXRS: Printer / Label Buffer Issue / Assisted CSP w/SP server issue / 
+
+Web Services: rates / Enable Address Validation / WIS certification / needed Dom CS / needed Dom CS / 
+
+Café: Product key / No Express Freight Rates / registration / ZP500 jamming / communications issue / NW printer issue / 
+
+FXCT: assisted with installation / 
+
+MISDIRECTS: needed fedex.com / 
+
+AHT Drivers: FXRS Printer / Label Buffer Issue 75 min / FXRS assisted with installation 23 min / FXRS Assisted CSP w/SP server issue 19 min / 
+
+------------
+
+Cafe on FXRS: comms / LP2844 printer issue / 
+
+FXRS on Cafe: 

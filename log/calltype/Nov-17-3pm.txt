@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 3:00 PM FXRS 11/17/2015
+
+FXRS: Cafe put on FXRS system (cleanload) / address validation / URSA / 
+
+Web Services: cert denied / cust hung up / csp / 
+
+Café: big db / printer setup / 
+
+FXCT: 
+
+MISDIRECTS: to dot.com / dotcom / 
+
+AHT Drivers: WIS Rating errors in Test 23 min / FXRS Cafe put on FXRS system (cleanload) 22 min / WIS creds setup and cert request 15 min / 
+
+------------
+
+Cafe on FXRS: 
+
+FXRS on Cafe: 

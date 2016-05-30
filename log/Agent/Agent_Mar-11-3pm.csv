@@ -1,0 +1,35 @@
+Reported Calls for: Mar-11-3pm
+
+Agent, Computer Name, Duration of Call, LOB, Type, Message,
+cdriskell,ausrca0064,601 min,FXRS,FSMS,1305 cleanload
+rmcneil,ausrcwa059,63 min,FXRS,FSMS,Unable to connect to the server
+cdriskell,ausrca0064,60 min,FXRS,FSMS,1305 cleanload
+rhagemann,ausrca0054,45 min,Café,Café,Rates don't match FXCT
+cdriskell,ausrca0064,32 min,FXRS,FSMS,FXIA profile creation
+mbarth,ausrca0058,22 min,FXRS,Café,printer isntall
+mbarth,ausrca0058,20 min,FXRS,Café,PRINTER
+rhagemann,ausrca0054,13 min,FXRS,FSMS,SmartPost
+rmcneil,ausrcwa059,13 min,FXRS,FSMS,Return transaction
+rmcneil,ausrcwa059,13 min,FXRS,WIS,Getting error about zip code
+sroberts,ausrca0074,12 min,FXRS,Café,Assisted w/FSM Install
+rmcneil,ausrcwa059,12 min,FXRS,WIS,Having issue with test account
+dneal,ausrca0098,10 min,FXRS,WIS,DRC registration
+rhagemann,ausrca0054,9 min,FXRS,WIS,Duties and Taxes
+sroberts,ausrca0074,8 min,Café,Café,Assisted w/EOD Reports
+sroberts,ausrca0074,8 min,Café,Café,FSM Request/Web Form
+cdriskell,ausrca0064,7 min,Café,Café,Acct validation for download
+rmcneil,ausrcwa059,6.5 min,FXRS,WIS,Needed information about hub ID
+rmcneil,ausrcwa059,6.3 min,Café,Café,Credit supended
+dneal,ausrca0098,5 min,FXRS,WIS,DRC registration
+wcrosby,ausrca0071,5 min,FXRS,FSMS,sat delivery option /contact csp
+mbarth,ausrca0058,5 min,FXRS,WIS,drc intl rate
+mbarth,ausrca0058,5 min,FXRS,WIS,cert issues
+mbarth,ausrca0058,5 min,FXRS,Café,monitor
+mbarth,ausrca0058,5 min,Café,Café,intl
+rhagemann,ausrca0054,5 min,FXRS,WIS,Cust req TSR
+mbarth,ausrca0058,5 min,FXRS,WIS,drc trouble
+rhagemann,ausrca0054,4 min,Café,Café,DG Entry
+rhagemann,ausrca0054,3 min,Café,Café,Saturday Delivery
+rhagemann,ausrca0054,2 min,FXRS,Café,LDS Edit
+rhagemann,ausrca0054,2 min,Café,Misdirect,dotcom
+rhagemann,ausrca0054,1 min,Café,Café,Disconnect before transfer

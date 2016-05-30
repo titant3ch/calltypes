@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 12:00 PM FXRS 2/1/2016
+
+FXRS: issues with install key / issues with meter setup / 
+
+Web Services: unaware of SHA2 chage / shipping certification / Test server down / Register/certification help / issues with getting test creds / issues with ground pickups / Issue with shipping / 
+
+Café: needs new hardware setup isell / issues with registering software / unable to download ursa / webservices registration / international shipment assistance / 
+
+FXCT: install walk through / 
+
+MISDIRECTS: to dot.com / dot com call / 
+
+AHT Drivers: FXRS shipping certification 0900 min / Café issues with registering software 61 min / FXRS Register/certification help 37 min / 
+
+------------
+
+Cafe on FXRS: Host/client set up comm issues / 
+
+FXRS on Cafe: 

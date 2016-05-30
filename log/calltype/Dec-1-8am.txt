@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 8:00 AM FXRS 12/1/2015
+
+FXRS: turn off 1D barcode / 
+
+Web Services: Wrong server / wanted list rates not acct / process DG without pkg type / 
+
+Café: 
+
+FXCT: 
+
+MISDIRECTS: 
+
+AHT Drivers: FXRS Wrong server 10 min / FXRS turn off 1D barcode 8 min / FXRS wanted list rates not acct 4 min / 
+
+------------
+
+Cafe on FXRS: 
+
+FXRS on Cafe: 

@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 3:00 PM FXRS 10/15/2015
+
+FXRS: 
+
+Web Services: register for production. / cert request sent to different emai / 
+
+Café: FR caller disconnect / Repair using delta / 
+
+FXCT: not able to register / 
+
+MISDIRECTS: Needed dot.com / dotcom / 
+
+AHT Drivers: Café Repair using delta 25 min / FXRS register for production. 18 min / FXRS request for product key 15 min / 
+
+------------
+
+Cafe on FXRS: request for product key / 
+
+FXRS on Cafe: 

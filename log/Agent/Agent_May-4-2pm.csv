@@ -1,0 +1,35 @@
+Reported Calls for: May-4-2pm
+
+Agent, Computer Name, Duration of Call, LOB, Type, Message,
+chkelley,ausrca0055,65 min,FXRS,FSMS,Openship mps shipment error
+macampbell,ausrcwa049,60 min,Café,Café,ShipManager Service not Responding
+rhagemann,ausrca0054,34 min,FXRS,WIS,Test Creds and Cert Questions
+dneal,ausrca0098,27 min,Café,Café,Error when processing config data
+macampbell,ausrcwa049,25 min,FXRS,FSMS,MRU failing to add child meter
+rhagemann,ausrca0054,17 min,FXRS,WIS,Dev Phase WIS
+sroberts,ausrca0074,15 min,FXRS,WIS,Certification Call
+mbarth,ausrca0058,10 min,FXRS,FSMS,ground tracking
+mbarth,ausrca0058,10 min,FXRS,WIS,drc reg
+mbarth,ausrca0058,10 min,FXRS,Café,custom labels
+rhagemann,ausrca0054,9.5 min,FXRS,WIS,Consultant DRC failure
+macampbell,ausrcwa049,8 min,FXRS,WIS,Transaction error
+rhagemann,ausrca0054,8 min,Café,Café,FXIA Mapping
+chkelley,ausrca0055,8 min,FXRS,WIS,customer rates not matching fedex.com
+rhagemann,ausrca0054,8 min,FXRS,WIS,Test vs Prod
+rhagemann,ausrca0054,8 min,FXRS,WIS,Test Creds Reg
+rmcneil,ausrcwa059,7.1 min,FXRS,WIS,No services
+mbarth,ausrca0058,7 min,Café,Café,intl ship
+macampbell,ausrcwa049,7 min,FXRS,WIS,Get production credentials
+sroberts,ausrca0074,7 min,FXRS,WIS,SP labels not printing/SP not enabled
+macampbell,ausrcwa049,7 min,FXRS,Café,Ship MPS walkthru
+chkelley,ausrca0055,7 min,FXRS,WIS,wis registration
+sroberts,ausrca0074,6 min,FXRS,WIS,Caller not entering correct address
+sroberts,ausrca0074,6 min,Café,Café,TSR Ticket for Thermal Printer
+mbarth,ausrca0058,5 min,FXRS,WIS,pritner thrid party
+mbarth,ausrca0058,5 min,Café,Café,needs software req
+mbarth,ausrca0058,5 min,FXRS,Café,cic fxi req
+rmcneil,ausrcwa059,3 min,FXRS,Café,Missing LTL rates
+macampbell,ausrcwa049,2 min,Café,Café,disconnect
+rmcneil,ausrcwa059,2 min,FXRS,Misdirect,Dot.com
+sroberts,ausrca0074,2 min,FXRS,FSMS,Cust. Disconnected
+macampbell,ausrcwa049,1 min,FXRS,Misdirect,transfer to fedex.com

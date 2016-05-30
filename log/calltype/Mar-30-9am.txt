@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 9:00 AM FXRS 3/30/2016
+
+FXRS: empty line cust disconnect / 
+
+Web Services: Confirm information / drc rates / Account rate / general questions about wis / 
+
+Café: communication EOD upload issues / 
+
+FXCT: 
+
+MISDIRECTS: dot.com / Dotcom Transfer / dot com caller / 
+
+AHT Drivers: Café communication EOD upload issues 19 min / FXRS drc rates 10 min / FXRS Account rate 9.4 min / 
+
+------------
+
+Cafe on FXRS: 
+
+FXRS on Cafe: 

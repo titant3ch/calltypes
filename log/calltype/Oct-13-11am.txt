@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 11:00 AM FXRS 10/13/2015
+
+FXRS: upload issues / ACE Escalation / tech tix printer / 
+
+Web Services: install printer / limit to 4 services / 
+
+Café: needs monitor tech tix / FXI errors / lost call / restore and FXCT install / cic needs prod key / script error in cafe browser / 
+
+FXCT: error with proxy on FXCT / 
+
+MISDIRECTS: to customer service / 
+
+AHT Drivers: FXRS install printer 30 min / Café restore and FXCT install 18 min / FXRS error with proxy on FXCT 12 min / 
+
+------------
+
+Cafe on FXRS: Client install/lost call / request for product key / wants bpu repalced / 
+
+FXRS on Cafe: 

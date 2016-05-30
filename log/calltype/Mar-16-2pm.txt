@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 2:00 PM FXRS 3/16/2016
+
+FXRS: Incorrect SP DAS / shipping admin application / Connection error / Unable to download smartpost tracking / ursa / Comms Blocked / Expired URSA / Transaction Inquiry / service had stopped / EPDI Call/Reboot Resolved Issue / 
+
+Web Services: Did not have auth key / Printer installation / drc creds and reg / issues with sending prod to test / questions about services / error 1000 key entered in all CAPS / issue with address validation and weight / Printer wasn't working / HP / Invalid Element Name / csp ship to korea / csp reg / add address line / rates not matching / issues with discounts / Billing third party / 
+
+Café: empty line / batch shipment import / Base Controller / Disconnect after hold / Validation / ltl / International Label / Express MPS / AE asking about LTL / International Assist / CIC has not replied to new isntall / FXI ODBC error / 
+
+FXCT: installation / Assisted AE w/SP Rate Quote / ltl account / ground to CA / 
+
+MISDIRECTS: needs .com / to dot.com / to dot.com / Dotcom Transfer / 
+
+AHT Drivers: FXRS Unable to download smartpost tracking 96 min / FXRS Incorrect SP DAS 75 min / Café batch shipment import 43 min / 
+
+------------
+
+Cafe on FXRS: needs tracking nubmers / 
+
+FXRS on Cafe: 

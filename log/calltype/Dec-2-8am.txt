@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 8:00 AM FXRS 12/2/2015
+
+FXRS: communitcations / 
+
+Web Services: register for production / flag for residental / Increase the tracking range / error 1000 / 
+
+Café: FXIA export file issues / 
+
+FXCT: adding new meters / 
+
+MISDIRECTS: 
+
+AHT Drivers: FXRS Increase the tracking range 13 min / FXRS not downloading 10 min / FXRS communitcations 10 min / 
+
+------------
+
+Cafe on FXRS: not downloading / 
+
+FXRS on Cafe: 

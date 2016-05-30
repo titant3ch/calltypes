@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 10:00 AM FXRS 12/3/2015
+
+FXRS: 
+
+Web Services: get the login or pass key / error 1000 / validated meter, key and password / not able to ship any labels / 
+
+Café: 
+
+FXCT: 
+
+MISDIRECTS: customer service / 
+
+AHT Drivers: FXRS does not match address on record 8 min / FXRS error 1000 7 min / FXRS not able to ship any labels 6 min / 
+
+------------
+
+Cafe on FXRS: does not match address on record / 
+
+FXRS on Cafe: 

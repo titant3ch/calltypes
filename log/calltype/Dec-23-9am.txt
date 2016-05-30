@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 9:00 AM FXRS 12/23/2015
+
+FXRS: Line testing / 
+
+Web Services: cert request for POD / 
+
+Café: 
+
+FXCT: Install onto a new computer / 
+
+MISDIRECTS: 
+
+AHT Drivers: FXRS Install onto a new computer 24 min / FXRS cert request for POD 9 min / FXRS Line testing .19 min / 
+
+------------
+
+Cafe on FXRS: 
+
+FXRS on Cafe: 

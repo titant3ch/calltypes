@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 9:00 AM FXRS 1/8/2016
+
+FXRS: Change 1D bar code / 
+
+Web Services: error 1000 / 
+
+Café: 
+
+FXCT: 
+
+MISDIRECTS: 
+
+AHT Drivers: FXRS error 1000 8 min / FXRS hardware removal 5 min / FXRS Change 1D bar code 2 min / 
+
+------------
+
+Cafe on FXRS: hardware removal / 
+
+FXRS on Cafe: 

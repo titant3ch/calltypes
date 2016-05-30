@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 8:00 AM FXRS 11/30/2015
+
+FXRS: status request / 
+
+Web Services: getting rating / 
+
+Café: 
+
+FXCT: 
+
+MISDIRECTS: 
+
+AHT Drivers: WIS Issue with rate request 18 min / FXRS status request 10 min / FXRS getting rating 8 min / 
+
+------------
+
+Cafe on FXRS: 
+
+FXRS on Cafe: 

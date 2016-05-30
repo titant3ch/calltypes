@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 3:00 PM FXRS 3/18/2016
+
+FXRS: Great Britain Meter / Replace Meters / Tracking number duplication / Rating on 1501 / Confirmed Rates are good / Rate Table / 
+
+Web Services: Test Creds / Not supported / Assisted AE w/Web Svcs error / Certification / lost caller / wis register / Sent to sr support / 
+
+Café: integration / Needed product code / Validation / issues with launching / Enable Returns / New install / Import from UPS / Reset printer / Hazmat shipping form / shipping profiles config / 
+
+FXCT: adding 3rd party ltl acct / install / PK Request / 
+
+MISDIRECTS: .com / needs .com / to dot.com / Dot Com Transfer / Dot Com Transfer / 
+
+AHT Drivers: Café issues with launching 77 min / FXRS Great Britain Meter 67 min / FXRS Clean Load 41 min / 
+
+------------
+
+Cafe on FXRS: New install / Clean Load / Clean Load / Cust. wanted info on Dot Com vs FSM / writing as deleted client / Tracking Number Range / 
+
+FXRS on Cafe: 

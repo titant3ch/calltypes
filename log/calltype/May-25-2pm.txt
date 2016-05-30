@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 2:00 PM FXRS 5/25/2016
+
+FXRS: MRU error / MRU failure / Answered general SP Questions / needs tech tix / GTA & assist w/ d/l rates / d/l new URSA / 
+
+Web Services: wis registration / Web Svcs cust. disconnect / question about sig service / Answered AE's Questions / incorrect discounts / Harmonized code / Pull List rates across WIS / AV errors / Ref to AE to get label printer / Int'l MPS test issue / 
+
+Café: New Install / Assisted w/printer driver/software issue / Hold File Import / Assisted w/printer issue / Answered D/T/Fs Question / Report Assist / New Install / Import AB / Backup DBs / change address in system Settings / fxia integration / 
+
+FXCT: Bad LTL Account / 
+
+MISDIRECTS: .com / cust service / dot com caller register / transferred to fedex.com / dot com issue baracode not printing / Dotcom / Dotcom / 
+
+AHT Drivers: Café fxia integration 120 min / FXRS Clean load 79 min / Café Hold File Import 41 min / 
+
+------------
+
+Cafe on FXRS: Clean load / Bad scanner / LTL Comm Issue / 
+
+FXRS on Cafe: 

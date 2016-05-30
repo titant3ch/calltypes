@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 3:00 PM FXRS 4/13/2016
+
+FXRS: Comm Issues / 1069 Install Request / Reset RDP / meter and acct # missing from config.ini / Invalid Service / 
+
+Web Services: Test Cred Reg / issue with custom label info passing / Discount Issue / failed registration / regsiter on csp / csp / Failed WIS registration / service invalid / AE asking if web services run EOD close / smartpost / drc reg / No error with zip code. / 
+
+Café: HazMat Entry / scale removal / LTL Assist / HazMat not avaliable / Changing dial-up connection phone # / 
+
+FXCT: help with LTL freight quote / 
+
+MISDIRECTS: needs .com ltl / Dotcom / 
+
+AHT Drivers: FXRS Failed WIS registration 65 min / Café HazMat not avaliable 40 min / FXRS help with LTL freight quote 25 min / 
+
+------------
+
+Cafe on FXRS: comms? / ltl db / Missing sender information / needs prod key / 
+
+FXRS on Cafe: 

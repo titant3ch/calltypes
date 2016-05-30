@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 11:00 AM FXRS 10/16/2015
+
+FXRS: comms and mru / hardware bpu / routing service will not start / installing 1404 / 
+
+Web Services: general info / 
+
+Café: new software install / SBB about update / new software install / default setup / printer alignment / Bad URSA / tech printer and scale setup / software req / server error / 
+
+FXCT: ltl rate dim factor / 
+
+MISDIRECTS: to dot.com / to dot.com / to dot.com / needed fedex.com / to dot.com / 
+
+AHT Drivers: WIS unable to install fxct 60 min / FXRS comms and mru 42 min / FXRS installing 1404 40 min / 
+
+------------
+
+Cafe on FXRS: new FXI setup / ZP500 printer installation / missing phone number on LTL / 
+
+FXRS on Cafe: 

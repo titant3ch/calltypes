@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 11:00 AM FXRS 2/2/2016
+
+FXRS: comms uploads / issues with key for 1201 for instal / issues with L3 instead of L6 meters / 
+
+Web Services: issues with sr callback case, sha2 / ae hung up / rates / 
+
+Café: FIXA weight mapping / disconenct / FIXA weight mapping / comms / cic prod key / 
+
+FXCT: issues with rating no internet / issues with sha2 update / 
+
+MISDIRECTS: needs .com / needs .com / to dot.com / 
+
+AHT Drivers: FXRS issues with L3 instead of L6 meters 45 min / FXRS issues with key for 1201 for instal 13 min / FXRS issues with sr callback case, sha2 12 min / 
+
+------------
+
+Cafe on FXRS: TIS / software req / rates / install / ursa / fxi / ae reports / Rates not showing reboot / 
+
+FXRS on Cafe: 

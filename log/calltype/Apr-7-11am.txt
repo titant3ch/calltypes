@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 11:00 AM FXRS 4/7/2016
+
+FXRS: fxct installation / interested in getting server software / customer disconnect / Change Auto Close Time. / 
+
+Web Services: CSV Rating / Cert Inquiry / error 1000 not certified for shipping / Repeat Shipment / 
+
+Café: Product key request / Scale / TSR Request / Upgrade client / SSC / Backup Restore / document reprint CI / Reinstall HP LJ & ZP505 / Hazmat issues / Permissions / Cleanload / 
+
+FXCT: rates not matching .com or cafe gnd / ltl freight rate not matching dot com / 
+
+MISDIRECTS: Dotcom / FSM LITE / Dotcom / needed fedex.com EEI / 
+
+AHT Drivers: Café Reinstall HP LJ & ZP505 45 min / Café Permissions 40 min / Café Cleanload 40 min / 
+
+------------
+
+Cafe on FXRS: 
+
+FXRS on Cafe: adding sender.. / 

@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 3:00 PM FXRS 1/5/2016
+
+FXRS: 
+
+Web Services: WIS Registration / printer is not seeing the gap / 
+
+Café: Labels writing as deleted / not able to run the upgrade / not able to get all info to pull up / request for software / 
+
+FXCT: 
+
+MISDIRECTS: dotcom / 
+
+AHT Drivers: Café Labels writing as deleted 70 min / Café not able to run the upgrade 30 min / FXRS WIS Registration 12 min / 
+
+------------
+
+Cafe on FXRS: Database restore / writing as deleted / 
+
+FXRS on Cafe: 

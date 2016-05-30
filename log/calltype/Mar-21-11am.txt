@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 11:00 AM FXRS 3/21/2016
+
+FXRS: Communication issues / duties and taxes / The system is communicating / 
+
+Web Services: Not seeing ref for express / Shipping express not ground / ZM400 send tech to setup / Production Creds / DRC registration / Issues with shipment / lt account info / cert status / cert status / 
+
+Café: Software request / issues with printer not printing / meter reqistration / FXI issue / Add image for ETD. / Customize forms / issues with creating a shipment / Adding new account / 
+
+FXCT: issues with LTL address update / Updating Accounts in FXCT / 
+
+MISDIRECTS: EDI / to customer service / to dot.com / to dot.com / needs .com / 
+
+AHT Drivers: FXRS Communication issues 34 min / FXRS Not seeing ref for express 26 min / Café FXI issue 23 min / 
+
+------------
+
+Cafe on FXRS: bad sender / Need to confirm acount / issues with FXI database / install help / 
+
+FXRS on Cafe: 

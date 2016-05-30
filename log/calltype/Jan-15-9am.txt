@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 9:00 AM FXRS 1/15/2016
+
+FXRS: object reference not set / Rate check / 
+
+Web Services: 
+
+Café: 
+
+FXCT: drc registration / 
+
+MISDIRECTS: dotcom / 
+
+AHT Drivers: FXRS Rate check 10 min / FXRS drc registration 10 min / FXRS object reference not set 8 min / 
+
+------------
+
+Cafe on FXRS: 
+
+FXRS on Cafe: 

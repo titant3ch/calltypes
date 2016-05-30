@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 8:00 AM FXRS 2/10/2016
+
+FXRS: Upgrade information / 
+
+Web Services: No Ground In OpenCart / Rate Discrepancy (Dimensions) / issues with auth error / 
+
+Café: Line test / Label stock format / 
+
+FXCT: 
+
+MISDIRECTS: 
+
+AHT Drivers: FXRS Rate Discrepancy (Dimensions) 50 min / FXRS fxi 10 min / FXRS Upgrade information 8.3 min / 
+
+------------
+
+Cafe on FXRS: fxi / rates / 
+
+FXRS on Cafe: 

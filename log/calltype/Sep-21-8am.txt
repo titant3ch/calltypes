@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 8:00 AM FXRS 9/21/2015
+
+FXRS: services will not start / Close request parameter errors / Duplicate Tracking Numbers / 
+
+Web Services: 
+
+Café: tracking nubmers / 
+
+FXCT: Needed the product code / 
+
+MISDIRECTS: needs .com / needs .com / 
+
+AHT Drivers: FXRS Close request parameter errors / FXRS services will not start / FXRS FSM Upgrade / 
+
+------------
+
+Cafe on FXRS: prior call ursa urgent / FSM Upgrade / 
+
+FXRS on Cafe: 

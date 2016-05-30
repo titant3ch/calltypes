@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 3:00 PM FXRS 4/19/2016
+
+FXRS: question about hard drive swap / rates / dg to pr / HealthCheck / International returns issue / 
+
+Web Services: service availabity / issues with account number / Rating issues / svc types / Test meter / Get production key / 
+
+Café: international MPS walkthrough / issues with rates / WAD / Escalated to SS / Signature request default / issues with FXI / write as deleted / rates / rev call / Comms Issue / Firewall / 
+
+FXCT: PK Request / 
+
+MISDIRECTS: needs ebay / rate quote / transferred to fedex.com support / transferred to DG hotline / needs .com / Dotcom / 
+
+AHT Drivers: Café WAD / Escalated to SS 50 min / FXRS Rating issues 31 min / FXRS HealthCheck 26 min / 
+
+------------
+
+Cafe on FXRS: HOST /CLIENT CONFIG / 
+
+FXRS on Cafe: 

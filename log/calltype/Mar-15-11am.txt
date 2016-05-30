@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 11:00 AM FXRS 3/15/2016
+
+FXRS: ursa / Event Viewer / Printer issue / fxct install / meter reloaded and configured error 2022 / Called for case number / general info for wis / change name on config page / Meter registration assist / Corrected rating transaction / register new meter / issues with scan guns / 
+
+Web Services: rates / Transaction assistance / Certification request / csp / Bad Password / wis consultation / WS Credential questions / 
+
+Café: Needs postal code for KR / communications issue / FXIA setting for MPS / 
+
+FXCT: Cust download FSM instead of FXCT / Configuration assistance / Compare against Invoice / 
+
+MISDIRECTS: needs intl cust serv / EDI Support / needs .com / transferred to dotcom / needs .com / 
+
+AHT Drivers: FXRS meter reloaded and configured error 2022 40 min / FXRS Transaction assistance 36 min / FXRS Configuration assistance 18 min / 
+
+------------
+
+Cafe on FXRS: tech ticket dead BPU / 
+
+FXRS on Cafe: 

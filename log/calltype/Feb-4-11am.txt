@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 11:00 AM FXRS 2/4/2016
+
+FXRS: V15 FSMS Product Code / Meter Registration Utility Inquiry / 
+
+Web Services: WIS Registration / Outbound/Return shipment processing / Web services certification process / Email Notification Inquiry (iSell) / 
+
+Café: Server/Client comms issue / 
+
+FXCT: FXCT Install / 
+
+MISDIRECTS: Fedex.com Transfer / Fedex.com Transfer / 
+
+AHT Drivers: FXRS Outbound/Return shipment processing 30m min / Café Server/Client comms issue 23m min / FXRS FXCT Install 22 min / 
+
+------------
+
+Cafe on FXRS: hazmat shipping / Update Sender Address / 
+
+FXRS on Cafe: 

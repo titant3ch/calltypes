@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 11:00 AM FXRS 11/19/2015
+
+FXRS: hourly upload issues / need to download URSA / ground pkg having to be swak / edit configuration / Invalid service type / Invalid service type / Commercial Invoice Not Printing / Calling for assistance w/ case# 397 / 
+
+Web Services: 
+
+Café: software download request / install new software assistance / GTA & restore default sender / 
+
+FXCT: FEDEX_FREIGHT could not be validate / 
+
+MISDIRECTS: 
+
+AHT Drivers: FXRS Calling for assistance w/ case# 397 60 min / FXRS Commercial Invoice Not Printing 48 min / FXRS hourly upload issues 21 min / 
+
+------------
+
+Cafe on FXRS: 
+
+FXRS on Cafe: 

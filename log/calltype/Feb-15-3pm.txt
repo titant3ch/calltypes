@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 3:00 PM FXRS 2/15/2016
+
+FXRS: 
+
+Web Services: issues with creds setup / Ground Not Enabled, Effecting SP / 
+
+Café: how to display acocunt / PK for CIC / ground call tag / 
+
+FXCT: PK for FXCT / 
+
+MISDIRECTS: 
+
+AHT Drivers: FXRS clean load 20 min / FXRS PK for FXCT 19 min / FXRS Validate acct info for key 13 min / 
+
+------------
+
+Cafe on FXRS: Validate acct info for key / issues with creating a shipment / cust wants callback / clean load / 
+
+FXRS on Cafe: 

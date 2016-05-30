@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 3:00 PM FXRS 4/16/2016
+
+FXRS: database log purge / 
+
+Web Services: cust disconencted / cust disconenct / drc reg / Residential Flag Assistance / web service credential assignment / needs login to .com first / dropoff type correction needed / 
+
+Café: prod key / 
+
+FXCT: 
+
+MISDIRECTS: 
+
+AHT Drivers: FXRS database log purge 12 min / FXRS dropoff type correction needed 12 min / FXRS web service credential assignment 8 min / 
+
+------------
+
+Cafe on FXRS: 
+
+FXRS on Cafe: 

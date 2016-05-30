@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 9:00 AM FXRS 2/11/2016
+
+FXRS: issues with printing / sp rates / Request To Assign Trk #'s by USER / Proxy settings blocked need IT / 
+
+Web Services: issues with auth error, bad pwd / cert req / 
+
+Café: Assisted AE on LTL info / adobe settings / issues with writing as deleted / Assisted w/HazMat enablement / Line Test / 
+
+FXCT: 
+
+MISDIRECTS: needs office / Cust. Svc. Transfer / 
+
+AHT Drivers: FXRS sp rates 45 min / FXRS Proxy settings blocked need IT 23 min / FXRS issues with auth error, bad pwd 12 min / 
+
+------------
+
+Cafe on FXRS: issues with printer tech ticket / Monitor Malfunction (Tech Ticket) / 
+
+FXRS on Cafe: 

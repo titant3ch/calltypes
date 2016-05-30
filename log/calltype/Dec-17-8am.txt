@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 8:00 AM FXRS 12/17/2015
+
+FXRS: no rates / 
+
+Web Services: Schema validation failed / 
+
+Café: URSA will not download / Unable to ship LTL / 
+
+FXCT: 
+
+MISDIRECTS: Package tracking / 
+
+AHT Drivers: Café URSA will not download 20 min / Café Unable to ship LTL 19 min / FXRS no rates 12 min / 
+
+------------
+
+Cafe on FXRS: 
+
+FXRS on Cafe: 

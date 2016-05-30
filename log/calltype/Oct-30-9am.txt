@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 9:00 AM FXRS 10/30/2015
+
+FXRS: Smartpost tracking numbers / 0 kb label / 
+
+Web Services: 
+
+Café: Restore FXI Integrator / it wont let me hit ship / 
+
+FXCT: 
+
+MISDIRECTS: dotcom / 
+
+AHT Drivers: FXRS Smartpost tracking numbers 10 min / Café it wont let me hit ship 10 min / Café Restore FXI Integrator 6 min / 
+
+------------
+
+Cafe on FXRS: 
+
+FXRS on Cafe: 

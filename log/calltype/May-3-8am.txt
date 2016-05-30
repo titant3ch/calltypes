@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 8:00 AM FXRS 5/3/2016
+
+FXRS: ursa comms astra / Cust request Database Swap / NO / CIC call drop / Meter registeration / Escalation of existing case ID / wis registration / Solution Type missing / 
+
+Web Services: tech ticket bad ZM400 / Install FXCT, generate code / 
+
+Café: Acct validation for FSM download / Database export / general reference / software download request / 
+
+FXCT: 
+
+MISDIRECTS: .COM / 
+
+AHT Drivers: FXRS tech ticket bad ZM400 40 min / FXRS Update software 38 min / FXRS ursa comms astra 35 min / 
+
+------------
+
+Cafe on FXRS: Update software / FXI lookup value missing FXI repair / 
+
+FXRS on Cafe: 

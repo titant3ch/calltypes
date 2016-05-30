@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 9:00 AM FXRS 2/1/2016
+
+FXRS: server not communicating / Switching from Test to Production / 
+
+Web Services: unaware of SHA2 change / WIS Registration / register for test credentials. / 
+
+Café: Express rates showing up "0" / 
+
+FXCT: fxct install / 
+
+MISDIRECTS: Fedex.com Transfer / Fedex.com Transfer / 
+
+AHT Drivers: FXRS CIC work request/cleanload -I proje 52 min / FXRS server not communicating 32 min / FXRS Switching from Test to Production 13 min / 
+
+------------
+
+Cafe on FXRS: CIC work request/cleanload -I proje / 
+
+FXRS on Cafe: 

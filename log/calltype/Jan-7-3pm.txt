@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 3:00 PM FXRS 1/7/2016
+
+FXRS: SHA-2 update / not able to download URSA / 
+
+Web Services: get their website setup / 
+
+Café: change the zip code / 
+
+FXCT: 
+
+MISDIRECTS: 
+
+AHT Drivers: FXRS not able to download URSA 40 min / FXRS no rates 20 min / FXRS SHA-2 update 10 min / 
+
+------------
+
+Cafe on FXRS: no rates / 
+
+FXRS on Cafe: 

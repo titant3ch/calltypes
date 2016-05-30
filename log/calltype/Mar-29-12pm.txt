@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 12:00 PM FXRS 3/29/2016
+
+FXRS: Empty Line / MRU Assist / Smartpost tracking / 
+
+Web Services: Test Creds / Rating Issue / WIS certification / Shiprush / Rate error with the front end / Rating Issue / Rates for smartpost / SP Rating / 
+
+Café: FXIA Stopped Working / Return Address Questions / Printer setup / Scale freezes / Need to add a commodities / override pref / 
+
+FXCT: Pickup Fee / FXCT / 
+
+MISDIRECTS: Revenue Transfer / 
+
+AHT Drivers: FXRS Rating Issue 46 min / FXRS FXI Failed upgrade 20 min / FXRS Rating Issue 20 min / 
+
+------------
+
+Cafe on FXRS: FXI Failed upgrade / 
+
+FXRS on Cafe: 

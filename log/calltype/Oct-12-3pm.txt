@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 3:00 PM FXRS 10/12/2015
+
+FXRS: 
+
+Web Services: 
+
+Café: Installed new host for clients / FXIA and Database template assist / hungup / comms / FXIA greyed out / EIN issues / new software install / tech ticket for printer / 
+
+FXCT: 
+
+MISDIRECTS: needed to run FRO / to dot.com / to dot.com / 
+
+AHT Drivers: Café Installed new host for clients 42 min / Café FXIA greyed out 38 min / FXRS not printing labels after upgrade 37 min / 
+
+------------
+
+Cafe on FXRS: network client / not printing labels after upgrade / 
+
+FXRS on Cafe: 

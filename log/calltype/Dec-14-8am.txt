@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 8:00 AM FXRS 12/14/2015
+
+FXRS: 
+
+Web Services: getting setup for web services / 
+
+Café: 
+
+FXCT: 
+
+MISDIRECTS: dotcom / dotcom / 
+
+AHT Drivers: FXRS Configure client 30 min / FXRS getting setup for web services 8 min / FXRS dotcom 4 min / 
+
+------------
+
+Cafe on FXRS: Configure client / 
+
+FXRS on Cafe: 

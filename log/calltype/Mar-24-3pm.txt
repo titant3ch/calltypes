@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 3:00 PM FXRS 3/24/2016
+
+FXRS: issue with test server / Duties and Taxes / 
+
+Web Services: register for credentials / Certification / 
+
+Café: Assisted CIC w/Acct. / -i integration label missing barcode / Assist w/LTL BOL / DG issue / Assist w/Sat. Delivery / ETD turn on / Import fxa / J# repair / 
+
+FXCT: Add LTL account / 
+
+MISDIRECTS: ltl freight / .com / Dot Com Transfer / Dotcom / *7 Call Transfer to Dot Com / Dot.com / 
+
+AHT Drivers: FXRS Duties and Taxes 90 min / FXRS FXIA Assist 46 min / FXRS issue with test server 45 min / 
+
+------------
+
+Cafe on FXRS: Out of Tracking #'s/DD / FXIA Assist / .NET Framework Update / 
+
+FXRS on Cafe: 

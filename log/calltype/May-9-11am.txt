@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 11:00 AM FXRS 5/9/2016
+
+FXRS: issues with sp transactions / transaction specs for collect ground / expired ursa / postal mate issues / Confirm that URSA is updated / Troubleshoot communications / 
+
+Web Services: comms / rates / issues with ebay / Get production credentials / issues with zip in South Korea / rates / Certification started / 
+
+Café: LTL rates download / COD shipment / Help with FXIA / Pkgs writing as deleted / issues with China zip / issues with new software install / Validation for DW download/product key / EEI filing / Reprint label copies / 
+
+FXCT: adding a freight account / adding a freight account / 
+
+MISDIRECTS: Needed Canada CS / to customer service / Bad transfer / 
+
+AHT Drivers: FXRS issues with sp transactions 83 min / FXRS rates 60 min / FXRS postal mate issues 24 min / 
+
+------------
+
+Cafe on FXRS: issues with incorrect ip on client / 
+
+FXRS on Cafe: 

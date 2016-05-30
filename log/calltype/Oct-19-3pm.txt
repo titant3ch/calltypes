@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 3:00 PM FXRS 10/19/2015
+
+FXRS: mopve to prod and other stuff / Incorrect/missing label data / 
+
+Web Services: 
+
+Café: setup defaults / issues with PR return shipment / Tech ticket dialup system bad modem / MPS / smartpost and ltl / tech ticket dead ZP505 / international shipment / rates on returns / printer tech ticket / 
+
+FXCT: 
+
+MISDIRECTS: to dot.com / needed another dept / to dot.com / needed Rev Svcs / needed fedex.com / to dot.com / Dotcom Transfer / 
+
+AHT Drivers: FXRS mopve to prod and other stuff 28 min / WIS creds setup and cert setup 26 min / Café smartpost and ltl 25 min / 
+
+------------
+
+Cafe on FXRS: NC transfer Writing as deleted / 
+
+FXRS on Cafe: 

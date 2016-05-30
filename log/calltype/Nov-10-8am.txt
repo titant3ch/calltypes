@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 8:00 AM FXRS 11/10/2015
+
+FXRS: hardware printer / 
+
+Web Services: outtage / 
+
+Café: 
+
+FXCT: 
+
+MISDIRECTS: 
+
+AHT Drivers: FXRS Updated their server needed mapping 12 min / FXRS FXI is not working 10 min / WIS Transaction error 10 min / 
+
+------------
+
+Cafe on FXRS: FXI is not working / Updated their server needed mapping / printer not working / 
+
+FXRS on Cafe: 

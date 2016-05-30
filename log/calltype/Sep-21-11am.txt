@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 11:00 AM FXRS 9/21/2015
+
+FXRS: printer tech tix / fedex shipmanager keep crashing / cod surcharge incorrect. / call back on ss case / 
+
+Web Services: register for production / how to set it up / drc reg / question about web services / question if test server is up / 
+
+Café: New software install / FXIA setup lost call / new software install / FXIA profile assistance / fxi cic needed / Issues with rates 10 and visual J / softare ddl req / cic onsite 2910 write delete escala / payment type / writing as deleted 2910 escalate / val req failed / select printer.and test / tsr fxia greyed out after upgrade / 
+
+FXCT: removing the account / new FXCT install / 
+
+MISDIRECTS: Rev services / to dot.com / to billing / dotcom / FPOS support / .com / 
+
+AHT Drivers: Café FXIA profile assistance / FXRS cod surcharge incorrect. / Café tsr fxia greyed out after upgrade / 
+
+------------
+
+Cafe on FXRS: setting up the FXIA profile. / configuring software / no svc types / 
+
+FXRS on Cafe: 

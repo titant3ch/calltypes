@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 8:00 AM FXRS 4/13/2016
+
+FXRS: Error from LTL shipment / Rate giving wrong service type / 
+
+Web Services: alt sender address / drc cert / Test Creds / Error 1000 / customer disconnect / cert info / WIS Cert Request / WIS Cert Request / 
+
+Café: reprint label / turn off eod reports / Reports configuration / Install software / 
+
+FXCT: 
+
+MISDIRECTS: Reports / needs intl cust serv / 
+
+AHT Drivers: FXRS Test Creds 15 min / FXRS WIS Cert Request 10 min / FXRS WIS Cert Request 10 min / 
+
+------------
+
+Cafe on FXRS: Unable to select services / printer set up assistance / international shipment commodity help / printer issue / 
+
+FXRS on Cafe: 

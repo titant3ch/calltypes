@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 2:00 PM FXRS 5/16/2016
+
+FXRS: batch shipment / custom label approval / invalid weight / 
+
+Web Services: Get production credentials / issues with new setup / needed transit time confirmed / questions about outage / failure  report / 
+
+Café: printer issue / 
+
+FXCT: 
+
+MISDIRECTS: to dot.com / transferred to fedex.com / .com / .com / Bad transfer from dot.com / xfer to fedex office / 
+
+AHT Drivers: FXRS AVG ate AppEngGUI.exe 54 min / FXRS Get production credentials 13 min / FXRS batch shipment 13 min / 
+
+------------
+
+Cafe on FXRS: FXI delta failed upgrade / tech ticket dead Cafe HDD / AVG ate AppEngGUI.exe / printer / 
+
+FXRS on Cafe: 

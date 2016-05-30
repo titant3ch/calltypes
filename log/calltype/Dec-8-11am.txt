@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 11:00 AM FXRS 12/8/2015
+
+FXRS: printer issue / smartpost address / invalid zip code for SP / account number not found / liechtenstein having to be relabel / 
+
+Web Services: drc reg / certification documentation request / Transaction Errors / 
+
+Café: how to look at ETD / 
+
+FXCT: fxct batch ltl / admin rights / installing / ltl fxct / 
+
+MISDIRECTS: domestic / dotcom / 
+
+AHT Drivers: FXRS Commercial invoice not printing 60 min / FXRS invalid zip code for SP 48 min / FXRS Transaction Errors 18 min / 
+
+------------
+
+Cafe on FXRS: Commercial invoice not printing / Print Specific Report Walkthrough / 
+
+FXRS on Cafe: 

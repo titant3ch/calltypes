@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 11:00 AM FXRS 10/28/2015
+
+FXRS: check account meter match / 
+
+Web Services: Cert Request / drc reg / 
+
+Café: printer issue / customer dropped in transfer / commercial invocie / printer tech / LTL setup / forced upgrade interupted / ZP500 bad-out-of-box / 
+
+FXCT: 
+
+MISDIRECTS: from cust service to dot.com / 
+
+AHT Drivers: Café forced upgrade interupted 55 min / FXRS FXIA and ETD 27 min / Café ZP500 bad-out-of-box 26 min / 
+
+------------
+
+Cafe on FXRS: FXIA and ETD / 
+
+FXRS on Cafe: 

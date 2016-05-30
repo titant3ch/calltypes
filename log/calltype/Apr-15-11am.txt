@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 11:00 AM FXRS 4/15/2016
+
+FXRS: System time in Server / Upgrade to 1501 / 
+
+Web Services: ae cert questions / Shipping question / needs something extra on front end / commodities to puerto rico / 
+
+Café: Questions about zp 505 printer / transfer to Beta team / 
+
+FXCT: LTL freight rate quote trouble / 
+
+MISDIRECTS: Wrong que Printer issue / 
+
+AHT Drivers: FXRS BPU Tech Ticket 23 min / FXRS Upgrade to 1501 21 min / FXRS LTL freight rate quote trouble 15 min / 
+
+------------
+
+Cafe on FXRS: BPU Tech Ticket / Client opening the FXCT not the FSM / 
+
+FXRS on Cafe: 

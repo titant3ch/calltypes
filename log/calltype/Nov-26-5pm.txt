@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 5:00 PM FXRS 11/26/2015
+
+FXRS: Communication issues / Ursa expired / Rates expired for express / 
+
+Web Services: 
+
+Café: 
+
+FXCT: 
+
+MISDIRECTS: 
+
+AHT Drivers: FXRS Ursa expired 25 min / FXRS Rates expired for express 15 min / FXRS Communication issues 10 min / 
+
+------------
+
+Cafe on FXRS: Printing to ship list as deleted / 
+
+FXRS on Cafe: 

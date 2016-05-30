@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 3:00 PM FXRS 3/7/2016
+
+FXRS: expired ursa on test xystem / Invalid Tracking Range Not Loaded / Incorrect Rates / Empty Line/Disconnect / disconect / Openship services not running / 
+
+Web Services: Asking when Cert Emails should arrive / Test Creds registration / bad input data / cert request / BOL not used. / Wanted to know if dot.com log in needed / drc cert req / SmartPost not showing up as an option / Get creditials / drc cert / issues with express rating / issues with creds / Needed to get a new LTL account / Enabled AV per cust. Request / Certification request / drc reg / CAT member disconnected / issues with billing address / consultation request / Install zp 500 / 
+
+Café: tls email. / disconnect / No rates dl rates / 
+
+FXCT: FXCT INSTALL AND CONFIGURE ACCOUNTS / 
+
+MISDIRECTS: needs .com / needs .com / needs cust serv / to LTL customer service / Customer service call / Fedex.com Transfer / needs .com / Transfer to Dot Com / ACE Customer / Email Label / Dotcom Transfer / 
+
+AHT Drivers: FXRS Openship services not running 64 min / FXRS Incorrect Rates 60 min / FXRS SmartPost not showing up as an option 60 min / 
+
+------------
+
+Cafe on FXRS: -i intergration  errors / printer issue / Hardware Removal / FXIA Configuration / Software Validation / Writing to Shipping List as Deleted issu / 
+
+FXRS on Cafe: 

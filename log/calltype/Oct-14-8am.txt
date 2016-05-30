@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 8:00 AM FXRS 10/14/2015
+
+FXRS: enable ETD / 
+
+Web Services: Rates not the same / 
+
+Café: 
+
+FXCT: 
+
+MISDIRECTS: dotcom / Misdirect / 
+
+AHT Drivers: FXRS Rates not the same 12 min / FXRS enable ETD 5 min / FXRS dotcom 3 min / 
+
+------------
+
+Cafe on FXRS: 
+
+FXRS on Cafe: 

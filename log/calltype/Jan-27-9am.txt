@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 9:00 AM FXRS 1/27/2016
+
+FXRS: Needed to have chux turned off / expired date in rate table, invalid / questions about smartpost and rates / 
+
+Web Services: issues with AES code / Origin of rates / 
+
+Café: CIC product code / doc tabs / printer misaligned / 
+
+FXCT: 
+
+MISDIRECTS: 
+
+AHT Drivers: FXRS Needed to have chux turned off 18 min / FXRS expired date in rate table, invalid 16 min / FXRS URSA expired 12 min / 
+
+------------
+
+Cafe on FXRS: URSA expired / stuck cafe load / 
+
+FXRS on Cafe: 

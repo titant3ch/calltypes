@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 1:00 PM FXRS 4/26/2016
+
+FXRS: TransEdit Fields / Bad Account Registration / Line test / etd to mexico / add acct to server / TLS update patch questions / error on front end / Unable to register child meter / issues with international rates / issues with printer setup tech / Turn on Gnd 1D / Error -39 rates expired / 
+
+Web Services: wis registration / cust need the smartpost hub ID / DRC Registration / Tracking with WIS / Needed information about cert process / Register for credentials. / issues with getting creds / wanted to know what their key was / rate questions / drc reg / ShipStation CSP setup / 
+
+Café: Disconnect before transfer / TSR Request for BPU / Printer not printing / disconnect / Air Freight Assist / TSR Request via AE / 2844 printer install / Reports from the software / hazmat shipping label assistance / Wanted to add ltl acct to system / issues with new software install / issues with email return labels / issue with zp 2844. / fxi / new software setup / install zp 505/rate issues / issues with EOD reports / issues with return rates / Int'l DG to CA / 
+
+FXCT: new setup / Batch rating / 
+
+MISDIRECTS: Domestic / Pickup / Cust Service / Domestic / to dot.com / to dot.com / Dot.com / 
+
+AHT Drivers: FXRS Unable to register child meter 65 min / Café install zp 505/rate issues 51 min / Café 2844 printer install 40 min / 
+
+------------
+
+Cafe on FXRS: needs fxia and web serv / software req / comms uplaods / FXIA Intergration / issue communication/internet down / host/client issue had to reset network / Tax ID needed / OMX scale not working / 
+
+FXRS on Cafe: 

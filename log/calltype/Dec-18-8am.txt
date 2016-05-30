@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 8:00 AM FXRS 12/18/2015
+
+FXRS: Expired rates / .net error installing 1404 / not uploading files / 
+
+Web Services: incorrect rates for Freight / cert request / 
+
+Café: 
+
+FXCT: 
+
+MISDIRECTS: dotcom / 
+
+AHT Drivers: FXRS Expired rates 25 min / FXRS incorrect rates for Freight 22 min / FXRS .net error installing 1404 9 min / 
+
+------------
+
+Cafe on FXRS: 
+
+FXRS on Cafe: 

@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 8:00 AM FXRS 4/22/2016
+
+FXRS: Line test / Weight rates to high / Wis registration / 
+
+Web Services: Needs Creds / Start certification process / Printer Install / Cert Request / DRC Reg / what can drc do / 
+
+Café: ShipEngine services not running (client) / Line test / Printing LTL labels / 
+
+FXCT: 
+
+MISDIRECTS: transferred to Canada cust service / Customer service / Dot.com support / needs cust serv / 
+
+AHT Drivers: Café ShipEngine services not running (client) 30 min / FXRS Printer Install 30 min / Café Printer setup 15 min / 
+
+------------
+
+Cafe on FXRS: 
+
+FXRS on Cafe: Printer setup / 

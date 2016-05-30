@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 3:00 PM FXRS 10/21/2015
+
+FXRS: 
+
+Web Services: register for production / 
+
+Café: bad zip / install & restore from backup / needed dims for cylinder shipment / Passport svc type for IE needed / Restore AB from backup / Change sender info / Print shipment reports on MAMMs / FR CAFE /Assist w/printer issue / 
+
+FXCT: error when register / 
+
+MISDIRECTS: needed fedex.com InSight / 
+
+AHT Drivers: FXRS error when register 35 min / Café install & restore from backup 31 min / Café Restore AB from backup 25 min / 
+
+------------
+
+Cafe on FXRS: IE script error / software will not load / 
+
+FXRS on Cafe: 

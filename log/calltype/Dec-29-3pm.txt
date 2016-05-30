@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 3:00 PM FXRS 12/29/2015
+
+FXRS: server keep turn back to 1D / Assisted CIC w/SP Delcon #'s ? / Health check / 
+
+Web Services: Multi weight / 
+
+Café: commodity ID / 
+
+FXCT: rates not matching FSM / 
+
+MISDIRECTS: dotcom / dotcom / 
+
+AHT Drivers: FXRS Health check 55 min / FXRS server keep turn back to 1D 25 min / FXRS Assisted CIC w/SP Delcon #'s ? 21 min / 
+
+------------
+
+Cafe on FXRS: CIC Work Request/Site Visit Req / 
+
+FXRS on Cafe: 

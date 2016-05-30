@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 3:00 PM FXRS 4/9/2016
+
+FXRS: 
+
+Web Services: Customer wanted Rate Tables / WIS Registration / new creds setup / 3rd party developer required / issues with labels / 
+
+Café: Multi-package shipment creation / failed installation ( server ) / FXIA Mapping / FXIA and End of Day Assistance / Adding Recipients To Address Book / Network Client IP Address Update / new install request / FSM P-Key Validation / Fsm Installation Questions / unknown, customer released unexpectedly / 
+
+FXCT: 
+
+MISDIRECTS: customer support / 
+
+AHT Drivers: Café failed installation ( server ) 25 min / Café FXIA Mapping 21 min / FXRS WIS Registration 12 min / 
+
+------------
+
+Cafe on FXRS: 
+
+FXRS on Cafe: 

@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 8:00 AM FXRS 3/24/2016
+
+FXRS: HUF not uploading / 1D not printing / Z4m printer poor print quality / 
+
+Web Services: 
+
+Café: Error srv type selected not available / zp 500 out of alignment / Writing as deleted / software download request / 
+
+FXCT: 
+
+MISDIRECTS: 
+
+AHT Drivers: FXRS 1D not printing 30 min / FXRS HUF not uploading 26 min / FXRS Ran update on dash i 15 min / 
+
+------------
+
+Cafe on FXRS: Ran update on dash i / SQL import assistance / 
+
+FXRS on Cafe: 

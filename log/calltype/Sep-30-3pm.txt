@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 3:00 PM FXRS 9/30/2015
+
+FXRS: oversize surcharge / printer setup / 
+
+Web Services: request for printer replaces / Get a production code / 
+
+Café: Admin Svc Not Started/CIC Wk Reques / EOD reports / backup and restore / failed upgrade and comms / Assisted w/script error/known issue / 
+
+FXCT: 
+
+MISDIRECTS: 
+
+AHT Drivers: Café Admin Svc Not Started/CIC Wk Reques 45 min / FXRS printer setup 33 min / FXRS Stuck on initializing 30 min / 
+
+------------
+
+Cafe on FXRS: Stuck on initializing / 
+
+FXRS on Cafe: 

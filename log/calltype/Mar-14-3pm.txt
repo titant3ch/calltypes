@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 3:00 PM FXRS 3/14/2016
+
+FXRS: SmartPost / Failed to add account / Non-comm meter / SP DC #s allocation / Non Rev Account / Deleted TRK tracking / unable to register meter / Account number missing error / Expired rates / International dry ice shipment / 
+
+Web Services: Lost Call / Transfer from Dotcom / Firewall / new creds setup / SmartPost HUB ID / Certification / Internal Server Error 500 / issues with password / AV Enablement / AgileShip / Default Service Type / 
+
+Café: Empty Line / writing as deleted / Add sender email / issues with service / email return labels / prod key request / Shipments auto-deleting no lables / Run CSTD report / Return label issue / No express rate on doc tab / client lost comm with host / needed help reprinting BOL / GCT upload / Shipping history / Assisted w/drop-ship Return Address / Time it takes to ship / Advised FXI / assisted with database import / DG / Service Type Limitation / Email Label support / issues with hazmat labels / Update Account Details / issues with rates / Database backup and restore / 
+
+FXCT: issues with LTL rates / 
+
+MISDIRECTS: French WIS / Customer service / needs .com / to dot.com from customer service / Needs new acct setup / needed fedex.com / Transferred to dotcom / Wrong que dot.com / Dot.com / to dot.com / to customer service / to dot.com / needed fedex.com / Dotcom Transfer / 
+
+AHT Drivers: Café writing as deleted 54 min / FXRS SmartPost / Failed to add account 50 min / FXRS Expired rates 46 min / 
+
+------------
+
+Cafe on FXRS: Update sender info / Acct validation / writing as deleted client / issues with rates / Transfer to tis / Failed FSM Upgrade/Assisted / TSR Request for print head / 
+
+FXRS on Cafe: 

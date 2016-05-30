@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 2:00 PM FXRS 5/17/2016
+
+FXRS: prod to test / End of day close / 
+
+Web Services: wis consult on sign options / Assisted w/Missing Prod. Password / smartpost / DRC registration / 
+
+Café: Integration issue / 
+
+FXCT: install / install / 
+
+MISDIRECTS: Dot Com Transfer / ShipRush Misdirect / 
+
+AHT Drivers: FXRS Assisted w/Missing Prod. Password 36 min / FXRS End of day close 21 min / FXRS writing as deleted 20 min / 
+
+------------
+
+Cafe on FXRS: bad modem / writing as deleted / netwoarkclientconfig / 
+
+FXRS on Cafe: 

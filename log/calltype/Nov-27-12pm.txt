@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 12:00 PM FXRS 11/27/2015
+
+FXRS: 
+
+Web Services: 
+
+Café: 
+
+FXCT: 
+
+MISDIRECTS: 
+
+AHT Drivers: WIS Credential registration 11 min / WIS Authentication Failure 10 min / WIS WIS Registration 5 min / 
+
+------------
+
+Cafe on FXRS: 
+
+FXRS on Cafe: 

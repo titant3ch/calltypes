@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 12:00 PM FXRS 9/30/2015
+
+FXRS: dotcom / smartpost / 
+
+Web Services: invalid postal code for internation / cert request / 
+
+Café: list rates / tech request for printer / issues with close / logo not printing on label / 
+
+FXCT: 
+
+MISDIRECTS: to customer service / dotcom / 
+
+AHT Drivers: FXRS Windows 8.1-v2910 printer problem 45 min / WIS new creds setup 33 min / Café issues with close 26 min / 
+
+------------
+
+Cafe on FXRS: fxi wrong data invalid phone / declared value / Windows 8.1-v2910 printer problem / scale / comms / 
+
+FXRS on Cafe: 

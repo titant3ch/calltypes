@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 8:00 AM FXRS 4/6/2016
+
+FXRS: issues with Korea postal / Need product code did not know Version / Rates Not Implemented / Comm issue / Tracking numbers issue / 
+
+Web Services: 
+
+Café: 
+
+FXCT: 
+
+MISDIRECTS: 
+
+AHT Drivers: FXRS issues with Korea postal 22 min / FXRS Tracking numbers issue 16 min / Café FSM Server Not Found Upon Launch 13 min / 
+
+------------
+
+Cafe on FXRS: 
+
+FXRS on Cafe: FSM Server Not Found Upon Launch / 

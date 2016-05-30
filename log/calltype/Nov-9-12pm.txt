@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 12:00 PM FXRS 11/9/2015
+
+FXRS: disconenct / fron t end wont ship / not process shipment on one meter / MRU & meter migration / 
+
+Web Services: process international shipments / webv serv csp inquiry / 
+
+Café: issues with LP2844 setup / cant ddl ground acct, web serv bloc / ursa and comms / cic new install / reset label format / Failed update / setup LTL acct / 
+
+FXCT: installing on windows 10 / 
+
+MISDIRECTS: needed fedex.com / to dot.com / to dot.com / 
+
+AHT Drivers: Café Failed update 150 min / Café cant ddl ground acct, web serv bloc 52 min / WIS issues with rate reqeusts 37 min / 
+
+------------
+
+Cafe on FXRS: issues with LTL shipping / request for software / request for software / 
+
+FXRS on Cafe: 

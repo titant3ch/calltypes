@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 10:00 AM FXRS 1/8/2016
+
+FXRS: out of tracking numbers / update contact info / 
+
+Web Services: cert inquiry / drc reg and cert questions / cert request / 
+
+Café: 
+
+FXCT: 
+
+MISDIRECTS: 
+
+AHT Drivers: FXRS drc reg and cert questions 25 min / FXRS cert inquiry 14 min / FXRS FXI export 11 min / 
+
+------------
+
+Cafe on FXRS: FXI export / out of tracking numbers ground / defaults / enable smartpsot / 
+
+FXRS on Cafe: 

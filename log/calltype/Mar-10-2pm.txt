@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 2:00 PM FXRS 3/10/2016
+
+FXRS: ship manager service failed / Admin service issue / International meter numbers / 
+
+Web Services: WIS/fedex.com outage / WIS/fedex.com outage / Cert Inquiry / Answered ? re: TLS e-mail / WIS/fedex.com outage / WIS/fedex.com outage / WIS/fedex.com outage / WIS/fedex.com outage / WIS/fedex.com outage / WIS/fedex.com outage / Test Creds / 
+
+Café: FSM won't launch / Assisted w/Setting Defaults / 
+
+FXCT: 
+
+MISDIRECTS: Dotcom / Dotcom / Dotcom / Dotcom / Dotcom / Domestic Transfer / Pickup / Dotcom Disruption / 
+
+AHT Drivers: FXRS International meter numbers 82 min / Café FSM won't launch 50 min / FXRS ship manager service failed 45 min / 
+
+------------
+
+Cafe on FXRS: ZP505 setup / 
+
+FXRS on Cafe: 

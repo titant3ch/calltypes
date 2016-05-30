@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 3:00 PM FXRS 11/5/2015
+
+FXRS: Communications on 0774 / Unable to load pcindex.tbl / no reference fields / 
+
+Web Services: printing label on 3rd party website / 
+
+Café: Disconnected / Verify Version / Integration Questions / Update Sender Info / 
+
+FXCT: 
+
+MISDIRECTS: 
+
+AHT Drivers: FXRS Communications on 0774 150 min / FXRS Unable to load pcindex.tbl 20 min / Café Update Sender Info 15 min / 
+
+------------
+
+Cafe on FXRS: not able to register software / 
+
+FXRS on Cafe: 

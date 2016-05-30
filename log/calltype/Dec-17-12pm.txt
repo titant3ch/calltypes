@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 12:00 PM FXRS 12/17/2015
+
+FXRS: download rates / Comm issue cust will cb / 
+
+Web Services: certification / Certification / Registration / 
+
+Café: Acct validation for new install / Adjust EOD Close reports processing / Change sender contact / FXIA field length issue / Clean load CIC Hardware / software will not load up / custom labels / freight labels LTL / needed fedex.com GTM / 
+
+FXCT: 
+
+MISDIRECTS: dotcom / dotcom / needed fedex.com / needed fedex.ca / 
+
+AHT Drivers: Café Clean load CIC Hardware 60+ min / Café custom labels 25 min / FXRS FXIA setup 18 min / 
+
+------------
+
+Cafe on FXRS: FXIA setup / 
+
+FXRS on Cafe: 

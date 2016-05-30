@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 9:00 AM FXRS 1/22/2016
+
+FXRS: testing cic line / labels set to 1D / issues with comms / Turn 1D off / 
+
+Web Services: Label cert info request / 
+
+Café: install zebra printer / 
+
+FXCT: 
+
+MISDIRECTS: cust service call / dot com caller / 
+
+AHT Drivers: FXRS Turn 1D off 21 min / Café install zebra printer 19 min / FXRS issues with comms 15 min / 
+
+------------
+
+Cafe on FXRS: tech tix printer / 
+
+FXRS on Cafe: 

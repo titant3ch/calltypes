@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 8:00 AM FXRS 10/23/2015
+
+FXRS: upgrading to 1207 from 1069 / 
+
+Web Services: address validation on 3rd party / 
+
+Café: International MPS  assist / 
+
+FXCT: restore the backup on FXCT / 
+
+MISDIRECTS: dotcom / 
+
+AHT Drivers: Café International MPS  assist 30 min / FXRS upgrading to 1207 from 1069 15 min / FXRS Wrong mailing LTL 10 min / 
+
+------------
+
+Cafe on FXRS: Wrong mailing LTL / not able to select service type / 
+
+FXRS on Cafe: 

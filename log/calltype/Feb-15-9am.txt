@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 9:00 AM FXRS 2/15/2016
+
+FXRS: Line Test / jar jar / disconenct / 
+
+Web Services: Printer replaced. / 
+
+Café: 
+
+FXCT: 
+
+MISDIRECTS: 
+
+AHT Drivers: FXRS jar jar 10 min / FXRS Printer replaced. 4 min / FXRS Line Test 1 min / 
+
+------------
+
+Cafe on FXRS: 
+
+FXRS on Cafe: 

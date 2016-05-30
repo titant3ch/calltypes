@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 8:00 AM FXRS 12/10/2015
+
+FXRS: 
+
+Web Services: 
+
+Café: installing old version / freezes on more than 3 pkgs / 
+
+FXCT: 
+
+MISDIRECTS: 
+
+AHT Drivers: Café freezes on more than 3 pkgs 23 min / Café installing old version 8 min / FXRS request for software 7 min / 
+
+------------
+
+Cafe on FXRS: request for software / 
+
+FXRS on Cafe: 

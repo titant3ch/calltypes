@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 3:00 PM FXRS 10/2/2015
+
+FXRS: Answered CIC ? re: Expired URSA / reference field issues / 
+
+Web Services: 
+
+Café: backup/restore / 
+
+FXCT: 
+
+MISDIRECTS: to customer service / 
+
+AHT Drivers: FXRS CAFE Cleanload 35 min / FXRS reference field issues 35 min / WIS CSP creds setup sent to ss 28 min / 
+
+------------
+
+Cafe on FXRS: CAFE Cleanload / LTL 3party shipping / 
+
+FXRS on Cafe: 

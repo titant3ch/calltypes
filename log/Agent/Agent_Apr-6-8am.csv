@@ -1,0 +1,45 @@
+Reported Calls for: Apr-6-8am
+
+Agent, Computer Name, Duration of Call, LOB, Type, Message,
+rmcneil,ausrcwa059,136 min,Café,Café,Windows10
+rhagemann,ausrca0054,125 min,Café,Café,Rating Issue / Clean Load
+rhagemann,ausrca0054,50 min,Café,Café,Clean Load Required
+jpinion,ausrca0056,40 min,Café,Café,issues with update and cleanload
+dneal,ausrca0098,32 min,FXRS,FSMS,download rates on test server
+dneal,ausrca0098,18 min,Café,Café,Communications issue
+rhagemann,ausrca0054,18 min,FXRS,Café,IATA
+sroberts,ausrca0074,16 min,FXRS,WIS,Assisted w/Web Svcs Rates Issue
+rmcneil,ausrcwa059,16 min,FXRS,FSMS,Invalid tracking range
+wcrosby,ausrca0071,15 min,FXRS,WIS,certification process
+rmcneil,ausrcwa059,15 min,Café,Café,URSA expired
+rmcneil,ausrcwa059,15 min,FXRS,WIS,Need DRC
+dneal,ausrca0098,14 min,FXRS,FSMS,DRC registration
+rhagemann,ausrca0054,14 min,FXRS,FSMS,Tracking Range / Unable to GTA
+jpinion,ausrca0056,14 min,FXRS,FSMS,issues with barcodes
+dneal,ausrca0098,12 min,FXRS,WIS,drc registration
+dneal,ausrca0098,11 min,Café,Café,return shipment
+jpinion,ausrca0056,11 min,FXRS,WIS,issues with error 1000
+rhagemann,ausrca0054,11 min,FXRS,Café,End of Day / Restart Services
+jpinion,ausrca0056,10 min,FXRS,WIS,issues with printing shipping labels
+jpinion,ausrca0056,10 min,FXRS,WIS,cert request
+jpinion,ausrca0056,10 min,FXRS,WIS,new creds
+jpinion,ausrca0056,9 min,FXRS,FXCT,issues with LTL rating
+jpinion,ausrca0056,9 min,Café,Café,issues with new install
+rhagemann,ausrca0054,9 min,FXRS,WIS,Issues with Service Type
+rmcneil,ausrcwa059,8.2 min,FXRS,WIS,Get rates on web site
+rmcneil,ausrcwa059,8.1 min,FXRS,FSMS,Comm setup URSA download
+jpinion,ausrca0056,8 min,Café,Café,new software install
+rhagemann,ausrca0054,8 min,Café,Café,Failed Validation
+dneal,ausrca0098,7 min,Café,Café,Configuration
+gdeharo,ausrca0227,7 min,Café,Café,zebra 2844 printer broken
+jpinion,ausrca0056,5 min,FXRS,FSMS,issues with HUFs
+dneal,ausrca0098,5 min,Café,Café,New Install request
+rmcneil,ausrcwa059,3.1 min,FXRS,Misdirect,FBO
+wcrosby,ausrca0071,3 min,FXRS,Misdirect,ltl freight
+jpinion,ausrca0056,3 min,FXRS,Misdirect,to customer service
+gdeharo,ausrca0227,3 min,FXRS,Misdirect,dot com caller
+rmcneil,ausrcwa059,2.4 min,FXRS,Misdirect,Wrong que
+jpinion,ausrca0056,2 min,FXRS,FSMS,dropped call
+rhagemann,ausrca0054,2 min,FXRS,FSMS,Printer Return
+rmcneil,ausrcwa059,2 min,FXRS,Misdirect,Wrong que
+rmcneil,ausrcwa059,1.5 min,FXRS,Misdirect,Return ship

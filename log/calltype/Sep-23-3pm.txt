@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 3:00 PM FXRS 9/23/2015
+
+FXRS: health check / WIS Registration / FXCT Installation / comms / Issue with zip code / 
+
+Web Services: general questions web services / hung up / drc reg / 
+
+Café: tracking number tester / CIC Work Request/New Install / Comm/EPDI Issue / printer setup / fxia / issues with address / Assisted w/BOL print issue. / rates, unable to download j# repair / 
+
+FXCT: installing from restore / 
+
+MISDIRECTS: dot com caller / dot com caller / Transfer to Dot Com / Transfer to New Accounts / from dot.com back to dot.com / international customer service / 
+
+AHT Drivers: FXRS repair 2910 pkgs write as deleted 38 min / FXRS 1606 Error when upgrading 32 min / FXRS health check 27 min / 
+
+------------
+
+Cafe on FXRS: repair 2910 pkgs write as deleted / Dimensions DB / PDF / 1606 Error when upgrading / change the printer / change importer of record / upgrade FSM to get client .exe / printer install / 
+
+FXRS on Cafe: 

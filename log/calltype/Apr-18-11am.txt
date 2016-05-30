@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 11:00 AM FXRS 4/18/2016
+
+FXRS: misdirect to dotcom / line test / services dead, re-installation needed / Issue with bill 3rd party transaction / Need to add a child meter / Printer Issue / services won't start updated regedit / 
+
+Web Services: iSell Escalation / Test API Outage / Register for credentials / Rates incorrect / issues with CIs and consignee lables / wanted to get address validation enabled / WIS certification request / issues with printer drivers / 
+
+Café: 
+
+FXCT: add ltl account / Ace account / Install / 
+
+MISDIRECTS: Dotcom Email Label / to dot.com / needs .com / needed fedex.com Ship Admin / 
+
+AHT Drivers: FXRS services won't start updated regedit 37 min / FXRS wanted to get address validation enabled 18 min / FXRS WIS certification request 15 min / 
+
+------------
+
+Cafe on FXRS: ZP505 not printing correctly / issues with service type / 
+
+FXRS on Cafe: 

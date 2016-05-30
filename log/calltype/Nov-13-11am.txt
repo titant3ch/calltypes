@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 11:00 AM FXRS 11/13/2015
+
+FXRS: health check on 3 servers / 
+
+Web Services: where do i put my creds / register with out account number / 
+
+Café: FedEx Ship Manager has encountered / Line test / 
+
+FXCT: 
+
+MISDIRECTS: needs cust serv / 
+
+AHT Drivers: FXRS health check on 3 servers 35 min / Café FedEx Ship Manager has encountered 30 min / FXRS Failed install of 2912 14 min / 
+
+------------
+
+Cafe on FXRS: dg to mexico / Failed install of 2912 / 
+
+FXRS on Cafe: 

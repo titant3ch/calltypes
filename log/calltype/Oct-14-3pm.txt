@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 3:00 PM FXRS 10/14/2015
+
+FXRS: user questions / mru / issue with hourly uploads / getting error on front end / want to know about server. / 
+
+Web Services: Cert request / 
+
+Café: issues with reports / EEI filing issues / issues with printer part / host and client setup / new software install / 
+
+FXCT: cic req bc no prior install / reinstall / 
+
+MISDIRECTS: csp call, then .com / to dot.com / 
+
+AHT Drivers: FXRS Version 290x will not show rates 52 min / FXRS issue with hourly uploads 25 min / Café host and client setup 20 min / 
+
+------------
+
+Cafe on FXRS: Version 290x will not show rates / 
+
+FXRS on Cafe: 

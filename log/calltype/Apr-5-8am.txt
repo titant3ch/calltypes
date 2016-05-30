@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 8:00 AM FXRS 4/5/2016
+
+FXRS: Non-comm meter / Printer z4m / 
+
+Web Services: needed zone tables for CA / Wanted information about plug ins / Issues Processing Shipment / Prod Creds for Rates / Zip - State Mismatch / Test Cred Failure / DRC Assist / Wanted the site / Not supported / 
+
+Café: Printer Paused / URSA expired / Writing as deleted / Writing as Deleted / 
+
+FXCT: 
+
+MISDIRECTS: Dot.com / Dotcom / Rating Inquiry / Customer Service / 
+
+AHT Drivers: FXRS Clean Load 120 min / Café Writing as deleted 25 min / FXRS Non-comm meter 20 min / 
+
+------------
+
+Cafe on FXRS: Clean Load / 
+
+FXRS on Cafe: 

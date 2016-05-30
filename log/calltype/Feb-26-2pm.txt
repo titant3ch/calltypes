@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 2:00 PM FXRS 2/26/2016
+
+FXRS: Line test / no customer reference info / 
+
+Web Services: 
+
+Café: Tracking Number Range / Previous Case Status / Export TRK# to Excel / 
+
+FXCT: Install and Adding Accounts / 
+
+MISDIRECTS: 
+
+AHT Drivers: FXRS Install and Adding Accounts 30 min / Café Export TRK# to Excel 25 min / FXRS no customer reference info 20 min / 
+
+------------
+
+Cafe on FXRS: 
+
+FXRS on Cafe: 

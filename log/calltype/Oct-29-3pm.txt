@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 3:00 PM FXRS 10/29/2015
+
+FXRS: processing the shipment / 
+
+Web Services: register for production / tracking number pass to website / CarrierCode / 
+
+Café: Assisted w/Importer of Record Issue / 
+
+FXCT: 
+
+MISDIRECTS: 
+
+AHT Drivers: FXRS Software repair 40 min / Café Assisted w/Importer of Record Issue 18 min / FXRS tracking number pass to website 9 min / 
+
+------------
+
+Cafe on FXRS: Software repair / not printing label. / transmitting to fedex / 
+
+FXRS on Cafe: 

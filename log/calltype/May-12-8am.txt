@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 8:00 AM FXRS 5/12/2016
+
+FXRS: Upgrade from 11 to 14 / Custom Label / fxrs line test / general question about dimensions / Configuration assistance / 
+
+Web Services: Question about API rates / error 1000 / register for credentials / 
+
+Café: CleanLoad / Barcode Issue / Hold File Import / scale setup / 
+
+FXCT: 
+
+MISDIRECTS: 
+
+AHT Drivers: Café CleanLoad 49 min / FXRS Custom Label 45 min / Café Hold File Import 22 min / 
+
+------------
+
+Cafe on FXRS: 
+
+FXRS on Cafe: 

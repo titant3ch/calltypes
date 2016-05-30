@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 3:00 PM FXRS 12/10/2015
+
+FXRS: not able to register meter / meter registration issues / unable to download SP conf numbers / tracking not linking on MPS / not able to download rates / 
+
+Web Services: wis registration / not able to register / error 1000 / Return shipment / 
+
+Café: SmartPost TRK / 
+
+FXCT: installing / 
+
+MISDIRECTS: 
+
+AHT Drivers: FXRS meter registration issues 65 min / Café SmartPost TRK 50 min / FXRS unable to download SP conf numbers 50 min / 
+
+------------
+
+Cafe on FXRS: 
+
+FXRS on Cafe: 

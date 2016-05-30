@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 11:00 AM FXRS 3/22/2016
+
+FXRS: disable 1d / Needed to look at rates sent / 
+
+Web Services: Transaction went through / ltl 3rd party / new cert request / Confirm the data went to production / 
+
+Café: International mps / issues with incorrect key / issues with scale setup / Customize report / Change address in the software / 
+
+FXCT: questions about multi weight / 
+
+MISDIRECTS: 
+
+AHT Drivers: FXRS Non-comm meter 18 min / FXRS ltl 3rd party 15 min / FXRS Needed to look at rates sent 14 min / 
+
+------------
+
+Cafe on FXRS: Non-comm meter / Shipmanager not responding / 
+
+FXRS on Cafe: 

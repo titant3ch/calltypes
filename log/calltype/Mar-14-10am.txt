@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 10:00 AM FXRS 3/14/2016
+
+FXRS: rates intl / hardare printer / issues with uploads and tracking numbers / Ref fields not populating / 
+
+Web Services: Cert req update / issues with shipping / new prod creds setup / 
+
+Café: New install / stuck initializing / General Printer Issues / Adding 3rd Acct / FXIA profile setup / Look at broker information / 
+
+FXCT: Unable to install FXCT due to AV / 
+
+MISDIRECTS: needs .com / to dot.com / 
+
+AHT Drivers: FXRS Ref fields not populating 57 min / Café FXIA profile setup 45 min / FXRS new prod creds setup 44 min / 
+
+------------
+
+Cafe on FXRS: issues with FXI not starting / EOD reports / network client / issues with hazmat ground / 
+
+FXRS on Cafe: 

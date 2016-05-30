@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 3:00 PM FXRS 10/8/2015
+
+FXRS: Admin PW for FSMSConfig needed / Int'l Child Meter setup / invalid product key / 
+
+Web Services: 
+
+Café: Expired URSA & add AV exceptions / labels writing as deleted win 10 / Gnd Calltag / HW BPU swap / Unable to register comms issue / 
+
+FXCT: 
+
+MISDIRECTS: needed fedex.com / 
+
+AHT Drivers: Café Unable to register comms issue 65 min / Café labels writing as deleted win 10 15 min / Café Expired URSA & add AV exceptions 10 min / 
+
+------------
+
+Cafe on FXRS: Follett system froze; rebooted / fxia mps / 
+
+FXRS on Cafe: 

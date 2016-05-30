@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 8:00 AM FXRS 4/7/2016
+
+FXRS: MRU sent to sr suport / Unable to register child meter / Line Test / Test Server Check / Hourly Upload Check / 
+
+Web Services: Tracking / DRC / 
+
+Café: FXIA error / New Install / FXIA Import Issue / 
+
+FXCT: edit the ltl acct address / FXCT Install / 
+
+MISDIRECTS: Dotcom / Dotcom Email label / 
+
+AHT Drivers: Café FXIA error 90 min / FXRS MRU sent to sr suport 87 min / FXRS Unable to register child meter 54 min / 
+
+------------
+
+Cafe on FXRS: Unknown Issue / orders not pulling in timely manner / CAFE Validation for FSM Download / CAFE Rate Issue / 
+
+FXRS on Cafe: 

@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 11:00 AM FXRS 4/22/2016
+
+FXRS: disconnect / URSA errors coming from front end / Previous case escalated to sr support / comms / 
+
+Web Services: Cert req / Certification / issues with rates / Certification inquiry / DRC Registration / Ground to CA coding / 
+
+Café: Select the correct printer for DG / issues with EEI / troubleshoot zp 500 plus / software download request / error message during registration / 
+
+FXCT: comms / issues with accounts / issues with install / 
+
+MISDIRECTS: needs .com / transferred to domestic / transferred to domestic / Transferred to Cafe Beta / 
+
+AHT Drivers: FXRS URSA errors coming from front end 15 min / FXRS Previous case escalated to sr support 15 min / FXRS Ground to CA coding 14 min / 
+
+------------
+
+Cafe on FXRS: 
+
+FXRS on Cafe: 

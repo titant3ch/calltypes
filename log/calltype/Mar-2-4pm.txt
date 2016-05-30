@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 4:00 PM FXRS 3/2/2016
+
+FXRS: 
+
+Web Services: WIS registration / SHA-2 update / drc data / ebay.com / 
+
+Café: tis and fxi and cic / 
+
+FXCT: restore / ae thinks fxct is virus / 
+
+MISDIRECTS: needed Rev Svcs / 
+
+AHT Drivers: Café tis and fxi and cic 30 min / FXRS WIS registration 11 min / FXRS drc data 7 min / 
+
+------------
+
+Cafe on FXRS: 
+
+FXRS on Cafe: 

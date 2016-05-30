@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 8:00 AM FXRS 3/8/2016
+
+FXRS: Line test / Event log errors. / hub id issue / Printer heads need to be replaced. / Previous case status / account number not configured / 
+
+Web Services: Certification start / credentials.. / cert / 
+
+Café: Software Validation / Failed upgrade / 
+
+FXCT: install / 
+
+MISDIRECTS: misdirect to cust serv / 
+
+AHT Drivers: FXRS OP900LL will not print 20 min / Café Software Validation 15 min / FXRS Event log errors. 14 min / 
+
+------------
+
+Cafe on FXRS: OP900LL will not print / 
+
+FXRS on Cafe: 

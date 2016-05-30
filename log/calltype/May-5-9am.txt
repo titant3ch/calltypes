@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 9:00 AM FXRS 5/5/2016
+
+FXRS: Delete Temporary files / 
+
+Web Services: Prod Cred Reg / Rating Issue / Certification / Information on labels created / 
+
+Café: Meter suspect for product key / Comms during install / disconnect / Meter suspect for FSM download / troubleshoot zp 505 / Printer Install / ZM400 / 
+
+FXCT: Needed code / 
+
+MISDIRECTS: Dotcom / Dotcom Login / 
+
+AHT Drivers: FXRS Rating Issue 32 min / FXRS Certification 22 min / Café Comms during install 15 min / 
+
+------------
+
+Cafe on FXRS: 
+
+FXRS on Cafe: 

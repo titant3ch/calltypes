@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 11:00 AM FXRS 10/26/2015
+
+FXRS: transedit setup / 
+
+Web Services: status update on cert request / needs cert and creds / register for production / billing address is incorrect / printing extra blank label / cert request / status of the Cert request / cert status update / 
+
+Café: fxia / return / FXI CIC request / update and FXIA / 
+
+FXCT: 
+
+MISDIRECTS: to dot.com / hung up / dotcom / dotcom / 
+
+AHT Drivers: Café update and FXIA 45 min / FXRS printing extra blank label 18 min / Café fxia 15 min / 
+
+------------
+
+Cafe on FXRS: integration is grayed out / issues wtih BOL due to adobe / 
+
+FXRS on Cafe: 

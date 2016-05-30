@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 12:00 PM FXRS 1/25/2016
+
+FXRS: Issue with communciations / issues with getting printer from AE / comm down no uploads / SHA-2 implementation reference / invalid tracking range not loaded / Unable to create meter number / 
+
+Web Services: issues with new creds / general questions / reports / sslsha / reprots / issues with saturday surcharges / auth failed / 
+
+Café: cust disconnected / handling charge add / 
+
+FXCT: error ltl freight acct not validate / install onto new computer / 
+
+MISDIRECTS: to billing / dg trans / 
+
+AHT Drivers: FXRS Unable to create meter number 119 min / FXRS comm down no uploads 20 min / FXRS Issue with communciations 18 min / 
+
+------------
+
+Cafe on FXRS: 
+
+FXRS on Cafe: 

@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 3:00 PM FXRS 4/18/2016
+
+FXRS: Dup Tracking / admin services not running / Comms / Not sending label image to lable buffer / add meters / added new meter / 
+
+Web Services: issues with creds / ZP500+ Not working / Rating Inquiry / Metric System / invalid account number / Production code / comms? / 
+
+Café: Validation / Shipping profiles / Rates not correct / 
+
+FXCT: Batch Rating / issues with rating tool erroring out / adding accounts / Rating Issue / 
+
+MISDIRECTS: to customer service / to dot.com / Dotcom / needed fedex.com / transferred to domestic / 
+
+AHT Drivers: Café Rates not correct 81 min / FXRS Writing as deleted 44 min / FXRS ZP500+ Not working 42 min / 
+
+------------
+
+Cafe on FXRS: needed product key for software / bad printer / Writing as deleted / 
+
+FXRS on Cafe: 

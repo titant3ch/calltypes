@@ -1,0 +1,32 @@
+Reported Calls for: Apr-13-3pm
+
+Agent, Computer Name, Duration of Call, LOB, Type, Message,
+agonzales,ausrcb0061a,65 min,FXRS,WIS,Failed WIS registration
+rhagemann,ausrca0054,40 min,Café,Café,HazMat not avaliable
+macampbell,ausrcwa049,25 min,FXRS,FXCT,help with LTL freight quote
+gdeharo,ausrca0227,22 min,FXRS,WIS,issue with custom label info passing
+rhagemann,ausrca0054,19 min,FXRS,FSMS,1069 Install Request
+rhagemann,ausrca0054,16 min,Café,Café,HazMat Entry
+macampbell,ausrcwa049,15 min,FXRS,FSMS,meter and acct # missing from config.ini
+macampbell,ausrcwa049,15 min,Café,Café,Changing dial-up connection phone #
+rmcneil,ausrcwa059,13 min,FXRS,FSMS,Reset RDP
+rhagemann,ausrca0054,12 min,FXRS,FSMS,Comm Issues
+agonzales,ausrcb0061a,10 min,FXRS,WIS,failed registration
+rhagemann,ausrca0054,10 min,FXRS,FSMS,Invalid Service
+rmcneil,ausrcwa059,8.5 min,FXRS,WIS,No error with zip code.
+rmcneil,ausrcwa059,7.4 min,FXRS,Café,Missing sender information
+mbarth,ausrca0058,7 min,FXRS,WIS,drc reg
+mbarth,ausrca0058,6 min,FXRS,WIS,service invalid
+mbarth,ausrca0058,5 min,FXRS,Café,comms?
+mbarth,ausrca0058,5 min,Café,Café,scale removal
+rhagemann,ausrca0054,5 min,FXRS,WIS,Test Cred Reg
+mbarth,ausrca0058,5 min,FXRS,Café,ltl db
+mbarth,ausrca0058,5 min,FXRS,WIS,regsiter on csp
+mbarth,ausrca0058,5 min,FXRS,WIS,csp
+rhagemann,ausrca0054,5 min,Café,Café,LTL Assist
+mbarth,ausrca0058,5 min,FXRS,Café,needs prod key
+macampbell,ausrcwa049,5 min,FXRS,WIS,AE asking if web services run EOD close
+mbarth,ausrca0058,5 min,FXRS,WIS,smartpost
+rhagemann,ausrca0054,3 min,Café,Misdirect,Dotcom
+mbarth,ausrca0058,2 min,FXRS,Misdirect,needs .com ltl
+rhagemann,ausrca0054,2 min,FXRS,WIS,Discount Issue

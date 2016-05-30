@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 1:00 PM FXRS 4/12/2016
+
+FXRS: misdirect / help with smartpost tracking #s / cust disconnect / comms, jar-jar / DG international / Hung up / Non-comm meter / Time Zone Edit / Tech ticket / Transaction coding reference / Ground returning an error / 
+
+Web Services: WIS registration / ETD and rates / Escalation per agent request / smartpost / Certification request completed / Test credential registration ( WS ) / Email notification / WooCommerce misconfig errors / WS registration production access / Credential Questions / Rebooted to sync QB to WIS / Ws registration, credentials obtained / WIS productions reg / Cert Inquiry / Test Creds / WIS production creds / 
+
+Café: network client setup / doctab configuration / Tech (Printer) / software repair ( AVG ) / Tech Ticket print quality zp500 / Hot case escalation from prev case / Credit Privileges / Return Address / comms / 
+
+FXCT: application installation / 
+
+MISDIRECTS: Cold transfer / needs .com / from .com needs csp / needs .com, called it cloud / needs csp / CIC empty line / needs cust serv / 
+
+AHT Drivers: FXRS Email notification 50 min / FXRS Ws registration, credentials obtained 50 min / FXRS DG international 45 min / 
+
+------------
+
+Cafe on FXRS: MPS rates higher than expected / Email Label / rates intl / hw printer / 
+
+FXRS on Cafe: 

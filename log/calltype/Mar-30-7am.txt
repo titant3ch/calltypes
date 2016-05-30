@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 7:00 AM FXRS 3/30/2016
+
+FXRS: line test / 
+
+Web Services: Dimension Issue / Rating Inquiry based on diff acct / WIS Registration / Rate stopping shipping / 
+
+Café: Failed Upgrade to 2915 / New install / Return the printers / Password reset / Printer Install / Client hung up / Hung up / ShipAlert Settings / Install software / Reprint commercial invoice / label profile / update IDD settings / Return declare value over $1000 / ship alert email notification / 
+
+FXCT: Incorrect .net installed / 
+
+MISDIRECTS: dot.com / dot.com / Dot.com / Wrong que / Dot.com / Wrong que. / International CS / New Account / Ground Shipment / Dotcom Transfer / 
+
+AHT Drivers: Café Install software 33 min / FXRS Rates and Transit Time Issue 31 min / Café ShipAlert Settings 26 min / 
+
+------------
+
+Cafe on FXRS: Rates and Transit Time Issue / FSM Upgrade Download / PK Request / 
+
+FXRS on Cafe: 

@@ -1,0 +1,12 @@
+Reported Calls for: Apr-14-8am
+
+Agent, Computer Name, Duration of Call, LOB, Type, Message,
+macampbell,ausrcwa049,30 min,FXRS,FSMS,enable FDX 1D barcode
+gdeharo,ausrca0227,21 min,FXRS,WIS,web services register for credentials
+rhagemann,ausrca0054,11 min,Café,Café,FXIA / ODBC Connection
+rmcneil,ausrcwa059,8.3 min,FXRS,FSMS,Bad .jar.jar
+agonzales,ausrcb0061a,5 min,FXRS,WIS,Authentication failed
+sseals,ausrca0060a,4 min,FXRS,FXCT,FXCT Code
+sseals,ausrca0060a,1 min,Café,Café,Line Test
+agonzales,ausrcb0061a,1 min,FXRS,FSMS,line test
+rmcneil,ausrcwa059,.15 min,FXRS,FSMS,Line test

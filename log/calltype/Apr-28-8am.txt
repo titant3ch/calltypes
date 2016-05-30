@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 8:00 AM FXRS 4/28/2016
+
+FXRS: Line test / Issue with transaction / Register for web services. / 
+
+Web Services: couldnt hear me, will call back / drc questions / 
+
+Café: Clean Load / HazMat Table Corrupted / International / software req / software onto a new computer / 
+
+FXCT: 
+
+MISDIRECTS: Domestic / 
+
+AHT Drivers: Café Clean Load / HazMat Table Corrupted 124 min / Café International 23 min / FXRS Issue with transaction 17 min / 
+
+------------
+
+Cafe on FXRS: Wrong sender selected / 
+
+FXRS on Cafe: 

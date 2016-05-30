@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 3:00 PM FXRS 2/2/2016
+
+FXRS: 
+
+Web Services: drc reg test down / SHA256 Issues / Assisted w/Web Svcs Creds / Disconnect / HAL thru WIS / new creds setup / drc function / Password for WIS / Printer Install / 
+
+Café: Client IP config / Assisted cust. w/FXIA export / Submitted TSR ticket per CIC req / 
+
+FXCT: 
+
+MISDIRECTS: 
+
+AHT Drivers: FXRS SHA256 Issues 20 min / FXRS Printer Install 15 min / FXRS issues with reports 13 min / 
+
+------------
+
+Cafe on FXRS: issues with reports / Shipping Assist / intl ship / client install info / URSA Expired / Comm issue / Assisted w/no rates issue / 
+
+FXRS on Cafe: 

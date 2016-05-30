@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 8:00 AM FXRS 10/16/2015
+
+FXRS: installing 1501 / 
+
+Web Services: Cert request / cert request / 
+
+Café: Installation assist / 
+
+FXCT: 
+
+MISDIRECTS: Needs creds but has no login / dotcom / 
+
+AHT Drivers: FXRS 2910 not printing labels 40 min / FXRS write delete and software req 19 min / Café Installation assist 17 min / 
+
+------------
+
+Cafe on FXRS: write delete and software req / 2910 not printing labels / not able to get software to launch / 
+
+FXRS on Cafe: 

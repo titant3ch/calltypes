@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 3:00 PM FXRS 2/19/2016
+
+FXRS: disconnect / customer printer / ARC 31383 / 
+
+Web Services: issue with test rating / prod and test / incorrect rates sp / 
+
+Café: 
+
+FXCT: general questions rate ltl / issues with install / customer disconnect / issue with freight rating / 
+
+MISDIRECTS: misdirect to dotcom / DG call / misdirect dot com caller / 
+
+AHT Drivers: FXRS customer printer 57 min / FXRS issues with host client and new install 20 min / FXRS issue with freight rating 15 min / 
+
+------------
+
+Cafe on FXRS: issues with host client and new install / 
+
+FXRS on Cafe: 

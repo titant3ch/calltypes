@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 10:00 AM FXRS 12/22/2015
+
+FXRS: health check / 
+
+Web Services: Authentication Failed / code for a mobile app / 
+
+Café: CIC wanted to verify info on case / 
+
+FXCT: Wanted to know how to download rate / 
+
+MISDIRECTS: to dot.com / 
+
+AHT Drivers: FXRS health check 74 min / FXRS Authentication Failed 16 min / FXRS not loading 14 min / 
+
+------------
+
+Cafe on FXRS: not loading / 
+
+FXRS on Cafe: 

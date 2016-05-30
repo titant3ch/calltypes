@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 3:00 PM FXRS 11/25/2015
+
+FXRS: not transmitting data reset comm / Empty Line / Product Key / 
+
+Web Services: register for production credentials / No Services / Front End Contact / test creds and cert / 
+
+Café: CIC NEEDS PROD KEY / 
+
+FXCT: 
+
+MISDIRECTS: EEI Transfer / dot com call / Rev Transfer / DotCom Transfer / to customer service / 
+
+AHT Drivers: WIS rates are off 20 min / FXRS new FXIA setup 15 min / FXRS reports 11 min / 
+
+------------
+
+Cafe on FXRS: new FXIA setup / reports / reports / 
+
+FXRS on Cafe: 

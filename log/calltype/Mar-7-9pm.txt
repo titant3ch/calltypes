@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 9:00 PM FXRS 3/7/2016
+
+FXRS: Comm Issue / Port Blocked / Need to move out of test mode / Hourly upload question / commercial invoice flag setting / TLS Update / 
+
+Web Services: Client hung up / No log in / Authentication Fail / Cert Request / Test Creds / Finding Credential Email / 
+
+Café: 
+
+FXCT: 
+
+MISDIRECTS: Dotcom / Dotcom / 
+
+AHT Drivers: FXRS Test Creds 22 min / FXRS Comm Issue / Port Blocked 20 min / FXRS Authentication Fail / Cert Request 20 min / 
+
+------------
+
+Cafe on FXRS: 
+
+FXRS on Cafe: 

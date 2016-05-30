@@ -1,0 +1,13 @@
+Reported Calls for: Apr-21-9am
+
+Agent, Computer Name, Duration of Call, LOB, Type, Message,
+rhagemann,ausrca0054,51 min,Café,Café,Install FSM / Printer / Scale
+agonzales,ausrcb0061a,45 min,FXRS,WIS,cert status request
+dneal,ausrca0098,33 min,FXRS,Café,Unhandled Exception error
+dneal,ausrca0098,15 min,FXRS,FSMS,Communications issue
+rmcneil,ausrcwa059,13 min,FXRS,FXCT,Install
+dneal,ausrca0098,12 min,FXRS,Café,Communication issues
+rhagemann,ausrca0054,11 min,Café,Café,PK Request
+mbarth,ausrca0058,5 min,FXRS,Misdirect,.com needs
+rhagemann,ausrca0054,5 min,FXRS,FSMS,EPDI not uploading
+rhagemann,ausrca0054,3 min,FXRS,WIS,Test Creds Reg

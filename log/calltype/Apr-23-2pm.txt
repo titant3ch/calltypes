@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 2:00 PM FXRS 4/23/2016
+
+FXRS: international rates not implementing / LINE TEST / 
+
+Web Services: Webservices Registration / Webservices Registration / needs to point at test server / Registration for WS credentials / Attempted WS registration (see notes) / 
+
+Café: comms blocked / 
+
+FXCT: FXCT Install / FXCT Backup/Restore / 
+
+MISDIRECTS: from .com to .com / Domestic / Domestic / ace / 
+
+AHT Drivers: FXRS international rates not implementing 120 min / Café comms blocked 32 min / FXRS Attempted WS registration (see notes) 28 min / 
+
+------------
+
+Cafe on FXRS: 
+
+FXRS on Cafe: 

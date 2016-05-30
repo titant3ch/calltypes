@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 9:00 AM FXRS 3/9/2016
+
+FXRS: credentials / Expired URSA / credentials / .net upgrade.. / Meter registration errors / EPDI/ HUF Upload / Bad Account / Failed Resgistration / EPDI not communicating / Configuration assistance / credentials / 
+
+Web Services: WIS Consultation / Incorrect Rates / error 1000 authentication failure / Failed smartpost rates / cert and auth failed / Information about production key / Account Details / credentials / Transaction Spec / Rate Issue / Fxct installation / CSP software issue / Transaction errors / etd in test / Find created shipment / 
+
+Café: int'l shipment / printer configuration / Rates / Ship Alert Settings / Validation for CAFE / add update / Network Printer / Override Preds / Scale issues / Software request / web form. / Delete Shipment / 
+
+FXCT: add ltl and express account / Install / 
+
+MISDIRECTS: dot.com / Wrong que / Schedule a return pickup / needed dotcom / 
+
+AHT Drivers: FXRS Meter registration errors 46 min / Café Network Printer 45 min / FXRS Install 38 min / 
+
+------------
+
+Cafe on FXRS: database corrupt / shipping list / cafe PU / comms / 
+
+FXRS on Cafe: 

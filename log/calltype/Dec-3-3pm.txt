@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 3:00 PM FXRS 12/3/2015
+
+FXRS: not communticating / Meter Registration Comm Issue / 
+
+Web Services: Authentication Failed / reports on ship station / not getting home delivery. / error printing labels / Needed production code / Test Key Registration / 
+
+Café: services type on the doctab / printing half the label / FXIA Not Exporting Correctly / FSM Registration Comm Issue / 
+
+FXCT: 
+
+MISDIRECTS: dotcom / 
+
+AHT Drivers: Café FXIA Not Exporting Correctly 35 min / Café FSM Registration Comm Issue 25 min / FXRS integrater is not working 15 min / 
+
+------------
+
+Cafe on FXRS: integrater is not working / 
+
+FXRS on Cafe: Cafe comm issue on FXRS line. / 

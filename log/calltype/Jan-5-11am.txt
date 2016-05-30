@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 11:00 AM FXRS 1/5/2016
+
+FXRS: Communication issues / Non-comm meter / Printer issue / 
+
+Web Services: 
+
+Café: not able to reprint labels / credit error / if the customer recived email label / DG with not right rates / incorrect rates / error saying out of paper / 
+
+FXCT: 
+
+MISDIRECTS: 
+
+AHT Drivers: FXRS Custom label doc tab issues 52 min / Café incorrect rates 45 min / FXRS Printer issue 17 min / 
+
+------------
+
+Cafe on FXRS: Custom label doc tab issues / SHA-2 update / 
+
+FXRS on Cafe: 

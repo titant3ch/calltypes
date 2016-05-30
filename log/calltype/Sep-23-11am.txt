@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 11:00 AM FXRS 9/23/2015
+
+FXRS: customer service needs printer part / ship manager service crashes / needs unsinstall / 
+
+Web Services: asked about drc, turnedinto fsm req / 
+
+Café: new install no meter / international no rates downloaded / batch / ltl returns / report issues / Upload Company Letterhead / auto close settings / cic needed help installing software / Rates / FXIA / Host & Client Setup / 
+
+FXCT: not getting rate qoute / 
+
+MISDIRECTS: dot com call / TRANSFER TO DOTCOM / TRANSFER TO DOTCOM / misdirect to dot com / dot com call / dot com call / 
+
+AHT Drivers: FXRS SSC FXIA/FXCT setup install 107 min / Café Rates / FXIA / Host & Client Setup 85 min / WIS authentication failed 25 min / 
+
+------------
+
+Cafe on FXRS: issues with report printer / account data / SSC FXIA/FXCT setup install / FXIA ODBC Import session / FXIA ODBC data import / not able to get rate or ship / 
+
+FXRS on Cafe: 

@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 11:00 AM FXRS 11/25/2015
+
+FXRS: poor print quality on printer / new meter setup / 
+
+Web Services: service code question / prod creds / Authentication Failed / 
+
+Café: installing printer windows 10 / issues with IPD / smartpost setup / 
+
+FXCT: 
+
+MISDIRECTS: cust serv call / customer service call / 
+
+AHT Drivers: FXRS software would not load 55 min / FXRS host/client install 28 min / Café issues with IPD 26 min / 
+
+------------
+
+Cafe on FXRS: software would not load / host/client install / 
+
+FXRS on Cafe: 

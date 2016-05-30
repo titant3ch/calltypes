@@ -1,0 +1,50 @@
+Reported Calls for: May-3-2pm
+
+Agent, Computer Name, Duration of Call, LOB, Type, Message,
+dneal,ausrca0098,40 min,FXRS,FSMS,Huf files not generating
+rmcneil,ausrcwa059,35 min,FXRS,Café,Failed update
+cdriskell,ausrca0064,31 min,Café,Café,Int'l commodity shipment
+dneal,ausrca0098,30 min,Café,Café,Rating issue
+ahendon,ausrca0069,30 min,Café,Café,FXIA Custom Label
+rmcneil,ausrcwa059,26 min,FXRS,FSMS,Dim not set to Y
+mbarth,ausrca0058,25 min,FXRS,FSMS,ursa and tracking numbers 777
+macampbell,ausrcwa049,20 min,Café,Café,Nothing printing, cust printer at fault
+ahendon,ausrca0069,20 min,Café,Café,Group import
+dneal,ausrca0098,17 min,FXRS,WIS,Error 1000
+rhagemann,ausrca0054,16 min,FXRS,WIS,DRC Test Creds
+rhagemann,ausrca0054,15 min,Café,Café,Address Update
+macampbell,ausrcwa049,12 min,FXRS,FSMS,Troubleshoot URSA
+ahendon,ausrca0069,11 min,FXRS,FXCT,Isell created (rates)
+mbarth,ausrca0058,10 min,FXRS,WIS,fxct
+mbarth,ausrca0058,10 min,FXRS,WIS,drc reg and cert req
+mbarth,ausrca0058,10 min,FXRS,WIS,rates
+macampbell,ausrcwa049,10 min,FXRS,WIS,Troubleshoot ZP 505
+rhagemann,ausrca0054,10 min,FXRS,WIS,Test Creds
+mbarth,ausrca0058,10 min,FXRS,FXCT,help with rates
+rhagemann,ausrca0054,10 min,Café,Café,New Install
+ahendon,ausrca0069,9 min,Café,Café,Isell created
+rmcneil,ausrcwa059,8 min,Café,Café,Web form filled out
+rhagemann,ausrca0054,8 min,Café,WIS,WIS Creds check
+ahendon,ausrca0069,8 min,FXRS,WIS,Credential registration
+cdriskell,ausrca0064,7 min,Café,Café,Product key validation
+mbarth,ausrca0058,7 min,FXRS,WIS,ltl cert
+macampbell,ausrcwa049,6 min,Café,Café,Reset PS 60 scale
+cdriskell,ausrca0064,6 min,Café,Café,ZP505 label reload
+cdriskell,ausrca0064,6 min,Café,Café,No rates for return shipments
+rhagemann,ausrca0054,6 min,FXRS,WIS,Freight vs Express
+mbarth,ausrca0058,5 min,FXRS,FSMS,comms
+cdriskell,ausrca0064,5 min,FXRS,WIS,missing Prod PW in email
+mbarth,ausrca0058,5 min,Café,Café,rates
+mbarth,ausrca0058,5 min,FXRS,WIS,drc
+macampbell,ausrcwa049,5 min,Café,Café,CIC request for new Cafe cust
+mbarth,ausrca0058,5 min,FXRS,WIS,wrong address
+cdriskell,ausrca0064,3 min,FXRS,Misdirect,needed fedex.com
+cdriskell,ausrca0064,3 min,FXRS,Misdirect,neded fedex.com DM
+ahendon,ausrca0069,3 min,FXRS,Misdirect,Customer service
+mbarth,ausrca0058,2 min,FXRS,Misdirect,needs .com
+cdriskell,ausrca0064,2 min,FXRS,FSMS,where to change ports in FSMSConfig
+mbarth,ausrca0058,2 min,FXRS,Misdirect,needs .com
+mbarth,ausrca0058,2 min,FXRS,Misdirect,needs haz team
+macampbell,ausrcwa049,1 min,FXRS,WIS,disconnect
+mbarth,ausrca0058,1 min,FXRS,Misdirect,cole haan website
+macampbell,ausrcwa049,1 min,Café,Café,disconnect

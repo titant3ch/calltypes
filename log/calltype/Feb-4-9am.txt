@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 9:00 AM FXRS 2/4/2016
+
+FXRS: install / Meter Registration Inquiry / FSMS Version Compatibility Inquiry / 
+
+Web Services: WIS Registration / Registration for WIS Credentials / Ref Info on ProcessShipmentReq / 
+
+Café: URSA is expired. Upgrade. / 
+
+FXCT: FXCT Install / 
+
+MISDIRECTS: needs .com / Fedex.com Transfer / Transfer to DG Dept / 
+
+AHT Drivers: Café URSA is expired. Upgrade. 58 min / FXRS Ref Info on ProcessShipmentReq 32 min / FXRS fxi and svc type 15 min / 
+
+------------
+
+Cafe on FXRS: fxi and svc type / Tech Ticket for Scale / j# / mps dg / 
+
+FXRS on Cafe: 

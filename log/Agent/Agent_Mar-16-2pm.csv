@@ -1,0 +1,47 @@
+Reported Calls for: Mar-16-2pm
+
+Agent, Computer Name, Duration of Call, LOB, Type, Message,
+rmcneil,ausrcwa059,96 min,FXRS,FSMS,Unable to download smartpost tracking
+rhagemann,ausrca0054,75 min,FXRS,FSMS,Incorrect SP DAS
+rmanley,ausrca0070,43 min,Café,Café,batch shipment import
+mbarth,ausrca0058,40 min,FXRS,WIS,drc creds and reg
+mbarth,ausrca0058,35 min,FXRS,Café,needs tracking nubmers
+jpinion,ausrca0056,30 min,FXRS,WIS,issue with address validation and weight
+rmanley,ausrca0070,30 min,FXRS,WIS,rates not matching
+mbarth,ausrca0058,25 min,FXRS,FSMS,ursa
+rhagemann,ausrca0054,18 min,FXRS,FSMS,Transaction Inquiry
+jpinion,ausrca0056,15 min,FXRS,WIS,issues with sending prod to test
+jpinion,ausrca0056,15 min,FXRS,WIS,issues with discounts
+rmcneil,ausrcwa059,15 min,Café,Café,FXI ODBC error
+rhagemann,ausrca0054,13 min,Café,Café,Base Controller / Disconnect after hold
+rhagemann,ausrca0054,12 min,Café,Café,CIC has not replied to new isntall
+rmcneil,ausrcwa059,11 min,FXRS,WIS,Billing third party
+dneal,ausrca0098,10 min,FXRS,WIS,Printer installation
+rmanley,ausrca0070,10 min,FXRS,WIS,error 1000 key entered in all CAPS
+dneal,ausrca0098,10 min,FXRS,FSMS,Connection error
+rhagemann,ausrca0054,10 min,Café,Café,Validation
+rhagemann,ausrca0054,10 min,FXRS,FSMS,Comms Blocked / Expired URSA
+mbarth,ausrca0058,10 min,FXRS,WIS,csp ship to korea
+sroberts,ausrca0074,10 min,FXRS,FXCT,Assisted AE w/SP Rate Quote
+mbarth,ausrca0058,10 min,FXRS,FXCT,ltl account
+mbarth,ausrca0058,10 min,FXRS,FXCT,ground to CA
+rhagemann,ausrca0054,9 min,FXRS,WIS,Printer wasn't working / HP
+rmanley,ausrca0070,8 min,FXRS,FSMS,shipping admin application
+rmanley,ausrca0070,8 min,FXRS,FXCT,installation
+rhagemann,ausrca0054,8 min,FXRS,WIS,Invalid Element Name
+rhagemann,ausrca0054,8 min,Café,Café,Express MPS
+rmcneil,ausrcwa059,7.3 min,FXRS,WIS,Did not have auth key
+rhagemann,ausrca0054,7 min,Café,Café,International Assist
+jpinion,ausrca0056,5 min,FXRS,WIS,questions about services
+mbarth,ausrca0058,5 min,FXRS,WIS,csp reg
+mbarth,ausrca0058,5 min,Café,Café,ltl
+rmanley,ausrca0070,5 min,FXRS,WIS,add address line
+mbarth,ausrca0058,5 min,FXRS,FSMS,service had stopped
+rhagemann,ausrca0054,4 min,FXRS,Misdirect,Dotcom Transfer
+jpinion,ausrca0056,3 min,FXRS,Misdirect,to dot.com
+jpinion,ausrca0056,3 min,Café,Misdirect,to dot.com
+sroberts,ausrca0074,3 min,FXRS,FSMS,EPDI Call/Reboot Resolved Issue
+mbarth,ausrca0058,2 min,FXRS,Misdirect,needs .com
+rhagemann,ausrca0054,2 min,Café,Café,International Label
+rhagemann,ausrca0054,2 min,Café,Café,AE asking about LTL
+mbarth,ausrca0058,.5 min,Café,Café,empty line

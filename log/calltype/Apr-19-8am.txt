@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 8:00 AM FXRS 4/19/2016
+
+FXRS: Line test CIC / No EDPI / Line Test / Expired URSA / Comm Issue / 
+
+Web Services: drc questions / needed test credentials / 
+
+Café: 
+
+FXCT: 
+
+MISDIRECTS: 
+
+AHT Drivers: FXRS No EDPI 9.2 min / FXRS Comm Issue 8 min / FXRS needed test credentials 7 min / 
+
+------------
+
+Cafe on FXRS: 
+
+FXRS on Cafe: 

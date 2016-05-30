@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 11:00 AM FXRS 10/30/2015
+
+FXRS: comms fxrs / 
+
+Web Services: drc reg / needs creds but has no data / want to know all the services / 
+
+Café: Change sender contact name / 
+
+FXCT: 
+
+MISDIRECTS: needs .com / dotcom / needed New Acct Setup / needs csp / 
+
+AHT Drivers: FXRS want to know all the services 26 min / FXRS drc reg 15 min / WIS incorrect rates 10 min / 
+
+------------
+
+Cafe on FXRS: system settings / 
+
+FXRS on Cafe: 

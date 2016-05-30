@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 11:00 AM FXRS 10/14/2015
+
+FXRS: issues with MRU / 
+
+Web Services: drc creds / prod creds / printer / 
+
+Café: air freight / lp2844 win 7 / transmission disk error / home delivery pkge type / 
+
+FXCT: install / 
+
+MISDIRECTS: needs .com / needs .com / 
+
+AHT Drivers: FXRS issues with MRU 47 min / FXRS server not responding 25 min / Café lp2844 win 7 22 min / 
+
+------------
+
+Cafe on FXRS: issues with launching / server not responding / Printer missed aligned / 
+
+FXRS on Cafe: 

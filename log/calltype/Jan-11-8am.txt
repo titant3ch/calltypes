@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 8:00 AM FXRS 1/11/2016
+
+FXRS: Line test / upgrade from 1069 to 1500 / 
+
+Web Services: getting test key / Error 1000 check ISP / ship to columbia / 
+
+Café: Line test / hw printer tech tix / 
+
+FXCT: 
+
+MISDIRECTS: DG / needs .cust serv / needs cust serv / 
+
+AHT Drivers: FXRS fxi 15 min / FXRS Error 1000 check ISP 12 min / FXRS upgrade from 1069 to 1500 8 min / 
+
+------------
+
+Cafe on FXRS: fxi / 
+
+FXRS on Cafe: 

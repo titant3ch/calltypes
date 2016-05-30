@@ -1,0 +1,78 @@
+Reported Calls for: Mar-30-5pm
+
+Agent, Computer Name, Duration of Call, LOB, Type, Message,
+cdriskell,ausrca0064,50 min,Café,Café,Cafe upgrade
+cdriskell,ausrca0064,45 min,Café,Café,tech ticket HW cleanload
+gdeharo,ausrca0227,40 min,FXRS,Café,shipments writing as deleted
+mbarth,ausrca0058,35 min,Café,Café,install
+rhagemann,ausrca0054,35 min,FXRS,FXCT,SP Rating
+rhagemann,ausrca0054,30 min,FXRS,WIS,Authentication Failure
+gdeharo,ausrca0227,28 min,FXRS,WIS,issue with label certification
+rhagemann,ausrca0054,25 min,FXRS,WIS,Certification
+rhagemann,ausrca0054,23 min,FXRS,WIS,Hitting test, needs prod
+mbarth,ausrca0058,20 min,Café,Café,install walk through
+gdeharo,ausrca0227,19 min,Café,Café,communication EOD upload issues
+rmcneil,ausrcwa059,19 min,Café,Café,Not populating the account number
+gdeharo,ausrca0227,18 min,Café,Café,out of ground tracking numbers
+rhagemann,ausrca0054,17 min,Café,Café,URSA Expired
+rhagemann,ausrca0054,17 min,FXRS,WIS,Rating Issue / Ground
+gdeharo,ausrca0227,16 min,FXRS,WIS,info on becoming a csp
+cdriskell,ausrca0064,15 min,FXRS,Café,Upgrade needs admin access
+rmcneil,ausrcwa059,13 min,FXRS,FSMS,Wants rates at time of shipment
+gdeharo,ausrca0227,13 min,FXRS,WIS,register for credentials.
+rmcneil,ausrcwa059,13 min,Café,Café,Looking for a tracking number
+gdeharo,ausrca0227,13 min,FXRS,Café,ground shipment assistance
+rhagemann,ausrca0054,12 min,FXRS,FSMS,Can't Launch TransEdit
+rmcneil,ausrcwa059,12 min,FXRS,FSMS,Void tracking number
+gdeharo,ausrca0227,11 min,FXRS,Café,fxia import assistance
+rmcneil,ausrcwa059,11 min,FXRS,WIS,Ground rate error 200
+rhagemann,ausrca0054,11 min,FXRS,Misdirect,dotcom
+mbarth,ausrca0058,10 min,FXRS,WIS,drc rates
+gdeharo,ausrca0227,10 min,FXRS,WIS,register for production credentials
+rhagemann,ausrca0054,10 min,FXRS,WIS,Certification
+rhagemann,ausrca0054,10 min,FXRS,WIS,iSell request
+rmcneil,ausrcwa059,9.4 min,FXRS,WIS,Account rate
+rmcneil,ausrcwa059,9.3 min,FXRS,WIS,User errors
+gdeharo,ausrca0227,9 min,Café,WIS,quickbooks multipiece shipment
+gdeharo,ausrca0227,9 min,FXRS,Café,host/client set up
+rhagemann,ausrca0054,8.5 min,Café,Café,Address Correction Issue
+rmcneil,ausrcwa059,8.2 min,Café,Café,Need to add account to software
+rmcneil,ausrcwa059,8.2 min,FXRS,WIS,Ground rates
+cdriskell,ausrca0064,8 min,FXRS,WIS,WIS certification
+gdeharo,ausrca0227,8 min,FXRS,FSMS,thermal printer network setup
+rmcneil,ausrcwa059,7.2 min,FXRS,WIS,Certification process
+gdeharo,ausrca0227,7 min,FXRS,WIS,general questions about wis
+rmcneil,ausrcwa059,7 min,FXRS,Café,Authenticating the client
+cdriskell,ausrca0064,7 min,FXRS,FXCT,No Ground rates
+rmcneil,ausrcwa059,6.2 min,Café,Café,Restore from backup
+rmcneil,ausrcwa059,6.1 min,FXRS,WIS,Confirm information
+gdeharo,ausrca0227,6 min,FXRS,Misdirect,cafe call/bad connection wanted transfer
+rmcneil,ausrcwa059,6 min,Café,Café,Busted printer
+rmcneil,ausrcwa059,6 min,FXRS,Misdirect,Dot.com
+gdeharo,ausrca0227,5 min,FXRS,FXCT,questions about rates
+mbarth,ausrca0058,5 min,FXRS,WIS,drc rate
+gdeharo,ausrca0227,5 min,FXRS,FXCT,product code request
+gdeharo,ausrca0227,5 min,FXRS,FXCT,ground rates unavailable
+rmcneil,ausrcwa059,4.5 min,Café,Café,Stage rates
+rmcneil,ausrcwa059,4.5 min,FXRS,WIS,Certification
+rmcneil,ausrcwa059,4.3 min,FXRS,Misdirect,dot.com
+rmcneil,ausrcwa059,4.3 min,FXRS,Misdirect,Dot.com
+rmcneil,ausrcwa059,4.2 min,Café,Café,unable to see printer repair J#
+gdeharo,ausrca0227,4 min,FXRS,WIS,freight acct
+gdeharo,ausrca0227,4 min,Café,Café,future date shipment
+rmcneil,ausrcwa059,4 min,FXRS,FSMS,Third party billing smartpost
+rmcneil,ausrcwa059,3 min,Café,Café,Run report
+rhagemann,ausrca0054,3 min,FXRS,WIS,Ground Rates
+gdeharo,ausrca0227,3 min,FXRS,FXCT,general rating question
+rhagemann,ausrca0054,3 min,Café,Café,Return label
+rhagemann,ausrca0054,3 min,Café,Misdirect,LTL Pickup Request
+rmcneil,ausrcwa059,3 min,Café,Misdirect,Dot.com
+rhagemann,ausrca0054,2 min,FXRS,Misdirect,Dotcom Transfer
+rhagemann,ausrca0054,2 min,FXRS,WIS,Rating
+rhagemann,ausrca0054,2 min,FXRS,WIS,Where did my shipment go? Not to FSM.com
+gdeharo,ausrca0227,1 min,FXRS,FSMS,empty line cust disconnect
+gdeharo,ausrca0227,1 min,FXRS,Misdirect,dot com caller
+gdeharo,ausrca0227,1 min,Café,Misdirect,dot com caller
+gdeharo,ausrca0227,1 min,FXRS,Misdirect,dot com caller
+rhagemann,ausrca0054,1 min,FXRS,Misdirect,Dotcom
+rmcneil,ausrcwa059,.38 min,Café,Café,CIC confirming the link

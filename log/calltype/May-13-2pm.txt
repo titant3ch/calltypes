@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 2:00 PM FXRS 5/13/2016
+
+FXRS: Reset communications / tls error line 5 / 15.03 file transfer / Help with intl shipment / international shipment / URSA not implementing / no rates / 
+
+Web Services: Error 1000 / wis registration / running a close / cert request / drc reg and acert / wis consultation / WIS credentials / wis rating issue / printer install / 
+
+Café: -i integration / FXIA profile setup / Print return walkthru / product key / 
+
+FXCT: ltl freight  processing / new install / 
+
+MISDIRECTS: transferred to domestic / 
+
+AHT Drivers: FXRS Reset communications 30  min / FXRS no rates 24 min / Café FXIA profile setup 20 min / 
+
+------------
+
+Cafe on FXRS: printer dump / broken printer / 
+
+FXRS on Cafe: no rates / 

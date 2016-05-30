@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 9:00 AM FXRS 3/11/2016
+
+FXRS: No communication / Unable to GTA in / 
+
+Web Services: Residential Flag / cert check / 
+
+Café: Printer Install / fxi trouble / Signature service assist / Software install\FXI new install / canadian cafe ddl / 
+
+FXCT: 
+
+MISDIRECTS: needs .com / needs .com / 
+
+AHT Drivers: Café Software install\FXI new install 29 min / Café Printer Install 25 min / Café Macafee stops shipmanager 25 min / 
+
+------------
+
+Cafe on FXRS: intl ship / 
+
+FXRS on Cafe: Macafee stops shipmanager / 

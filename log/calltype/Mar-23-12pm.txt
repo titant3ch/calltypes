@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 12:00 PM FXRS 3/23/2016
+
+FXRS: comms epdi / CIC issues with install of 1207 / IPD labels not saving to directory / 1301 upgrade to 1308 / Admin svc crashed / 
+
+Web Services: issues with MPS / address checker / 
+
+Café: BPU issue / Client hung up / new client setup / new software install / LTL confirmation / New install / fastclients.properties blank / FXIA writeback permissions / Alt return address / Bill recipient / Update sender DB / Custoemr report printer broken / Setup LTL shipment / new install cic / 
+
+FXCT: new install / Install / Installation assist / install / Need to edit excel sheet / 
+
+MISDIRECTS: needed fedex.com / 
+
+AHT Drivers: FXRS error launching cleanloaded slow sys 96 min / FXRS IPD labels not saving to directory 70 min / Café LTL confirmation 29 min / 
+
+------------
+
+Cafe on FXRS: error launching cleanloaded slow sys / 
+
+FXRS on Cafe: 

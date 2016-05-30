@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 2:00 PM FXRS 3/23/2016
+
+FXRS: Checklist for install 1308 / Barcode Issue / 
+
+Web Services: Assist w/Backup/Restore FXCT / new creds setup / Assist w/No Rates Issue / wis key an password / Ebay Shipper / DRC registration / issues with hub id / 
+
+Café: ship process / FXI broke / WAD / No Rates / fsm software request / Validation / Software new install / Labels printing out incorrectly/Assisted / Beta software / new install issues / issues with LTL / Return express freight shipment / printer config / issues with incorrect country / issues with FXI setup / 
+
+FXCT: FXCT Download / 
+
+MISDIRECTS: needs .com / ltl freight / NO CALL / Just Tone / dot.com / .com / Dotcom Transfer / 
+
+AHT Drivers: Café FXI broke / WAD / No Rates 123 min / Café Labels printing out incorrectly/Assisted 35 min / FXRS Assist w/No Rates Issue 20 min / 
+
+------------
+
+Cafe on FXRS: 
+
+FXRS on Cafe: 

@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 8:00 AM FXRS 5/23/2016
+
+FXRS: 
+
+Web Services: register for web services production / Email sample labels. / auth failed / 
+
+Café: commercial invoice / client install not opening / 
+
+FXCT: 
+
+MISDIRECTS: 
+
+AHT Drivers: FXRS register for web services production 23 min / FXRS enable smartpost rates 10 min / FXRS auth failed 10 min / 
+
+------------
+
+Cafe on FXRS: enable smartpost rates / 
+
+FXRS on Cafe: 

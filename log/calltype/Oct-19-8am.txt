@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 8:00 AM FXRS 10/19/2015
+
+FXRS: Line test CIC / not able to download rates / 
+
+Web Services: printer / 
+
+Café: 
+
+FXCT: 
+
+MISDIRECTS: customer service / 
+
+AHT Drivers: FXRS not able to download rates 22 min / FXRS printer 13 min / FXRS scale says low battery 8 min / 
+
+------------
+
+Cafe on FXRS: scale says low battery / 
+
+FXRS on Cafe: 

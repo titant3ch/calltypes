@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 1:00 PM FXRS 1/21/2016
+
+FXRS: Ursa expired / unable to get smartpost rates / Duplicate Tracking Numbers / Not saving meter number / failed demand download for rates / Reset comm lvl / 
+
+Web Services: WIS Registration / info about ltl shipping on wis / questions about certification / Corporate Load Label Changes / 
+
+Café: FSM Fails To Start / tech requested / 
+
+FXCT: adding ltl accounts / 
+
+MISDIRECTS: 
+
+AHT Drivers: FXRS Not saving meter number 50 min / FXRS Duplicate Tracking Numbers 40 min / FXRS Ursa expired 33 min / 
+
+------------
+
+Cafe on FXRS: 
+
+FXRS on Cafe: 

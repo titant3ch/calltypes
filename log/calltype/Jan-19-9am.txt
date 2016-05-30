@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 9:00 AM FXRS 1/19/2016
+
+FXRS: clean sys sent / Meter registration/trans edit tests / uploads issue / 
+
+Web Services: registration / questions about sp rates / Printer blinking green and red / Network Printer System Setup / Prod cred registration / CIC seeking FXRS phone number / issues with rating / 
+
+Café: printer install / issues with FXI setup / 1421C is not printing / 
+
+FXCT: 
+
+MISDIRECTS: FSM can not process your reqest / 
+
+AHT Drivers: FXRS clean sys sent 20 min / FXRS uploads issue 16 min / FXRS Meter registration/trans edit tests 15 min / 
+
+------------
+
+Cafe on FXRS: 
+
+FXRS on Cafe: 

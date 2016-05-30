@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 3:00 PM FXRS 9/25/2015
+
+FXRS: duplicated tracking numbers / 
+
+Web Services: labels settings / 
+
+Café: third label / IA.UserInterface.exe - No Disk / install / SHA update questions XP SP / sender questions / LTL shipping issues / recipient ID / scale re-calibration / return shipment / TAX id for international shipping / Internationnal billing / 
+
+FXCT: 
+
+MISDIRECTS: needs .com / 
+
+AHT Drivers: Café IA.UserInterface.exe - No Disk 150 min / FXRS duplicated tracking numbers 27 min / WIS FXCT / WIS discrepancy 23 min / 
+
+------------
+
+Cafe on FXRS: Mistransfer from FXRS CAN / FXI issues / 
+
+FXRS on Cafe: 

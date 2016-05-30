@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 3:00 PM FXRS 9/29/2015
+
+FXRS: 
+
+Web Services: cert / register for production / drc reg / error with LTL Freight address / authincation failed / 
+
+Café: report printer setup / comms / hazmat / 
+
+FXCT: installing / 
+
+MISDIRECTS: to dot.com / wrong line / needs csp / needs .com / 
+
+AHT Drivers: WIS windows 8 install 60 min / WIS issues with prod creds setup 22 min / Café comms 19 min / 
+
+------------
+
+Cafe on FXRS: hazmat / error 1606 / 
+
+FXRS on Cafe: 

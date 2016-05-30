@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 11:00 AM FXRS 4/21/2016
+
+FXRS: zip code requirement for south korea / WIS registration / Needs Clean Load / add new meter / Error inserting record ( escalated) / 
+
+Web Services: General questions about certification / WS credentials (obtained) / Credentials confirmed ( Password ) / WIS domestic general inquire / 
+
+Café: software installation assistance / Software download request (key emailed) / 
+
+FXCT: 
+
+MISDIRECTS: Transferred to .COM / Schedule pickup online / 
+
+AHT Drivers: FXRS Needs Clean Load 35 min / FXRS add new meter 20 min / FXRS Error inserting record ( escalated) 20 min / 
+
+------------
+
+Cafe on FXRS: Troubleshoot WIS transaction / Hardware removal / Special Charges / 
+
+FXRS on Cafe: 

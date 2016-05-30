@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 8:00 AM FXRS 4/4/2016
+
+FXRS: Ursa expired / 
+
+Web Services: Blank password / Password was wrong / Register with third party software / Need to find account number / 
+
+Café: Register the software / Not printing barcode / Writing As Deleted / Clean load / 
+
+FXCT: LTL Rating / 
+
+MISDIRECTS: Customer service / 
+
+AHT Drivers: Café Clean load 63 min / FXRS LTL Rating 25 min / FXRS Ursa expired 20 min / 
+
+------------
+
+Cafe on FXRS: FXIA / Database backup / issues with FXCT reinstall / 
+
+FXRS on Cafe: 

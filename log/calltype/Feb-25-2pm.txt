@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 2:00 PM FXRS 2/25/2016
+
+FXRS: FXCT PRODUCT KEY / 
+
+Web Services: Creds Check / test creds / 
+
+Café: Ship History / No Express Rates / Writing as Deleted / 
+
+FXCT: 
+
+MISDIRECTS: 
+
+AHT Drivers: Café Writing as Deleted 30 min / Café No Express Rates 15 min / FXRS FXCT PRODUCT KEY 8 min / 
+
+------------
+
+Cafe on FXRS: 
+
+FXRS on Cafe: 

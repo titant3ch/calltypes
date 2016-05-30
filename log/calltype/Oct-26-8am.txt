@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 8:00 AM FXRS 10/26/2015
+
+FXRS: check comms / missing part of barcode / 
+
+Web Services: 
+
+Café: 
+
+FXCT: 
+
+MISDIRECTS: 
+
+AHT Drivers: FXRS Corrupted database. 35 min / FXRS missing part of barcode 12 min / FXRS check comms 10 min / 
+
+------------
+
+Cafe on FXRS: Corrupted database. / 
+
+FXRS on Cafe: 

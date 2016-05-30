@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 3:00 PM FXRS 11/4/2015
+
+FXRS: not communicated / reset the commsetup / invalid AES / 
+
+Web Services: standard shipping rates / not getting home delivery / Service is not allowed / register for production / 
+
+Café: Authenticate for the software / issues with comms / Adding account into FSM / CAFE ETD/WebServices / Validation / EOD reports / 
+
+FXCT: 
+
+MISDIRECTS: dotcom / 
+
+AHT Drivers: FXRS not printing label after upgrade 30 min / FXRS greyed FXIA 22 min / Café Adding account into FSM 20 min / 
+
+------------
+
+Cafe on FXRS: greyed FXIA / change the sender email address / batch processing / not printing label after upgrade / 
+
+FXRS on Cafe: 

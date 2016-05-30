@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 3:00 PM FXRS 12/14/2015
+
+FXRS: Directory mgr not initialized / Update Tracking Range / Rates / Tracking Range Not Loaded / webservices ip's / 
+
+Web Services: cert questions and setup / Address Validation Check / 
+
+Café: New Install Request / Backup and restore / 
+
+FXCT: 
+
+MISDIRECTS: Queue Issue / Dotcom Call / Queue Issue / Dotcom Call / Queue Issue / Dotcom Call / Queue Issue / Dotcom Call / Queue Issue / Dotcom Call / Queue Issue / Dotcom Call / Queue Issue / Dotcom Call / Queue Issue / Dotcom Call / Queue Issue / Dotcom Call / Queue Issue / Dotcom Call / Queue Issue / Dotcom Call / Queue Issue / Dotcom Transfer / Queue Issue / Dotcom Transfer / Queue Issue / Dotcom Transfer / Queue Issue / Dotcom Transfer / 
+
+AHT Drivers: FXRS pkgs autodelete no labels 60 min / Café Backup and restore 25 min / FXRS Directory mgr not initialized 13 min / 
+
+------------
+
+Cafe on FXRS: pkgs autodelete no labels / 
+
+FXRS on Cafe: 

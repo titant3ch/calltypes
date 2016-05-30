@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 2:00 PM FXRS 2/11/2016
+
+FXRS: error inserting records into database / update barcode to 1d / Server Comm Issue w/ Front End / 
+
+Web Services: AV Question / Unable to Prov Meter / Caller getting a code 9045. / Calling to request certification / WIS Transaction Error / 
+
+Café: check the registry and remove fsm / 
+
+FXCT: Config / 
+
+MISDIRECTS: .com / 
+
+AHT Drivers: FXRS error inserting records into database 150 min / Café shipmanger server is not responding 80 min / FXRS Server Comm Issue w/ Front End 30 min / 
+
+------------
+
+Cafe on FXRS: Writing As Deleted / 
+
+FXRS on Cafe: shipmanger server is not responding / 

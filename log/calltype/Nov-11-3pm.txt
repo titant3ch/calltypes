@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 3:00 PM FXRS 11/11/2015
+
+FXRS: payor account number is not config / dead ZP500+ / smartpost / Disconnect, could not hear customer / Smartpost HUB ID / 
+
+Web Services: Address verification questions / auth failed / smartpsot trans / 
+
+Café: cic req software req / ZM400 prints bad barcodes / dead HP LCD monitor / CIC line dead air / FXI to FXIA migration / No rates or DRP / Rate Download / 
+
+FXCT: 
+
+MISDIRECTS: needed fedex.com / 
+
+AHT Drivers: FXRS payor account number is not config 47 min / FXRS Smartpost HUB ID 40 min / FXRS Address verification questions 19 min / 
+
+------------
+
+Cafe on FXRS: ups address book / FSM Not Launching / 
+
+FXRS on Cafe: 

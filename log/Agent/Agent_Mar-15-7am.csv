@@ -1,0 +1,13 @@
+Reported Calls for: Mar-15-7am
+
+Agent, Computer Name, Duration of Call, LOB, Type, Message,
+rmcneil,ausrcwa059,42 min,Café,Café,Integration grayed out
+cdriskell,ausrca0064,26 min,FXRS,FSMS,Svcs all crashed
+rmcneil,ausrcwa059,24 min,FXRS,FSMS,Send CIC
+rhagemann,ausrca0054,11 min,Café,Café,Validation
+rhagemann,ausrca0054,10 min,Café,Café,Empty/Dead Line
+rhagemann,ausrca0054,9 min,Café,Café,New Install / CIC Request
+rhagemann,ausrca0054,8 min,Café,Café,Transfer to TIS/FXI
+rhagemann,ausrca0054,4 min,Café,Café,Max Declared Value
+rhagemann,ausrca0054,3 min,Café,Misdirect,Customer Service
+rhagemann,ausrca0054,3 min,FXRS,Misdirect,Customer Service / Pickup

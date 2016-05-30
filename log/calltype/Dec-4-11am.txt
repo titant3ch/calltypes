@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 11:00 AM FXRS 12/4/2015
+
+FXRS: comms epdi / Country Code is invalid / Invalid CSP Solution Id / half the pkg having to be swak / 
+
+Web Services: did not get the password / invalid postal code / CSP feature issue / services codes for LTL freight / 
+
+Café: 
+
+FXCT: install / 
+
+MISDIRECTS: customer service / customer services / 
+
+AHT Drivers: FXRS services codes for LTL freight 17 min / FXRS Country Code is invalid 15 min / FXRS CSP feature issue 13 min / 
+
+------------
+
+Cafe on FXRS: 
+
+FXRS on Cafe: 

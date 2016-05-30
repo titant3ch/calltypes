@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 3:00 PM FXRS 12/8/2015
+
+FXRS: Tracking # entered not consistent / 
+
+Web Services: SmartPost Issue / cert request / cert request / 
+
+Café: Scale Issue / 
+
+FXCT: 
+
+MISDIRECTS: Transfer to Spanish Cust. Svc. / Call Dropped / 
+
+AHT Drivers: FXRS SmartPost Issue 15 min / FXRS Tracking # entered not consistent 15 min / FXRS cert request 13 min / 
+
+------------
+
+Cafe on FXRS: comms ursa / tis / 
+
+FXRS on Cafe: 

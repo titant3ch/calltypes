@@ -1,0 +1,23 @@
+Reported Calls for: Apr-25-8am
+
+Agent, Computer Name, Duration of Call, LOB, Type, Message,
+jpinion,ausrca0056,120 min,FXRS,FSMS,international rates not implementing
+mbarth,ausrca0058,32 min,Café,Café,comms blocked
+ahendon,ausrca0069,28 min,FXRS,WIS,Attempted WS registration (see notes)
+dneal,ausrca0098,22 min,FXRS,FSMS,Transaction coding issue
+ahendon,ausrca0069,16 min,FXRS,WIS,Registration for WS credentials
+rmcneil,ausrcwa059,8 min,Café,Café,Send tech out per Tech request
+rmcneil,ausrcwa059,8 min,Café,Café,Send tech out per Tech request
+jpinion,ausrca0056,8 min,FXRS,FSMS,issues with FM 400 printer
+jedupree,ausrca0052,7 min,FXRS,WIS,Webservices Registration
+jedupree,ausrca0052,6 min,FXRS,WIS,Webservices Registration
+mbarth,ausrca0058,5 min,FXRS,WIS,needs to point at test server
+jedupree,ausrca0052,4 min,FXRS,FXCT,FXCT Install
+jedupree,ausrca0052,4 min,FXRS,FXCT,FXCT Backup/Restore
+mbarth,ausrca0058,2 min,FXRS,Misdirect,from .com to .com
+jedupree,ausrca0052,2 min,FXRS,Misdirect,Domestic
+jedupree,ausrca0052,2 min,FXRS,Misdirect,Domestic
+mbarth,ausrca0058,2 min,FXRS,Misdirect,ace
+rmcneil,ausrcwa059,2 min,FXRS,Misdirect,Dot.com issue
+ahendon,ausrca0069,1 min,FXRS,FSMS,LINE TEST
+rmcneil,ausrcwa059,.13 min,FXRS,FSMS,Line test

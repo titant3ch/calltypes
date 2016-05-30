@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 8:00 AM FXRS 11/19/2015
+
+FXRS: Line test / Service not availabel / 
+
+Web Services: customer disconnect / 
+
+Café: cic work request / not getting smartpost / 
+
+FXCT: 
+
+MISDIRECTS: dotcom / 
+
+AHT Drivers: FXRS Service not availabel 15 min / Café cic work request 7 min / Café not getting smartpost 6 min / 
+
+------------
+
+Cafe on FXRS: 
+
+FXRS on Cafe: 

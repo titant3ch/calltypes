@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 11:00 AM FXRS 9/24/2015
+
+FXRS: Add meter to server / services not starting / keep running out tracking numbers / 
+
+Web Services: Weight is missing or invalid / eBay / 
+
+Café: ZP500 not printing / FXIA / Batch Shipping / 
+
+FXCT: Batch Rating fails / 
+
+MISDIRECTS: 
+
+AHT Drivers: FXRS services not starting 41 min / Café FXIA / Batch Shipping 36 min / FXRS keep running out tracking numbers 35 min / 
+
+------------
+
+Cafe on FXRS: International shipment / network card is not working / Rates are incorrect / 
+
+FXRS on Cafe: 

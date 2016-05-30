@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 3:00 PM FXRS 5/2/2016
+
+FXRS: Hours of support / mru / ETN range inquiry / 
+
+Web Services: integration documentation / Inactive account 24 hours / Test Creds / meter deletion req / DRC registration / Test Creds / drc cert req / Configure 3rd Party / StarShip / Try to use LTL account / Error 1000 auth failed / 
+
+Café: Postal Code Issues / Assisted w/product code request / Printer issues Upgrade cafe / needed Cafe Beta / Sender Postal Code / BOL Email / 
+
+FXCT: cust need to update ltl  acct address / 
+
+MISDIRECTS: Empty Line / transferred to domestic / 
+
+AHT Drivers: Café Printer issues Upgrade cafe 42 min / FXRS drc cert req 30 min / Café Postal Code Issues 20 min / 
+
+------------
+
+Cafe on FXRS: ltl CA / Email returns not being sent out / 
+
+FXRS on Cafe: 

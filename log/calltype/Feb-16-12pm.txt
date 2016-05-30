@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 12:00 PM FXRS 2/16/2016
+
+FXRS: issues with error able to process labels / jar jar / DG fields issue / Removed 1307 and installed 1404 / 
+
+Web Services: issues with returns / 
+
+Café: software req / 
+
+FXCT: 
+
+MISDIRECTS: needed fedex.com Ship Admin / needs .com / needs csp / 
+
+AHT Drivers: FXRS Removed 1307 and installed 1404 245 min / FXRS issues with error able to process labels 25 min / FXRS jar jar 12 min / 
+
+------------
+
+Cafe on FXRS: -a database / 
+
+FXRS on Cafe: 

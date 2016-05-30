@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 3:00 PM FXRS 10/1/2015
+
+FXRS: 
+
+Web Services: two different rates return / 
+
+Café: Needed software for new system / install LP2844 / 
+
+FXCT: installing / Install on a new system / 
+
+MISDIRECTS: 
+
+AHT Drivers: Café Needed software for new system 45 min / WIS Assisted w/Transaction Errors 29 min / FXRS Install on a new system 12 min / 
+
+------------
+
+Cafe on FXRS: run EOD Close / install LP2844 / 
+
+FXRS on Cafe: 

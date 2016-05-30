@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 8:00 AM FXRS 4/12/2016
+
+FXRS: misdirect to Customer Service / 
+
+Web Services: Not communicating / WIS Transaction Not Reaching Server / 
+
+Café: 
+
+FXCT: 
+
+MISDIRECTS: Fedex.com Transfer / 
+
+AHT Drivers: FXRS WIS Transaction Not Reaching Server 8 min / FXRS Not communicating 6.1 min / FXRS Fedex.com Transfer 5 min / 
+
+------------
+
+Cafe on FXRS: URSA expired / MPS / Misdirect to dotcom / 
+
+FXRS on Cafe: 

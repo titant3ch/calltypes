@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 3:00 PM FXRS 10/22/2015
+
+FXRS: Scale Support / CleanUp Database before upgrade / Needed Meter / 
+
+Web Services: 
+
+Café: GCT upload / 3P shipment thru Return Ship tab / FXIA import / 
+
+FXCT: FXCT download / AE Call / FXCT List Rate / Needed product code and LTL / 
+
+MISDIRECTS: Empty Line / Dotcom Transfer / 
+
+AHT Drivers: Café FXIA import 40 min / FXRS CleanUp Database before upgrade 35 min / Café 3P shipment thru Return Ship tab 16 min / 
+
+------------
+
+Cafe on FXRS: FSM unable to upload / Reporting / 
+
+FXRS on Cafe: 

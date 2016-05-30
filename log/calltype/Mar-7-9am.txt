@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 9:00 AM FXRS 3/7/2016
+
+FXRS: Reset Comms / URSA / Admin Service is down. Restarted / URSA Expired / Disable 1D On Meter / communication/mru / HUF / issues with URSA update / Customer needs sr support / 
+
+Web Services: drc fucntion test / wrong key / CSP needing email for Cert / Test Creds and Server Info / FXCT Dimension Import / SSL Certificate Expired / Issues with service type availability / Disconnected after unable to provide inf / 
+
+Café: FSM Printer Issue/Resolved / update fsm / Printer dumping / Freight account does not validate / 
+
+FXCT: fxct install / 
+
+MISDIRECTS: Dot Com Transfer / Dotcom transfer / .com Transfer / Domestic Transfer / To Dotcom / to customer service / Package pickup / 
+
+AHT Drivers: FXRS communication/mru 60 min / Café FSM Printer Issue/Resolved 27 min / FXRS SSL Certificate Expired 25 min / 
+
+------------
+
+Cafe on FXRS: cafe intl shipping db export / FXIA Setup / 
+
+FXRS on Cafe: 

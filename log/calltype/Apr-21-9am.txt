@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 9:00 AM FXRS 4/21/2016
+
+FXRS: EPDI not uploading / Communications issue / 
+
+Web Services: Test Creds Reg / cert status request / 
+
+Café: Install FSM / Printer / Scale / PK Request / 
+
+FXCT: Install / 
+
+MISDIRECTS: .com needs / 
+
+AHT Drivers: Café Install FSM / Printer / Scale 51 min / FXRS cert status request 45 min / FXRS Unhandled Exception error 33 min / 
+
+------------
+
+Cafe on FXRS: Unhandled Exception error / Communication issues / 
+
+FXRS on Cafe: 

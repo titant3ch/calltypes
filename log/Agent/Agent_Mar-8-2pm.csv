@@ -1,0 +1,32 @@
+Reported Calls for: Mar-8-2pm
+
+Agent, Computer Name, Duration of Call, LOB, Type, Message,
+dneal,ausrca0098,30 min,Café,Café,Ursa expired issue
+dneal,ausrca0098,20 min,FXRS,WIS,Error 1000 hitting test svr w/ prod cred
+cdriskell,ausrca0064,20 min,FXRS,FSMS,FXRS 686 expired URSA
+cdriskell,ausrca0064,18 min,FXRS,WIS,Error 1000 auth failed
+jpinion,ausrca0056,16 min,Café,Café,windows 10 printer setup
+jpinion,ausrca0056,14 min,FXRS,WIS,issues with rates
+aljohnson,ausrca0057,14 min,FXRS,FSMS,Discounts on domestic express svcs..
+ianderson,ausrca0050,12 min,FXRS,FSMS,printer setup
+wcrosby,ausrca0071,10 min,FXRS,WIS,Isell the ae
+rmcneil,ausrcwa059,9.3 min,FXRS,FSMS,Need production key
+rmcneil,ausrcwa059,9.2 min,FXRS,WIS,Need to get production key
+dneal,ausrca0098,7 min,Café,Café,FXIA import issue
+rmcneil,ausrcwa059,5.4 min,FXRS,WIS,Front end need TS
+jpinion,ausrca0056,5 min,FXRS,Misdirect,to customer service
+mbarth,ausrca0058,5 min,FXRS,WIS,test vs prod
+rmcneil,ausrcwa059,5 min,FXRS,WIS,Wrong password
+mbarth,ausrca0058,5 min,FXRS,FSMS,prior call
+mbarth,ausrca0058,5 min,FXRS,WIS,call csp
+aljohnson,ausrca0057,5 min,FXRS,FSMS,requesting a product code
+dneal,ausrca0098,4 min,Café,Café,Delete shipment
+dneal,ausrca0098,4 min,FXRS,WIS,Shipping error contact csp
+jpinion,ausrca0056,3 min,Café,Misdirect,to dot.com
+jpinion,ausrca0056,3 min,FXRS,Misdirect,to dot.com
+rhagemann,ausrca0054,2 min,FXRS,Misdirect,Dotcom Transfer
+rmcneil,ausrcwa059,2 min,FXRS,WIS,Gave link to get production code
+aljohnson,ausrca0057,2 min,FXRS,Misdirect,misdirect
+rhagemann,ausrca0054,2 min,FXRS,FSMS,Bad Account / Failed Install
+wcrosby,ausrca0071,1 min,FXRS,FSMS,empty line
+rmcneil,ausrcwa059,.20 min,FXRS,Misdirect,Customer service

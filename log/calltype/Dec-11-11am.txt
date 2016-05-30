@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 11:00 AM FXRS 12/11/2015
+
+FXRS: 
+
+Web Services: cert inquiry has been enabled / invalid serviceType / list rate issues / register for production / register for test / 
+
+Café: issues with launching the software / issues with Saturday delivery / shipments writing as deleted 2912 / change company name / 
+
+FXCT: 
+
+MISDIRECTS: to dot.com / Customer service / 
+
+AHT Drivers: Café shipments writing as deleted 2912 30 min / FXRS invalid serviceType 18 min / FXRS cert inquiry has been enabled 9 min / 
+
+------------
+
+Cafe on FXRS: 
+
+FXRS on Cafe: 

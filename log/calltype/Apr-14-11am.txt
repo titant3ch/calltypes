@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 11:00 AM FXRS 4/14/2016
+
+FXRS: trans specs international assistance / Standard Overnight not available in CA / help configuring child meters / Hard drive crashed / intl rates no longer have discounts / HUF Not Uploading / Cust had to go to meeting, will callback / 
+
+Web Services: iSell message to AE about rates / Shipment validation / Cust needed Smartpost Hub ID for WIS / wanted test url / WIS / Printing Issue / register for production credentials / 
+
+Café: hourly upload failing / south Korea postal code issue / previous call status / Printer Install / zp 505 poor print quality / DG shipment  process / LTL rates are incorrect / Cannot Download Rates / IP Blocked / 
+
+FXCT: SSC/Cust needed help installing fxct / Need dims / Told how to find meter numbers / intra-canada rating.. ( lagacy software) / 
+
+MISDIRECTS: dot.com / 
+
+AHT Drivers: FXRS Standard Overnight not available in CA 101 min / FXRS help configuring child meters 41 min / FXRS Update Host/Client 33 min / 
+
+------------
+
+Cafe on FXRS: Update Host/Client / Rates are not showing / 
+
+FXRS on Cafe: 

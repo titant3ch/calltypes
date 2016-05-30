@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 12:00 PM FXRS 2/15/2016
+
+FXRS: comms level change for rates DL / Ground acct config on backend / 
+
+Web Services: issues with rates, missing weight / WIS registration / tech tix web serv scale / question about tracking / tracking / issues with getting creds, address issue / 
+
+Café: issues with printer setup tech / issues with URSA / 
+
+FXCT: needed product code / 
+
+MISDIRECTS: to dot.com / to dot.com / needs .com / needs .com / to dot.com / 
+
+AHT Drivers: FXRS Ground acct config on backend 14 min / FXRS needed product code 8 min / FXRS WIS registration 8 min / 
+
+------------
+
+Cafe on FXRS: issues with adding LTL to FXCT / home deliv vs ground / 
+
+FXRS on Cafe: 

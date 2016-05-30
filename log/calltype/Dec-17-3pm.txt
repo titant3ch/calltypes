@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 3:00 PM FXRS 12/17/2015
+
+FXRS: SP rates not showing / 
+
+Web Services: registration errors / Authentication Failed / 
+
+Café: not print the label / installing the printer / 
+
+FXCT: 
+
+MISDIRECTS: 
+
+AHT Drivers: Café installing the printer 34 min / FXRS SP rates not showing 32 min / FXRS registration errors 24 min / 
+
+------------
+
+Cafe on FXRS: SHA-2 for Win 7 / 
+
+FXRS on Cafe: 

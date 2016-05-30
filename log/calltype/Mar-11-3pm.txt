@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 3:00 PM FXRS 3/11/2016
+
+FXRS: SmartPost / 1305 cleanload / 1305 cleanload / sat delivery option /contact csp / Return transaction / FXIA profile creation / Unable to connect to the server / 
+
+Web Services: DRC registration / Needed information about hub ID / Getting error about zip code / drc intl rate / cert issues / Cust req TSR / drc trouble / DRC registration / Having issue with test account / Duties and Taxes / 
+
+Café: Credit supended / Acct validation for download / Assisted w/EOD Reports / Saturday Delivery / Disconnect before transfer / intl / Rates don't match FXCT / DG Entry / FSM Request/Web Form / 
+
+FXCT: 
+
+MISDIRECTS: dotcom / 
+
+AHT Drivers: FXRS 1305 cleanload 601 min / FXRS Unable to connect to the server 63 min / FXRS 1305 cleanload 60 min / 
+
+------------
+
+Cafe on FXRS: Assisted w/FSM Install / LDS Edit / printer isntall / monitor / PRINTER / 
+
+FXRS on Cafe: 

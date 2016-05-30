@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 9:00 AM FXRS 2/9/2016
+
+FXRS: Line Test (CIC) / New Install Inquiry / Rates giving error / 
+
+Web Services: cert request / Wanted meter number Need AE / new creds setup / 
+
+Café: Upgrade to 2915 / 
+
+FXCT: 
+
+MISDIRECTS: 
+
+AHT Drivers: Café Upgrade to 2915 36 min / FXRS Wanted meter number Need AE 21 min / FXRS Rates giving error 17 min / 
+
+------------
+
+Cafe on FXRS: issues with software install / 2844 Not Printing Correctly / 
+
+FXRS on Cafe: 

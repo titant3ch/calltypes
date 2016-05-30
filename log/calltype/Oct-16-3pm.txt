@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 3:00 PM FXRS 10/16/2015
+
+FXRS: move to prod from test / move to L6 and install / 
+
+Web Services: 
+
+Café: print report / importer of record address / Explained Service type and Options / svc type / problem encountered registering / hardware tech tix / 
+
+FXCT: 
+
+MISDIRECTS: French CA Cust. Svc. Call. / 
+
+AHT Drivers: FXRS move to L6 and install 70 min / FXRS move to prod from test 21 min / WIS auth error 17 min / 
+
+------------
+
+Cafe on FXRS: needs software / 
+
+FXRS on Cafe: 

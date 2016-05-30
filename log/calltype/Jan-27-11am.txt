@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 11:00 AM FXRS 1/27/2016
+
+FXRS: issues with 7200 / hard drive failure tech ticket / unable to register meter error 7200 / issues with meter setup and comms / 
+
+Web Services: bill recip / Certification request update. / comms ip / WIS certification / Residential flag / No certification for labels / 
+
+Café: Freight account authentication fail / NW Client Config for scale / 
+
+FXCT: issues with permissions / issues with adding LTL, permissions / 
+
+MISDIRECTS: Return label pickup / from .com to .com / 
+
+AHT Drivers: FXRS issues with 7200 30 min / FXRS issues with meter setup and comms 30 min / Café Freight account authentication fail 20 min / 
+
+------------
+
+Cafe on FXRS: return ship / comms / Bad ZP505 / 
+
+FXRS on Cafe: 

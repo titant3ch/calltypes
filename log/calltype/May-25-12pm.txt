@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 12:00 PM FXRS 5/25/2016
+
+FXRS: unable to communicate / unable to communicate / Clean load required to update / Corrupted database / config.ini / product key for 1304 needed / 
+
+Web Services: saturday/dsr options / auth failed / address checker and wrong key / empty line disconnected / 
+
+Café: Address book questions / Acct validation for FSM / Tech ticket for hardware / auto close for ground not happening / See list rates / 
+
+FXCT: general question about rates / Issue with smartpost not rating / Install FXCT / install / 
+
+MISDIRECTS: needs intl cust serv / dot com caller / 
+
+AHT Drivers: FXRS FXIA not working update software 129 min / FXRS Corrupted database 56 min / Café auto close for ground not happening 35 min / 
+
+------------
+
+Cafe on FXRS: FXIA not working update software / software req / 
+
+FXRS on Cafe: 

@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 8:00 AM FXRS 3/23/2016
+
+FXRS: cleanload / URSA not downloading / implementing / change of address /config / Line test / 
+
+Web Services: Not able to get LTL rates / Test Creds / Need to contact the csp / Prod Cred Registration / 
+
+Café: International shipment to AR / Transfer to sr support / closes on ground / 
+
+FXCT: 
+
+MISDIRECTS: transfer to .com / International Tracking / wrong que / 
+
+AHT Drivers: FXRS URSA not downloading / implementing 65 min / Café International shipment to AR 20 min / FXRS Not able to get LTL rates 15 min / 
+
+------------
+
+Cafe on FXRS: Not exporting to the ODBC / Question about one rate / 
+
+FXRS on Cafe: 

@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 3:00 PM FXRS 1/6/2016
+
+FXRS: change address on master meter / Preassigned tracking number already / 
+
+Web Services: HAL issue / SHA-2 update / not able to process the shipment / DG with different service / 
+
+Café: FXI want to do batch shipping / not able to download rates or URSA / not printing the labels / 
+
+FXCT: FXCT SP config / installation / 
+
+MISDIRECTS: needed CSP support / needed 3rd-pty SW support / needed Int'l CS / Dotcom / 
+
+AHT Drivers: Café FXI want to do batch shipping 35 min / FXRS change address on master meter 20 min / FXRS Preassigned tracking number already 15 min / 
+
+------------
+
+Cafe on FXRS: 
+
+FXRS on Cafe: 

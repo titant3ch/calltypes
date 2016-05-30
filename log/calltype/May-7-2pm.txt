@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 2:00 PM FXRS 5/7/2016
+
+FXRS: 1D Barcode Flag Changed / Pro-active inspection and configuration / 
+
+Web Services: WIS Multi Package Rate Quote / WIS Registration / 
+
+Café: Cafe Validation and Install / 
+
+FXCT: 
+
+MISDIRECTS: Transfer to Customer Service / Transfer to Rev Services / 
+
+AHT Drivers: FXRS Pro-active inspection and configuration 21 min / Café Cafe Validation and Install 20 min / FXRS WIS Multi Package Rate Quote 10 min / 
+
+------------
+
+Cafe on FXRS: 
+
+FXRS on Cafe: 

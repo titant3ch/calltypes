@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 11:00 AM FXRS 11/23/2015
+
+FXRS: dropped call / Update on comms issues / escalated hot case open shipservice / Not comm send sr. support / 
+
+Web Services: coding / test credentials not working / dg shipment error / 
+
+Café: dropped call / issues with sender / network client component / 
+
+FXCT: 
+
+MISDIRECTS: needed to link acct to dot com / 
+
+AHT Drivers: Café network client component 25 min / WIS adding new account 16 min / FXRS test credentials not working 15 min / 
+
+------------
+
+Cafe on FXRS: host/client communication issue / host/client connectivity issues / Contact AE to order new printer / 
+
+FXRS on Cafe: 

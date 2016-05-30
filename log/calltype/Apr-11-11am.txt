@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 11:00 AM FXRS 4/11/2016
+
+FXRS: Empty line / invalid tracking range not loaded / Printer Replacement / Test server for account / Wrong que / FSMS system crashed. Escalated case. / 
+
+Web Services: Cert request / Rate verification / Custom label. / DRC / FXCT Issue / Space in Postal Code / Disconnect / 
+
+Café: International Freight Shipment / Help with FXIA / Tracking Range / 
+
+FXCT: install / No permission to install / No Discounts / 
+
+MISDIRECTS: Transfer to fedex.com support / Empty Line / Customer service / 
+
+AHT Drivers: FXRS FSMS system crashed. Escalated case. 60 min / FXRS fxi 37 min / Café Help with FXIA 20 min / 
+
+------------
+
+Cafe on FXRS: tech tix printer / fxi / TAX ID# / new meter req prod key / 
+
+FXRS on Cafe: 

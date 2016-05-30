@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 2:00 PM FXRS 3/8/2016
+
+FXRS: Need production key / empty line / FXRS 686 expired URSA / prior call / Discounts on domestic express svcs.. / requesting a product code / Bad Account / Failed Install / printer setup / 
+
+Web Services: Need to get production key / issues with rates / Gave link to get production code / test vs prod / Error 1000 auth failed / Front end need TS / Wrong password / Error 1000 hitting test svr w/ prod cred / Isell the ae / call csp / Shipping error contact csp / 
+
+Café: windows 10 printer setup / Ursa expired issue / Delete shipment / FXIA import issue / 
+
+FXCT: 
+
+MISDIRECTS: Dotcom Transfer / to dot.com / to dot.com / to customer service / Customer service / misdirect / 
+
+AHT Drivers: Café Ursa expired issue 30 min / FXRS Error 1000 hitting test svr w/ prod cred 20 min / FXRS FXRS 686 expired URSA 20 min / 
+
+------------
+
+Cafe on FXRS: 
+
+FXRS on Cafe: 

@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 11:00 AM FXRS 2/24/2016
+
+FXRS: Corrupt LDSCFG / 
+
+Web Services: smartpost / drc function / address checker / WIS registration / Shipments not showing in InSight / 
+
+Café: cust printer / prod key req / Commodity Shipment Weight / scale tech tix / registration error / SWO child meter validation / DocTab config / 
+
+FXCT: failed meter registration / 
+
+MISDIRECTS: 
+
+AHT Drivers: FXRS WIS registration 15 min / Café registration error 12 min / FXRS failed meter registration 11 min / 
+
+------------
+
+Cafe on FXRS: reports / 
+
+FXRS on Cafe: 

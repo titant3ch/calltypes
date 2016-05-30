@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 11:00 AM FXRS 10/20/2015
+
+FXRS: MRU and new account questions / add new acct to server issues / 
+
+Web Services: 
+
+Café: comms and ground call tags upload / address checker question / express rates "0" demand download / close ss case per customer / LTL shipping / client update issues / payment type issues to ss / ground call tag / software download request / scale and disconnect / wants a printer / 
+
+FXCT: ltl pus / 
+
+MISDIRECTS: to dot.com / to dot.com / misdirect to dot com / 
+
+AHT Drivers: FXRS add new acct to server issues 42 min / Café client update issues 33 min / Café ground call tag 25 min / 
+
+------------
+
+Cafe on FXRS: stop reports eod from printing / mps / 
+
+FXRS on Cafe: scale issue / 

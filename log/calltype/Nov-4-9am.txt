@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 9:00 AM FXRS 11/4/2015
+
+FXRS: 
+
+Web Services: request for test key / hardware tech tic printer / not getting discounts / 
+
+Café: web services comms / how to contact ae / Failed FXI upgrade / fxi / 
+
+FXCT: auth failed fxct / ltl rating down / 
+
+MISDIRECTS: needs .com printer / 
+
+AHT Drivers: Café Failed FXI upgrade 20 min / WIS issues with rates 20 min / Café how to contact ae 10 min / 
+
+------------
+
+Cafe on FXRS: request for product key / 
+
+FXRS on Cafe: 

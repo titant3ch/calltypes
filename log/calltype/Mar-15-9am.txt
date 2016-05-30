@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 9:00 AM FXRS 3/15/2016
+
+FXRS: OS levels / Unable To Communicate / lost call / Not able to download / 
+
+Web Services: Transaction assistance / issues with printers / 
+
+Café: 
+
+FXCT: 
+
+MISDIRECTS: .com Transfer / to POS / 
+
+AHT Drivers: FXRS Transaction assistance 36 min / FXRS Not able to download 22 min / FXRS Unable To Communicate 10 min / 
+
+------------
+
+Cafe on FXRS: 
+
+FXRS on Cafe: 

@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 11:00 AM FXRS 10/8/2015
+
+FXRS: not transmitting to fedex / not transmitting to fedex / Update case for sr support / incorrect rates / 
+
+Web Services: Processing a shipment / error with saving data / Authentication Failed / 
+
+Café: Repair upgrade / assisted with International mps / DG issue esc to SS / Update sender in software / Customer label omits barcode / Customize Ship Alerts / Restore DRP by d/l Rates / Turn on logging for FXIA / 
+
+FXCT: problem rating freight / 
+
+MISDIRECTS: dotcom / dotcom / 
+
+AHT Drivers: Café Repair upgrade 60 min / Café assisted with International mps 60 min / WIS State code rating problem 18 min / 
+
+------------
+
+Cafe on FXRS: 
+
+FXRS on Cafe: 

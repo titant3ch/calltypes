@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 10:00 AM FXRS 3/7/2016
+
+FXRS: EOD Processing / Verifying Bill Party / 
+
+Web Services: issues with getting password / issues with saturday outage questions / Q&A about services thru WIS / Test Creds Registration / 
+
+Café: issues with package type / Custom label / Printer stops during second label / 
+
+FXCT: 
+
+MISDIRECTS: 
+
+AHT Drivers: FXRS EOD Processing 20 min / FXRS issues with new software install 16 min / FXRS Q&A about services thru WIS 15 min / 
+
+------------
+
+Cafe on FXRS: new software install / issues with new software install / 
+
+FXRS on Cafe: 

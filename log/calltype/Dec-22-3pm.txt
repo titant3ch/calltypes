@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 3:00 PM FXRS 12/22/2015
+
+FXRS: Previous case status. / communication issue / trying to find the server location / Error inserting record into databas / 
+
+Web Services: new creds setup / cert request / issues with creds / Home delivery default / 
+
+Café: issues with FXI / trying to download the software / removing the software / 
+
+FXCT: AE calling about ltl discounts / install / 
+
+MISDIRECTS: customer service / customer service / 
+
+AHT Drivers: FXRS Error inserting record into databas 50 min / FXRS Home delivery default 45 min / FXRS AE calling about ltl discounts 26 min / 
+
+------------
+
+Cafe on FXRS: SHA-2 update questions / SMTP settings / 
+
+FXRS on Cafe: 

@@ -1,0 +1,10 @@
+Reported Calls for: Apr-19-8am
+
+Agent, Computer Name, Duration of Call, LOB, Type, Message,
+rmcneil,ausrcwa059,9.2 min,FXRS,FSMS,No EDPI
+sseals,ausrca0060a,8 min,FXRS,FSMS,Comm Issue
+gdeharo,ausrca0227,7 min,FXRS,WIS,needed test credentials
+sseals,ausrca0060a,7 min,FXRS,FSMS,Expired URSA
+mbarth,ausrca0058,5 min,FXRS,WIS,drc questions
+sseals,ausrca0060a,1 min,FXRS,FSMS,Line Test
+rmcneil,ausrcwa059,.17 min,FXRS,FSMS,Line test CIC

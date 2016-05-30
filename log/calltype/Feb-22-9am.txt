@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 9:00 AM FXRS 2/22/2016
+
+FXRS: comms / 
+
+Web Services: 
+
+Café: prod key req / Client hung up / Sql damaged / 
+
+FXCT: 
+
+MISDIRECTS: 
+
+AHT Drivers: Café Sql damaged 50 min / FXRS comms 15 min / Café prod key req 10 min / 
+
+------------
+
+Cafe on FXRS: 
+
+FXRS on Cafe: 

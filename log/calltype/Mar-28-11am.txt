@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 11:00 AM FXRS 3/28/2016
+
+FXRS: 
+
+Web Services: coding/ ground account / Return labels. / prod creds / 3P SW not communicating / 
+
+Café: prior call svc actiity / Send tech back out to setup printer / calling back on 4 cases for installs / Shipping DG / Needed EIN / issues with surcharges on doc tab / Find address using report. / issues with label format / New install CIC request / Setup ETD / FXIA export to SQL DB field mapping / Slow scanning / tech ticket dialout bad modem / 
+
+FXCT: 
+
+MISDIRECTS: Dot.com / Dot.com / Dot.com / needed Dom CS / Dot.com / 
+
+AHT Drivers: FXRS coding/ ground account 35 min / Café Slow scanning 30 min / Café calling back on 4 cases for installs 25 min / 
+
+------------
+
+Cafe on FXRS: issues with shipping / 
+
+FXRS on Cafe: 

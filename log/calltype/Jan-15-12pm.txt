@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 12:00 PM FXRS 1/15/2016
+
+FXRS: issues with rates / 2d on label / comms / 
+
+Web Services: Authentication failed in test / 
+
+Café: 
+
+FXCT: issues with restore / 
+
+MISDIRECTS: 
+
+AHT Drivers: FXRS 2d on label 51 min / FXRS issues with rates 20 min / FXRS Authentication failed in test 17 min / 
+
+------------
+
+Cafe on FXRS: EOD close reports / 
+
+FXRS on Cafe: 

@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 5:00 PM FXRS 3/30/2016
+
+FXRS: empty line cust disconnect / Wants rates at time of shipment / Can't Launch TransEdit / Void tracking number / thermal printer network setup / Third party billing smartpost / 
+
+Web Services: Confirm information / drc rates / Account rate / general questions about wis / register for production credentials / Certification / drc rate / Ground rate error 200 / Rating Issue / Ground / WIS certification / freight acct / User errors / Rating / Certification / issue with label certification / Ground Rates / info on becoming a csp / register for credentials. / Ground rates / Hitting test, needs prod / Certification process / Where did my shipment go? Not to FSM.com / iSell request / Authentication Failure / Certification / 
+
+Café: communication EOD upload issues / URSA Expired / install walk through / Stage rates / Restore from backup / Address Correction Issue / Run report / CIC confirming the link / tech ticket HW cleanload / Need to add account to software / install / future date shipment / unable to see printer repair J# / Cafe upgrade / Busted printer / Looking for a tracking number / out of ground tracking numbers / Return label / Not populating the account number / 
+
+FXCT: questions about rates / No Ground rates / product code request / SP Rating / general rating question / ground rates unavailable / 
+
+MISDIRECTS: dot.com / Dotcom Transfer / dot com caller / dot com caller / cafe call/bad connection wanted transfer / dot com caller / Dot.com / LTL Pickup Request / Dotcom / Dot.com / dotcom / Dot.com / 
+
+AHT Drivers: Café Cafe upgrade 50 min / Café tech ticket HW cleanload 45 min / FXRS shipments writing as deleted 40 min / 
+
+------------
+
+Cafe on FXRS: fxia import assistance / Authenticating the client / shipments writing as deleted / Upgrade needs admin access / host/client set up / ground shipment assistance / 
+
+FXRS on Cafe: 

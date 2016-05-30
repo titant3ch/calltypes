@@ -1,0 +1,12 @@
+Reported Calls for: Apr-16-3pm
+
+Agent, Computer Name, Duration of Call, LOB, Type, Message,
+ahendon,ausrca0069,12 min,FXRS,FSMS,database log purge
+ahendon,ausrca0069,12 min,FXRS,WIS,dropoff type correction needed
+ahendon,ausrca0069,8 min,FXRS,WIS,web service credential assignment
+mbarth,ausrca0058,7 min,Café,Café,prod key
+mbarth,ausrca0058,7 min,FXRS,WIS,drc reg
+jedupree,ausrca0052,5 min,FXRS,WIS,Residential Flag Assistance
+mbarth,ausrca0058,2 min,FXRS,WIS,needs login to .com first
+mbarth,ausrca0058,1 min,FXRS,WIS,cust disconencted
+mbarth,ausrca0058,1 min,FXRS,WIS,cust disconenct

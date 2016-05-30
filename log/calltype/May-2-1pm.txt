@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 1:00 PM FXRS 5/2/2016
+
+FXRS: Communications / Reset proxy / MRU is failing, communications blocked / Failed tc.cfg writing / 13xx-14xx differences / Walkthru add additional acct/child meter / URSA not implementing / Tracking number confirmation / Invalid tracking range- not loaded / issues with smartpost tracking numbers / 
+
+Web Services: Websupport@fedex.com / issues with ground getting enabled / drc reg / Ship station configuration / Register for production credentials / drc reg / Test Creds Reg / needed fedex.com / Register for production credentials / questions on how to get setup / Need to get a new meter / 
+
+Café: Missing rates / softwre req webform EDI / comms ursa / Tech ticket for hardware / Printer drivers loaded / bol printing and upgrade / Call tag / Change return to address for returns / CIC site visit needed / problem encountered registering SW / CIC Request for Printer Install / 
+
+FXCT: issues with new setup / 
+
+MISDIRECTS: .COM / No response / Dot.com / to billing / Empty Line / OMX HW issue ref to OMX helpline / Domestic / 
+
+AHT Drivers: Café bol printing and upgrade 45 min / Café CIC site visit needed 43 min / FXRS Communications 30 min / 
+
+------------
+
+Cafe on FXRS: 
+
+FXRS on Cafe: 

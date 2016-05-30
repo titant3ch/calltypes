@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 11:00 AM FXRS 2/8/2016
+
+FXRS: expired date rate table / admin service failing / mru reg / test enviro down / 
+
+Web Services: register for production credentials / WIS Credentials Registration / WIS Credentials Registration / register for production credentials / cert req / Error/timeout for WIS prod. / WIS Credential Registration / 
+
+Café: export rates / printer and software install / issues with hazmat / reports / Client Configuration / issues with creating email return / 
+
+FXCT: questions about getting setup / ltl rates / 
+
+MISDIRECTS: Domestic Transfer / 
+
+AHT Drivers: FXRS admin service failing 20 min / FXRS int'l mps to CA 19 min / FXRS issues with new software install 18 min / 
+
+------------
+
+Cafe on FXRS: CIC Work Request / smartpost enable / int'l mps to CA / issues with new software install / fxia set up / problem encountered reg / 
+
+FXRS on Cafe: 

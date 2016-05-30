@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 3:00 PM FXRS 10/27/2015
+
+FXRS: 1421c form issues / On hold after 4 minutes, disconnect / Rates Not Showing / CIC trying to resolve ETD/CI issue / extra " in the trans / 
+
+Web Services: DRC / Rate Issue / Authentication / Advanced Services / 
+
+Café: software install issues / international shipment walkthrough / FXI failed upgrade / Writing as deleted / scale weight "flickering" / writing as deleted / 
+
+FXCT: 
+
+MISDIRECTS: to dot.com / 
+
+AHT Drivers: FXRS Rate Issue 70 min / Café Writing as deleted 39 min / FXRS 1421c form issues 33 min / 
+
+------------
+
+Cafe on FXRS: Int'l MPS / NW Client setup / 
+
+FXRS on Cafe: 

@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 8:00 AM FXRS 5/26/2016
+
+FXRS: Wanted to make sure we were open / 
+
+Web Services: Cert Request / Issues with rates / DRC Prod / Cert Request / Printer Install / auth fail / 
+
+Café: CallTag / Return Billing / Change purge settings / Freight international shipment help / customer disconnect / 
+
+FXCT: 
+
+MISDIRECTS: needs .com / 
+
+AHT Drivers: FXRS Clean Load 56 min / FXRS Printer Install 45 min / Café Freight international shipment help 16 min / 
+
+------------
+
+Cafe on FXRS: Label Printer / Clean Load / reports / 
+
+FXRS on Cafe: 

@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 11:00 AM FXRS 3/18/2016
+
+FXRS: Invalid SP zip code / issues with comms, LDSCFG.ini / SQL service issue / drc functionality / Pushed 1501 installer to customer / 
+
+Web Services: Fee for WIS / tracking / DRC registration / issues with getting prod creds / 
+
+Café: ship alert fxia / new software install / Validation / 
+
+FXCT: Add ltl account / Consignee rating / 
+
+MISDIRECTS: Tracking Tool / Revenue services / 
+
+AHT Drivers: FXRS Invalid SP zip code 29 min / FXRS SQL service issue 21 min / FXRS issues with comms, LDSCFG.ini 20 min / 
+
+------------
+
+Cafe on FXRS: list rates / CIC asking about new install rules / 
+
+FXRS on Cafe: 

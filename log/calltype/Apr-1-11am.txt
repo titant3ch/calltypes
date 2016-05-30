@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 11:00 AM FXRS 4/1/2016
+
+FXRS: out of express tracking numbers / services wouldn't start / customer disconnect / comm issues using proxy / Need to change the address / no rates / 
+
+Web Services: Lost their meter number / Using third party tool / Register 10 accounts with WIS / WIS Prod registration / 
+
+Café: register software web srvs blocked / 
+
+FXCT: LTL rate down / 
+
+MISDIRECTS: dot com caller / needed Rev Svcs / 
+
+AHT Drivers: FXRS Using third party tool 63 min / FXRS no rates 43 min / FXRS comm issues using proxy 25 min / 
+
+------------
+
+Cafe on FXRS: 
+
+FXRS on Cafe: 

@@ -1,0 +1,45 @@
+Reported Calls for: Mar-9-12pm
+
+Agent, Computer Name, Duration of Call, LOB, Type, Message,
+dneal,ausrca0098,59 min,FXRS,Café,Clean Load with clients
+cdriskell,ausrca0064,44 min,Café,Café,LTL 3P shipping errors.
+aljohnson,ausrca0057,30 min,Café,Café,FXI issue...CIC requested
+rmcneil,ausrcwa059,24 min,FXRS,FSMS,Smartpost tracking download
+aljohnson,ausrca0057,20 min,FXRS,FSMS,FXI
+rhagemann,ausrca0054,20 min,FXRS,FSMS,Rate Table Expired
+rmcneil,ausrcwa059,18 min,Café,Café,FXIA
+rmcneil,ausrcwa059,15 min,Café,Café,FXI look-up Value missing
+wcrosby,ausrca0071,15 min,FXRS,FSMS,server not communication
+mbarth,ausrca0058,15 min,FXRS,FSMS,comms and ursa compfil.tbl
+rmanley,ausrca0070,15 min,FXRS,WIS,no service available
+rmanley,ausrca0070,14 min,FXRS,WIS,ground delivery time
+rhagemann,ausrca0054,13 min,FXRS,WIS,AE wants creds for customer
+aljohnson,ausrca0057,13 min,FXRS,FSMS,credectials
+rhagemann,ausrca0054,12 min,FXRS,WIS,Authentication Key for Sid
+ianderson,ausrca0050,12 min,FXRS,WIS,intln etd upload garbled
+ianderson,ausrca0050,11 min,FXRS,FXCT,add account need permission by tech
+wcrosby,ausrca0071,10 min,FXRS,Café,fsm will not luanch
+rhagemann,ausrca0054,10 min,Café,Misdirect,Transfer to International
+wcrosby,ausrca0071,10 min,FXRS,Café,fedex not launching
+rhagemann,ausrca0054,10 min,FXRS,FXCT,Rates not matching
+cdriskell,ausrca0064,10 min,Café,Café,NW Client config
+dneal,ausrca0098,9 min,FXRS,FSMS,Printer issues
+rmcneil,ausrcwa059,9 min,Café,Café,Run report
+cdriskell,ausrca0064,7 min,FXRS,WIS,WIS registration
+wcrosby,ausrca0071,5 min,FXRS,Café,printer issue
+mbarth,ausrca0058,5 min,Café,Café,EOD
+mbarth,ausrca0058,5 min,FXRS,Café,fxia not loading
+wcrosby,ausrca0071,5 min,FXRS,Café,configuation /shipping profile
+rhagemann,ausrca0054,4 min,Café,Café,Removed LTL Account
+cdriskell,ausrca0064,4 min,FXRS,WIS,SHA-2 update info
+rhagemann,ausrca0054,3 min,FXRS,FSMS,Update on Case 40454519
+rmcneil,ausrcwa059,2 min,FXRS,WIS,Client hung up
+rhagemann,ausrca0054,2 min,FXRS,Misdirect,Transfer to Dotcom
+aljohnson,ausrca0057,2 min,FXRS,Misdirect,.com
+aljohnson,ausrca0057,2 min,FXRS,FSMS,credentials
+rhagemann,ausrca0054,2 min,FXRS,Misdirect,Dotcom
+aljohnson,ausrca0057,2 min,FXRS,FSMS,credentials
+aljohnson,ausrca0057,2 min,FXRS,Misdirect,.com
+aljohnson,ausrca0057,2 min,Café,Misdirect,.com
+rmcneil,ausrcwa059,1.3 min,FXRS,Misdirect,transfer dot.com
+rmcneil,ausrcwa059,1.2 min,FXRS,Misdirect,dot.com

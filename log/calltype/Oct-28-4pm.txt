@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 4:00 PM FXRS 10/28/2015
+
+FXRS: comms uploads / 
+
+Web Services: 
+
+Café: Shipnet.db mangled -- cleanload / typo in the account / shipping list as deleted / labels / Custom report setup / walked through creating a report / Error 1706 on install / 
+
+FXCT: 
+
+MISDIRECTS: Transfer to FR CA Cust. Svc. / Transfer to French Team / Transfer to Dot com / 
+
+AHT Drivers: Café Shipnet.db mangled -- cleanload 55 min / Café shipping list as deleted 30 min / Café Custom report setup 30 min / 
+
+------------
+
+Cafe on FXRS: Child meter added/comms issue / 
+
+FXRS on Cafe: 

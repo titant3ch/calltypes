@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 3:00 PM FXRS 4/8/2016
+
+FXRS: upgrade server questions / International Zip Code / ursa expired issue / Admin services / 
+
+Web Services: issues with new creds / register for credentials/test rate / Test Enviorment / Disconnect / Test Cred Issue / Test shipments / issues with address / Transaction coding assist / 
+
+Café: client install error / Zip code search / Issue with creating express label / Customize shipping profiles and override / DG Entry / WebServices Blocked / Client Writing As Deleted / printer return label / 
+
+FXCT: Import dims / handling charge setup / No Discounts / 
+
+MISDIRECTS: 
+
+AHT Drivers: Café client install error 55 min / FXRS No Discounts 52 min / FXRS ursa expired issue 32 min / 
+
+------------
+
+Cafe on FXRS: Printer setup / 
+
+FXRS on Cafe: 

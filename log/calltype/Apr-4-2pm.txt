@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 2:00 PM FXRS 4/4/2016
+
+FXRS: Tracking number assist and add meter / shipmanager services stopping / HUF not uploading / issues with MRU / Web services / 
+
+Web Services: Prod vs Test / odbc questions / Corrected Trans. Error / 
+
+Café: issues with new software install / Out of Gnd trk #s legacy range / Validate acct for product key / no access will call back / issues with restore on client / Assist w/Dry Ice Shipment / gsmcommsetup / Gave Acct. Validation Info / MPS questions / Clean load / issues with smartpost / 
+
+FXCT: issues with install / Gave Backup/Restore Instructions / not displayin the net rate / 
+
+MISDIRECTS: .com / to dot.com / Dot Com Transfer / Dot Com Transfer / 
+
+AHT Drivers: FXRS issues with MRU 90 min / Café Clean load 52 min / FXRS Prod vs Test 31 min / 
+
+------------
+
+Cafe on FXRS: TSR Requested / new install CIC request / 
+
+FXRS on Cafe: PS60 scale calibration / 

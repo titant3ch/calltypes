@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 9:00 AM FXRS 1/14/2016
+
+FXRS: 
+
+Web Services: 
+
+Café: modem is out / 
+
+FXCT: 
+
+MISDIRECTS: 
+
+AHT Drivers: FXRS request for software 15 min / Café modem is out 5 min / FXRS No dial tone 5 min / 
+
+------------
+
+Cafe on FXRS: request for software / No dial tone / No video / 
+
+FXRS on Cafe: 

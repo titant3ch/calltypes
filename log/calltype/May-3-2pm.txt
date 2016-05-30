@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 2:00 PM FXRS 5/3/2016
+
+FXRS: ursa and tracking numbers 777 / comms / Dim not set to Y / where to change ports in FSMSConfig / Huf files not generating / Troubleshoot URSA / 
+
+Web Services: fxct / disconnect / missing Prod PW in email / ltl cert / drc reg and cert req / drc / Error 1000 / rates / Troubleshoot ZP 505 / DRC Test Creds / Freight vs Express / Test Creds / wrong address / Credential registration / 
+
+Café: Rating issue / Reset PS 60 scale / Isell created / Nothing printing, cust printer at fault / Product key validation / rates / ZP505 label reload / Web form filled out / disconnect / Int'l commodity shipment / No rates for return shipments / CIC request for new Cafe cust / Address Update / FXIA Custom Label / New Install / Group import / 
+
+FXCT: Isell created (rates) / help with rates / 
+
+MISDIRECTS: needs .com / cole haan website / needed fedex.com / neded fedex.com DM / Customer service / needs .com / needs haz team / 
+
+AHT Drivers: FXRS Huf files not generating 40 min / FXRS Failed update 35 min / Café Int'l commodity shipment 31 min / 
+
+------------
+
+Cafe on FXRS: Failed update / 
+
+FXRS on Cafe: 

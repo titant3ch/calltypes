@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 12:00 PM FXRS 3/17/2016
+
+FXRS: comm issue / AV on 1009 / Not Possible / TLS Update / ace team transfer / 
+
+Web Services: general questions about web svrs / register for credentials / WIS Certification request / Hitting test instead of production / register for credentials / Gave information / wis  key and password / 
+
+Café: no express rates / Rate download / LTL report / ltl freight  label stock error / Acct validation for prod key / customize form  dg / 
+
+FXCT: Dropped Line / 
+
+MISDIRECTS: dot com caller / DeadLine / Dotcom Transfer / Wrong que dot.com / dot.com / Tracking / Cust Srvc / .com / dot com caller / 
+
+AHT Drivers: Café no express rates 40 min / FXRS comm issue 23 min / FXRS incorrect rates 20 min / 
+
+------------
+
+Cafe on FXRS: incorrect rates / Client hung up / 
+
+FXRS on Cafe: 

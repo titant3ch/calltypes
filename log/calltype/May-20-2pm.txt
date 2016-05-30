@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 2:00 PM FXRS 5/20/2016
+
+FXRS: tracking  shipments / issues with server install / issues with ground uploads / HUF Issues / 
+
+Web Services: ltl rating questions / sign options  for wis / Get production credentials / Registering for credentials. / issues with LTL rates / WIS Consultation / 
+
+Café: disconnect / Meter Suspect Failure / issues with update / printer setup / Tech ticket / 
+
+FXCT: wis registration / 
+
+MISDIRECTS: transferred to DG hotline / transferred to fedex.com / transferred to revenue services / to dot.com / Beta Call / 
+
+AHT Drivers: FXRS issues with LTL rates 60 min / Café Meter Suspect Failure 33 min / FXRS Registering for credentials. 27 min / 
+
+------------
+
+Cafe on FXRS: 2844 install / 
+
+FXRS on Cafe: 

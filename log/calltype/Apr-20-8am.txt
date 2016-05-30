@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 8:00 AM FXRS 4/20/2016
+
+FXRS: List Rate Issue / Line test / Hourly Upload issue / 
+
+Web Services: Address Validation / Enable test credentials for pickups / Disconnect / DRC Assist / test environment / 
+
+Café: Antivirus ate fedex services / Supplies / Repeat Shipment / Update hazmat table / International return / Ran repair on FXI / Schedule ground pickup not able / software req / 
+
+FXCT: 
+
+MISDIRECTS: needs .com / Dotcom EEI / intl cust serv / Look at scheduled pickups / 
+
+AHT Drivers: FXRS List Rate Issue 40 min / Café Antivirus ate fedex services 20 min / FXRS Enable test credentials for pickups 20 min / 
+
+------------
+
+Cafe on FXRS: Product key unable to authin webform / Tech ticket for Z4M plus / 
+
+FXRS on Cafe: 

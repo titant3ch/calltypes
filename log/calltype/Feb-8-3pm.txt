@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 3:00 PM FXRS 2/8/2016
+
+FXRS: Getting an error DG / Comms Issues / 
+
+Web Services: WIS Credential Registration / Service Availability Issue / new creds setup / New Creds Needed / issues with new creds setup / Disconnect / Scale Assist / cert request / drc reg / 
+
+Café: Update failed had to clean load / Comm Issue / fxi / Printer Setup / 
+
+FXCT: issues with LTL account / Guaranteed Services / 
+
+MISDIRECTS: Transfer To DG / FSM LITE / 
+
+AHT Drivers: Café Update failed had to clean load 76 min / FXRS Getting an error DG 45 min / FXRS Comms Issues 18 min / 
+
+------------
+
+Cafe on FXRS: win login / intl ship / 
+
+FXRS on Cafe: 

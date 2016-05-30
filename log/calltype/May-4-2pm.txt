@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 2:00 PM FXRS 5/4/2016
+
+FXRS: ground tracking / Openship mps shipment error / Cust. Disconnected / MRU failing to add child meter / 
+
+Web Services: Transaction error / Get production credentials / pritner thrid party / Consultant DRC failure / Dev Phase WIS / Test Creds and Cert Questions / No services / SP labels not printing/SP not enabled / Caller not entering correct address / Certification Call / drc reg / customer rates not matching fedex.com / Test vs Prod / wis registration / Test Creds Reg / 
+
+Café: intl ship / ShipManager Service not Responding / disconnect / needs software req / FXIA Mapping / TSR Ticket for Thermal Printer / Error when processing config data / 
+
+FXCT: 
+
+MISDIRECTS: transfer to fedex.com / Dot.com / 
+
+AHT Drivers: FXRS Openship mps shipment error 65 min / Café ShipManager Service not Responding 60 min / FXRS Test Creds and Cert Questions 34 min / 
+
+------------
+
+Cafe on FXRS: Missing LTL rates / Ship MPS walkthru / custom labels / cic fxi req / 
+
+FXRS on Cafe: 

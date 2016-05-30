@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 9:00 AM FXRS 2/2/2016
+
+FXRS: unable to communicate / label cert??? / URSA download / admin service CPU hog / 106x uninstall / 
+
+Web Services: cert req / prior call drc reg / smartpsot hub / issues with new cred setup / 
+
+Café: 
+
+FXCT: 
+
+MISDIRECTS: 
+
+AHT Drivers: FXRS URSA download 85 min / FXRS unable to communicate 50 min / FXRS server not responding 25 min / 
+
+------------
+
+Cafe on FXRS: server not responding / 
+
+FXRS on Cafe: 

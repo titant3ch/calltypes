@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 12:00 PM FXRS 2/5/2016
+
+FXRS: openship and future ship? / Server Not Communicating / 
+
+Web Services: Commodity Auto-Rate Error / drc reg / 
+
+Café: EOD reports / Add New Return Address / 
+
+FXCT: Batch profile creation assist / 
+
+MISDIRECTS: 
+
+AHT Drivers: FXRS Batch profile creation assist 50 min / FXRS Commodity Auto-Rate Error 22 min / FXRS NAFTA Inquiry 10 min / 
+
+------------
+
+Cafe on FXRS: NAFTA Inquiry / 
+
+FXRS on Cafe: 

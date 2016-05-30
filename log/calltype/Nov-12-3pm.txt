@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 3:00 PM FXRS 11/12/2015
+
+FXRS: Label Format / SmartPost Returns / 
+
+Web Services: Ground Enablement / 
+
+Café: Line test / Sent link and production code / Check all accts on Cafe system / HP LJ printer jammed / Ground Call Tag Upload Issue / Unresolved / Small Fonts / 
+
+FXCT: set up SP / 
+
+MISDIRECTS: Return Label / Disconnect / 
+
+AHT Drivers: Café Ground Call Tag Upload Issue 55 min / FXRS Problem encountered registering sof 50 min / Café Unresolved / Small Fonts 25 min / 
+
+------------
+
+Cafe on FXRS: Restart FXI / Problem encountered registering sof / 
+
+FXRS on Cafe: 

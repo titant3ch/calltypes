@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 8:00 AM FXRS 4/18/2016
+
+FXRS: customer disconnected / Line Test / McAfee Issue / 
+
+Web Services: Smart post issues / test shipping / 
+
+Café: 
+
+FXCT: 
+
+MISDIRECTS: CallTag / Transfer to Customer Service / wrong number / 
+
+AHT Drivers: FXRS McAfee Issue 24 min / FXRS CallTag / Transfer to Customer Service 13 min / FXRS test shipping 10 min / 
+
+------------
+
+Cafe on FXRS: 
+
+FXRS on Cafe: 

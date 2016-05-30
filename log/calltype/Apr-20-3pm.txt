@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 3:00 PM FXRS 4/20/2016
+
+FXRS: 
+
+Web Services: cert / Certification request / Cert Inquiry / 
+
+Café: intl rates wrong / cust need product key / 
+
+FXCT: 
+
+MISDIRECTS: Dot.com / 
+
+AHT Drivers: Café intl rates wrong 15 min / FXRS cert 10 min / Café cust need product key 10 min / 
+
+------------
+
+Cafe on FXRS: 
+
+FXRS on Cafe: 

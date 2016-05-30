@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 11:00 AM FXRS 10/7/2015
+
+FXRS: HUF not transmitting / FXCT Install / Config remove/add meter / issues with services / 15.0x / Communication / printer issues / AE calling in on prev case / 
+
+Web Services: Space before zipcode causes error / 
+
+Café: tracking on the software / hardwre printer unplugged / cic wanted tech ticket for hardware / Issues with uploads/EOD / reports custom / general printer question / sender contact / questions about smartpost / new install request / Tracking questions / ae wanted software / issues with tracking on software / Z4M printer issues. / Confirm hardware / convert to network client / 
+
+FXCT: 
+
+MISDIRECTS: dot com caller / XFER TO DOTCOM / 
+
+AHT Drivers: Café convert to network client 40 min / Café issues with tracking on software 25 min / Café Z4M printer issues. 20 min / 
+
+------------
+
+Cafe on FXRS: Return Shipment / BPU crash / 
+
+FXRS on Cafe: 

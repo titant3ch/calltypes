@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 11:00 AM FXRS 12/2/2015
+
+FXRS: SHA questions / update contact info / not able to register new meter / issues with URSA and slow trans / 
+
+Web Services: printer dump / register for production / new creds setup / registration / 
+
+Café: No rates displayed / Cafe cleanload to remove old meter / 
+
+FXCT: 
+
+MISDIRECTS: dotcom / needed CA Dom CS / 
+
+AHT Drivers: FXRS issues with URSA and slow trans 45 min / Café Cafe cleanload to remove old meter 35 min / FXRS registration 17 min / 
+
+------------
+
+Cafe on FXRS: issues with EOD close times / 
+
+FXRS on Cafe: 

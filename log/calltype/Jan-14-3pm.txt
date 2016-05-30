@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 3:00 PM FXRS 1/14/2016
+
+FXRS: problem with URSA / 
+
+Web Services: Shopping cart does not show rates / issue with address validation / Invalid quantity data for DG / 
+
+Café: recipient ID not showing / 
+
+FXCT: 
+
+MISDIRECTS: needed fedex.com Ship Admin / 
+
+AHT Drivers: Café recipient ID not showing 22 min / FXRS problem with URSA 16 min / FXRS Shopping cart does not show rates 14 min / 
+
+------------
+
+Cafe on FXRS: 
+
+FXRS on Cafe: 

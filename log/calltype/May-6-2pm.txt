@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 2:00 PM FXRS 5/6/2016
+
+FXRS: Transfer FSMS setup file to cust / meter registration / 1D Disablement / expired ursa / 
+
+Web Services: wis registrtation / rate mismatch / Quickbooks / Magento Creds / no ground discounts / no rates showing / Missing Origin / certification / 
+
+Café: FXIA Lookup / International Package Type / sat delivery option / Address Book Entry / email return / fsm software request / Client Install / Firewall Issues / 
+
+FXCT: Batch tracking profile / 
+
+MISDIRECTS: International / beta system /trans to beta team / 
+
+AHT Drivers: Café Client Install / Firewall Issues 55 min / FXRS cust CA wants install help 20 min / FXRS meter registration 15 min / 
+
+------------
+
+Cafe on FXRS: cust CA wants install help / 
+
+FXRS on Cafe: 

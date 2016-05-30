@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 11:00 AM FXRS 4/6/2016
+
+FXRS: Invalid tracking range error / bill 3rd party acct / Comm setup admin restart / bill 3rd party but isn't doing that / upload issues admin service issues / cic disconnected b4 I could get info / Add new child meter / Needed a ticket created for a CIC / 
+
+Web Services: issues with international shipping / Timing out / Duties and Taxes thru WIS / Client hung up when getting transfered / DRC registration and Cert req / esc WIS registration errors / questions about moving to prod / 
+
+Café: Wanted to update contact name in sender / Wants FSM / Does not want CIC Req / Producty Key request / Return Enablement / Client writing as deleted / issues with visual j # / Had two sites with busted printers / Validation / wanted to drop ship on software / Hazmat enable / tech ticket bad ZM400 / Install / Restore / 
+
+FXCT: issues with install working with Mac / Restoring FXCT / Configuration assist / 
+
+MISDIRECTS: to dot.com / needed fedex.com DM / 
+
+AHT Drivers: Café Install / Restore 38 min / FXRS host/client issues with intergration 24 min / FXRS upload issues admin service issues 22 min / 
+
+------------
+
+Cafe on FXRS: issues with client limits / host/client issues with intergration / 
+
+FXRS on Cafe: Issue with barcode not printing on label / 

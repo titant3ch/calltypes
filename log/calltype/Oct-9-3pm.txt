@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 3:00 PM FXRS 10/9/2015
+
+FXRS: 1308 failed upgrade URSA issue / Add new child meter / Frontend can't connect to FXRS / Child meter out of Exp trk #s / 
+
+Web Services: coding / 
+
+Café: Set up SA defaults / Needed custom label approval email / CIC needed link for FXI 0901 / international address issues / Invoice issue ref to Rev Svcs / LTL reports / issues with international address / 
+
+FXCT: Restore FXCT / 
+
+MISDIRECTS: Customer hung up / needed fedex.com / needed fedex.com / needed fedex.com / 
+
+AHT Drivers: FXRS AB import for Group ship 34 min / WIS batch setup 28 min / FXRS 1308 failed upgrade URSA issue 24 min / 
+
+------------
+
+Cafe on FXRS: AB import for Group ship / 
+
+FXRS on Cafe: 
