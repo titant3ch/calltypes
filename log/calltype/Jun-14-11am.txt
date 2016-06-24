@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 11:00 AM FXRS 6/14/2016
+
+FXRS: Upgrade Question / International return / disconnect / Clean Load / meter not configured / 
+
+Web Services: needs cert no kb / Printer for Cert / NameSpace Issue / DRC assist / 
+
+Café: PK Request / Backup/restore databases / disconnect / 
+
+FXCT: 
+
+MISDIRECTS: edi support / 
+
+AHT Drivers: FXRS Clean Load 70 min / FXRS International return 23 min / FXRS Printer for Cert 10 min / 
+
+------------
+
+Cafe on FXRS: Out of tracking #s / Acct validation failed, cust call back / 
+
+FXRS on Cafe: 

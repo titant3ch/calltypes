@@ -1,0 +1,24 @@
+Reported Calls for: Jun-16-12pm
+
+Agent, Computer Name, Duration of Call, LOB, Type, Message,
+chkelley,ausrca0055,20 min,FXRS,FSMS,rate conversion
+mbarth,ausrca0058,20 min,FXRS,Café,database error
+rhagemann,ausrca0050,12 min,Café,Café,Issues printing labels
+macampbell,ausrcwa049,10 min,FXRS,WIS,Rate quote questions
+rmcneil,ausrcwa059,9.3 min,Café,Café,FXI old batch file
+rhagemann,ausrca0050,9 min,FXRS,WIS,Rates to Brazil
+rhagemann,ausrca0050,8.5 min,FXRS,Café,FSM Validation
+mbarth,ausrca0058,7 min,FXRS,FSMS,comms
+macampbell,ausrcwa049,7 min,FXRS,WIS,Get production credentials
+cdriskell,ausrca0064,6 min,FXRS,FSMS,Push 1503 installer to customer
+rhagemann,ausrca0050,5 min,Café,Café,Printer Dump
+rhagemann,ausrca0050,5 min,FXRS,WIS,WIS Authentication Failure
+rmcneil,ausrcwa059,5 min,FXRS,Café,Expired URSA
+macampbell,ausrcwa049,5 min,FXRS,WIS,Transaction errors
+mbarth,ausrca0058,5 min,FXRS,Misdirect,needs .com
+rhagemann,ausrca0050,4.5 min,FXRS,WIS,DRC Assist
+rhagemann,ausrca0050,4 min,Café,Café,MPS Assist
+rhagemann,ausrca0050,4 min,Café,Café,TSR Request for Scale
+rhagemann,ausrca0050,2.5 min,FXRS,FXCT,Install Request
+mbarth,ausrca0058,2 min,FXRS,WIS,empty line
+mbarth,ausrca0058,1 min,FXRS,WIS,csp issue

@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 2:00 PM FXRS 6/23/2016
+
+FXRS: Admin service stopping issue / Dimensional Discount Expired / 
+
+Web Services: Provided Web Svcs info / Assisted w/Prod. Creds Issue / premiere services / 
+
+Café: Printer / TSR Request / Assistance on shipping / Assist w/DG Shipment / SPX Enablement / FXI crashed / scale not reading correctly / Install / residential shipment / 
+
+FXCT: Install FXCT / 
+
+MISDIRECTS: Dot Com Transfer / Cust Service / 
+
+AHT Drivers: FXRS FXIA ODBC Connection 40 min / FXRS Admin service stopping issue 30 min / Café Assist w/DG Shipment 23 min / 
+
+------------
+
+Cafe on FXRS: FXIA ODBC Connection / 
+
+FXRS on Cafe: 

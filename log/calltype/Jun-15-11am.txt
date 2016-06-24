@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 11:00 AM FXRS 6/15/2016
+
+FXRS: Ursa expired / ursa on 4 boxes / Enable 1D barcode / questions about smart post / cust disconnected / bad scangun / 
+
+Web Services: Transaction errors / general questions about rating wis / LTL rating issues / 
+
+Café: disconnect / Acct validation successful / custom ltl labels / shipments writing as deleted. / customize forms / 
+
+FXCT: add express acct to fxct tool / surcharge questions / 
+
+MISDIRECTS: revenue services needed / dot com caller / 
+
+AHT Drivers: FXRS issues with FXIA ODBC setup 75 min / FXRS ursa on 4 boxes 57 min / Café custom ltl labels 35 min / 
+
+------------
+
+Cafe on FXRS: ship alert for incoming shipment. / issues with FXIA ODBC setup / 
+
+FXRS on Cafe: 

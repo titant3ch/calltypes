@@ -1,0 +1,29 @@
+Reported Calls for: Jun-6-11am
+
+Agent, Computer Name, Duration of Call, LOB, Type, Message,
+cdriskell,ausrca0064,60 min,Café,Café,2916 non-comm meter ran repair
+dneal,ausrca0098,20 min,FXRS,WIS,DRC registration
+gdeharo,ausrca0227,19 min,FXRS,WIS,web service rate issues
+chkelley,ausrca0055,15 min,Café,Café,international shipment walk through
+rmcneil,ausrcwa059,11 min,FXRS,Café,Needed TIS
+jpinion,ausrca0056,11 min,FXRS,WIS,issues no ground
+macampbell,ausrcwa049,10 min,FXRS,WIS,WIS registration failing
+gdeharo,ausrca0227,9 min,FXRS,WIS,issue with communication
+macampbell,ausrcwa049,9 min,FXRS,WIS,Get production credentials
+gdeharo,ausrca0227,8 min,FXRS,WIS,zp 500 printing w/streak
+jpinion,ausrca0056,8 min,FXRS,FSMS,issues with URSA
+mbarth,ausrca0058,7 min,FXRS,Café,export address
+macampbell,ausrcwa049,7 min,Café,Café,Troubleshoot FXI
+gdeharo,ausrca0227,7 min,FXRS,WIS,return label assistance
+macampbell,ausrcwa049,7 min,Café,Café,Acct validation successful
+chkelley,ausrca0055,6 min,FXRS,WIS,certification
+mbarth,ausrca0058,5 min,FXRS,Café,internet wont connect
+mbarth,ausrca0058,5 min,FXRS,Café,network client limits
+gdeharo,ausrca0227,5 min,FXRS,WIS,address validation
+macampbell,ausrcwa049,5 min,Café,Café,Run shipment reports
+gdeharo,ausrca0227,4 min,FXRS,WIS,thermal printer issue w/printer head
+gdeharo,ausrca0227,4 min,FXRS,FXCT,smart post settings
+macampbell,ausrcwa049,3 min,Café,Café,CIC request for new FSM cust
+gdeharo,ausrca0227,3 min,Café,Misdirect,dot com caller
+chkelley,ausrca0055,3 min,Café,Café,invalid language code error
+macampbell,ausrcwa049,1 min,FXRS,FSMS,disconnect

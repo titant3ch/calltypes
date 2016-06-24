@@ -1,0 +1,30 @@
+Reported Calls for: Jun-15-8am
+
+Agent, Computer Name, Duration of Call, LOB, Type, Message,
+dneal,ausrca0098,52 min,Café,Café,Repair
+rhagemann,ausrca0050,41 min,FXRS,FSMS,Network Printer
+rmcneil,ausrcwa059,34 min,FXRS,FSMS,Random failed export to third party tool
+sroberts,ausrca0072,29 min,FXRS,WIS,Assisted w/List Rates Issue
+chkelley,ausrca0055,20 min,FXRS,FSMS,label not printing correctly
+gdeharo,ausrca0090,17 min,FXRS,FSMS,ground prefix baracode issue
+rmcneil,ausrcwa059,14 min,Café,Café,busted printer
+rhagemann,ausrca0050,12 min,FXRS,WIS,Failed Registration
+sroberts,ausrca0072,10 min,FXRS,FSMS,Changed label format per CSP Request
+mbarth,ausrca0058,10 min,FXRS,Café,cic rq new isntall
+rhagemann,ausrca0050,10 min,Café,Café,New Account
+gdeharo,ausrca0090,10 min,FXRS,FSMS,issue with adding acct to server
+chkelley,ausrca0055,10 min,Café,Café,printer not working
+rhagemann,ausrca0050,9 min,FXRS,Café,DG Printer Assist
+rhagemann,ausrca0050,9 min,Café,Café,PK Request
+sroberts,ausrca0072,8 min,FXRS,FSMS,Changed label format to 1D per CSP req.
+macampbell,ausrcwa049,7.5 min,FXRS,WIS,Get production credentials
+rhagemann,ausrca0050,6 min,FXRS,WIS,AV Assist
+rhagemann,ausrca0050,5 min,FXRS,FSMS,Network Printer Issue
+rhagemann,ausrca0050,4.5 min,FXRS,WIS,Issues with shipment
+sroberts,ausrca0072,4 min,FXRS,Misdirect,Dot Com Transfer
+sroberts,ausrca0072,4 min,FXRS,WIS,Answered developers' questions.
+sroberts,ausrca0072,4 min,FXRS,Misdirect,Transfer to Dot Com
+rhagemann,ausrca0050,4 min,FXRS,FSMS,SmartPost Rates
+sroberts,ausrca0072,3 min,FXRS,WIS,Answered Dot Com agents' ?s.
+macampbell,ausrcwa049,1 min,FXRS,Misdirect,transferred to fedex.com
+rhagemann,ausrca0050,.5 min,FXRS,Misdirect,Hungup

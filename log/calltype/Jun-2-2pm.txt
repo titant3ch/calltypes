@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 2:00 PM FXRS 6/2/2016
+
+FXRS: PK Request / smartpost wt  requirements / Assisted CSP w/OpenShip Issue / URSA Issue / disconnect / Assisted w/bill type issue / 
+
+Web Services: Assisted cust. w/Test Creds issue / wis registration / Rates Are Incorrect / Transaction errors / 
+
+Café: scale certification / LTL Details / Scale Issue / 
+
+FXCT: 
+
+MISDIRECTS: Printer Ink / Pickup Issues / .com / transferred to domestic / 
+
+AHT Drivers: FXRS Assisted w/bill type issue 36 min / FXRS Assisted CSP w/OpenShip Issue 35 min / Café LTL Details 25 min / 
+
+------------
+
+Cafe on FXRS: 
+
+FXRS on Cafe: 

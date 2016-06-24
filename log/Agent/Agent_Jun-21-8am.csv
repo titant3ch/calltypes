@@ -1,0 +1,38 @@
+Reported Calls for: Jun-21-8am
+
+Agent, Computer Name, Duration of Call, LOB, Type, Message,
+chkelley,ausrca0055,50 min,FXRS,FSMS,dg shipping error
+sroberts,ausrca0072,48 min,FXRS,WIS,Unsuccessful request for Prod. Creds.
+rhagemann,ausrca0050,37 min,Café,Café,CI wont print
+gdeharo,ausrca0090,32 min,FXRS,Café,modify required.
+rmcneil,ausrcwa059,21 min,FXRS,WIS,To many request
+macampbell,ausrcwa049,18 min,Café,Café,Need IT to clean load FSM SWO
+anewman,ausrca0054,17 min,FXRS,WIS,Needing production key
+rhagemann,ausrca0050,13 min,Café,Café,Validation
+anewman,ausrca0054,12 min,FXRS,FSMS,Rating Error message
+sroberts,ausrca0072,11 min,FXRS,WIS,Assisted Developer get creds
+macampbell,ausrcwa049,11 min,FXRS,WIS,Get production credentials
+dneal,ausrca0098,9 min,FXRS,FXCT,Rate Quote Assist
+jpinion,ausrca0056,9 min,FXRS,Café,issues with printer
+rhagemann,ausrca0050,9 min,FXRS,FXCT,Rates
+rmcneil,ausrcwa059,9 min,FXRS,Café,Printer light goes red random
+rhagemann,ausrca0050,8 min,FXRS,FSMS,Reprint Labels
+sroberts,ausrca0072,8 min,Café,Café,Answered AEs' ?s re: Ground Call Tags
+dneal,ausrca0098,8 min,Café,Café,Software download request
+rhagemann,ausrca0050,7.5 min,FXRS,Misdirect,Dotcom
+macampbell,ausrcwa049,6 min,Café,Café,Acct validation successful
+rhagemann,ausrca0050,6 min,FXRS,WIS,Putting Creds into 3P SW
+rhagemann,ausrca0050,6 min,FXRS,FXCT,LTL Account
+anewman,ausrca0054,6 min,FXRS,WIS,Registeration for production key
+rhagemann,ausrca0050,5.5 min,FXRS,Café,Delete LTL Shipment
+rhagemann,ausrca0050,5.5 min,FXRS,WIS,AE asking for WIS creds
+rhagemann,ausrca0050,5.5 min,FXRS,WIS,Call Dropped
+anewman,ausrca0054,5 min,FXRS,WIS,Certification for WIS cover sheet
+rhagemann,ausrca0050,4 min,FXRS,WIS,3rd Party Account
+sroberts,ausrca0072,4 min,FXRS,WIS,Assisted w/WSDL v.17 issue
+rhagemann,ausrca0050,3.5 min,FXRS,WIS,Unlock Code
+sroberts,ausrca0072,3 min,FXRS,Misdirect,Transfer to Cust. Svc.
+sroberts,ausrca0072,3 min,FXRS,Misdirect,Dot Com Transfer
+rhagemann,ausrca0050,2.5 min,FXRS,WIS,WIS Reg Fail / Error 500
+macampbell,ausrcwa049,2 min,FXRS,Misdirect,transferred to fedex.com
+gdeharo,ausrca0090,2 min,FXRS,Misdirect,customer service call

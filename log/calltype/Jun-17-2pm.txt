@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 2:00 PM FXRS 6/17/2016
+
+FXRS: 1501 install / 
+
+Web Services: Unsuccessful attempt to get creds on MAC / Assisted w/Error 1000 issue / Cert Request / 
+
+Café: hardware removal / LTL Address Update / Problem encountered registering software / Print To File Selected / Ground call tag / Troubleshoot ZP 505 / Sat delivery walkthru / tech needed for hardware cleanload / 
+
+FXCT: new install / 
+
+MISDIRECTS: 
+
+AHT Drivers: FXRS 1501 install 60 min / Café Print To File Selected 45 min / FXRS Unsuccessful attempt to get creds on MAC 23 min / 
+
+------------
+
+Cafe on FXRS: 
+
+FXRS on Cafe: 

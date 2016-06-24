@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 12:00 PM FXRS 6/23/2016
+
+FXRS: Admin services not running / Tracking # ranges not implementing / 
+
+Web Services: Registration for Production key / 
+
+Café: Clean Load / Track shipment from ship history / 
+
+FXCT: Needed code / unable to get rate / unable to get rate / 
+
+MISDIRECTS: transferred to cust service / 
+
+AHT Drivers: Café Clean Load 58 min / FXRS Admin services not running 25 min / FXRS Tracking # ranges not implementing 24 min / 
+
+------------
+
+Cafe on FXRS: client not opening / client not opening / 
+
+FXRS on Cafe: 

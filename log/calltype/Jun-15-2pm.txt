@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 2:00 PM FXRS 6/15/2016
+
+FXRS: rates / smartpost rates not showing / 
+
+Web Services: register for production credentials / New Customer Wants AE Call / customer unable to locate auth key / 
+
+Café: Assisted w/label alignment Issue / Escalated TD Issue / 
+
+FXCT: Earned Discount Not Showing / prev day rates not showing / 
+
+MISDIRECTS: to customer service / transferred to CAT / 
+
+AHT Drivers: FXRS prev day rates not showing 50 min / Café Escalated TD Issue 40 min / FXRS rates 30 min / 
+
+------------
+
+Cafe on FXRS: software download/host/client install / Assisted w/zp505 issues / Acct. Validation/URL/Product Key Sent / 
+
+FXRS on Cafe: 

@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 11:00 AM FXRS 6/8/2016
+
+FXRS: work station comms / printer issue tech ticket needed / issue with labels / zm400 printer issues / add master meter to fxrs/open ship / 
+
+Web Services: ae notification / general questions showed him DRC / No Gnd svc / No discounts showing / 
+
+Café: db corrupt / export/import address book to new cafe / software download request/install / Edit sender address / Acct validation successful / tech tix printer / fxi not working had to reinstall fxi / puerto rico / DB backup / Change label format / fxi / database import of large file / 
+
+FXCT: 
+
+MISDIRECTS: transferred to fedex.com / 
+
+AHT Drivers: Café database import of large file 150 min / Café software download request/install 23 min / FXRS add master meter to fxrs/open ship 23 min / 
+
+------------
+
+Cafe on FXRS: network client / 
+
+FXRS on Cafe: 

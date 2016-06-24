@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 8:00 AM FXRS 6/7/2016
+
+FXRS: Download smartpost tracking numbers / fsms install / 
+
+Web Services: Send tech for printer / auth failure / 
+
+Café: beta line transfer / general question windows update / software download request / 
+
+FXCT: comm failure / 
+
+MISDIRECTS: dot com caller / revenue services call / 
+
+AHT Drivers: Café beta line transfer 19 min / FXRS fsms install 15 min / FXRS Download smartpost tracking numbers 10 min / 
+
+------------
+
+Cafe on FXRS: 
+
+FXRS on Cafe: 

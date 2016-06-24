@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 2:00 PM FXRS 6/14/2016
+
+FXRS: Ground Tracking Prefix / incorrect pick up address / 
+
+Web Services: Get production credentials / Cust needs SP Hub ID / ShipStation Assist / Disconnect / drc function / wis registration / 
+
+Café: Validation / Backup/Restore / Printer Replacement / 
+
+FXCT: 
+
+MISDIRECTS: Dotcom / .com / to customer service / to dot.com / to dot.com / 
+
+AHT Drivers: FXRS Ground Tracking Prefix 12 min / Café Printer Replacement 12 min / FXRS drc function 10 min / 
+
+------------
+
+Cafe on FXRS: 
+
+FXRS on Cafe: 

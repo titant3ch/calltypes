@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 11:00 AM FXRS 6/17/2016
+
+FXRS: disconnect / URSA not implementing / services / OpenShip / mcafee / Admin won't start / MRU failing, web services blocked / 
+
+Web Services: Disconnect / auth error/ prod creds going to test esb / Rating Issue / DV not showing on invoices / Assisted w/Web Svcs freight issue. / URL Change / WIS Password Email / Test Key Reg / 
+
+Café: Meter suspect for EDI acct / rates / Acct validation succcessful / saturday delivery / 
+
+FXCT: backup and restore process / 
+
+MISDIRECTS: .com / transferred to fedex.com / Domestic / 
+
+AHT Drivers: FXRS Client not picking up FXIA Profiles 41 min / FXRS MRU failing, web services blocked 41 min / FXRS Rating Issue 29 min / 
+
+------------
+
+Cafe on FXRS: Client not picking up FXIA Profiles / integration setup / Assisted w/FSM print issue. / Submitted CIC Work Request / 
+
+FXRS on Cafe: 

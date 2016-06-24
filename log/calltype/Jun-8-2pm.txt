@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 2:00 PM FXRS 6/8/2016
+
+FXRS: 
+
+Web Services: AV for Test Creds / Get production credentials / 
+
+Café: Assisted w/FXIA & Report Issues / Shipengine service not running on client / 
+
+FXCT: 
+
+MISDIRECTS: 
+
+AHT Drivers: Café Assisted w/FXIA & Report Issues 27 min / Café Shipengine service not running on client 14 min / FXRS Get production credentials 8 min / 
+
+------------
+
+Cafe on FXRS: 
+
+FXRS on Cafe: 

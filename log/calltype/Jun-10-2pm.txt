@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 2:00 PM FXRS 6/10/2016
+
+FXRS: 
+
+Web Services: Rating Issue / 
+
+Café: Shipments auto-delete, no labels / EEI Requirement / Cust Disconnect / Shipping Profile Assist / Return Address / Cust. Disconnected / writing as deleted / printer install / CSV Import Assist / 
+
+FXCT: Batch transit times / Dimensional Issue / Call Dropped / 
+
+MISDIRECTS: Dotcom Printer / Transfer to Dot Com / 
+
+AHT Drivers: FXRS Batch transit times 41 min / Café CSV Import Assist 37 min / Café printer install 35 min / 
+
+------------
+
+Cafe on FXRS: writing as deleted / new install / 
+
+FXRS on Cafe: 

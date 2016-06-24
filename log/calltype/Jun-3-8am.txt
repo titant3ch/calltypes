@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 8:00 AM FXRS 6/3/2016
+
+FXRS: testing fxrs cic line / 
+
+Web Services: LTL Rating / WIS certification request / Get production credentials / DRC Assist / Authentication failure / Client hung up / cert process / acct not valid error; acct not valid / 
+
+Café: Writing as deleted / Install Assist / AE / ShipEngine service error for client / Third Party Shipment / writing as deleted ran repair. / 
+
+FXCT: 
+
+MISDIRECTS: Dotcom label printer / customer service call / 
+
+AHT Drivers: Café Writing as deleted 48 min / FXRS Authentication failure 40 min / Café writing as deleted ran repair. 35 min / 
+
+------------
+
+Cafe on FXRS: Help print commercial invoice / 
+
+FXRS on Cafe: 

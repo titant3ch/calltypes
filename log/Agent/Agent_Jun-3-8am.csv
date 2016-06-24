@@ -1,0 +1,20 @@
+Reported Calls for: Jun-3-8am
+
+Agent, Computer Name, Duration of Call, LOB, Type, Message,
+rhagemann,ausrca0054,48 min,Café,Café,Writing as deleted
+rhagemann,ausrca0054,40 min,FXRS,WIS,Authentication failure
+gdeharo,ausrca0227,35 min,Café,Café,writing as deleted ran repair.
+rhagemann,ausrca0054,15 min,FXRS,WIS,LTL Rating
+macampbell,ausrcwa049,12 min,Café,Café,ShipEngine service error for client
+rhagemann,ausrca0054,12 min,Café,Misdirect,Dotcom label printer
+rhagemann,ausrca0054,10 min,Café,Café,Install Assist / AE
+macampbell,ausrcwa049,8.5 min,FXRS,WIS,Get production credentials
+macampbell,ausrcwa049,8 min,FXRS,Café,Help print commercial invoice
+macampbell,ausrcwa049,8 min,FXRS,WIS,WIS certification request
+gdeharo,ausrca0227,7 min,FXRS,WIS,acct not valid error; acct not valid
+rhagemann,ausrca0054,6 min,FXRS,WIS,DRC Assist
+mbarth,ausrca0058,5 min,FXRS,WIS,cert process
+rhagemann,ausrca0054,4 min,Café,Café,Third Party Shipment
+gdeharo,ausrca0227,3 min,FXRS,Misdirect,customer service call
+gdeharo,ausrca0227,1 min,FXRS,FSMS,testing fxrs cic line
+rmcneil,ausrcwa059,1 min,FXRS,WIS,Client hung up

@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 3:00 PM FXRS 5/31/2016
+
+FXRS: issues with comms / install file / issues with deleting a shipment / issues with URSA / URSA Failed to Implement / Supported OS / Set barcode type to 1D / Assisted w/Meter Registration / CIC request for product key. / 
+
+Web Services: WIS questions / Get production credentials / register for test credentials. / Certification questions / issues with express labels / Label customization / Certification questions / auth failed / Get production credentials / 
+
+Café: software download request / Troubleshoot LP 2844 / issues with CI creation / communication issue dial up / issues with new install request / Corrupt databases/aggressive modify / Submitted hardware tech ticket on STD / Assisted w/EIN #, etc. / 
+
+FXCT: install rating tool / add ltl freight acct / 
+
+MISDIRECTS: to customer service / transferred to domestic / dot com caller / dot com caller / Tracking a Pkg / Dot Com Transfer / 
+
+AHT Drivers: FXRS aggressive modify needed 37 min / FXRS Label customization 35 min / Café Corrupt databases/aggressive modify 30 min / 
+
+------------
+
+Cafe on FXRS: monitor problem / aggressive modify needed / Zebra 2348 Issue / 
+
+FXRS on Cafe: 

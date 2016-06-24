@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 12:00 PM FXRS 6/16/2016
+
+FXRS: rate conversion / Push 1503 installer to customer / comms / 
+
+Web Services: Rates to Brazil / DRC Assist / WIS Authentication Failure / Rate quote questions / Transaction errors / empty line / csp issue / Get production credentials / 
+
+Café: MPS Assist / Issues printing labels / TSR Request for Scale / Printer Dump / FXI old batch file / 
+
+FXCT: Install Request / 
+
+MISDIRECTS: needs .com / 
+
+AHT Drivers: FXRS rate conversion 20 min / FXRS database error 20 min / Café Issues printing labels 12 min / 
+
+------------
+
+Cafe on FXRS: FSM Validation / Expired URSA / database error / 
+
+FXRS on Cafe: 

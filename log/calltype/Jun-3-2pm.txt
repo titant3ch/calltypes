@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 2:00 PM FXRS 6/3/2016
+
+FXRS: SmartPost to Canada / disconnect / open shipment / Troubleshoot transaction / query service not running / 
+
+Web Services: Assist w/Rate Quote Issue / Smartpost hub id / Auth Failure / Get production credentials / wis registration / 
+
+Café: Clean load / Unable to track pkgs / Commodity Import / client install / 
+
+FXCT: 
+
+MISDIRECTS: transferred to fedex.com / 
+
+AHT Drivers: Café Clean load 51 min / Café Commodity Import 48 min / FXRS open shipment 30 min / 
+
+------------
+
+Cafe on FXRS: 
+
+FXRS on Cafe: 

@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 11:00 AM FXRS 6/20/2016
+
+FXRS: Enterprise issue with printer. / Rate request / 
+
+Web Services: new creds setup / questions about how to get setup / questions about web services / Registration / register for production credentials / 
+
+Café: Sender information / Smartpost Address Service Requested / Override preferences / issues with CI printing / Troubleshoot ZP 505 / FXI not connecting with user information / issues with service type / 
+
+FXCT: fxct install / address update / 
+
+MISDIRECTS: needs cust serv / to LTL online support / transferred to fedex.com / from .com to .com / transferred to freight cust service / 
+
+AHT Drivers: FXRS questions about web services 41 min / Café Troubleshoot ZP 505 18 min / FXRS Enterprise issue with printer. 17 min / 
+
+------------
+
+Cafe on FXRS: ddl rates / questions about rates / 
+
+FXRS on Cafe: 

@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 11:00 AM FXRS 6/6/2016
+
+FXRS: disconnect / issues with URSA / 
+
+Web Services: web service rate issues / address validation / thermal printer issue w/printer head / return label assistance / DRC registration / issue with communication / WIS registration failing / zp 500 printing w/streak / Get production credentials / issues no ground / certification / 
+
+Café: Troubleshoot FXI / Run shipment reports / Acct validation successful / CIC request for new FSM cust / 2916 non-comm meter ran repair / international shipment walk through / invalid language code error / 
+
+FXCT: smart post settings / 
+
+MISDIRECTS: dot com caller / 
+
+AHT Drivers: Café 2916 non-comm meter ran repair 60 min / FXRS DRC registration 20 min / FXRS web service rate issues 19 min / 
+
+------------
+
+Cafe on FXRS: export address / internet wont connect / network client limits / Needed TIS / 
+
+FXRS on Cafe: 

@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 2:00 PM FXRS 6/13/2016
+
+FXRS: Test Meter Unable to DL List Rates / uploads / no ground service / admin not starting / 
+
+Web Services: Needed API codes / no ground discounts / Get production credentials / WIS Creds / 
+
+Café: Disconnect / Writing as deleted / 
+
+FXCT: 
+
+MISDIRECTS: .com / 
+
+AHT Drivers: FXRS Test Meter Unable to DL List Rates 35 min / FXRS URSA / Sender Database 28 min / FXRS uploads 15 min / 
+
+------------
+
+Cafe on FXRS: need product key / URSA / Sender Database / 
+
+FXRS on Cafe: 

@@ -1,0 +1,30 @@
+Reported Calls for: Jun-17-11am
+
+Agent, Computer Name, Duration of Call, LOB, Type, Message,
+rhagemann,ausrca0050,41 min,FXRS,Café,Client not picking up FXIA Profiles
+macampbell,ausrcwa049,41 min,FXRS,FSMS,MRU failing, web services blocked
+rhagemann,ausrca0050,29 min,FXRS,WIS,Rating Issue
+macampbell,ausrcwa049,27 min,FXRS,FSMS,URSA not implementing
+rhagemann,ausrca0050,20 min,FXRS,FSMS,OpenShip
+macampbell,ausrcwa049,15 min,Café,Café,Meter suspect for EDI acct
+rhagemann,ausrca0050,14 min,FXRS,WIS,DV not showing on invoices
+rmcneil,ausrcwa059,11 min,FXRS,FSMS,Admin won't start
+wcrosby,ausrca0071,10 min,FXRS,FXCT,backup and restore process
+wcrosby,ausrca0071,10 min,FXRS,Café,integration setup
+wcrosby,ausrca0071,10 min,FXRS,WIS,auth error/ prod creds going to test esb
+sroberts,ausrca0072,10 min,FXRS,Café,Submitted CIC Work Request
+rhagemann,ausrca0050,8 min,FXRS,WIS,Test Key Reg
+macampbell,ausrcwa049,7 min,Café,Café,Acct validation succcessful
+mbarth,ausrca0058,5 min,FXRS,FSMS,services
+rhagemann,ausrca0050,5 min,FXRS,Misdirect,Domestic
+mbarth,ausrca0058,5 min,FXRS,FSMS,mcafee
+jpinion,ausrca0056,4 min,Café,Café,saturday delivery
+wcrosby,ausrca0071,3 min,FXRS,Misdirect,.com
+sroberts,ausrca0072,3 min,FXRS,WIS,Assisted w/Web Svcs freight issue.
+sroberts,ausrca0072,3 min,FXRS,Café,Assisted w/FSM print issue.
+rhagemann,ausrca0050,2.5 min,FXRS,WIS,URL Change
+rhagemann,ausrca0050,2.5 min,FXRS,WIS,WIS Password Email
+macampbell,ausrcwa049,1.5 min,FXRS,Misdirect,transferred to fedex.com
+rhagemann,ausrca0050,1 min,FXRS,WIS,Disconnect
+macampbell,ausrcwa049,1 min,FXRS,FSMS,disconnect
+rhagemann,ausrca0050,1 min,Café,Café,rates

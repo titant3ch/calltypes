@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 2:00 PM FXRS 6/7/2016
+
+FXRS: product key to install / cust disconnect / Answered Clean Load/Install ?s / URSA Download Issue / 
+
+Web Services: Authentication Failure / AV Assist with Test Creds / invalid payment type / DRC Assist / cert request / 
+
+Café: Assisted w/shipment to AU. / Request for label part #. / new install / Acct validation successful / 
+
+FXCT: adding ltl acct / 
+
+MISDIRECTS: Empty Line / Cust. Svc. Transfer / .com / DG issues/questions / 
+
+AHT Drivers: FXRS invalid payment type 60 min / FXRS URSA Download Issue 57 min / FXRS AV Assist with Test Creds 35 min / 
+
+------------
+
+Cafe on FXRS: Software upgrade / 
+
+FXRS on Cafe: 

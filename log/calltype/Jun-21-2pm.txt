@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 2:00 PM FXRS 6/21/2016
+
+FXRS: CSP Product Key Request / URSA Issue / 
+
+Web Services: Troubleshoot intl rate requests / rate discrepancy / DRC assist / Freight Box Acct. & FXCT Issue / List Rate Issue / Shopify / disconnect / Test Server Outage / WIS error 1000 / error inputting record into database / error inputting record into database / error inputting record into database / 
+
+Café: TSR Request via CIC / CIC PK Request / import template / 
+
+FXCT: Install Assist / 
+
+MISDIRECTS: Dot Com Transfer / BETA / 
+
+AHT Drivers: FXRS Troubleshoot intl rate requests 39 min / FXRS rate discrepancy 32 min / FXRS WIS error 1000 20 min / 
+
+------------
+
+Cafe on FXRS: 
+
+FXRS on Cafe: 

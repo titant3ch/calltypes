@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 8:00 AM FXRS 6/8/2016
+
+FXRS: preasigned smartpost / Rate Download / Printer Issue / testing cic  fxrs line / querey service not starting .net framwor / 
+
+Web Services: Dimensional Weight / ETD Question / Address Issue / no services available / 
+
+Café: Assisted w/FSM install. / Use a different browser to download / AE shipment / turn off eod reports / 
+
+FXCT: 
+
+MISDIRECTS: .com xfer / 
+
+AHT Drivers: FXRS Shipping Profile 33 min / FXRS Printer Issue 17 min / Café Use a different browser to download 16 min / 
+
+------------
+
+Cafe on FXRS: Shipping Profile / intl dg / cust disconnected issue with font size / fix look up box missing / 
+
+FXRS on Cafe: 

@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 11:00 AM FXRS 6/21/2016
+
+FXRS: Services will not start / Intl transactions / ipd error message / 
+
+Web Services: 
+
+Café: CIc for hardware new install / disconnect / new install / unable to select dg / 
+
+FXCT: 
+
+MISDIRECTS: 
+
+AHT Drivers: FXRS Alt return address repair sw 58 min / FXRS Services will not start 55 min / FXRS Intl transactions 22 min / 
+
+------------
+
+Cafe on FXRS: Hardware not communicating / Alt return address repair sw / 
+
+FXRS on Cafe: 

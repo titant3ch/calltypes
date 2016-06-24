@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 11:00 AM FXRS 6/13/2016
+
+FXRS: URSA not implementing / Bad Dimensions / Turn on 1D barcode / Documentation / McAfee stops shipmanager service / EPDI Issues / 
+
+Web Services: Get production credentials / Disconnected / Get production credentials / Rate Table Request / 
+
+Café: Barcoded DocTab / 
+
+FXCT: Help with FXCT / Help with FXCT / 
+
+MISDIRECTS: to billing / ACE / Domestic Pickup / 
+
+AHT Drivers: FXRS Bad Dimensions 52 min / FXRS McAfee stops shipmanager service 51 min / FXRS Clean load 36 min / 
+
+------------
+
+Cafe on FXRS: Clean load / 
+
+FXRS on Cafe: 

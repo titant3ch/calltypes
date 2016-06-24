@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 8:00 AM FXRS 6/15/2016
+
+FXRS: Random failed export to third party tool / Changed label format per CSP Request / Network Printer / Changed label format to 1D per CSP req. / Network Printer Issue / SmartPost Rates / ground prefix baracode issue / label not printing correctly / issue with adding acct to server / 
+
+Web Services: Get production credentials / Assisted w/List Rates Issue / Answered developers' questions. / Issues with shipment / Answered Dot Com agents' ?s. / AV Assist / Failed Registration / 
+
+Café: New Account / PK Request / busted printer / Repair / printer not working / 
+
+FXCT: 
+
+MISDIRECTS: Dot Com Transfer / Transfer to Dot Com / transferred to fedex.com / Hungup / 
+
+AHT Drivers: Café Repair 52 min / FXRS Network Printer 41 min / FXRS Random failed export to third party tool 34 min / 
+
+------------
+
+Cafe on FXRS: cic rq new isntall / DG Printer Assist / 
+
+FXRS on Cafe: 

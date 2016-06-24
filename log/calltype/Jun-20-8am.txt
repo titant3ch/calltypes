@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 8:00 AM FXRS 6/20/2016
+
+FXRS: sp duplicate trking numbers / smartpost configuration / Register meter failed / URSA Expired / 
+
+Web Services: ltl freight issue with address / error 1000 ship request / shipping error / 
+
+Café: 
+
+FXCT: 
+
+MISDIRECTS: 
+
+AHT Drivers: FXRS smartpost configuration 53 min / FXRS Register meter failed 32 min / FXRS sp duplicate trking numbers 22 min / 
+
+------------
+
+Cafe on FXRS: software download request / 
+
+FXRS on Cafe: 

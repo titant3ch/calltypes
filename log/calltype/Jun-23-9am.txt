@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 9:00 AM FXRS 6/23/2016
+
+FXRS: Ports not open / Assisted w/db error / Communication issues / Rating issues / Hardware replacement for zm400 / No Communication Need IT / Communications / 
+
+Web Services: CSP Assist / WIS Creds / Tracking Number Inquiery / Email Test environment / Email test enviornment / 
+
+Café: Client Install / Assisted w/Login Issue / 
+
+FXCT: Install issue / 
+
+MISDIRECTS: Cust Service / Cust Service / 
+
+AHT Drivers: FXRS Ports not open 45 min / FXRS Assisted w/db error 25 min / FXRS No Communication Need IT 17 min / 
+
+------------
+
+Cafe on FXRS: 
+
+FXRS on Cafe: 

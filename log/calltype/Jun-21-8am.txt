@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 8:00 AM FXRS 6/21/2016
+
+FXRS: Reprint Labels / Rating Error message / dg shipping error / 
+
+Web Services: Assisted Developer get creds / Putting Creds into 3P SW / Get production credentials / Unlock Code / WIS Reg Fail / Error 500 / 3rd Party Account / Registeration for production key / Unsuccessful request for Prod. Creds. / Certification for WIS cover sheet / To many request / AE asking for WIS creds / Assisted w/WSDL v.17 issue / Needing production key / Call Dropped / 
+
+Café: Acct validation successful / Answered AEs' ?s re: Ground Call Tags / Software download request / Need IT to clean load FSM SWO / Validation / CI wont print / 
+
+FXCT: Rate Quote Assist / LTL Account / Rates / 
+
+MISDIRECTS: transferred to fedex.com / customer service call / Dotcom / Transfer to Cust. Svc. / Dot Com Transfer / 
+
+AHT Drivers: FXRS dg shipping error 50 min / FXRS Unsuccessful request for Prod. Creds. 48 min / Café CI wont print 37 min / 
+
+------------
+
+Cafe on FXRS: issues with printer / modify required. / Delete LTL Shipment / Printer light goes red random / 
+
+FXRS on Cafe: 

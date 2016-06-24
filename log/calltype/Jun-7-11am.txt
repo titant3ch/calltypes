@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 11:00 AM FXRS 6/7/2016
+
+FXRS: smart post enable / URSA not implementing / URSA expired / express label not printing baracode / 
+
+Web Services: cic requested tech ticket printer / cert req / General questions / drc info / printer replacement / ground not showing up / 
+
+Café: Problem encountered registering software / Acct validation successful / Error installing/registering IT needed / save to address book / 
+
+FXCT: 
+
+MISDIRECTS: transferred to domestic / dot com caller / transferred to fedex.com / 
+
+AHT Drivers: Café Error installing/registering IT needed 35 min / FXRS smart post enable 29 min / FXRS URSA expired 18 min / 
+
+------------
+
+Cafe on FXRS: fxia odbc / 
+
+FXRS on Cafe: 

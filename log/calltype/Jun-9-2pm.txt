@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 2:00 PM FXRS 6/9/2016
+
+FXRS: Enable chux / Asked Snr Support to follow up on a case / unable to delete IPD shipment / ground account missing / Lost Call / Printer Call / Callback on Printer Ticket / 
+
+Web Services: error 1000 auth failed / Get production credentials / Printer Assist / Assisted Developer w/Prod. Creds. / 2nd Meter for WIS / DRC Assist / 
+
+Café: Return email label issue / CIC request for FXI / Assisted w/setting HazMat defaults / 
+
+FXCT: new install / 
+
+MISDIRECTS: neded fedex.com / Transfer to Dom. Cust. Svc. / Neded Rev Svcs / 
+
+AHT Drivers: FXRS Printer Assist 46 min / FXRS ground account missing 30 min / FXRS unable to delete IPD shipment 20 min / 
+
+------------
+
+Cafe on FXRS: 
+
+FXRS on Cafe: 
