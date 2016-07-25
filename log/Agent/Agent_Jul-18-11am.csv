@@ -1,0 +1,31 @@
+Reported Calls for: Jul-18-11am
+
+Agent, Computer Name, Duration of Call, LOB, Type, Message,
+macampbell,ausrcwa049,20 min,FXRS,FSMS,Smartpost rate errors
+gdeharo,ausrcwa043,15 min,FXRS,WIS,error when address validation request sent
+macampbell,ausrcwa049,15 min,FXRS,WIS,Troubleshoot transactions
+macampbell,ausrcwa049,14 min,FXRS,WIS,Troubleshoot transactions
+rhagemann,ausrca0050,11 min,Café,Café,Report Config
+gdeharo,ausrcwa043,10 min,FXRS,Café,issue with international DG shipment
+rhagemann,ausrca0050,8 min,Café,Café,Printer Install
+rhagemann,ausrca0050,7 min,FXRS,FXCT,PK Request
+rhagemann,ausrca0050,7 min,Café,Café,New Install Request
+gdeharo,ausrcwa043,6 min,FXRS,WIS,question about ws credentials
+gdeharo,ausrcwa043,6 min,FXRS,WIS,service disruption grnd srv not available
+rhagemann,ausrca0050,6 min,FXRS,WIS,Cert Inquiery
+macampbell,ausrcwa049,5 min,FXRS,Café,Hardware tech ticket
+rhagemann,ausrca0050,5 min,FXRS,WIS,Load Effect on ShipAlert
+gdeharo,ausrcwa043,4 min,FXRS,WIS,rates not what they expect
+gdeharo,ausrcwa043,4 min,Café,Misdirect,update credit card revenue service call
+gdeharo,ausrcwa043,4 min,FXRS,WIS,test rates questions
+gdeharo,ausrcwa043,4 min,FXRS,WIS,issue with getting label
+gdeharo,ausrcwa043,3 min,FXRS,WIS,service disruption gnd not authorized
+rhagemann,ausrca0050,3 min,FXRS,Misdirect,Dotcom
+rhagemann,ausrca0050,3 min,Café,Misdirect,Beta
+gdeharo,ausrcwa043,2 min,FXRS,FSMS,previous case status
+gdeharo,ausrcwa043,2 min,FXRS,FSMS,product key needed for 1304
+gdeharo,ausrcwa043,1 min,FXRS,FSMS,customer disconnected
+macampbell,ausrcwa049,1 min,Café,Café,transferred to cafe beta
+macampbell,ausrcwa049,1 min,FXRS,WIS,disconnect
+macampbell,ausrcwa049,.5 min,FXRS,FSMS,disconnect
+rhagemann,ausrca0050,.05 min,FXRS,FSMS,Empty Line/LostCall

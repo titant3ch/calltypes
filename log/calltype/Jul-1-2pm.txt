@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 2:00 PM FXRS 7/1/2016
+
+FXRS: Label not printer / CSP Issue / 
+
+Web Services: Troubleshoot transactions / 
+
+Café: FXIA Issue / 
+
+FXCT: 
+
+MISDIRECTS: EDI Dept / 
+
+AHT Drivers: Café FXIA Issue 42 min / FXRS Label not printer / CSP Issue 32 min / FXRS Troubleshoot transactions 12 min / 
+
+------------
+
+Cafe on FXRS: Assisted w/Pre-Departure ITN / 
+
+FXRS on Cafe: 

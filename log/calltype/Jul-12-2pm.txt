@@ -1,0 +1,27 @@
+Here is what the agents are reporting: 2:00 PM FXRS 7/12/2016
+
+FXRS: Shipments being billed incorrectly / McAfee stops shipmanager / SP Delivery Confirmation / print orientation for smartpost / 
+
+Web Services: Transactions not hitting servers / Creds Check / 
+
+Café: Printer issues / Validation / New Install / Assist w/Label Reprint / Lost Call / Not Printing / SP 3rd party billing / Assisted w/Svc Type Issue / Registration / Install / Acct validation failed / Client Lost Connection / Assist w/Incorrect Rates Issue / Unable to ship ground / Override Prefs / Assist w/PR Postal Code / Software request / Validation / New Install / 
+
+FXCT: Install FXCT / 
+
+MISDIRECTS: transferred to domestic / transferred to fedex.com / Beta / Transferred to Cafe Beta / transferred to fedex.com / 
+
+AHT Drivers: FXRS print orientation for smartpost 60 min / Café Printer issues 46 min / Café Assist w/Incorrect Rates Issue 40 min / 
+
+------------
+
+Cafe on FXRS: fxi not starting / software not launching / Email return label / 
+
+FXRS on Cafe: 
+
+------------
+
+July Corporate Load Test Registration Calls
+
+Errors Seen: Test Reg Failed / 
+
+Total: 1

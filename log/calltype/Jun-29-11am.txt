@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 11:00 AM FXRS 6/29/2016
+
+FXRS: 
+
+Web Services: DRC registration / If can use account for web services / WIS registration / WIS registration / 3P SW not printing labels / 
+
+Café: 
+
+FXCT: issue with tool installing permissons / FXCT batch processing / 
+
+MISDIRECTS: 
+
+AHT Drivers: FXRS issue with tool installing permissons 41 min / FXRS FXCT batch processing 28 min / FXRS 3P SW not printing labels 14 min / 
+
+------------
+
+Cafe on FXRS: 
+
+FXRS on Cafe: 

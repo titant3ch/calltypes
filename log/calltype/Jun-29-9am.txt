@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 9:00 AM FXRS 6/29/2016
+
+FXRS: Close In Progress / previous case issue / printer issues / disconnect / Printer issues / Installation issues / 
+
+Web Services: error 1000 address validation enabled it / 
+
+Café: host/client not connecting update config / 
+
+FXCT: restore onto a new computer / 
+
+MISDIRECTS: Domestic / 
+
+AHT Drivers: FXRS Close In Progress 50 min / FXRS List Rate Enabled 25 min / FXRS Installation issues 14 min / 
+
+------------
+
+Cafe on FXRS: List Rate Enabled / System down sent tech / previous case status / 
+
+FXRS on Cafe: 

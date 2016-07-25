@@ -1,0 +1,27 @@
+Here is what the agents are reporting: 2:00 PM FXRS 7/14/2016
+
+FXRS: Enabled 1D barcode / Enable 1D barcode / MRU, Comms failing / meter registration / enabled 1d / McAffee stops ShipManager service / 
+
+Web Services: Helped cust. get creds. / Advised cust. on SP/3rd Party Billing / Intl DG Issues / Invalid Wieght / Test Creds Check / 
+
+Café: Problem encountered registering FSM / Assist w/MPS / disconnect / Install ZP 500 / Acct validation unsuccessful / Ground Manifest / FXIA Assist / 
+
+FXCT: FXCT PK / 
+
+MISDIRECTS: Transferred to LTL freight @ fedex.com / Transfer to Dot Com / transferred to cafe beta / transferred to cafe beta / 
+
+AHT Drivers: FXRS MRU, Comms failing 50 min / FXRS McAffee stops ShipManager service 25 min / Café FXIA Assist 19 min / 
+
+------------
+
+Cafe on FXRS: Fedex Package Value Limit / tech ticket / 
+
+FXRS on Cafe: 
+
+------------
+
+July Corporate Load Test Registration Calls
+
+Errors Seen: register for test key and open cert request / 
+
+Total: 1

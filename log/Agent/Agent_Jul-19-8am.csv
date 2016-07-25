@@ -1,0 +1,16 @@
+Reported Calls for: Jul-19-8am
+
+Agent, Computer Name, Duration of Call, LOB, Type, Message,
+rhagemann,ausrca0050,110 min,FXRS,FSMS,Cleanload after failed upgrade from 12 to 14
+gdeharo,ausrcwa043,28 min,FXRS,FSMS,adding new acct mru failing
+dneal,ausrca0098,27 min,FXRS,FSMS,Invalid racking Range not loaded
+rhagemann,ausrca0050,24 min,Café,Café,TSR Request
+chkelley,ausrca0055,20 min,FXRS,FSMS,unable to register child meter
+chkelley,ausrca0055,15 min,FXRS,Café,comm issue
+mbarth,auswrca0230,10 min,Café,Café,install
+chkelley,ausrca0055,10 min,FXRS,Café,change address
+chkelley,ausrca0055,7 min,FXRS,FSMS,follow up on escalated case
+gdeharo,ausrcwa043,6 min,Café,Café,label spits out blank needs drivers
+chkelley,ausrca0055,5 min,FXRS,FSMS,follow up on escalated case
+chkelley,ausrca0055,5 min,Café,Café,comm issue
+mbarth,auswrca0230,2 min,FXRS,WIS,csp

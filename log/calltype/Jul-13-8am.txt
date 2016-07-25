@@ -1,0 +1,27 @@
+Here is what the agents are reporting: 8:00 AM FXRS 7/13/2016
+
+FXRS: CSP Request for Info / 
+
+Web Services: Get production credentials / New server not sending info / questions about the dev guide / 
+
+Café: Install FSM client / PR Return Unavaliable / disconnect / Deleted a Shipment / 
+
+FXCT: 
+
+MISDIRECTS: transferred to fedex.com / Transferred to Cafe Beta / BETA TRANSFER / transferred to fedex.com / Customer Service / Dotcom / 
+
+AHT Drivers: FXRS New server not sending info 27 min / Café BETA TRANSFER 12 min / FXRS questions about the dev guide 10 min / 
+
+------------
+
+Cafe on FXRS: 
+
+FXRS on Cafe: 
+
+------------
+
+July Corporate Load Test Registration Calls
+
+Errors Seen: wis registration / wis registration / 
+
+Total: 2

@@ -1,0 +1,27 @@
+Here is what the agents are reporting: 8:00 AM FXRS 7/14/2016
+
+FXRS: Delete meter numbers / AdminService stuck / 
+
+Web Services: Get production credentials / ZP505 Install / DRC Prod Reg / 
+
+Café: Download FSM Issue / Label Size / Doctab Config / EOD Error / 
+
+FXCT: LTL address update / 
+
+MISDIRECTS: Dotcom / 
+
+AHT Drivers: FXRS ZP505 Install 21 min / FXRS Get production credentials 15 min / FXRS Delete meter numbers 15 min / 
+
+------------
+
+Cafe on FXRS: 
+
+FXRS on Cafe: 
+
+------------
+
+July Corporate Load Test Registration Calls
+
+Errors Seen: 
+
+Total: 0

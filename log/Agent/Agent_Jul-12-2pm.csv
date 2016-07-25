@@ -1,0 +1,35 @@
+Reported Calls for: Jul-12-2pm
+
+Agent, Computer Name, Duration of Call, LOB, Type, Message,
+chkelley,ausrca0055,60 min,FXRS,FSMS,print orientation for smartpost
+dneal,ausrca0098,46 min,Café,Café,Printer issues
+sroberts,ausrca0072,40 min,Café,Café,Assist w/Incorrect Rates Issue
+chkelley,ausrca0055,30 min,FXRS,Café,software not launching
+macampbell,ausrcwa049,18 min,FXRS,FSMS,Shipments being billed incorrectly
+dneal,ausrca0098,16 min,FXRS,FSMS,McAfee stops shipmanager
+macampbell,ausrcwa049,15 min,FXRS,WIS,Transactions not hitting servers
+macampbell,ausrcwa049,15 min,Café,Café,Acct validation failed
+macampbell,ausrcwa049,14 min,FXRS,FXCT,Install FXCT
+rhagemann,ausrca0050,14 min,Café,Café,Client Lost Connection
+rhagemann,ausrca0050,11 min,FXRS,FSMS,SP Delivery Confirmation
+chkelley,ausrca0055,10 min,FXRS,Café,fxi not starting
+dneal,ausrca0098,10 min,Café,Café,Software request
+sroberts,ausrca0072,9 min,Café,Café,Assisted w/Svc Type Issue
+sroberts,ausrca0072,9 min,Café,Café,Assist w/PR Postal Code
+macampbell,ausrcwa049,8 min,Café,Café,SP 3rd party billing
+rhagemann,ausrca0050,8 min,FXRS,WIS,Creds Check
+rhagemann,ausrca0050,8 min,Café,Café,Validation
+sroberts,ausrca0072,7 min,Café,Café,Assist w/Label Reprint
+macampbell,ausrcwa049,7 min,FXRS,Café,Email return label
+rhagemann,ausrca0050,5 min,Café,Café,Validation / New Install
+rhagemann,ausrca0050,5 min,FXRS,Registration,Test Reg Failed
+rhagemann,ausrca0050,4.5 min,Café,Café,New Install
+rhagemann,ausrca0050,3.5 min,Café,Café,Lost Call / Not Printing
+rhagemann,ausrca0050,3.5 min,Café,Café,Registration / Install
+rhagemann,ausrca0050,3 min,Café,Misdirect,Beta
+rhagemann,ausrca0050,3 min,Café,Café,Unable to ship ground
+macampbell,ausrcwa049,2 min,Café,Misdirect,Transferred to Cafe Beta
+macampbell,ausrcwa049,2 min,Café,Misdirect,transferred to fedex.com
+rhagemann,ausrca0050,1.5 min,Café,Café,Override Prefs
+macampbell,ausrcwa049,1 min,FXRS,Misdirect,transferred to domestic
+macampbell,ausrcwa049,1 min,FXRS,Misdirect,transferred to fedex.com

@@ -1,0 +1,27 @@
+Here is what the agents are reporting: 8:00 AM FXRS 7/15/2016
+
+FXRS: Disable 1D barcode / 
+
+Web Services: Transaction errors / DRC / Cert Request / DRC assist / 
+
+Café: transferred to cafe beta / 
+
+FXCT: 
+
+MISDIRECTS: transferred to fedex.com / Dotcom / 
+
+AHT Drivers: FXRS Transaction errors 15 min / FXRS DRC 13 min / FXRS Cert Request 10 min / 
+
+------------
+
+Cafe on FXRS: 
+
+FXRS on Cafe: 
+
+------------
+
+July Corporate Load Test Registration Calls
+
+Errors Seen: 
+
+Total: 0

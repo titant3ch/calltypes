@@ -502,3 +502,12 @@ Eye candy
 
   text-align: left;
 }
+
+/* Error Message */
+
+p#ErrNote {
+    margin: 2% 5%;
+    font-family: oxygen;
+    color: red;
+    line-height: 30px;
+}

@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 2:00 PM FXRS 7/5/2016
+
+FXRS: non-comm meter / invalid tracking range not loaded / FSMS Crashed / FSMS Crashed / 
+
+Web Services: Get production credentials / register for production credentials / WIS consultation / LTL Trans Error / DRC Assist / No services to KOL2S0 / wis registration / 
+
+Café: Escalated to TIS / VAlidation for download/key / international canada return label / Assisted w/FSM Errors / ShipAlert / Assisted w/No Rates Issue / issues with software update to 3007 / issues with software update to 3007 / FXI Connection to ODBC / TSR Request / Customize shipment report / 
+
+FXCT: batch rating issues / 
+
+MISDIRECTS: DG hotline call / dot com caller / dot com caller / Beta Call / transferred to fedex.com / Dot Com Call / 
+
+AHT Drivers: Café issues with software update to 3007 70 min / FXRS Get production credentials 39 min / FXRS FSMS Crashed 35 min / 
+
+------------
+
+Cafe on FXRS: host/client communication issue / Requested CIC Work Request for Cust. / return shipment / CI not printing / 
+
+FXRS on Cafe: 

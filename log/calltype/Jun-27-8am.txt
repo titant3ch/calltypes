@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 8:00 AM FXRS 6/27/2016
+
+FXRS: Currency question / 1d enablement / 
+
+Web Services: 
+
+Café: 
+
+FXCT: Caller dropped call / 
+
+MISDIRECTS: dot com caller / customer service call / .com / 
+
+AHT Drivers: FXRS Currency question 12 min / Café software download request 10 min / FXRS customer service call 5 min / 
+
+------------
+
+Cafe on FXRS: 
+
+FXRS on Cafe: software download request / 

@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 2:00 PM FXRS 6/30/2016
+
+FXRS: 
+
+Web Services: DRC / WIS questions / Certification status inquiry / 
+
+Café: custom label doc tab update / Disconnect / FSM will not launch / reprint label / new install / 
+
+FXCT: 
+
+MISDIRECTS: Label Issue / Dotcom / 
+
+AHT Drivers: Café FSM will not launch 26 min / Café custom label doc tab update 25 min / FXRS DRC 15 min / 
+
+------------
+
+Cafe on FXRS: 
+
+FXRS on Cafe: 

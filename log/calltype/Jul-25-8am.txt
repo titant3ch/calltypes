@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 8:00 AM FXRS 7/25/2016
+
+FXRS: Disable 1D / Escalated Tracking Issue / Stuck in CLose / 
+
+Web Services: Get test credentials to make sample labels / Install zp 505 / Creds Check / Test Reg / Xfer to Rev / Shipping method not found / wis registration / questions about wis certification / 
+
+Café: PEP ZP 500 plus / 
+
+FXCT: Needed code. / 
+
+MISDIRECTS: 
+
+AHT Drivers: FXRS Escalated Tracking Issue 43 min / FXRS Stuck in CLose 30 min / FXRS wis registration 25 min / 
+
+------------
+
+Cafe on FXRS: 
+
+FXRS on Cafe: 

@@ -1,0 +1,27 @@
+Here is what the agents are reporting: 2:00 PM FXRS 7/15/2016
+
+FXRS: FSMS questions / Rates Outage / disconnect / Rates outage / SmartPost Label / MRU wont open / 
+
+Web Services: Tech ticket for hardware / Rates outage / prod outage / prod outage / prod outage / prod outage / prod outage / Outage Check / Assist w/Test Creds Issue / WIS does not support Australia / WIS Registration / 
+
+Café: Hardware ticket / Questions about registration / International Rates / international shipment walkthrough / 
+
+FXCT: Rates Outage / 
+
+MISDIRECTS: transferred to fedex.com / 
+
+AHT Drivers: FXRS Assist w/Test Creds Issue 26 min / FXRS WIS does not support Australia 24 min / Café international shipment walkthrough 20 min / 
+
+------------
+
+Cafe on FXRS: TSR Request / 
+
+FXRS on Cafe: 
+
+------------
+
+July Corporate Load Test Registration Calls
+
+Errors Seen: Test credentials workaround / 
+
+Total: 1

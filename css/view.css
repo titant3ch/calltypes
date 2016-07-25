@@ -73,3 +73,9 @@ div#log {
 #log > ul > li > a {
 	font-family: 'oxygen';
 }
+
+p#ErrNote {
+    margin: 2% 5%;
+    font-family: oxygen;
+    color: red;
+}

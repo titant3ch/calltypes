@@ -184,6 +184,47 @@ while ($row = mysql_fetch_array($result)) {
     fwrite($fh, " / ");
 }
 
+// Start of Corp Load Addition
+
+// $txt = "\r\n\r\n";
+// fwrite($fh, $txt);
+
+// $txt = "------------";
+// fwrite($fh, $txt);
+
+// $txt = "\r\n\r\n";
+// fwrite($fh, $txt);
+
+// $txt = "July Corporate Load Test Registration Calls";
+// fwrite($fh, $txt);
+
+// $result = mysql_query("SELECT Message FROM CallTypes WHERE Type = 'Registration' AND LOB = 'FXRS'"); 
+
+// $txt = "\r\n\r\n";
+// fwrite($fh, $txt);
+
+// $txt = "Errors Seen: ";
+// fwrite($fh, $txt);
+
+// while ($row = mysql_fetch_array($result)) {          
+//     $last = end($row);          
+//     $num = mysql_num_fields($result);
+//     for($i = 0; $i < $num; $i++) {            
+//         fwrite($fh, $row[$i]);                      
+//         if ($row[$i] != $last)
+//            fwrite($fh, " - ");
+//     }                                                                 
+//     fwrite($fh, " / ");
+// }
+
+// $num_rows = mysql_num_rows($result);
+
+// $txt = "\r\n\r\n";
+// fwrite($fh, $txt);
+
+// $txt = "Total: ". $num_rows;
+// fwrite($fh, $txt);
+
 // END
 
 fclose($fh);

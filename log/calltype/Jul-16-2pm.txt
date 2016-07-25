@@ -1,0 +1,27 @@
+Here is what the agents are reporting: 2:00 PM FXRS 7/16/2016
+
+FXRS: Upgrade FSMS to v1308 / proactive system check / Clean Load / 
+
+Web Services: WIS Prod Registration / 
+
+Café: 
+
+FXCT: 
+
+MISDIRECTS: Transfer to Dotcom / Transfer to Dotcom / 
+
+AHT Drivers: FXRS proactive system check 241 min / FXRS Clean Load 110 min / FXRS Upgrade FSMS to v1308 55 min / 
+
+------------
+
+Cafe on FXRS: 
+
+FXRS on Cafe: 
+
+------------
+
+July Corporate Load Test Registration Calls
+
+Errors Seen: 
+
+Total: 0

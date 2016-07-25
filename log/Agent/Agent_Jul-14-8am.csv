@@ -1,0 +1,14 @@
+Reported Calls for: Jul-14-8am
+
+Agent, Computer Name, Duration of Call, LOB, Type, Message,
+rhagemann,ausrca0050,21 min,FXRS,WIS,ZP505 Install
+macampbell,ausrcwa049,15 min,FXRS,WIS,Get production credentials
+rmcneil,ausrca0229,15 min,FXRS,FSMS,Delete meter numbers
+rhagemann,ausrca0050,15 min,Café,Café,Doctab Config
+rhagemann,ausrca0050,11 min,Café,Café,EOD Error
+rhagemann,ausrca0050,8 min,FXRS,FSMS,AdminService stuck
+rhagemann,ausrca0050,7.5 min,FXRS,WIS,DRC Prod Reg
+rmcneil,ausrca0229,6.4 min,FXRS,FXCT,LTL address update
+rhagemann,ausrca0050,2 min,Café,Café,Label Size
+rhagemann,ausrca0050,2 min,FXRS,Misdirect,Dotcom
+rhagemann,ausrca0050,1.5 min,Café,Café,Download FSM Issue

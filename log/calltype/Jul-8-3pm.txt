@@ -1,0 +1,25 @@
+Here is what the agents are reporting: 3:00 PM FXRS 7/8/2016
+
+FXRS: 
+
+Web Services: Certification for WIS / 
+
+Café: 
+
+FXCT: 
+
+MISDIRECTS: 
+
+AHT Drivers: FXRS The FedEx system you were using was temporarily unavailable. 5 min / FXRS System Currently Unavailable 2 min / FXRS Certification for WIS 2 min / 
+
+------------
+
+Cafe on FXRS: 
+
+FXRS on Cafe: 
+
+------------
+
+July Corporate Load Test Registration Calls
+
+Errors: The FedEx system you were using was temporarily unavailable. / System Currently Unavailable / 

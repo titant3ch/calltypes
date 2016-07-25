@@ -1,0 +1,27 @@
+Here is what the agents are reporting: 11:00 AM FXRS 7/11/2016
+
+FXRS: Hardware tech ticket / escalated case tls patch update / Troubleshoot rates / 
+
+Web Services: questions smart post apo shipment / register for web service credentials / issues with collect shipment qb / 
+
+Café: new software download request / Troubleshoot dial-up / update name of signatory dg / tis needed for fxi path update / Install FSM and printer drivers / zp 500 install / MPS rating questions / 
+
+FXCT: 
+
+MISDIRECTS: dot com caller / 
+
+AHT Drivers: FXRS Admin service blocked 46 min / FXRS Troubleshoot rates 30 min / FXRS escalated case tls patch update 29 min / 
+
+------------
+
+Cafe on FXRS: Hardware relocation ticket / Admin service blocked / fxi not opening / printer install / printer install / upgrade to 3007 / 
+
+FXRS on Cafe: 
+
+------------
+
+July Corporate Load Test Registration Calls
+
+Errors Seen: Errors registering for test creds / not able to get test credentials / 
+
+Total: 2

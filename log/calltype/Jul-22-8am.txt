@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 8:00 AM FXRS 7/22/2016
+
+FXRS: Hardware tech ticket / Troubleshoot comms / disconnect / transmission issues / Label buffer questions / Tracking Range / Testing server line / Enable 1d barcode / 
+
+Web Services: scale issues quickbooks / Install ZP 505 / Test Env / Tracking / Troubleshoot zp 505 / AE trying to access ACCOPS / Error 1000 / quickbooks thermal printer not working / 
+
+Café: disconnect / Print OP 950 / Ground tracking # ranges / run report / wouldn't open had to upgrade / AE request tech ticket for printer / URSA / ground shipment assistance / Validation / LTL Account Check / Critical Failure on Fedex HW / Software download request / Download FSM not FXI / DG Inquiery / Service not available to rcpt area / CIC request for new cafe cust / Email returns walkthru / disconnect / Acct validation for FSM successful / Clean load / EOD Reports / 
+
+FXCT: Issues with LTL Account / PK Request / 
+
+MISDIRECTS: needed fedex.com ship admin / transferred to cafe beta / dot com caller / Dotcom / Empty Line / Cust Srvc / Cust Srvc / 
+
+AHT Drivers: FXRS issues with rates/had to repair 96 min / Café Clean load 70 min / Café wouldn't open had to upgrade 43 min / 
+
+------------
+
+Cafe on FXRS: issues with rates/had to repair / international question / communication issue / Communications issue / 
+
+FXRS on Cafe: 

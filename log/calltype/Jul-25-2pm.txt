@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 2:00 PM FXRS 7/25/2016
+
+FXRS: MRU utility issue / adding accts to system using MRU / disconnect / TLS protocol update questions / clean load required due to virus / Return Label / SS Callback Req / 
+
+Web Services: Issues with smartpost, referred to AE / issues with test shipment on test / Get production credentials / customer disconnect / SPX Rating Issue / disconnect / 
+
+Café: shipments writing as deleted upgraded software / printer issue possible wire short / FSM Download Assist / Move to USB / installing zebra zp 505 printer. / disconnect / issue with install wanted to do it on a ipad / Client Failed to Update / Assisted w/upgrade prompt. / update address on system due to moving / Report Printer Issues / Ship alert questions / disconnect / 
+
+FXCT: Configure FXCT / PK / Install assist / install tool onto computer / Comms Issue / No Discounts / 
+
+MISDIRECTS: Transferred to Cafe Beta / dot com caller / dot com caller / Beta / 
+
+AHT Drivers: Café Client Failed to Update 120 min / Café shipments writing as deleted upgraded software 32 min / FXRS adding accts to system using MRU 23 min / 
+
+------------
+
+Cafe on FXRS: Acct validation for cafe successful / 
+
+FXRS on Cafe: 

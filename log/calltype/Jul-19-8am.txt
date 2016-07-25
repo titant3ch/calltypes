@@ -1,0 +1,27 @@
+Here is what the agents are reporting: 8:00 AM FXRS 7/19/2016
+
+FXRS: Cleanload after failed upgrade from 12 to 14 / adding new acct mru failing / Invalid racking Range not loaded / follow up on escalated case / follow up on escalated case / unable to register child meter / 
+
+Web Services: csp / 
+
+Café: TSR Request / label spits out blank needs drivers / install / comm issue / 
+
+FXCT: 
+
+MISDIRECTS: 
+
+AHT Drivers: FXRS Cleanload after failed upgrade from 12 to 14 110 min / FXRS adding new acct mru failing 28 min / FXRS Invalid racking Range not loaded 27 min / 
+
+------------
+
+Cafe on FXRS: change address / comm issue / 
+
+FXRS on Cafe: 
+
+------------
+
+July Corporate Load Test Registration Calls
+
+Errors Seen: 
+
+Total: 0

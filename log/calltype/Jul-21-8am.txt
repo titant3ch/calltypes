@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 8:00 AM FXRS 7/21/2016
+
+FXRS: TLS upgrade / 
+
+Web Services: Test Cred Reg / Unable to process express / DRC Assist / general questions shipping / 
+
+Café: FSM won't launch / Needed three letters for city / FXI issue / 
+
+FXCT: 
+
+MISDIRECTS: Beta / Cust disconnect / Dotcom / Dotcom / 
+
+AHT Drivers: FXRS host/client fxi issues 50 min / Café FSM won't launch 16 min / FXRS TLS upgrade 16 min / 
+
+------------
+
+Cafe on FXRS: host/client fxi issues / previous case status / 
+
+FXRS on Cafe: 

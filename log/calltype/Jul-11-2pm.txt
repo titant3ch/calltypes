@@ -1,0 +1,27 @@
+Here is what the agents are reporting: 2:00 PM FXRS 7/11/2016
+
+FXRS: Update Case / Sys reboot resolved print issue / Rates missing for child meter / TSR Request / 
+
+Web Services: WIS questions / questions about meter number / bad printer / Assisted w/Transaction Error / Assist w/Error 1000 / Helped caller get Prod. creds. / Install ZP 505 / Cert Request / 
+
+Café: ground call tag / intl shipment walk thru / Backup/Restore Database / printing group shipment in sequence / Lost Call / 
+
+FXCT: install / Add an account / install tool onto new computer / install / 
+
+MISDIRECTS: Beta / Printer Issue / dot com caller / Dotcom / Pickup Request / Dotcom / Dotcom / Dotcom / 
+
+AHT Drivers: FXRS Rates missing for child meter 19 min / FXRS Assist w/Error 1000 14 min / FXRS Helped caller get Prod. creds. 14 min / 
+
+------------
+
+Cafe on FXRS: return email label assistance / 
+
+FXRS on Cafe: 
+
+------------
+
+July Corporate Load Test Registration Calls
+
+Errors Seen: 
+
+Total: 0

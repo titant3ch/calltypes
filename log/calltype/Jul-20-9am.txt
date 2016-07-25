@@ -1,0 +1,27 @@
+Here is what the agents are reporting: 9:00 AM FXRS 7/20/2016
+
+FXRS: Change the barcode to 1d / Previous case status / 
+
+Web Services: Empty Transfer / Prod Creds Ability / questions wis / 
+
+Café: FTR Assist / Printer & FSM Install / tech ticket / installation issues. / FXi not working / Software repair / 
+
+FXCT: 
+
+MISDIRECTS: Dotcom / dot com caller / dot com caller / 
+
+AHT Drivers: Café FTR Assist 53 min / Café Software repair 41 min / Café Printer & FSM Install 18 min / 
+
+------------
+
+Cafe on FXRS: Label Config / Software Download Request / 
+
+FXRS on Cafe: 
+
+------------
+
+July Corporate Load Test Registration Calls
+
+Errors Seen: 
+
+Total: 0

@@ -1,0 +1,42 @@
+Reported Calls for: Jul-6-2pm
+
+Agent, Computer Name, Duration of Call, LOB, Type, Message,
+chkelley,ausrca0055,90 min,FXRS,Café,clean load
+rmcneil,ausrca0229.austx.ad.harte-hanks.com,73 min,Café,Café,Failed update to 3007
+dneal,ausrca0098,69 min,Café,Café,Clean load
+gdeharo,ausrcwa043,62 min,Café,Café,clean load required
+macampbell,ausrcwa049.austx.ad.harte-hanks.com,30 min,FXRS,FSMS,Troubleshoot transaction
+rmcneil,ausrca0229.austx.ad.harte-hanks.com,29 min,FXRS,FSMS,Airway bill not printing
+gdeharo,ausrcwa043,18 min,FXRS,WIS,error invalid software id
+gdeharo,ausrcwa043,16 min,FXRS,WIS,register for credentials
+rhagemann,ausrca0050,14 min,FXRS,WIS,CSP List
+gdeharo,ausrcwa043,14 min,FXRS,WIS,test server down
+gdeharo,ausrcwa043,13 min,Café,FXCT,web services blocked
+gdeharo,ausrcwa043,13 min,FXRS,WIS,register for credentials/get software
+macampbell,ausrcwa049.austx.ad.harte-hanks.com,11 min,FXRS,WIS,WIS transaction errors
+gdeharo,ausrcwa043,11 min,FXRS,Café,credit suspended dd rates
+macampbell,ausrcwa049.austx.ad.harte-hanks.com,10 min,Café,Café,Customs tab in Cafe
+gdeharo,ausrcwa043,8 min,FXRS,WIS,register for web services
+rhagemann,ausrca0050,8 min,Café,Café,Validation
+rhagemann,ausrca0050,8 min,Café,Misdirect,SS Transfer
+rmcneil,ausrca0229.austx.ad.harte-hanks.com,7 min,FXRS,WIS,DRC Need to get API codes
+rhagemann,ausrca0050,6.5 min,FXRS,FSMS,FSMS Install on Win8
+gdeharo,ausrcwa043,6 min,FXRS,Café,issues with creating label
+rhagemann,ausrca0050,6 min,Café,Café,FSM Won't Launch
+rhagemann,ausrca0050,6 min,FXRS,Misdirect,FBO Transfer
+rhagemann,ausrca0050,6 min,Café,Café,DocTab Edit
+rhagemann,ausrca0050,6 min,Café,Café,TSR Request
+macampbell,ausrcwa049.austx.ad.harte-hanks.com,5 min,FXRS,WIS,Testing service disruption
+rhagemann,ausrca0050,5 min,FXRS,WIS,DRC
+rhagemann,ausrca0050,5 min,Café,Misdirect,Beta
+rhagemann,ausrca0050,5 min,Café,Café,TSR Request
+rhagemann,ausrca0050,3.5 min,Café,Café,PK Request CIC
+rmcneil,ausrca0229.austx.ad.harte-hanks.com,3.4 min,Café,Misdirect,Dot.com
+gdeharo,ausrcwa043,3 min,FXRS,Misdirect,dot com caller
+rhagemann,ausrca0050,3 min,Café,Misdirect,Dotcom
+rhagemann,ausrca0050,3 min,FXRS,Café,Download Rates
+rhagemann,ausrca0050,2 min,Café,Misdirect,Beta
+rhagemann,ausrca0050,1.5 min,Café,Café,Forced Update
+macampbell,ausrcwa049.austx.ad.harte-hanks.com,1 min,FXRS,WIS,disconnect
+gdeharo,ausrcwa043,1 min,Café,Café,cust disconnect
+rhagemann,ausrca0050,.1 min,FXRS,WIS,Line Drop

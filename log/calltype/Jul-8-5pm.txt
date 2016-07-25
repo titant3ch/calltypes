@@ -1,0 +1,27 @@
+Here is what the agents are reporting: 5:00 PM FXRS 7/8/2016
+
+FXRS: 
+
+Web Services: Certification for WIS / Printer Install / 
+
+Café: 
+
+FXCT: 
+
+MISDIRECTS: 
+
+AHT Drivers: FXRS Printer Install 22 min / FXRS The FedEx system you were using was temporarily unavailable. 5 min / FXRS System Currently Unavailable 2 min / 
+
+------------
+
+Cafe on FXRS: 
+
+FXRS on Cafe: 
+
+------------
+
+July Corporate Load Test Registration Calls
+
+Errors Seen: The FedEx system you were using was temporarily unavailable. / System Currently Unavailable / 
+
+Total: 2

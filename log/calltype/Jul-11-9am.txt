@@ -1,0 +1,27 @@
+Here is what the agents are reporting: 9:00 AM FXRS 7/11/2016
+
+FXRS: 1 / printer/baracode print issue / 
+
+Web Services: Commodity Description / Creds Check / general wis questions / 
+
+Café: Return Address / 
+
+FXCT: 
+
+MISDIRECTS: Tracking / 
+
+AHT Drivers: FXRS printer/baracode print issue 12 min / FXRS Creds Check 10 min / FXRS Commodity Description 9 min / 
+
+------------
+
+Cafe on FXRS: 
+
+FXRS on Cafe: 
+
+------------
+
+July Corporate Load Test Registration Calls
+
+Errors Seen: 
+
+Total: 0

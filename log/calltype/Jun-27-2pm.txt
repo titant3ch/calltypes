@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 2:00 PM FXRS 6/27/2016
+
+FXRS: Address Issue / 
+
+Web Services: Get production credentials / Error 1000 then 556 / Meter Reg Failure / AV Enablement Question / Canadian WIS / Get production credentials / 
+
+Café: issue with international shipment / Ship Date is invalid / FXIA / Printer Alignment / 
+
+FXCT: 
+
+MISDIRECTS: issue with gta or would have kept call / DG Hotline Transfer / 
+
+AHT Drivers: FXRS Error 1000 then 556 51 min / FXRS Comms Down / URSA DL Failed 24 min / FXRS Assisted w/printer driver issue 24 min / 
+
+------------
+
+Cafe on FXRS: How to change carrier International ship / Comms Down / URSA DL Failed / Assisted w/printer driver issue / 
+
+FXRS on Cafe: 

@@ -12,7 +12,7 @@
   <link rel="stylesheet" type="text/css" href="css/layout.css" media="all" />
   <link rel="icon" type="image/gif" href="img/fx-favicon.ico">
 
-  <meta http-equiv="refresh" content="300" >
+  <!-- <meta http-equiv="refresh" content="300" > -->
 
   <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
 </head>
@@ -46,6 +46,7 @@
               <option value="Café">Cafe</option>
               <option value="FSMS">FSMS</option>
               <option value="WIS">WIS</option>
+              <option value="Registration">Registration</option>
               <option value="FXCT">FXCT</option>
               <option value="Misdirect">Misdirect</option>
             </select>
@@ -65,7 +66,7 @@
         <section>
           <h2>Message</h2>
 
-          <textarea name="message" class="textarea" maxlength="40" placeholder="Character Count is set to 40" required></textarea>
+          <textarea name="message" class="textarea" maxlength="60" placeholder="Character Count is set to 60" required></textarea>
         </section>
 
         <input type="submit" value="Send">

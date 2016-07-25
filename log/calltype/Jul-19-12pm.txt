@@ -1,0 +1,27 @@
+Here is what the agents are reporting: 12:00 PM FXRS 7/19/2016
+
+FXRS: 
+
+Web Services: ground not showing up / Get production credentials / Get production credentials / 
+
+Café: eod / issues with registering software. / issues with rates/label / New Install / issue with scale freezing software / InternationalBatch  Question / ursa expired / Download and install software / FXI Failure / Add handling charges / create email label / EEI Assist on Cafe / Network Client Config / 
+
+FXCT: 
+
+MISDIRECTS: cust serv call supplies / transferred to cafe beta / dot com caller / transferred to canada domestic / 
+
+AHT Drivers: Café FXI Failure 50 min / Café issues with registering software. 31 min / Café Download and install software 21 min / 
+
+------------
+
+Cafe on FXRS: scac code for ground / 
+
+FXRS on Cafe: 
+
+------------
+
+July Corporate Load Test Registration Calls
+
+Errors Seen: 
+
+Total: 0

@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 2:00 PM FXRS 7/8/2016
+
+FXRS: not communicating / 1D Enablement / 
+
+Web Services: issues getting test credentials / Return call tag / printer issues / register for production credentials / disconnect / Tech ticket for hardware / Get production credentials / Answered freight rating question. / Firewall Issue / trk request assistance / Answered test tracking # question. / New Account / 3rd Party SW / Answered ?s re: test trans. / Troubleshot Error 1000 Issue / Bad Transactions / Generic Error / Nothing in ESB / 
+
+Café: PCA Email / DG Ship assist / hazmat shipment assistance / Customize Fields / FSM downloaded from IE corrupt / monitor issues created tech ticket / transferred to Beta team / Unable to Comm / DocTab Config / 
+
+FXCT: ltl freight acct can't be validated / 
+
+MISDIRECTS: revenue services call / 
+
+AHT Drivers: FXRS Client setup 82 min / Café DG Ship assist 33 min / FXRS Return call tag 30 min / 
+
+------------
+
+Cafe on FXRS: Client setup / 
+
+FXRS on Cafe: 

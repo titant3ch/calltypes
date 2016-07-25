@@ -14,7 +14,7 @@
 <body id="offPage">
 
 <section id="offMessage">
-  <p>We are really happy for all the call types that were submitted and your continued enthusiasm at providing such info but normal broadcasting has been concluded at this time. Thank you for submitting your calls types today with FXRS Broadcasting™, and have a good day. Broadcasting will return at 7am, please resume submission at that time.</p>
+  <p>Updating Calltypes for July Corp Load Issues. Please check back later, thanks!</p>
 </section>
 
 

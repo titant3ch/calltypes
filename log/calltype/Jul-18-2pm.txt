@@ -1,0 +1,27 @@
+Here is what the agents are reporting: 2:00 PM FXRS 7/18/2016
+
+FXRS: SPX won't process / FXRS not on Network / SPX Rates and Range / invalid tracking range smartpost / tls update / unable to ship from this zip code / 
+
+Web Services: Get production credentials / Created Cert. Request / Submitted Cert. Request / 
+
+Café: transferred to cafe beta / clean load/restore/scale issues / Submitted Scale Hardware Ticket / Client Writing As Deleted / 
+
+FXCT: Assisted w/Configuration Issue / 
+
+MISDIRECTS: Transfer to Dot Com / transferred to fedex.com / 
+
+AHT Drivers: Café clean load/restore/scale issues 147 min / FXRS SPX Rates and Range 49 min / FXRS invalid tracking range smartpost 40 min / 
+
+------------
+
+Cafe on FXRS: DG Issues / 
+
+FXRS on Cafe: 
+
+------------
+
+July Corporate Load Test Registration Calls
+
+Errors Seen: 
+
+Total: 0

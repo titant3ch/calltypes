@@ -1,0 +1,27 @@
+Here is what the agents are reporting: 11:00 AM FXRS 7/18/2016
+
+FXRS: customer disconnected / Smartpost rate errors / previous case status / product key needed for 1304 / disconnect / Empty Line/LostCall / 
+
+Web Services: question about ws credentials / service disruption gnd not authorized / service disruption grnd srv not available / rates not what they expect / test rates questions / Troubleshoot transactions / disconnect / error when address validation request sent / Load Effect on ShipAlert / Troubleshoot transactions / issue with getting label / Cert Inquiery / 
+
+Café: transferred to cafe beta / Printer Install / Report Config / New Install Request / 
+
+FXCT: PK Request / 
+
+MISDIRECTS: update credit card revenue service call / Dotcom / Beta / 
+
+AHT Drivers: FXRS Smartpost rate errors 20 min / FXRS error when address validation request sent 15 min / FXRS Troubleshoot transactions 15 min / 
+
+------------
+
+Cafe on FXRS: Hardware tech ticket / issue with international DG shipment / 
+
+FXRS on Cafe: 
+
+------------
+
+July Corporate Load Test Registration Calls
+
+Errors Seen: 
+
+Total: 0

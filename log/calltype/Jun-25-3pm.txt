@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 3:00 PM FXRS 6/25/2016
+
+FXRS: 
+
+Web Services: Authentication Failed / TSR Request for Printer / HUB ID / DRC Assist / Cert Request / Advanced transaction debugging (ESB) / 
+
+Café: 
+
+FXCT: 
+
+MISDIRECTS: 
+
+AHT Drivers: FXRS Advanced transaction debugging (ESB) 40 min / FXRS TSR Request for Printer 15 min / FXRS Cert Request 15 min / 
+
+------------
+
+Cafe on FXRS: 
+
+FXRS on Cafe: 

@@ -1,0 +1,27 @@
+Here is what the agents are reporting: 9:00 AM FXRS 7/12/2016
+
+FXRS: Escalation to SS / out of sp delcon / 
+
+Web Services: Admin blocking registration / Rating Questions / Cust asking for coding assist / WIS Registration / 
+
+Café: EOD Status / Writing to Shipping List as Deleted / 
+
+FXCT: New Rating Tool / 
+
+MISDIRECTS: transfer to .com / transfer to .com / FSM LITE / Dotcom / 
+
+AHT Drivers: FXRS out of sp delcon 73 min / FXRS WIS Registration 23 min / Café EOD Status 14 min / 
+
+------------
+
+Cafe on FXRS: Virus on fedex hardware / FXI onerates / 
+
+FXRS on Cafe: 
+
+------------
+
+July Corporate Load Test Registration Calls
+
+Errors Seen: test cred s reg failed / the workaround failed / Test Registration Failure / 
+
+Total: 2

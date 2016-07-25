@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 2:00 PM FXRS 7/7/2016
+
+FXRS: AE request / transmission issues with ground pkgs / Hardware relocation ticket / label not printing / SP wrong rates / 
+
+Web Services: enable AV / What is my meter / Assist w/Error 1000 & cert. issue / Not receiving transactions / Hardware removal ticket / invalid shipping address / certification / 
+
+Café: Writing as deleted client 2915 / Acct validation successful / disconnect / 3P LTL acct errors / EOD reports not printing / host/client fxi issues / Writing deleted / Assisted w/No Rates Issue / disconnect / disconnect / Canada domestic signature options / 
+
+FXCT: FXCT errors / FXCT issues / 
+
+MISDIRECTS: Transferred to Cafe Beta / transferred to cafe Beta / Dotcom / transferred to fedex.com / Dotcom / 
+
+AHT Drivers: Café Writing deleted 72 min / FXRS transmission issues with ground pkgs 38 min / FXRS SP wrong rates 36 min / 
+
+------------
+
+Cafe on FXRS: PK Request / dial up not communicating / 
+
+FXRS on Cafe: 

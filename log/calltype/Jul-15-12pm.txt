@@ -1,0 +1,27 @@
+Here is what the agents are reporting: 12:00 PM FXRS 7/15/2016
+
+FXRS: FSMS questions / Rates Outage / disconnect / Rates outage / 
+
+Web Services: Tech ticket for hardware / Rates outage / prod outage / prod outage / prod outage / prod outage / prod outage / 
+
+Café: Hardware ticket / Questions about registration / 
+
+FXCT: Rates Outage / 
+
+MISDIRECTS: 
+
+AHT Drivers: FXRS Tech ticket for hardware 10 min / FXRS FSMS questions 8 min / Café Questions about registration 5 min / 
+
+------------
+
+Cafe on FXRS: 
+
+FXRS on Cafe: 
+
+------------
+
+July Corporate Load Test Registration Calls
+
+Errors Seen: 
+
+Total: 0

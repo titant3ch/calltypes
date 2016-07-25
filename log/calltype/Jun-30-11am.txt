@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 11:00 AM FXRS 6/30/2016
+
+FXRS: Testing server worked / FSMS general questions / ursa / invalid tracking range not loaded / 
+
+Web Services: issue with getting transaction to send / 
+
+Café: Email returns / Acct validation fail, cust call back / issue with host/client system / Needed link and code / previous case status / 
+
+FXCT: 
+
+MISDIRECTS: customer service / 
+
+AHT Drivers: FXRS ursa 45 min / Café issue with host/client system 36 min / Café Needed link and code 19 min / 
+
+------------
+
+Cafe on FXRS: 
+
+FXRS on Cafe: 

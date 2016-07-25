@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 3:00 PM FXRS 6/29/2016
+
+FXRS: Assisted w/Address Issue / 
+
+Web Services: WIS registration/certification questions / DRC Reg / certified for shipping / Get production credentials / Troubleshoot zp 505 / new creds setup / 
+
+Café: Tech ticket / Assisted w/Tax I.D. Issue / Software failed registration / Client Install / Download rates / 
+
+FXCT: 
+
+MISDIRECTS: Dotcom / AE LINE / Disconnect / Dotcom / 
+
+AHT Drivers: Café Software failed registration 64 min / FXRS WIS registration/certification questions 13 min / FXRS new creds setup 11 min / 
+
+------------
+
+Cafe on FXRS: Client Config / 
+
+FXRS on Cafe: 

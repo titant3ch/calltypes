@@ -1,0 +1,27 @@
+Here is what the agents are reporting: 2:00 PM FXRS 7/13/2016
+
+FXRS: route service will not start / 150x new install / sp tracking number error / 
+
+Web Services: Certification request / ISC had question about certification / WIS errors, referred to front end / Get production credentials / Pickup svc code sample / WIS Prod registration / Cert request / cert request / DRC / certification / certification / AV Error on front end / 
+
+Café: Hardware tech ticket / disconnect / Internet down, cust's IT needed / Install ZP 505 / CafeUser PW prompt / ZP505 jamming / needed fedex.com / Add LTL freight accts / printer install / Upgrade from 2704 to 2915 / Acct validation for FSM successful / 
+
+FXCT: Add acct to FXCT / 
+
+MISDIRECTS: transferred to cust service / Domestic / Dotcom / Beta / 
+
+AHT Drivers: Café Upgrade from 2704 to 2915 47 min / FXRS ISC had question about certification 28 min / FXRS sp tracking number error 23 min / 
+
+------------
+
+Cafe on FXRS: Cust. called to get info on FSM. / 
+
+FXRS on Cafe: 
+
+------------
+
+July Corporate Load Test Registration Calls
+
+Errors Seen: he FedEx system you were using was temporarily unavailable. / Test Registration URL / Alt Link Provided / 
+
+Total: 3

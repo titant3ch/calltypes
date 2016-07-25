@@ -1,0 +1,20 @@
+Reported Calls for: Jul-12-9am
+
+Agent, Computer Name, Duration of Call, LOB, Type, Message,
+dneal,ausrca0098,73 min,FXRS,FSMS,out of sp delcon
+rhagemann,ausrca0050,23 min,FXRS,WIS,WIS Registration
+rhagemann,ausrca0050,14 min,Café,Café,EOD Status
+sroberts,ausrca0072,14 min,Café,Café,Writing to Shipping List as Deleted
+rhagemann,ausrca0050,13 min,Café,Misdirect,Dotcom
+rhagemann,ausrca0050,12 min,FXRS,FSMS,Escalation to SS
+wcrosby,ausrca0071,10 min,FXRS,Registration,test cred s reg failed / the workaround failed
+rhagemann,ausrca0050,10 min,FXRS,FXCT,New Rating Tool
+rmcneil,ausrca0229,10 min,FXRS,Café,FXI onerates
+rhagemann,ausrca0050,7 min,FXRS,WIS,Rating Questions
+rhagemann,ausrca0050,6 min,FXRS,WIS,Admin blocking registration
+rhagemann,ausrca0050,6 min,FXRS,WIS,Cust asking for coding assist
+rmcneil,ausrca0229,6 min,FXRS,Café,Virus on fedex hardware
+wcrosby,ausrca0071,5 min,FXRS,Misdirect,transfer to .com
+wcrosby,ausrca0071,5 min,Café,Misdirect,transfer to .com
+rhagemann,ausrca0050,4 min,FXRS,Registration,Test Registration Failure
+rhagemann,ausrca0050,.5 min,Café,Misdirect,FSM LITE

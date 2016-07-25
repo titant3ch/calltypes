@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 8:00 AM FXRS 7/7/2016
+
+FXRS: Previous Case Status / testing fxrs cic line / previous case id question / label print speed / 
+
+Web Services: web services certified for shipping / 
+
+Café: New Install / FSM Validation / 
+
+FXCT: create freight account / 
+
+MISDIRECTS: Domestic / Domestic / dot com caller / 
+
+AHT Drivers: FXRS create freight account 35 min / FXRS web services certified for shipping 13 min / Café FSM Validation 11 min / 
+
+------------
+
+Cafe on FXRS: 
+
+FXRS on Cafe: 
