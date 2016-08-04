@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 3:00 PM FXRS 7/27/2016
+
+FXRS: issue with thermal printer / issues with shipments / inactive meter / exporting server transactions / 
+
+Web Services: cert req / rate  restriction questions / Passing bad account / drc reg and cerrt req / Get production credentials / How to get WIS Creds / Ground is not enabled for this account / Creds Check / 
+
+Café: Custom Report Setup / Assisted w/thermal printer install. / Writing As Deleted / Call tag questions / 
+
+FXCT: Dimentional Factor / 
+
+MISDIRECTS: Dotcom / Dotcom / Dotcom / 
+
+AHT Drivers: Café Writing As Deleted 60 min / FXRS exporting server transactions 50 min / FXRS issues with shipments / inactive meter 36 min / 
+
+------------
+
+Cafe on FXRS: Acct. Validation for Product Key / bpu tech tix / fxi / 
+
+FXRS on Cafe: 

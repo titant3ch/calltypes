@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 8:00 AM FXRS 7/29/2016
+
+FXRS: Gave info on TLS patch. / 
+
+Web Services: Assisted w/Web Svcs rating error. / webservices registeration / Issue with mixed test/prod credenitals / 
+
+Café: stuck on initialize / Assisted w/Credit Restore Issue / Importer of Record / credit privileges have been suspended / 
+
+FXCT: FXCT Install / 
+
+MISDIRECTS: LTL Rating from SpreadSheet / LTL Cust / Dotcom / needs rev / needs cust serv / needs .com / 
+
+AHT Drivers: Café stuck on initialize 50 min / FXRS Assisted w/Web Svcs rating error. 13 min / FXRS Gave info on TLS patch. 12 min / 
+
+------------
+
+Cafe on FXRS: Submitted CIC Work Request / Validation / 
+
+FXRS on Cafe: 

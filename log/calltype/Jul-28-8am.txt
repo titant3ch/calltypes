@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 8:00 AM FXRS 7/28/2016
+
+FXRS: OS platform available for 12xx / 
+
+Web Services: Cert Request / auth error/certification / Certification inquiry request / ltl rate quote / rates not showing / drc question / 
+
+Café: cleanload to fix known issue / Validation / Printer Issue / Windows 10 / update address / 
+
+FXCT: 
+
+MISDIRECTS: transferred to domestic / Domestic / Dotcom / Dotcom / 
+
+AHT Drivers: Café cleanload to fix known issue 75 min / Café Printer Issue / Windows 10 36 min / FXRS auth error/certification 30 min / 
+
+------------
+
+Cafe on FXRS: Client Install / needs a printer / 
+
+FXRS on Cafe: 

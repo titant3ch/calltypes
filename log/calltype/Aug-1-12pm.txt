@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 12:00 PM FXRS 8/1/2016
+
+FXRS: FSMS running slow / issue with demand download/upload / issues with Puerto Rico shipment. / FSMS Compatibility With Windows 10 / cleanload / Turn on 1D & download rates / Customer needs assistance with uninstall / FSMX permissions issue (ACE) / Hazmat error / Enable Ground 1D barcode / Upgrade question / Rate authentication ( trans-edit TEST) / Demand download functionality / issues with smartpost on one meter / Product key / 
+
+Web Services: install printer / WIS production registration / questions about web services / new WIS creds setup / disconnect / Troubleshoot ZP 505 / QuickBooks issue / Assist w/Web Svcs Address Issue / PayPal Intergration / 
+
+Café: Product Key Request / Troubleshoot ZP 505 / Writing as deleted/upgrade / Printer troubleshooting and re-install / FXI database connectivity / Service type / Printer win 10 issue / Download URSA / Host/Client connectivity confirmation / ursa expired / smartpost not working / 
+
+FXCT: New install / Product code / 
+
+MISDIRECTS: transferred to new accts setup / transferred to domestic / dot com caller / dot com caller / transferred to fedex.com / Dotcom / 
+
+AHT Drivers: Café Printer troubleshooting and re-install 70 min / FXRS Hazmat error 64 min / FXRS issues with smartpost on one meter 64 min / 
+
+------------
+
+Cafe on FXRS: Tech Ticket / Scale Issue / issues with new software install / HW monitor tech ticket / ursa expired / Tech Ticket / Scale / 
+
+FXRS on Cafe: 

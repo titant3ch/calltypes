@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 8:00 AM FXRS 8/3/2016
+
+FXRS: 
+
+Web Services: Transactions not hitting servers / Ready for Prod / no Account / WIS questions / drc reg / Acct reinstated, wait 24 hrs before use / disconnect / Get production credentials / Printer Permission / Reports / 
+
+Café: New Install / software download request. / NEW INSTALL / host/client install assistance / Int'l shipment / LTL shipment / 
+
+FXCT: 
+
+MISDIRECTS: Dotcom Integration Manager / 
+
+AHT Drivers: Café host/client install assistance 49 min / FXRS Get production credentials 18 min / FXRS Troubleshoot communications 14 min / 
+
+------------
+
+Cafe on FXRS: Troubleshoot communications / Cust wants FSM, does not have acct # / 
+
+FXRS on Cafe: 

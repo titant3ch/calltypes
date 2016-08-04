@@ -5,16 +5,16 @@ RewriteCond %{REQUEST_FILENAME} !-f
 RewriteRule ^([^\.]+)$ $1.php [NC,L]
 
  # ALLOW USER BY IP
-<Files "view.php">
-require all denied
+#<Files "view.php">
+#require all denied
 #Christian
-require ip 192.168.88.122
+#require ip 192.168.88.122
 #Suat
-require ip 192.168.88.80
+#require ip 192.168.88.46
 #Janna
 #require ip 192.168.88.70
 #Jeff
-require ip 192.168.89.86
+#require ip 192.168.89.86
 #Charles
-require ip 192.168.89.211
-</Files>
+#require ip 192.168.89.211
+#</Files>

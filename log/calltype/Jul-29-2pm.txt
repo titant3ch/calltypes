@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 2:00 PM FXRS 7/29/2016
+
+FXRS: Rating Issue / no shipments to close message on close / 
+
+Web Services: register for test creds wrong login / Assisted w/getting prod. creds / ltl freight rates / Cert Request / Cust. hung up before transfer / Cert Inquiry / rates not matching software / 
+
+Café: Help upgrade FSM / empty line / 
+
+FXCT: 
+
+MISDIRECTS: issue with return label / needed fedex.com / Dotcom / 3rd Party SW / 
+
+AHT Drivers: FXRS Rating Issue 76 min / FXRS no shipments to close message on close 35 min / Café Help upgrade FSM 31 min / 
+
+------------
+
+Cafe on FXRS: Backup Database / Install ZP 505 / 
+
+FXRS on Cafe: 

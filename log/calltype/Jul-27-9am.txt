@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 9:00 AM FXRS 7/27/2016
+
+FXRS: Rating issues / meter registration utility / he figured it out and hung up / EPDI Upload / Hardware tech ticket / 
+
+Web Services: DRC Reg / International Rating / incorrect service type in raterequest / DRC / hub id incorrect for sp / questions about tls upgrade / quickbooks issue save dimensions / whats my hub id / empty line/cust disconnect / How to get creds / 
+
+Café: incorrect rates / Override prefs / Intl commodity shipment / issue w/registering software wrong acct / software req / ground call tag / disconnect / Label Config / 
+
+FXCT: install / 
+
+MISDIRECTS: transferred to LTL freight @ fedex.com / call about Samsung-ery / Domestic / international cust serv / 
+
+AHT Drivers: FXRS meter registration utility 40 min / FXRS Rating issues 39 min / FXRS incorrect service type in raterequest 30 min / 
+
+------------
+
+Cafe on FXRS: Path Not Found / Will Callback / issue with service type not showing up / prod key / 
+
+FXRS on Cafe: 

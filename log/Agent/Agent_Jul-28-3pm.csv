@@ -1,0 +1,55 @@
+Reported Calls for: Jul-28-3pm
+
+Agent, Computer Name, Duration of Call, LOB, Type, Message,
+dneal,ausrca0098,86 min,FXRS,FSMS,Clean Load
+rhagemann,ausrca0050,50 min,FXRS,Café,LTL Processing Failed
+gdeharo,ausrcwa043,49 min,FXRS,FSMS,ref # missing on bill upload is fine
+mbarth,auswrca0230,45 min,Café,Café,db bu, prod key req, printer setup
+macampbell,ausrcwa049,40 min,FXRS,FSMS,Clean load v 1062
+gdeharo,ausrcwa043,30 min,FXRS,FSMS,issue with communication
+cdriskell,ausrcwa041,30 min,Café,Café,Install ZP505 printer
+gdeharo,ausrcwa043,19 min,FXRS,Café,Issue with installing zp 505
+cdriskell,ausrcwa041,18 min,FXRS,Misdirect,needed internal FedEx app support
+jzamora,ausrca0058,17 min,FXRS,WIS,certification
+jzamora,ausrca0058,15 min,Café,Café,LP2844 issues
+gdeharo,ausrcwa043,15 min,FXRS,FXCT,issue with ltl acct
+macampbell,ausrcwa049,15 min,FXRS,WIS,Certification questions
+jzamora,ausrca0058,13 min,Café,Café,ShipAlerts not being sent; webservices
+rhagemann,ausrca0050,12 min,FXRS,FSMS,Future Range
+jzamora,ausrca0058,10 min,FXRS,FSMS,compatibility question
+macampbell,ausrcwa049,10 min,Café,Café,Questions on adding child meters
+wcrosby,ausrca0071,10 min,Café,Café,3rd party billing for Smartpost
+wcrosby,ausrca0071,10 min,FXRS,FXCT,no rates / wis is being blocked
+wcrosby,ausrca0071,10 min,Café,Café,need to change the sender name
+rhagemann,ausrca0050,8.5 min,FXRS,WIS,DRC Assist
+cdriskell,ausrcwa041,8 min,FXRS,WIS,3P webiste not functioning correctly
+rhagemann,ausrca0050,8 min,Café,Café,Rates
+macampbell,ausrcwa049,7.5 min,Café,Café,Call tag walkthru
+gdeharo,ausrcwa043,7 min,FXRS,WIS,register for credentials
+cdriskell,ausrcwa041,7 min,FXRS,WIS,WIS certification
+cdriskell,ausrcwa041,7 min,FXRS,WIS,missing LTL shipper billing info
+macampbell,ausrcwa049,5 min,FXRS,WIS,WIS questions
+gdeharo,ausrcwa043,5 min,FXRS,Café,questions about upgrading os
+cdriskell,ausrcwa041,5 min,FXRS,Misdirect,needed fedex.com
+gdeharo,ausrcwa043,5 min,Café,Misdirect,dot com caller
+gdeharo,ausrcwa043,5 min,Café,Café,demand download rates
+wcrosby,ausrca0071,5 min,FXRS,WIS,wis registration
+wcrosby,ausrca0071,5 min,FXRS,WIS,wis auth 1000 / invalid password
+jzamora,ausrca0058,5 min,FXRS,WIS,credentials
+wcrosby,ausrca0071,5 min,FXRS,WIS,wis registration
+mbarth,auswrca0230,5 min,FXRS,WIS,incorrect billign address call billing
+rhagemann,ausrca0050,4.5 min,FXRS,WIS,LTL Alt Billing / Not 3rd Party Acct
+rhagemann,ausrca0050,4.5 min,FXRS,WIS,SmartPost
+macampbell,ausrcwa049,4 min,FXRS,FXCT,FXCT questions
+macampbell,ausrcwa049,4 min,Café,Café,Sender needs tax id
+macampbell,ausrcwa049,3 min,Café,Misdirect,transferred to fedex.com
+cdriskell,ausrcwa041,3 min,FXRS,Misdirect,needed fedex.com
+rhagemann,ausrca0050,3 min,Café,Misdirect,Dotcom
+wcrosby,ausrca0071,3 min,Café,Misdirect,transfer to CS
+cdriskell,ausrcwa041,3 min,FXRS,FSMS,TLS update to 130x not needed
+cdriskell,ausrcwa041,3 min,FXRS,Misdirect,needed fedex.com
+cdriskell,ausrcwa041,3 min,Café,Café,assist w/ DV
+wcrosby,ausrca0071,3 min,Café,Misdirect,transfer to .com
+gdeharo,ausrcwa043,2 min,FXRS,Misdirect,misdirect call
+macampbell,ausrcwa049,1 min,Café,Café,Cannot delete a closed shipment
+macampbell,ausrcwa049,1 min,FXRS,Misdirect,transferred to fedex.com

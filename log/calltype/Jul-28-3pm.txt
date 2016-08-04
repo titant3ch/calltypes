@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 3:00 PM FXRS 7/28/2016
+
+FXRS: Clean Load / compatibility question / ref # missing on bill upload is fine / issue with communication / TLS update to 130x not needed / Future Range / Clean load v 1062 / 
+
+Web Services: WIS questions / certification / register for credentials / DRC Assist / Certification questions / LTL Alt Billing / Not 3rd Party Acct / wis registration / wis auth 1000 / invalid password / WIS certification / credentials / 3P webiste not functioning correctly / missing LTL shipper billing info / wis registration / incorrect billign address call billing / SmartPost / 
+
+Café: LP2844 issues / Cannot delete a closed shipment / db bu, prod key req, printer setup / Call tag walkthru / demand download rates / Questions on adding child meters / ShipAlerts not being sent; webservices / Sender needs tax id / 3rd party billing for Smartpost / Install ZP505 printer / assist w/ DV / need to change the sender name / Rates / 
+
+FXCT: FXCT questions / issue with ltl acct / no rates / wis is being blocked / 
+
+MISDIRECTS: transferred to fedex.com / needed fedex.com / needed fedex.com / misdirect call / transferred to fedex.com / dot com caller / Dotcom / transfer to CS / needed internal FedEx app support / needed fedex.com / transfer to .com / 
+
+AHT Drivers: FXRS Clean Load 86 min / FXRS LTL Processing Failed 50 min / FXRS ref # missing on bill upload is fine 49 min / 
+
+------------
+
+Cafe on FXRS: Issue with installing zp 505 / questions about upgrading os / LTL Processing Failed / 
+
+FXRS on Cafe: 

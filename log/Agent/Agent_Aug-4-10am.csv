@@ -1,0 +1,31 @@
+Reported Calls for: Aug-4-10am
+
+Agent, Computer Name, Duration of Call, LOB, Type, Message,
+mbarth,auswrca0230,23 min,FXRS,FXCT,batch csv rate
+ianderson,auswlspigelmire,20 min,FXRS,FSMS,ursa expired
+aljohnson,ausrca0057,19 min,FXRS,WIS,credentials
+anewman,ausrca0054,14 min,Café,Café,hardware removal
+dsims,ausrca0062,13 min,FXRS,WIS,Close issues
+ahendon,ausrca0069,12 min,Café,Café,Repair ticket
+ahendon,ausrca0069,12 min,FXRS,FSMS,ETD = Escalation
+macampbell,ausrcwa049,11 min,FXRS,WIS,Certification request
+dsims,ausrca0062,10 min,FXRS,FSMS,Set Dynamic Surcharge flag
+anewman,ausrca0054,9 min,FXRS,Registration,Production key
+aljohnson,ausrca0057,9 min,Café,Café,Requesting product Key
+macampbell,ausrcwa049,8 min,FXRS,WIS,CSP certification
+ahendon,ausrca0069,8 min,Café,Café,configuration
+ahendon,ausrca0069,7 min,FXRS,FSMS,1D barcode settings
+chkelley,ausrca0055,7 min,Café,Café,software download request
+anewman,ausrca0054,6 min,FXRS,FSMS,communication issue
+ianderson,auswlspigelmire,6 min,FXRS,WIS,ETD ERRORS
+dsims,ausrca0062,6 min,FXRS,Café,Upload customer scanned documents via ET
+aljohnson,ausrca0057,5 min,Café,FSMS,Comm issue....IT needed
+chkelley,ausrca0055,5 min,Café,Café,software download request
+macampbell,ausrcwa049,5 min,FXRS,FSMS,FSMS upgrade questions
+rmcneil,ausrca0229,4 min,FXRS,FSMS,Change label format to 1d
+dsims,ausrca0062,4 min,FXRS,WIS,Update of case esc to programmers
+anewman,ausrca0054,3 min,FXRS,Misdirect,To dotcom
+macampbell,ausrcwa049,3 min,FXRS,FSMS,FSMS upgrade questions
+dsims,ausrca0062,2 min,FXRS,Misdirect,Dotcom misdirect
+aljohnson,ausrca0057,2 min,FXRS,FSMS,misdirect
+aljohnson,ausrca0057,2 min,FXRS,Misdirect,front end issue

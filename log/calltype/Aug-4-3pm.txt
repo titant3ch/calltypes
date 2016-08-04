@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 3:00 PM FXRS 8/4/2016
+
+FXRS: Currency Conversion Change / disconnect / product key  v-1305 / ETD shipment / 
+
+Web Services: error 1000 / ZP505 tech visit needed....white stripes / Assist w/Error 1000 / WIS Certification / DRC Assist / Creds Check / 
+
+Café: fxi trans from .com / Submitted hardware tech ticket on Modem / signature release / Billing 3rd Party / run CSTD report / beta: writing as deleted / cafe install canada / upgraded to 2915 fsm swo / FSM product key request / FSM add LTL acct / transferred to cafe beta / Backup/restore databases / Printer Assist / transfer to cafe beta / New Install / 
+
+FXCT: installation / installation code fxct / new install / batch import csv / 
+
+MISDIRECTS: Misdirect to Dotcom / cafe beta transfer / 
+
+AHT Drivers: FXRS software not launching / clean load 100 min / FXRS ETD shipment 43 min / Café upgraded to 2915 fsm swo 30 min / 
+
+------------
+
+Cafe on FXRS: software not launching / clean load / rates and smartpost disabled / 
+
+FXRS on Cafe: 

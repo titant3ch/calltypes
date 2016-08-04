@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 2:00 PM FXRS 8/1/2016
+
+FXRS: URSA DSMS download failed / 4 bad printers / wis registration / previous SS esc / Rating Issue / Assist w/Server Tracking Issue / disconnect / Transaction Edit / 
+
+Web Services: walk thru the cert process / credentials / ground activation  for the acct / QuickBooks issue / WIS label certification / issues with tracking / WSGW Routing / incorrect rates / 
+
+Café: printer instaLL / smart post issues / clean load / Validate acct for product key / Out of 1D trk #s NW host/client setup / scan gun...tech requested / cust needed help with her printer. / cleanload to repair / fxai  script error / 
+
+FXCT: Installing the fxct / Install FXCT / 
+
+MISDIRECTS: 
+
+AHT Drivers: FXRS Rating Issue 63 min / Café clean load 60 min / FXRS issues with tracking 33 min / 
+
+------------
+
+Cafe on FXRS: CSP FXIA integration issue / 
+
+FXRS on Cafe: 

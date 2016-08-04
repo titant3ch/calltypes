@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 2:00 PM FXRS 8/4/2016
+
+FXRS: Hourly uploads very slow / 1307 cleanload svcs dead / Hourly uploads / Tech request for a printer problem / Meter registration / 1D ENABLE IN BACKEND / certification request / Callback for Sr Support / 
+
+Web Services: DRC not giving creds / Mac / Transactions not hitting our servers / WIS Certification Request / Assisted w/Registration for Creds / error 1000 authentication failure / registration / drc reg / Certification request / drc reg with billign prob / Functionality Question / tech tix printer / csp still trying to reg with bad billing / ship ground collect in quickbooks / Rate error / WIS Prod registration / registration / drc cert req sp returns / 
+
+Café: Report Printer Issue / writing as deleted...upgraded to 2915 / New Install and Printer Request / replacement printer / FSM hypertext font color change / Poor print quality / Issues with return shipment / printer setup / Rate Quote and Transit Time / FXIa profile setup / VALIDATION / FXIA-Service type / Enable list rates, configure doc tabs / Out of Tracking Numbers / Writing As Deleted / Printer setup new install / international return / LTL copies of labels / 
+
+FXCT: Install / add ltl acct & ltl rating / Dimensional Factor / 
+
+MISDIRECTS: transferred to fedex.com / .com cust needs csp / Dot Com Transfer / Misdirect / Misdirect / needed Rev Svcs / needed Rev Svcs / needed FPOS / 
+
+AHT Drivers: FXRS 1307 cleanload svcs dead 64 min / Café FXIa profile setup 40 min / Café FSM hypertext font color change 34 min / 
+
+------------
+
+Cafe on FXRS: 
+
+FXRS on Cafe: 

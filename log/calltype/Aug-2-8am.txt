@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 8:00 AM FXRS 8/2/2016
+
+FXRS: Enable ground 1D barcode / Issues with Intl 3rd Party / smart post label format / Permissions issue ( services corrected) / services,  restart / 
+
+Web Services: Billing address needed to register DRC / Dynamics AX / Issues connecting to WIS / Troubleshoot transactions / Test Creds / DRC Assist / WSDL Request / tracking request / 
+
+Café: PK Request / Problem encountered registering FSM / Tracking Request / Printer issues / new software download request / 
+
+FXCT: re-installation of application / 
+
+MISDIRECTS: misdirect / transferred to fedex.com / transferred to fedex.com / needs .com / needs .com / 
+
+AHT Drivers: FXRS Permissions issue ( services corrected) 62 min / FXRS smart post label format 41 min / FXRS Troubleshoot transactions 16 min / 
+
+------------
+
+Cafe on FXRS: 
+
+FXRS on Cafe: 

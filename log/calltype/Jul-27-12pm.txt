@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 12:00 PM FXRS 7/27/2016
+
+FXRS: nascar / admin service issue then log on issue / ursa not downloaded / Compatible Type KB Request / incorrect data in the field 5 / FSMS Key Request / installing 1503 error .net framework / install printer zp 505 / 
+
+Web Services: drc reg / Transaction errors / Trans Spec / Dimensions / wis registration / smartpost has wrong hub id / Front End not allowing Ground, only HD / drc / cust want to rate ltl  / assisted / 
+
+Café: Troubleshoot EOD close / Scale Issues / FSM client will not launch / Download rates / customer disconnect / 
+
+FXCT: Issues with opening tool / Add accts to FXCT / International Rating Issue / 
+
+MISDIRECTS: PEP Request sent to Dotcom / Dotcom Mistransfer / Domestic / OfficeMax Support / transferred to fedex.com / transferred to fedex.com / Dotcom Pickup Request / transferred to cafe beta / 
+
+AHT Drivers: FXRS admin service issue then log on issue 40 min / FXRS cust want to rate ltl  / assisted 35 min / FXRS Integration not giving tracking numbers 26 min / 
+
+------------
+
+Cafe on FXRS: Integration not giving tracking numbers / printer / ltl / fsm not matching the fxct / 
+
+FXRS on Cafe: 

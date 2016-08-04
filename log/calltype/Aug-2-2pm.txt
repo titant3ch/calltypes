@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 2:00 PM FXRS 8/2/2016
+
+FXRS: 1d baracode enablement / disconnect / invalid trk range not loaded / CIC needed install key for 1503 / smartpost reference number / 
+
+Web Services: Test Creds Reg Failed / servcie not valid for zip / transaction  errors / Consultation Request / WIS Cred Registration / Cust wants to see ESB transaction / iSell for new printer / Cert Inquiry / 
+
+Café: Software repair for unknown error / manifest failed to printer / reprint fin / Sender not populating / Return Address / MPS rates questions / Printer Install / Win10 / FXIA Repair / Windows upgrade questions / FedEx Freight Box setup / URSA expired comms issue / Invoicing issue sent to Rev Svcs / Return Label / 
+
+FXCT: Install Issue / .NET 4.5.2 / registration of express acct in FXCT / 
+
+MISDIRECTS: transfer to cs / transfer to rev / needed fedex.com / .com Transfer / nededx fedex.com supplies / Bad transfer needed dot.com / DOMESTIC / 
+
+AHT Drivers: Café Software repair for unknown error 66 min / FXRS Test Creds Reg Failed 20 min / Café FXIA Repair 20 min / 
+
+------------
+
+Cafe on FXRS: Scale TS / Out of tracking #s / 
+
+FXRS on Cafe: 

@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 8:00 AM FXRS 8/4/2016
+
+FXRS: unisntall / disconnect / Assist w/Reinstall of Communications / URSA with CIC / reports / Assist w/Invalid Svc Type Error / disconnect / reports from admin svc fail / Troubleshoot ZM 400, network issue / Printer Issue / 1D Barcode express / to revenue dept / to revenue dept / customer needs dynamic surcharge enable / Assistance with tracking / Updated the label type to astra / 
+
+Web Services: LTL Rating Issue / Gave label Cert. Info / disconnect / rates / SP cust ref field behavior / Need to get meter number and keys / Authentication Error / test creds setup and how it works / broker select option issue / WIS cred registration / Get production credentials / Lost Call / DRC Creds / Assisted w/Web Svcs Registration / Creds Check / Creds Check / 3rd party smartpost / drc reg could not hear me / misdirect transfer back to dotcom / 
+
+Café: double CAFE validation / Cafe validation / Validation for FSM / Assist w/Acct. Validation / printer/fxia setup / install software. / URSA on beta / Set up SS escalation for WW CIC / product key validation / Tech Ticket (printer) / 
+
+FXCT: Helped w/tool install / FXCT install / FXCT would not add LTL acct / Needing Product Code / FXCT rating / install / 
+
+MISDIRECTS: Transfer to Revenue Recovery / to dot.com / to customer service / to customer service / to customer service / Dotcom / 
+
+AHT Drivers: Café printer/fxia setup 80 min / Café install software. 50 min / FXRS LTL Rating Issue 50 min / 
+
+------------
+
+Cafe on FXRS: 
+
+FXRS on Cafe: 

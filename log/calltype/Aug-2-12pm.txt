@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 12:00 PM FXRS 8/2/2016
+
+FXRS: disconnect / disconnect / issues with 6 smartpost meter setup / 
+
+Web Services: issue with ETD shipment escalated / rates / test credentials needed / empty line / rates questions / issues with her applications not trk / certification status / cust needed credentials / rate request / previous call status / printer issues / Browser Issue getting Creds / 
+
+Café: disconnect / Scale setup / Software download request. / Route folder blank, repair FSM / Shipmanager Server not responding / commodity shipment to MX / international dg shipment / Hazmat Form / Int'l shipping / Acct validation for FSM successful / 
+
+FXCT: Need to install / Assisted w/tool restore / 
+
+MISDIRECTS: transferred to domestic / needed fedex.com for EEI / CUST SERV/DG / 
+
+AHT Drivers: FXRS issues with 6 smartpost meter setup 93 min / FXRS issue with ETD shipment escalated 50 min / Café Route folder blank, repair FSM 25 min / 
+
+------------
+
+Cafe on FXRS: Hazmat shipment assistance / issue with zp 505 printer / 
+
+FXRS on Cafe: 

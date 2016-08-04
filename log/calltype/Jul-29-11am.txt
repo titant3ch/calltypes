@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 11:00 AM FXRS 7/29/2016
+
+FXRS: 
+
+Web Services: Disconnect / 
+
+Café: international mps dg shipment / Acct validation successful / Comms Blocked / 
+
+FXCT: 
+
+MISDIRECTS: needs .com / 
+
+AHT Drivers: Café international mps dg shipment 14 min / FXRS TIS esccalation 10 min / FXRS Residential flag 6 min / 
+
+------------
+
+Cafe on FXRS: TIS esccalation / Residential flag / 
+
+FXRS on Cafe: 

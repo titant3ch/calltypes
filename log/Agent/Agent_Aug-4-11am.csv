@@ -1,0 +1,38 @@
+Reported Calls for: Aug-4-11am
+
+Agent, Computer Name, Duration of Call, LOB, Type, Message,
+mbarth,auswrca0230,60 min,FXRS,FSMS,cic gettign comm error from third party
+bdecker,auswssepeda,29 min,FXRS,WIS,Certification request
+dsims,ausrca0062,20 min,Café,Café,Frozen on initializing
+jzamora,ausrca0058,18 min,Café,Café,ZP505 setup
+macampbell,ausrcwa049,17 min,Café,Café,Email return labels
+jedupree,ausrca0052,15 min,Café,Café,Cafe Communications Issues
+ianderson,auswlspigelmire,14 min,Café,Café,2844 not printing
+aljohnson,ausrca0057,14 min,Café,Café,Registrating
+rmanley,ausrca0074,14 min,Café,Café,printer issue
+dsims,ausrca0062,12 min,FXRS,Café,ODBC/integration issue
+ahendon,ausrca0069,11 min,FXRS,FSMS,Transaction grabber
+ianderson,auswlspigelmire,10 min,FXRS,FSMS,1d barcode from astra
+cdriskell,ausrcwa041,10 min,FXRS,WIS,Acct in Delete status sent to Rev Svcs
+jedupree,ausrca0052,10 min,FXRS,FXCT,FXCT Reinstall
+jedupree,ausrca0052,10 min,Café,Café,Cafe New install
+sseals,ausrca0064,10 min,FXRS,FSMS,Printer / Tech Required
+cdriskell,ausrcwa041,9 min,FXRS,WIS,WIS Prod registration
+ahendon,ausrca0069,9 min,FXRS,WIS,Smartpost setup
+ahendon,ausrca0069,9 min,FXRS,FSMS,ACE - Escalation
+anewman,ausrca0054,7 min,FXRS,RegistrationRegistration
+cdriskell,ausrcwa041,6 min,FXRS,WIS,Questions about buffer capture
+dsims,ausrca0062,6 min,FXRS,Café,CIC work request update
+aljohnson,ausrca0057,6 min,Café,Café,email alert
+anewman,ausrca0054,6 min,FXRS,FSMS,Communication setup
+cdriskell,ausrcwa041,5 min,Café,Café,AB issue
+jedupree,ausrca0052,5 min,FXRS,FSMS,1d Barcode Enabled
+sseals,ausrca0064,5 min,FXRS,WIS,WIS Credential Registration
+cdriskell,ausrcwa041,5 min,FXRS,Misdirect,needed Rev Svcs
+rmcneil,ausrca0229,5 min,FXRS,FXCT,Turn on smartpost rates
+mbarth,auswrca0230,5 min,FXRS,WIS,general auth failed
+ahendon,ausrca0069,5 min,FXRS,Misdirect,.COM
+bdecker,auswssepeda,4 min,FXRS,FXCT,FXCT product code
+mbarth,auswrca0230,4 min,FXRS,WIS,cat about rates, line dropped
+aljohnson,ausrca0057,3 min,FXRS,FSMS,csp issue
+macampbell,ausrcwa049,1 min,Café,Café,disconnect

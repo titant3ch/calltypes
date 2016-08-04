@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 12:00 PM FXRS 8/4/2016
+
+FXRS: 1d barcode from astra / cic gettign comm error from third party / Communication setup / Transaction grabber / 1d Barcode Enabled / Printer / Tech Required / csp issue / ACE - Escalation / cust has a Front End question.. / will contact his AE about his rates / 
+
+Web Services: Questions about buffer capture / WIS Prod registration / Acct in Delete status sent to Rev Svcs / Smartpost setup / WIS Credential Registration / Certification request / general auth failed / cat about rates, line dropped / WIS Rating Outage / rates are correct with fxct / 
+
+Café: ZP505 setup / disconnect / email alert / Email return labels / Frozen on initializing / AB issue / 2844 not printing / Registrating / Cafe New install / Cafe Communications Issues / printer issue / Label print / Printer install...assisted cust / Install Printer / 
+
+FXCT: FXCT product code / FXCT Reinstall / Turn on smartpost rates / 
+
+MISDIRECTS: needed Rev Svcs / .COM / Needs to cancel a trace on a package / Integration Mgr. Call. / Transfer to Dot Com / 
+
+AHT Drivers: FXRS cic gettign comm error from third party 60 min / FXRS Certification request 29 min / Café Frozen on initializing 20 min / 
+
+------------
+
+Cafe on FXRS: CIC work request update / ODBC/integration issue / fsm install and vald / 
+
+FXRS on Cafe: 

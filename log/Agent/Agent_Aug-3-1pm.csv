@@ -1,0 +1,61 @@
+Reported Calls for: Aug-3-1pm
+
+Agent, Computer Name, Duration of Call, LOB, Type, Message,
+dneal,ausrca0098,147 min,FXRS,FSMS,1d Barcode eissue
+aljohnson,ausrca0057,35 min,Café,Café,cleanload fsm h/w
+rhagemann,ausrca0050,35 min,Café,Café,EOD Errors
+gdeharo,ausrcwa043,31 min,FXRS,WIS,Questions about webservices/drop shippin
+aljohnson,ausrca0057,30 min,Café,Café,LTL shipment
+chkelley,ausrca0055,20 min,FXRS,FSMS,c.o.d Label
+cdriskell,ausrcwa041,17 min,Café,Café,Out of Gnd trk #s
+rmcneil,ausrca0229,15 min,FXRS,WIS,Blocked connection
+rhagemann,ausrca0050,15 min,Café,Café,Broker ID
+chkelley,ausrca0055,15 min,Café,WIS,Wis Registration
+rhagemann,ausrca0050,15 min,FXRS,WIS,AE calling for prod creds
+gdeharo,ausrcwa043,12 min,FXRS,WIS,printer issues
+aljohnson,ausrca0057,12 min,FXRS,FSMS,smart post bill type
+rhagemann,ausrca0050,12 min,FXRS,WIS,Incorrect Rates
+sroberts,ausrca0072,12 min,FXRS,WIS,Assisted w/error 1000 Issue
+macampbell,ausrcwa049,11 min,Café,Café,Troubleshoot FXIA
+gdeharo,ausrcwa043,11 min,FXRS,WIS,General questions about meter
+rmanley,ausrca0074,10 min,FXRS,WIS,Unable to register for creds
+gdeharo,ausrcwa043,9 min,FXRS,WIS,request to get certified for shipping
+macampbell,ausrcwa049,8 min,FXRS,FXCT,Install FXCT
+gdeharo,ausrcwa043,8 min,Café,WIS,install printer to use with ship station
+macampbell,ausrcwa049,8 min,FXRS,WIS,WIS certification request
+rmanley,ausrca0074,8 min,FXRS,FSMS,change comm lvl to production
+cdriskell,ausrcwa041,8 min,FXRS,FSMS,bad Z4M printer
+gdeharo,ausrcwa043,7 min,Café,Café,computer crashed db questions
+cdriskell,ausrcwa041,7 min,FXRS,WIS,WIS Prod registration
+cdriskell,ausrcwa041,7 min,FXRS,WIS,LTL 3P acct issues
+gdeharo,ausrcwa043,6 min,Café,Café,software download request
+aljohnson,ausrca0057,6 min,FXRS,FSMS,Printers issue
+macampbell,ausrcwa049,6 min,FXRS,Misdirect,transferred to DG hotline
+cdriskell,ausrcwa041,6 min,FXRS,FSMS,Supported OSs for 150x
+cdriskell,ausrcwa041,6 min,Café,Café,setup alt sender/return address
+aljohnson,ausrca0057,6 min,FXRS,Café,cafe PK
+mbarth,auswrca0230,5 min,FXRS,WIS,printer tech tix
+rhagemann,ausrca0050,5 min,Café,Misdirect,Dotcom
+gdeharo,ausrcwa043,5 min,FXRS,Misdirect,revenue services call
+gdeharo,ausrcwa043,5 min,FXRS,Misdirect,dot com caller
+cdriskell,ausrcwa041,5 min,FXRS,Misdirect,needed Rev Svcs
+macampbell,ausrcwa049,5 min,Café,Café,Cannot delete closed shipments
+mbarth,auswrca0230,5 min,FXRS,Misdirect,needs .com, from .com
+rhagemann,ausrca0050,4.5 min,FXRS,FSMS,SS Callback Req
+gdeharo,ausrcwa043,4 min,FXRS,Café,issues with communications
+rhagemann,ausrca0050,4 min,FXRS,FSMS,1D Check
+rhagemann,ausrca0050,3 min,FXRS,Misdirect,Domestic
+rhagemann,ausrca0050,3 min,FXRS,Misdirect,Beta 3000
+rhagemann,ausrca0050,3 min,FXRS,WIS,Address Validation
+cdriskell,ausrcwa041,3 min,Café,Café,needed Cafe Beta
+macampbell,ausrcwa049,2 min,FXRS,WIS,Previous case status
+macampbell,ausrcwa049,2 min,Café,Café,Add freight accts
+aljohnson,ausrca0057,2 min,FXRS,Misdirect,cust svc call..misdirect
+mbarth,auswrca0230,2 min,FXRS,Misdirect,needs .com
+rhagemann,ausrca0050,2 min,Café,Misdirect,Dotcom
+gdeharo,ausrcwa043,1 min,Café,Café,customer disconnect
+macampbell,ausrcwa049,1 min,FXRS,FSMS,disconnect
+macampbell,ausrcwa049,1 min,FXRS,Misdirect,transferred to fedex.com
+rhagemann,ausrca0050,1 min,Café,Misdirect,Dotcom
+mbarth,auswrca0230,.5 min,FXRS,WIS,disconnect
+mbarth,auswrca0230,.5 min,Café,Café,disconnect

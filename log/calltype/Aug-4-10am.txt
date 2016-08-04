@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 10:00 AM FXRS 8/4/2016
+
+FXRS: Change label format to 1d / 1D barcode settings / Set Dynamic Surcharge flag / misdirect / ETD = Escalation / communication issue / ursa expired / FSMS upgrade questions / FSMS upgrade questions / 
+
+Web Services: Close issues / Update of case esc to programmers / Certification request / credentials / ETD ERRORS / CSP certification / 
+
+Café: Repair ticket / software download request / hardware removal / configuration / software download request / Requesting product Key / 
+
+FXCT: batch csv rate / 
+
+MISDIRECTS: Dotcom misdirect / To dotcom / front end issue / 
+
+AHT Drivers: FXRS batch csv rate 23 min / FXRS ursa expired 20 min / FXRS credentials 19 min / 
+
+------------
+
+Cafe on FXRS: Upload customer scanned documents via ET / 
+
+FXRS on Cafe: Comm issue....IT needed / 

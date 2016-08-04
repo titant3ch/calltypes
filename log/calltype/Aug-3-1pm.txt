@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 1:00 PM FXRS 8/3/2016
+
+FXRS: smart post bill type / SS Callback Req / disconnect / Printers issue / c.o.d Label / Supported OSs for 150x / change comm lvl to production / bad Z4M printer / 1d Barcode eissue / 1D Check / 
+
+Web Services: Blocked connection / printer tech tix / printer issues / Previous case status / WIS certification request / Incorrect Rates / General questions about meter / Address Validation / Unable to register for creds / WIS Prod registration / AE calling for prod creds / Assisted w/error 1000 Issue / disconnect / Questions about webservices/drop shippin / request to get certified for shipping / LTL 3P acct issues / 
+
+Café: customer disconnect / LTL shipment / Troubleshoot FXIA / Broker ID / Add freight accts / software download request / computer crashed db questions / Out of Gnd trk #s / Cannot delete closed shipments / cleanload fsm h/w / setup alt sender/return address / disconnect / needed Cafe Beta / EOD Errors / 
+
+FXCT: Install FXCT / 
+
+MISDIRECTS: Dotcom / transferred to DG hotline / cust svc call..misdirect / Domestic / revenue services call / Beta 3000 / transferred to fedex.com / Dotcom / dot com caller / needed Rev Svcs / needs .com / Dotcom / needs .com, from .com / 
+
+AHT Drivers: FXRS 1d Barcode eissue 147 min / Café cleanload fsm h/w 35 min / Café EOD Errors 35 min / 
+
+------------
+
+Cafe on FXRS: issues with communications / cafe PK / 
+
+FXRS on Cafe: 

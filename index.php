@@ -66,7 +66,7 @@
         <section>
           <h2>Message</h2>
 
-          <textarea name="message" class="textarea" maxlength="60" placeholder="Character Count is set to 60" required></textarea>
+          <textarea name="message" class="textarea" maxlength="40" placeholder="Character Count is set to 40" required></textarea>
         </section>
 
         <input type="submit" value="Send">

@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 2:00 PM FXRS 7/30/2016
+
+FXRS: Server Health Check / 
+
+Web Services: 
+
+Café: Downloading Rates / printer setup / Cafe Printer setup / 
+
+FXCT: 
+
+MISDIRECTS: Misdirect to Customer Service / Transfer to Customer Service / Transfer to Customer Service / 
+
+AHT Drivers: Café Downloading Rates 30 min / Café printer setup 15 min / FXRS Server Health Check 10 min / 
+
+------------
+
+Cafe on FXRS: 
+
+FXRS on Cafe: 
