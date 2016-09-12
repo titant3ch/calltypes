@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 6:00 PM FXRS 8/17/2016
+
+FXRS: Upgrade questions, transfer setup / EPDI Check / WIS/server questions / 
+
+Web Services: Assisted w/Prod. Creds Issue / WSDL  update / coding and transmissions / Get production credentials / customer disconnected-empty line / Customer disconnect-Empty line / Transaction errors / Assisted w/Rate Quote Issue / 
+
+Café: Kaspersky interfering w/FedEx Admin Svc. / Incorrect rates and customize label / 
+
+FXCT: FXCT register user credentials / 
+
+MISDIRECTS: 
+
+AHT Drivers: FXRS errors and clean load 70 min / FXRS Assisted w/Rate Quote Issue 60 min / FXRS Transaction errors 18 min / 
+
+------------
+
+Cafe on FXRS: errors and clean load / 
+
+FXRS on Cafe: 

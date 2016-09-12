@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 3:00 PM FXRS 8/15/2016
+
+FXRS: Smartpost rates not pulling / Incorrect ground MPS rates / 
+
+Web Services: drc fucntions and cert questions / Answered Label Cert. Questions / Certification update / Assisted w/Ground Rate Issue / 
+
+Café: writing as deleted / kaspersky issue / Network client questions / Kaspersky removed admin service / Dialup URSA Issue / Anti-virus removed admin service / Troubleshoot email returns / International shipment / Permissions...Kaspersky / Permissions...Kaspersky / Permissions...Kaspersky / ZP 450 not a supported printer / Kaspersky quarantined admin service / 
+
+FXCT: 
+
+MISDIRECTS: transferred to fedex.com / Misdirected call to dotcom / 
+
+AHT Drivers: FXRS anti virus ate admin service 100 min / Café Permissions...Kaspersky 70. min / Café Permissions...Kaspersky 45 min / 
+
+------------
+
+Cafe on FXRS: anti virus ate admin service / printer isntall / fsm will not launch/admin service missin / Admin service not functioning / Anti-virus removed admin service / transferred to TIS / Anti-virus removed admin service / Kaspersky AV ate the admin svc / 
+
+FXRS on Cafe: 

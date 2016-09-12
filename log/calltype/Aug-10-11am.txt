@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 11:00 AM FXRS 8/10/2016
+
+FXRS: update service pack / cls service not starting / astra to 1d labels / Verifying if the act is enable for shipp / comsm admin prior call / Enable 1D barcode / labels not printing / Issue with update features / Troubleshoot comms, IT needed / Ground shipments / Hardware tech ticket / 
+
+Web Services: Download WSDLs / WIS questions / register for production credentials / drc fucntions / residential surcharge isn't showing up / TEST REGISTRATION / ODA/OPA-related shipping error / MISDIRECT / server URL's needed / drc funciton and which cred is which / WIS Rating Issue / 
+
+Café: No return rates in FSM / software not opening / product key / document reprint / Cannot select service type / labels wrtng deleted...jsharp, driver / FXI repair / track from ship history / upgrade to 3007 / comms settings / 
+
+FXCT: LTL rating tool / 
+
+MISDIRECTS: dot com caller / transferred to fedex.com / needed fedex.com FBO / needed fedex.com / dot com call / 
+
+AHT Drivers: Café track from ship history 42 min / Café labels wrtng deleted...jsharp, driver 37 min / Café upgrade to 3007 30 min / 
+
+------------
+
+Cafe on FXRS: issue with printer tech ticket required / 
+
+FXRS on Cafe: 

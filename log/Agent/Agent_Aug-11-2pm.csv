@@ -1,0 +1,53 @@
+Reported Calls for: Aug-11-2pm
+
+Agent, Computer Name, Duration of Call, LOB, Type, Message,
+gdeharo,ausrca0050,60 min,FXRS,WIS,Issues w/freight 3rd party billing
+anewman,ausrca0074,50 min,FXRS,FSMS,Add meter in fsms configuration
+ianderson,auswlspigelmire,40 min,FXRS,FSMS,new install  with previous meter
+macampbell,ausrca0057,29 min,FXRS,FSMS,MRU fails, web services blocked
+anewman,ausrca0074,27 min,FXRS,Registration,Registeration for webservices
+anewman,ausrca0074,20 min,FXRS,Registration,Registration for webservices
+wcrosby,ausrca0071,20 min,FXRS,Café,processing a DG shipment
+rhagemann,ausrcwa043,20 min,FXRS,FSMS,Rating Issue
+cdriskell,auswidf1d62,17 min,FXRS,Registration,WIS Prod registration returns Test creds
+cdriskell,auswidf1d62,15 min,FXRS,WIS,RateRequest errors
+mbarth,auswrca0230,15 min,FXRS,WIS,drc reg
+pgarza,ausrcwb148,14 min,Café,Café,FSM Change Sender Address
+rmanley,ausrca0054,12 min,Café,Café,lp2844 install
+macampbell,ausrca0057,12 min,FXRS,WIS,Intl shipping questions
+pgarza,ausrcwb148,11 min,FXRS,WIS,WIS Transaction Assist
+mbarth,auswrca0230,10 min,FXRS,FSMS,turn on chux
+cdriskell,auswidf1d62,9 min,FXRS,Misdirect,needed fedex.com LTL support
+macampbell,ausrca0057,9 min,FXRS,WIS,Troubleshoot communications
+ianderson,auswlspigelmire,9 min,FXRS,WIS,smartpost rates
+macampbell,ausrca0057,8 min,Café,Café,Cannot get reports due to purge
+gdeharo,ausrca0050,8 min,FXRS,Café,custom label
+cdriskell,auswidf1d62,8 min,FXRS,WIS,WIS Prod registration
+anewman,ausrca0074,7 min,Café,Café,Client writing as deleted
+anewman,ausrca0074,7 min,FXRS,FSMS,Smartpost shipment
+cdriskell,auswidf1d62,7 min,Café,Café,Int'l commodity shipment
+cdriskell,auswidf1d62,7 min,FXRS,FSMS,WIS Prod registration
+rhagemann,ausrcwa043,7 min,FXRS,WIS,Pickup WSDL
+macampbell,ausrca0057,7 min,FXRS,WIS,Previous case status
+cdriskell,auswidf1d62,6 min,Café,Café,Export AB
+mbarth,auswrca0230,5 min,FXRS,Café,reports how to get
+mbarth,auswrca0230,5 min,FXRS,Café,default country
+gdeharo,ausrca0050,5 min,FXRS,Café,zp 505 issues tech ticket
+macampbell,ausrca0057,5 min,Café,Café,Hardware tech ticket
+mbarth,auswrca0230,5 min,FXRS,WIS,drc questions
+mbarth,auswrca0230,5 min,FXRS,Café,software req web form
+mbarth,auswrca0230,5 min,Café,Café,backup
+macampbell,ausrca0057,5 min,Café,Café,CIC request for new FSM install
+cdriskell,auswidf1d62,5 min,FXRS,FSMS,Reset barcode to ASTRA
+gdeharo,ausrca0050,4 min,Café,Café,dump printer zp 505
+gdeharo,ausrca0050,4 min,FXRS,FSMS,issue w/demand download
+cdriskell,auswidf1d62,3 min,FXRS,Misdirect,needed  Dom CS
+rhagemann,ausrcwa043,3 min,FXRS,WIS,3rd Party SmartPost
+anewman,ausrca0074,2 min,FXRS,WIS,webservice information.
+cdriskell,auswidf1d62,2 min,FXRS,Misdirect,needed fedex.com
+cdriskell,auswidf1d62,2 min,FXRS,Misdirect,needed fedex.com
+mbarth,auswrca0230,2 min,FXRS,Misdirect,needs .com from .com
+macampbell,ausrca0057,1 min,FXRS,FSMS,disconnect
+macampbell,ausrca0057,1 min,FXRS,FSMS,disconnect
+macampbell,ausrca0057,1 min,FXRS,Misdirect,transferred to domestic
+macampbell,ausrca0057,1 min,Café,Café,disconnect

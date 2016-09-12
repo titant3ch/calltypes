@@ -1,0 +1,15 @@
+Agent, Computer Name, Duration of Call, LOB, Type, Message,
+chkelley,ausrca0055,52 min,Café,Café,cleanload
+gdeharo,ausrca0050,35 min,FXRS,FSMS,Escalated call smart post trk #
+anewman,ausrca0074,33 min,Café,Café,Upgrade failed
+chkelley,ausrca0055,25 min,Café,Café,reports not printing
+gdeharo,ausrca0050,18 min,FXRS,Café,admin service missing
+gdeharo,ausrca0050,15 min,FXRS,WIS,certified for shipping request
+anewman,ausrca0074,13 min,FXRS,Café,URSA Expired
+chkelley,ausrca0055,10 min,Café,Café,download fsm
+gdeharo,ausrca0050,8 min,Café,Café,ETD enabled
+rmcneil,ausrcb0061a,6 min,FXRS,FSMS,Confirm URSA
+gdeharo,ausrca0050,5 min,FXRS,Café,software download request
+mendrys,ausrca0070,5 min,FXRS,WIS,auth error
+anewman,ausrca0074,4 min,Café,Café,Trouble shooting communications
+rmcneil,ausrcb0061a,2.5 min,FXRS,FSMS,1d Barcode

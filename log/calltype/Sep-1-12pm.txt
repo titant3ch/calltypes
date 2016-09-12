@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 12:00 PM FXRS 9/1/2016
+
+FXRS: Web services blocked / tls win 2000 / Tech ticket -BPU / printer / epdi uploads restarted admin / TLS Patch / hangs on mps esclated / tls patch comm issues / Enable 1D / FSMS 150x Install / 
+
+Web Services: NameSpace Update / WIS announcements / DRC / Blank Creds / Get production credentials / Failed communication / Production Key Credentials / DRC Questions / Advised cust on getting set up w/Web Svc / Cust. will call back/bad connection / Pick up request / can i have multi meters / label certification request / invalid billing address / bad postal code phillipines / 
+
+Café: FSM request ( SUSPECT COMPLETED) / Hazmat shipment / Custom label images must be approved / MPS /Hardware Upgrade / Scale configuration / Smartpost enablement / Client install / Problem encountered registeration / CCI button missing on TD Shipment / comm issues it dept needed / TSR / Scale not functioning / FXIA batch import / Hardware tech ticket / FXIA / 2915 writing to delete / downgrade to 2912 / software req / Unable to launch FSM / wrong country code / 
+
+FXCT: Add freight acct to fxct tool / Add account / 
+
+MISDIRECTS: needs cust serv / Dotcom / Misdirected call to customer service / FRO / Misdirected to dotcom / Mis-Transferred Dot Com Call / 
+
+AHT Drivers: Café comm issues it dept needed 118 min / FXRS hangs on mps esclated 75 min / Café CCI button missing on TD Shipment 60 min / 
+
+------------
+
+Cafe on FXRS: Cannot start shipping service / 
+
+FXRS on Cafe: 

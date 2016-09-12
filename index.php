@@ -24,6 +24,8 @@
 
     // Agent Data
     require "inc/agent.php";
+
+    error_reporting(E_ALL ^ E_DEPRECATED);
   ?>
 
 <fieldset>

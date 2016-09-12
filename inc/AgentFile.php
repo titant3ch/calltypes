@@ -28,11 +28,6 @@ mysql_select_db("sparkle", $con);
 
 $result = mysql_query("SELECT Agent, Host, CallTime, LOB, Type, Message FROM `calltypes` ORDER BY calltime * 1 DESC"); 
 
-$txt = "Reported Calls for: ". $time;
-fwrite($fh, $txt);
-$txt = "\r\n\r\n";
-fwrite($fh, $txt);
-
 $txt = "Agent, Computer Name, Duration of Call, LOB, Type, Message,\r\n";
 fwrite($fh, $txt);
 

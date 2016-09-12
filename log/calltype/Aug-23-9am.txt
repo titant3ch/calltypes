@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 9:00 AM FXRS 8/23/2016
+
+FXRS: Clean Load / Enable 1D barcode / 
+
+Web Services: label thermal type / DRC Prod Reg / Assisted w/Certification Request / Cert Request / name space change issue / Register for production credentials / Production registration errors / WIS questions / Importer of record / register/get certified for shipping / 
+
+Café: report for shipment history / dial up not communicating / FXIA setup / communications issue / Product key Validation / clean load / Validation / Issue with non responsive cic / 
+
+FXCT: Issue with ground rates / backup/ restore / Cust needs install code / 
+
+MISDIRECTS: Dot.com / misdirect for international cust support / transferred to fedex.com / 
+
+AHT Drivers: Café clean load 90 min / FXRS Clean Load 43 min / Café FXIA setup 28 min / 
+
+------------
+
+Cafe on FXRS: Label generation / Misdirected call from cafe agent / software req / 
+
+FXRS on Cafe: 

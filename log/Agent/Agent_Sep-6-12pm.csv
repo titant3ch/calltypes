@@ -1,0 +1,31 @@
+Agent, Computer Name, Duration of Call, LOB, Type, Message,
+chkelley,ausrca0055,90 min,Café,Café,writing as deleted
+ianderson,auswlspigelmire,80 min,Café,Café,shipping disabled
+mbarth,auswrca0230,78 min,FXRS,Café,cafe weird issue intl
+macampbell,auscrwfxrs3,63 min,FXRS,Café,3009 writing as deleted
+cdriskell,auswidf1d62,47 min,Café,Café,repair 3009 bad upgrade
+rmanley,ausrca0054,45 min,FXRS,FSMS,errors in transaction
+macampbell,auscrwfxrs3,40 min,FXRS,Café,2916 writing as deleted
+gdeharo,ausrca0050,38 min,Café,Café,shipments writing as deleted upgraded
+gdeharo,ausrca0050,36 min,FXRS,WIS,register for production/test credentials
+anewman,ausrca0074,35 min,Café,Café,International shipment
+sroberts,ausrca0072,30 min,FXRS,WIS,Submitted iSell re: ShipRush license
+jzamora,ausrcwa049,25 min,FXRS,FSMS,transaction log enablement
+cdriskell,auswidf1d62,22 min,FXRS,FXCT,MPS rate quote errors
+jemcavin,ausrca0052,20 min,Café,Café,MPS shipping help
+gdeharo,ausrca0050,18 min,Café,Café,update software prompt
+cdriskell,auswidf1d62,17 min,Café,Café,Product key validation
+anewman,ausrca0074,14 min,FXRS,Café,Software won't launch
+gdeharo,ausrca0050,13 min,FXRS,Café,needed to upgrade sent file
+ianderson,auswlspigelmire,9 min,Café,Café,new install cic request
+ianderson,auswlspigelmire,9 min,Café,Café,ursa expired
+cdriskell,auswidf1d62,8 min,FXRS,Café,FXIA profile not running
+macampbell,auscrwfxrs3,8 min,FXRS,WIS,WIS questions
+mbarth,auswrca0230,7 min,FXRS,Café,hardware tech tix
+gdeharo,ausrca0050,6 min,FXRS,WIS,general questions
+mbarth,auswrca0230,5 min,FXRS,Café,NEEDS .COM and win xp on 3009
+gdeharo,ausrca0050,4 min,Café,Café,slow open time
+macampbell,auscrwfxrs3,4 min,FXRS,Misdirect,transferred to fedex.com
+jemcavin,ausrca0052,3 min,FXRS,Misdirect,misdirect to dcom
+gdeharo,ausrca0050,3 min,FXRS,Misdirect,dot com caller
+gdeharo,ausrca0050,1 min,FXRS,Misdirect,dot com caller

@@ -1,0 +1,32 @@
+Agent, Computer Name, Duration of Call, LOB, Type, Message,
+sroberts,ausrca0072,65 min,FXRS,FSMS,Assisted w/TD Reports Issue
+chkelley,ausrca0055,60 min,Café,Café,client upgrade
+rhagemann,ausrcwa043,52 min,Café,Café,Upgrade to 3009
+macampbell,auswidf1057,39 min,Café,Café,Upgrade to 3009
+wcrosby,ausrca0071,30 min,FXRS,Café,client upgrade fails
+macampbell,auswidf1057,22 min,Café,Café,Troubleshoot LP 2844
+chkelley,ausrca0055,20 min,Café,Café,upgrade
+wcrosby,ausrca0071,15 min,Café,Café,fsm will not launch
+mwildman,ausrca0229,13 min,FXRS,WIS,WIS consultation
+wcrosby,ausrca0071,10 min,FXRS,WIS,delete  a shipment
+wcrosby,ausrca0071,10 min,Café,Café,cafe upgrade
+wcrosby,ausrca0071,10 min,FXRS,Café,registration failing
+wcrosby,ausrca0071,10 min,FXRS,FSMS,fsms 1503 uninstall
+rhagemann,ausrcwa043,9.5 min,FXRS,WIS,Integration to Amazon
+macampbell,auswidf1057,9 min,FXRS,WIS,Transactions not hitting servers
+rhagemann,ausrcwa043,8 min,FXRS,WIS,Cert Request
+rhagemann,ausrcwa043,7.5 min,Café,Café,Return Shipment
+sroberts,ausrca0072,7 min,Café,Café,FSM Clean Load/Prod. Key Required
+rhagemann,ausrcwa043,7 min,FXRS,WIS,Printer Install
+macampbell,auswidf1057,6.5 min,FXRS,WIS,WIS questions
+mwildman,ausrca0229,5 min,Café,Café,Reports
+anewman,ausrca0074,5 min,Café,Café,Printer head replacement
+macampbell,auswidf1057,5 min,FXRS,Café,CIC request for new install
+macampbell,auswidf1057,5 min,Café,Café,GTA is blocked, contact IT
+mwildman,ausrca0229,4 min,Café,Café,Change auto close time
+macampbell,auswidf1057,3 min,FXRS,FSMS,Contact Kewill to upgrade to 1407
+rhagemann,ausrcwa043,2.5 min,Café,Café,HAL Assist
+macampbell,auswidf1057,2 min,Café,Misdirect,transferred to fedex.com
+anewman,ausrca0074,2 min,FXRS,WIS,Rate error
+anewman,ausrca0074,1 min,FXRS,Misdirect,Misdirected to customer service
+macampbell,auswidf1057,1 min,FXRS,Misdirect,transferred to fedex.com

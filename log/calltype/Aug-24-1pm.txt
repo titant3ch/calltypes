@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 1:00 PM FXRS 8/24/2016
+
+FXRS: Bad Zip Code during registration / disconnect / mru errors / CLEAN LOAD TO 1407 / IP Address for FSMS / 
+
+Web Services: Helped cust get Prod. creds. / register for credentials/certification / drc down? asked for ss / Helped cust. get Prod. creds. / Address validation timed out / Re-certification for intl / comms check / Submitted FXCT Consult/CIC Request / Cust. will call back to get creds. / not hitting test environment / Freight Service Codes / Get production credentials / Submitted Label Cert. Request / 
+
+Café: Intl email returns / Validation / Enable ETD / Signature Options / Rates on label displaying "0.00" / registration / 
+
+FXCT: batch processing / FXCT- Restore database / Install and Configure / 
+
+MISDIRECTS: Misdirected to dotcom / Dotcom / 
+
+AHT Drivers: Café Rates on label displaying "0.00" 65 min / Café registration 60 min / FXRS CLEAN LOAD TO 1407 60 min / 
+
+------------
+
+Cafe on FXRS: 
+
+FXRS on Cafe: 

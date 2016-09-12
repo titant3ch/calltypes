@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 12:00 PM FXRS 9/12/2016
+
+FXRS: Line Test / INQ abt FSMS 3P Smartpost billing / Server not working properly / tls patch update / labels not printing / Enabled 1D barcode / MRU failing / cust disconnect / demand download rates / csp / 
+
+Web Services: question about log in/web srv / Certification request / rate question / Address validations / Consultant certification request / New Rates / AV Enabled / comms web serv / Cert Request / general questions / needed HUB ID for smartpost / 
+
+Café: service type not showing up / Credit privilages have been suspended / Upgrade to v3009 / CAFE cleanload / Install printer 2844 / error Error Opening Installation Logfil / replace monitor / writing as deleted / FSM upgrade / upgrade / unable to print DG form / upgrade / asking for upgrade even though he had it / Software validation / Failed 3009 update. / upgrade / International Doc Shipment / Slow launch after upgrade / Integration Profile Not Enabled / printer tech tix / switch to doc tab labels / comms / install lp 2844 printer / software download request / FSM will not start / FXI failed installed / failed upgrade / ODBC question / customer disconnect / Clean load / zp500 not printing / Clean load; insufficient space / Ship manager encountered an error / sending missing from database / Printer Removal / fxia odbc import issue / validation / FSM Upgrade / 
+
+FXCT: Rate Incorrect / update ltl acct/address / 
+
+MISDIRECTS: misdirected to customer service / dot com caller / needs to open account / Dotcom Label Issue / 
+
+AHT Drivers: Café Clean load; insufficient space 155 min / Café Clean load 132 min / Café Failed 3009 update. 113 min / 
+
+------------
+
+Cafe on FXRS: Customer has CAFE and server on same sys / new install.fsm swo, fxct / opening software / MPS Assist / fxi trouble / wanted FSM to sort inbound shipping / fxia trouble / Operation failed DG / Ship services is not responding / 
+
+FXRS on Cafe: 

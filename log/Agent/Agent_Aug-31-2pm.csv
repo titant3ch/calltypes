@@ -1,0 +1,51 @@
+Agent, Computer Name, Duration of Call, LOB, Type, Message,
+mendrys,ausrca0070,21 min,FXRS,WIS,transaction lookup
+jemcavin,ausrca0052,20 min,FXRS,Café,host/client setup
+macampbell,auscrwfxrs3,20 min,Café,Café,Integration tab grayed out
+anewman,ausrca0074,20 min,FXRS,Registration,Get production credentials
+jemcavin,ausrca0052,17 min,FXRS,WIS,international shipment error
+jemcavin,ausrca0052,16 min,FXRS,Café,host/client setup
+mbarth,auswrca0230,15 min,Café,Café,intl ship
+mbarth,auswrca0230,15 min,FXRS,Misdirect,needs .com
+sroberts,ausrca0072,15 min,FXRS,WIS,Answered ?s about drop-shipping.
+rhagemann,ausrcwa043,13 min,FXRS,Misdirect,CA Fedex.com
+macampbell,auscrwfxrs3,12 min,FXRS,Misdirect,transferred to fedex.com
+anewman,ausrca0074,11 min,FXRS,Registration,Get production credentials
+rhagemann,ausrcwa043,8.5 min,FXRS,Café,Restore Database
+mwildman,ausrca0229,7 min,FXRS,WIS,Questions about Web services
+anewman,ausrca0074,7 min,FXRS,FSMS,Bar-code not showing up on label
+macampbell,auscrwfxrs3,5 min,Café,Café,No signature options for intl
+rhagemann,ausrcwa043,5 min,FXRS,WIS,Cert Inquiry by SalesRep
+mbarth,auswrca0230,5 min,Café,Café,intl ship
+jemcavin,ausrca0052,3 min,Café,Misdirect,dcom service disruption
+anewman,ausrca0074,3 min,FXRS,Misdirect,misdirected call to dotcom
+sroberts,ausrca0072,3 min,FXRS,Misdirect,Dot Com Transfer/Svc Disruption
+anewman,ausrca0074,3 min,FXRS,Misdirect,Misdirected call to dotcom
+macampbell,auscrwfxrs3,3 min,FXRS,Misdirect,transferred to fedex.com
+mbarth,auswrca0230,2 min,FXRS,Misdirect,is .com broken? yes
+mbarth,auswrca0230,2 min,FXRS,Misdirect,.com trouble
+mbarth,auswrca0230,2 min,FXRS,Misdirect,.com
+mbarth,auswrca0230,2 min,FXRS,Misdirect,.com
+mbarth,auswrca0230,2 min,FXRS,Misdirect,needs .com
+mbarth,auswrca0230,2 min,FXRS,Misdirect,broken .com
+sroberts,ausrca0072,2 min,FXRS,Misdirect,Dot Com Transfer/Svc Disruption
+mbarth,auswrca0230,2 min,Café,Misdirect,needs .com
+sroberts,ausrca0072,2 min,FXRS,Misdirect,Dot Com Transfer/Svc Disruption
+mbarth,auswrca0230,2 min,FXRS,Misdirect,need .com
+macampbell,auscrwfxrs3,1.5 min,Café,Café,Troubleshoot freight shipping
+jemcavin,ausrca0052,1 min,FXRS,Misdirect,dcom service disruption
+pgarza,ausrcwb148,1 min,FXRS,Misdirect,Dotcom Outage
+jemcavin,ausrca0052,1 min,FXRS,Misdirect,dcom service disruption
+anewman,ausrca0074,1 min,FXRS,Misdirect,Misdirected call to dotcom
+pgarza,ausrcwb148,1 min,FXRS,Misdirect,.com outage
+mendrys,ausrca0070,1 min,FXRS,WIS,dotcom
+mendrys,ausrca0070,1 min,FXRS,WIS,dotcom
+mendrys,ausrca0070,1 min,FXRS,WIS,dotcom
+rhagemann,ausrcwa043,.5 min,FXRS,Misdirect,Dotcom Disruption
+rhagemann,ausrcwa043,.5 min,FXRS,Misdirect,Dotcom Disruption
+rhagemann,ausrcwa043,.5 min,FXRS,Misdirect,Dotcom Disruption
+rhagemann,ausrcwa043,.5 min,FXRS,Misdirect,Dotcom Disruption
+rhagemann,ausrcwa043,.5 min,FXRS,Misdirect,Dotcom Disruption
+rhagemann,ausrcwa043,.5 min,FXRS,Misdirect,Dotcom Disruption
+rhagemann,ausrcwa043,.5 min,Café,Misdirect,Dotcom Disruption
+macampbell,auscrwfxrs3,.5 min,FXRS,FSMS,disconnect

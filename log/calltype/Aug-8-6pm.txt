@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 6:00 PM FXRS 8/8/2016
+
+FXRS: Install questions / ace install upgrade / 1D Enablement / disconnect / Hardware tech ticket / turn 1d on / 1201 does not need database swap / 
+
+Web Services: prod creds input / Get production credentials / Contact front-end provider tech support / wis registration / wis registration / transaction vaildation / WIS Prod registration / Legacy API disablement / Transactions coded only for list rates / ZP500 Install / DRC Prod Reg / test credentials needed / 
+
+Café: disconnect / mkruntime error / Reports / 
+
+FXCT: add accounts / Rates service disruption / Install FXCT / FXCT Rating Descrepancy / 
+
+MISDIRECTS: Domestic customer service / needed fedex.com / needs .com / transferred to fedex.com / 
+
+AHT Drivers: FXRS Legacy API disablement 40 min / FXRS ZP500 Install 31 min / FXRS transaction vaildation 26 min / 
+
+------------
+
+Cafe on FXRS: FXI trying to get LTL List Rates / printer ish tech tix / 
+
+FXRS on Cafe: 

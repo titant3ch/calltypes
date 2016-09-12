@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 10:00 AM FXRS 8/11/2016
+
+FXRS: SAS failed in bay 1 / Update label type ot 1d / documentation / register for test credentials / certification / general questions about 14xx known issue / Enable 1D barcode / general questions about comm / tracking nubmers not laoding? / inquire about FSMS install / 
+
+Web Services: Customer hung up / general questions / line disconnected no kb / FICE shipment assistance. / Get production credentials / WS registration validation / 
+
+Café: told her cafe scheudles no PUs / install link not launching / Download Request Software / Email Notifications.Escalation required / cust wanted to update his client / DG 1421Cs not printing / Tech Ticket / ursa expired..comm issues..IT needed / create shipment / server / client install / Freezing on EOD close / 
+
+FXCT: quote nubmer? / 
+
+MISDIRECTS: dot com caller / dot com caller / misdirect / 
+
+AHT Drivers: Café install link not launching 40 min / FXRS meter registration 30 min / Café Freezing on EOD close 23 min / 
+
+------------
+
+Cafe on FXRS: TIS call / rates / internet connection / 
+
+FXRS on Cafe: 

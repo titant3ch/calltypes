@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 5:00 PM FXRS 8/30/2016
+
+FXRS: .net framework / Ground list rates not downloading / 
+
+Web Services: creds reg / Certification / Install zebra printer / Customer disconnected / Assisted w/thermal printer install / Get production credential / incorrect rates / Get Test Credentials / Submitted Label Cert. Request / 
+
+Café: DB Short > Clean Load > URSA / Submitted Hardware Tech Ticket on Scale / Answered ?s re: multi-weight rates/mps / Customer disconnected / Troubleshoot freight shipping / Resolved Expired URSA Issue / zebra 505 not functioning / URSA expired / Software Freezing Upon Launch/upgrade / URSA not downloading 2916 / URSA not downloading 2916 / URSA / Upgrade to 3009 / troubleshoot FXIA / 
+
+FXCT: 
+
+MISDIRECTS: Transfer to Dot Com / misdirect to dcom / 
+
+AHT Drivers: Café DB Short > Clean Load > URSA 178 min / Café URSA / Upgrade to 3009 78 min / FXRS Ground list rates not downloading 45 min / 
+
+------------
+
+Cafe on FXRS: printer / ursa / ursa issue / 
+
+FXRS on Cafe: 

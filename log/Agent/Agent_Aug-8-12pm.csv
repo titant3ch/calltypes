@@ -1,0 +1,64 @@
+Reported Calls for: Aug-8-12pm
+
+Agent, Computer Name, Duration of Call, LOB, Type, Message,
+gdeharo,ausrcwa043,116 min,Café,Café,clean load required/escalate for rates
+macampbell,ausrcwa049,45 min,Café,Café,Shipments writing as deleted
+rhagemann,ausrca0050,40 min,Café,Café,Scale not reading
+aljohnson,ausrca0057,30 min,Café,FSMS,Client will not start..wrong ip
+cdriskell,ausrcwa041,25 min,FXRS,FXCT,Registration & batch rating
+rhagemann,ausrca0050,24 min,FXRS,WIS,DRC Prod Reg
+aljohnson,ausrca0057,20 min,FXRS,FSMS,openship service not responding
+mbarth,auswrca0230,20 min,FXRS,FSMS,ursa
+rmanley,ausrca0074,20 min,FXRS,FSMS,need to change hub id's
+ianderson,auswlspigelmire,18 min,Café,Café,integration install prompt
+gdeharo,ausrcwa043,18 min,FXRS,FXCT,new fxct tool request
+jzamora,ausrca0058,17 min,Café,Café,scale not working
+aljohnson,ausrca0057,16 min,Café,Café,int'l shipment
+mbarth,auswrca0230,15 min,FXRS,Café,fxi fix
+jzamora,ausrca0058,15 min,FXRS,FXCT,unable to see discount rates
+jzamora,ausrca0058,15 min,FXRS,WIS,printer doesnt work with ShipStation
+ianderson,auswlspigelmire,14 min,FXRS,Café,running on remote machine
+macampbell,ausrcwa049,13 min,FXRS,WIS,Transactions not hitting our servers
+pgarza,ausrcwb148,13 min,FXRS,WIS,Certification
+gdeharo,ausrcwa043,13 min,FXRS,FXCT,issues with saved dimensions
+rmanley,ausrca0074,12 min,Café,Café,product key
+gdeharo,ausrcwa043,11 min,FXRS,FXCT,rates not working properly
+rmanley,ausrca0074,10 min,Café,Café,ltl rate quotes
+cdriskell,ausrcwa041,10 min,Café,Café,Validation for product key
+gdeharo,ausrcwa043,10 min,FXRS,FXCT,Issues with rates displaying
+mbarth,auswrca0230,10 min,FXRS,Café,comms dial up ursa
+macampbell,ausrcwa049,10 min,FXRS,FXCT,Freight accts in FXCT
+chkelley,ausrca0055,10 min,Café,WIS,rates not showing discounts
+macampbell,ausrcwa049,10 min,FXRS,WIS,Get production credentials
+rmcneil,ausrca0229,9 min,FXRS,FSMS,Reprint Ground Manfest
+aljohnson,ausrca0057,8 min,FXRS,FSMS,Rates on fxct
+ahendon,ausrca0069,8 min,Café,Café,reports print ( printer configuration )
+ianderson,auswlspigelmire,8 min,FXRS,FXCT,edit configurations
+ahendon,ausrca0069,8 min,FXRS,FXCT,Discounts not available ( known issue )
+pgarza,ausrcwb148,8 min,FXRS,FXCT,FXCT Rating Error
+pgarza,ausrcwb148,8 min,FXRS,MisdirectMisdirect
+chkelley,ausrca0055,8 min,FXRS,WIS,rates not showing discounts
+rmcneil,ausrca0229,7 min,FXRS,FSMS,Change label format
+cdriskell,ausrcwa041,7 min,FXRS,WIS,broken ZP505
+macampbell,ausrcwa049,6 min,FXRS,WIS,WIS rate questions
+gdeharo,ausrcwa043,6 min,Café,Café,Issue with international etd shipment
+macampbell,ausrcwa049,5 min,Café,Café,Cannot remote in, internet is down
+cdriskell,ausrcwa041,5 min,Café,Misdirect,needed fedex.com LTL
+jzamora,ausrca0058,5 min,Café,Café,writing to deleted/ver2912/no printer
+mbarth,auswrca0230,5 min,FXRS,WIS,rates wrong escalatd
+mbarth,auswrca0230,5 min,FXRS,FSMS,install 14xx errors
+macampbell,ausrcwa049,5 min,Café,Café,Verify FXIA field codes
+rmcneil,ausrca0229,4.4 min,FXRS,FSMS,Enable ETD
+ahendon,ausrca0069,4 min,Café,Misdirect,.COM transfer
+aljohnson,ausrca0057,3 min,FXRS,FSMS,EOD gnd manifest
+cdriskell,ausrcwa041,3 min,FXRS,Misdirect,needed fedex.com
+rhagemann,ausrca0050,3 min,FXRS,Misdirect,Dotcom
+pgarza,ausrcwb148,3 min,FXRS,MisdirectMisdirect
+gdeharo,ausrcwa043,3 min,Café,Café,delete shipment from shipping list
+macampbell,ausrcwa049,3 min,FXRS,Café,Acct validation failed, cust call back
+ahendon,ausrca0069,3 min,FXRS,Misdirect,.com
+gdeharo,ausrcwa043,3 min,FXRS,FXCT,Rates
+aljohnson,ausrca0057,2 min,FXRS,WIS,credentials
+macampbell,ausrcwa049,1 min,FXRS,Misdirect,transferred to fedex.com
+macampbell,ausrcwa049,1 min,Café,Misdirect,transferred to spanish cust service
+macampbell,ausrcwa049,1 min,Café,Café,disconnect

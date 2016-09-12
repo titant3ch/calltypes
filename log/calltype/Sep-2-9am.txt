@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 9:00 AM FXRS 9/2/2016
+
+FXRS: Testing fxrs lines / Smartpost Hub ID request / ipd master label / invalid shipping charge / 
+
+Web Services: web-svc certification / Authentication Failed / drc reg / Express CallTag / 
+
+Café: Bill duties and taxes / LTL Doc Reprint / 
+
+FXCT: Batch Processing / Install/rate to bill issues / 
+
+MISDIRECTS: Cust Srvc / dot com caller / 
+
+AHT Drivers: FXRS Install/rate to bill issues 41 min / FXRS invalid shipping charge 15 min / FXRS web-svc certification 13 min / 
+
+------------
+
+Cafe on FXRS: Anti-virus removed services / 
+
+FXRS on Cafe: 

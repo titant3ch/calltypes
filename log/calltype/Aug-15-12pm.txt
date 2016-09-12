@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 12:00 PM FXRS 8/15/2016
+
+FXRS: TLS Update / needed FW whitelist / rep hung up / FXCT registration / MRU Issues / Cannot download SP confirmation #s / Previous case status / disconnect / printer align / services won't start escalated / 
+
+Web Services: CSP registration errors / info needed on DRC login / subscription request failing / Smartpost / cert for 2 meters / prior call for compatible / certification / Get production credentials / 
+
+Café: Failed client set up / Tech ticket / printer / Tech Ticket required / FSM Repair / ZP500 USB port broken / scanner replacement needed / Repair FSM / Admin Svc Missing / Admin Service Missing / Repair / 
+
+FXCT: registration failing. / invalid zip code / Authentication failed / won't register escalated up / 
+
+MISDIRECTS: to dotcom cust forgot password / transferred to fedex.com / 
+
+AHT Drivers: FXRS Cannot download SP confirmation #s 67 min / FXRS issue with opening had to update 2 syste 52 min / FXRS install trouble 50 min / 
+
+------------
+
+Cafe on FXRS: install trouble / needs repair, freezing / Kaspersky AV ate the admin svc / network client / issue with opening had to update 2 syste / network client error / Kaspersky AV ate the admin svc / FSM not compatible with Macs / ltl accounts issue / Admin Srvc Missing / 
+
+FXRS on Cafe: 

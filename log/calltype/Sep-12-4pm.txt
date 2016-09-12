@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 4:00 PM FXRS 9/12/2016
+
+FXRS: Fxrs upgrade / Smart post enablement / 
+
+Web Services: Delivery Area Surgecharge / drc reg / Certification request / disconnect / namespace / 
+
+Café: Upgrade to 3009 / Acct validation successful / GTA is blocked, IT needs to enable it / 
+
+FXCT: 
+
+MISDIRECTS: 
+
+AHT Drivers: FXRS Delivery Area Surgecharge 35 min / Café Upgrade to 3009 17 min / FXRS drc reg 10 min / 
+
+------------
+
+Cafe on FXRS: Update sender infromation / sticks on initializing / 
+
+FXRS on Cafe: 

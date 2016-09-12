@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 8:00 AM FXRS 9/12/2016
+
+FXRS: Line Test / INQ abt FSMS 3P Smartpost billing / Server not working properly / tls patch update / labels not printing / 
+
+Web Services: question about log in/web srv / 
+
+Café: service type not showing up / Credit privilages have been suspended / Upgrade to v3009 / CAFE cleanload / Install printer 2844 / error Error Opening Installation Logfil / replace monitor / writing as deleted / FSM upgrade / upgrade / unable to print DG form / 
+
+FXCT: Rate Incorrect / 
+
+MISDIRECTS: misdirected to customer service / dot com caller / 
+
+AHT Drivers: FXRS labels not printing 55 min / FXRS Customer has CAFE and server on same sys 50 min / Café upgrade 45 min / 
+
+------------
+
+Cafe on FXRS: Customer has CAFE and server on same sys / 
+
+FXRS on Cafe: 

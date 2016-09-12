@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 6:00 PM FXRS 8/5/2016
+
+FXRS: 1407 upgrade cleanload from 1207 / ShipManager Service Crash / Escalated / 
+
+Web Services: account and meter are invalid / Assisted w/Discount Rates Issue / rates no discounts / Web Svcs Label Certification / Creds Check / 
+
+Café: 
+
+FXCT: batch laod / Restore from backup / 
+
+MISDIRECTS: Transfer to Cust. Svc. / 
+
+AHT Drivers: FXRS ShipManager Service Crash / Escalated 55 min / FXRS 1407 upgrade cleanload from 1207 31 min / FXRS batch laod 15 min / 
+
+------------
+
+Cafe on FXRS: 
+
+FXRS on Cafe: 

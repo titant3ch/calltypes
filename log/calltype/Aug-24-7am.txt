@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 7:00 AM FXRS 8/24/2016
+
+FXRS: 
+
+Web Services: Smartpost Enablement Check / 
+
+Café: 
+
+FXCT: 
+
+MISDIRECTS: Transfer to Cust. Svc. / International to PO Box / 
+
+AHT Drivers: FXRS PK Request 7.5 min / FXRS Smartpost Enablement Check 5 min / FXRS Transfer to Cust. Svc. 3 min / 
+
+------------
+
+Cafe on FXRS: PK Request / 
+
+FXRS on Cafe: 

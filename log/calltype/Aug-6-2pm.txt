@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 2:00 PM FXRS 8/6/2016
+
+FXRS: 1D barcode activation per request / FSMS ver1209 install implementation / 1D Barcode settings 40 + meters / 
+
+Web Services: WIS Auth Failed / WIS Transaction Assist / 
+
+Café: FSM stuck on initializing / 
+
+FXCT: 
+
+MISDIRECTS: Transfer to Fedex Office / Misdirect / 
+
+AHT Drivers: FXRS 1D Barcode settings 40 + meters 45 min / FXRS FSMS ver1209 install implementation 30 min / FXRS WIS Auth Failed 15 min / 
+
+------------
+
+Cafe on FXRS: 
+
+FXRS on Cafe: 

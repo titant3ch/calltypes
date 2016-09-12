@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 7:00 AM FXRS 8/17/2016
+
+FXRS: 
+
+Web Services: 
+
+Café: 
+
+FXCT: 
+
+MISDIRECTS: Misdirected call to dotcom / 
+
+AHT Drivers: FXRS Kaspersky quarantined admin service 25 min / FXRS Writing as deleted Windows XP 15 min / Café eod close 15 min / 
+
+------------
+
+Cafe on FXRS: CAFE Validation / Writing as deleted Windows XP / Kaspersky quarantined admin service / 
+
+FXRS on Cafe: eod close / 

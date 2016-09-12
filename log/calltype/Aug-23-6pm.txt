@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 6:00 PM FXRS 8/23/2016
+
+FXRS: Changed label Format to 1D / 1d activate / rates issue / disconnect / 
+
+Web Services: DRC Test Reg / hazmat / Get production credentials / disconnected before trans / Get production credentials / Get production credentials / 
+
+Café: PEP ticket / 
+
+FXCT: Issue w/.netframework 4.6.1/tool install / 
+
+MISDIRECTS: 
+
+AHT Drivers: FXRS Issue w/.netframework 4.6.1/tool install 45 min / Café PEP ticket 15 min / FXRS DRC Test Reg 11 min / 
+
+------------
+
+Cafe on FXRS: network client / 
+
+FXRS on Cafe: 

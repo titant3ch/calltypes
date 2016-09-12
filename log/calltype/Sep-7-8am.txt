@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 8:00 AM FXRS 9/7/2016
+
+FXRS: Tech ticket - scale / 1D enablement / 
+
+Web Services: Pickup Request / register for test/production credentials / incorrect rates / 
+
+Café: DB Backup / Tech ticket inquiry / shipping international DG assistance / upgrade / Failed install / 
+
+FXCT: 
+
+MISDIRECTS: dot com caller / 
+
+AHT Drivers: Café Failed install 65 min / Café upgrade 40 min / FXRS register for test/production credentials 37 min / 
+
+------------
+
+Cafe on FXRS: fxia greyed out / 
+
+FXRS on Cafe: 

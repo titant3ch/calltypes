@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 11:00 AM FXRS 8/11/2016
+
+FXRS: needs 10 printers replaced / Confirm HUFs uploading / Verify 1D barcode enabled / Uninstall FSMS 1210 / disconnect / ursa trick / 
+
+Web Services: WIS label cert request / auth. failed error 1000 / shipment assistance to puerto rico / drc fxct / drc reg attempt / 
+
+Café: partial barcode / comms ursa / shipping list inquire / question about new software / URSA expired / Earned discounts not available / Create FXIA profile / Alternate return address configuration / Sender information / label isntructions / FXIA ODBC errors / software install request / 
+
+FXCT: FXCT walkthru / Registration / 
+
+MISDIRECTS: transferred to customer service / needed Dom CS / needs .com / 
+
+AHT Drivers: Café FXIA ODBC errors 67 min / FXRS Clean load 59 min / Café URSA expired 42 min / 
+
+------------
+
+Cafe on FXRS: Clean load / fxi needs tis / install and repair help / 
+
+FXRS on Cafe: 

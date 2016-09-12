@@ -1,0 +1,23 @@
+Agent, Computer Name, Duration of Call, LOB, Type, Message,
+chkelley,ausrca0055,40 min,Café,Café,client install
+chkelley,ausrca0055,30 min,Café,Café,integration
+gdeharo,ausrca0050,29 min,FXRS,FSMS,adding international acct to fxrs
+gdeharo,ausrca0050,25 min,Café,Café,Rates issue demand download
+agonzales,ausrca0056,20 min,Café,Café,new install FSM
+rmcneil,ausrcb0061a,14 min,Café,Café,Writing as deleted sent to sr support
+rhagemann,ausrcwa043,11 min,FXRS,FSMS,Rating Error
+agonzales,ausrca0056,10 min,Café,Café,printer setup /  backup database
+ianderson,auswlspigelmire,10 min,FXRS,WIS,certification process
+anewman,ausrca0074,10 min,Café,Café,No barcode on label
+anewman,ausrca0074,9 min,Café,Café,Product key validations
+sseals,ausrca0064,6 min,FXRS,WIS,Credential Registration
+anewman,ausrca0074,6 min,Café,Café,PCA destage delta
+gdeharo,ausrca0050,6 min,Café,Café,zp 505 printer issues tech ticket
+agonzales,ausrca0056,5 min,FXRS,WIS,WIS rates
+anewman,ausrca0074,5 min,FXRS,FSMS,Needing IP address for test server
+rmcneil,ausrcb0061a,4 min,FXRS,Café,No email notification
+anewman,ausrca0074,4 min,Café,Café,zip code invalid
+gdeharo,ausrca0050,3 min,Café,Café,scale issues
+anewman,ausrca0074,3 min,Café,Café,Monitor replacement
+agonzales,ausrca0056,1 min,FXRS,FSMS,line test
+rmcneil,ausrcb0061a,.17 min,FXRS,FSMS,Line test

@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 5:00 PM FXRS 9/2/2016
+
+FXRS: 
+
+Web Services: Saturday delivery option / drc reg and questions / Transaction errors / ETD labels / needed test credentials / 
+
+Café: Saturday delivery / disconnect / Return email label / MPS assistance / 
+
+FXCT: 
+
+MISDIRECTS: misdirect to dcom / transferred to domestic / 
+
+AHT Drivers: FXRS drc reg and questions 10 min / FXRS Transaction errors 10 min / FXRS Saturday delivery option 6 min / 
+
+------------
+
+Cafe on FXRS: Get production credentials / 
+
+FXRS on Cafe: 

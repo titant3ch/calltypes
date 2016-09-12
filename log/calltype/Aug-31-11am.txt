@@ -1,0 +1,19 @@
+﻿Here is what the agents are reporting: 11:00 AM FXRS 8/31/2016
+
+FXRS: Confirm server is communicating / disconnect / Network thermal printer / Troubleshoot smartpost labels / Confirm acct is smartpost enabled / bill recip duties and taxes / Escalation status inquiry / Contact Clippership to upgrade to 1407 / cust disconnect / Update Case / 
+
+Web Services: Get production credentials / credentials / Confirm Meter is enabled / Currency Value / Get production key / Certification status inquiry / Get production credentials / general questions about credentials / csp info / Test requests timing out / 
+
+Café: ZP505 not printing / Tech ticket requested hardware / URSA 2916 / URSA expired / fsm isntall trouble / Service Issue / hardware removal / Troubleshoot zp 505 / URSA expired / writing as deleted / URSA and printer install and PEP / Ship Alert Notifications / Adding recipient email to commercial inv / issues with zebra printer/drivers / Failed Upgrade / Reinstall FSM / prod key req / disconnect / prod kwy req / Transmission Files to CD / HUF Issue / 
+
+FXCT: 
+
+MISDIRECTS: Dotcom / Printer Troubleshooting / Dotcom / transferred to fedex.com / needs soemthing called one ship / needs .com / 
+
+AHT Drivers: Café issues with zebra printer/drivers 69 min / Café Failed Upgrade / Reinstall FSM 55 min / Café URSA and printer install and PEP 35 min / 
+
+------------
+
+Cafe on FXRS: URSA Expired / URSA Expired / customer disconnected / printer tech tix / Fedex services stopped turned on / ca cafe isntalls / 
+
+FXRS on Cafe: Credit privileges suspended / 

@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 8:00 AM FXRS 8/24/2016
+
+FXRS: 1d enable / TLS update 0855 server / what version am i on / tracking number missing / 
+
+Web Services: 
+
+Café: previous call status / Upgrade / Admin srv removed Kasperky modify needed / 
+
+FXCT: 
+
+MISDIRECTS: cust service call / 
+
+AHT Drivers: Café Upgrade 40 min / FXRS tracking number missing 20 min / Café Admin srv removed Kasperky modify needed 12 min / 
+
+------------
+
+Cafe on FXRS: Download request of software / 
+
+FXRS on Cafe: 

@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 5:00 PM FXRS 9/6/2016
+
+FXRS: DD failed / bad comm / changed the label to 1D / 
+
+Web Services: DRC Prod Reg / Get production credentials / Get production credentials / Certification / Answered Web Svcs/SP Questions / 
+
+Café: Brazil shipment / upgrade to 3009 questions / failed upgrade / failed upgrade / failed upgrade / MPS shipping / International DG shipment / Upgrade to 3009 / Upgrade to 3009 / update / Assisted w/FXIA Intermittent Issue / Admin rights needed to upgrade / encountered error must exit / product key request / monitor broke, tech ticket / Answered Upgrade Question / Return label / Writing as deleted / Assisted w/printer alignment issue / LTL Update / 
+
+FXCT: fxct install / FXCT add LTL account / 
+
+MISDIRECTS: needs .com / needs intl cust serv / Transfer to OM Help Desk / Dot Com Transfer / Misdirected OD/OM Call. / 
+
+AHT Drivers: Café Brazil shipment 60 min / Café encountered error must exit 60 min / Café Upgrade to 3009 55 min / 
+
+------------
+
+Cafe on FXRS: eod / tech tix printer / Authentication failed / 
+
+FXRS on Cafe: 

@@ -1,0 +1,20 @@
+Agent, Computer Name, Duration of Call, LOB, Type, Message,
+gdeharo,ausrca0050,83 min,Café,Café,clean load required
+rhagemann,ausrcwa043,30 min,FXRS,WIS,Transit Times not being returned
+rhagemann,ausrcwa043,27 min,Café,Café,FXIA Issue with ODBC
+anewman,ausrca0074,20 min,Café,Café,Ship services not responding
+anewman,ausrca0074,15 min,FXRS,WIS,Zebra printer configuration
+agonzales,ausrca0056,14 min,FXRS,FSMS,URSA update
+mbarth,auswrca0230,10 min,FXRS,FSMS,meter reg errors
+mbarth,auswrca0230,10 min,FXRS,WIS,passing wrong weight?
+ianderson,auswlspigelmire,8 min,Café,Café,key for new install
+macampbell,auscrwfxrs3,8 min,Café,Café,Reset scale
+mwildman,ausrca0229,8 min,Café,Café,URSA NOT DOWNLOADING 2916
+anewman,ausrca0074,7 min,FXRS,WIS,Get production credentials
+aljohnson,ausrca0058,7 min,Café,FSMS,Comm issue
+rhagemann,ausrcwa043,6 min,FXRS,Café,URSA
+ianderson,auswlspigelmire,6 min,Café,Café,product key new install
+agonzales,ausrca0056,5 min,Café,Café,product key validation
+mbarth,auswrca0230,5 min,FXRS,Misdirect,air ops workbench?
+gdeharo,ausrca0050,5 min,FXRS,WIS,ETD upload questions
+gdeharo,ausrca0050,1 min,FXRS,FSMS,testing fxrs line

@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 9:00 AM FXRS 9/8/2016
+
+FXRS: Rating Error / Line test / line test / adding international acct to fxrs / Needing IP address for test server / server question / 1D bar code activation / transferred to fedex.com / 
+
+Web Services: Credential Registration / WIS rates / certification process / No ground in rate requests / Get production credentials / disconnect / 
+
+Café: Writing as deleted sent to sr support / Product key validations / printer setup /  backup database / zip code invalid / new install FSM / PCA destage delta / Rates issue demand download / scale issues / No barcode on label / zp 505 printer issues tech ticket / client install / Monitor replacement / integration / upgrade / assist with barcode on label / Tech Request / Scale / FSM Repair / Repair / validation/install / LTL account set up (FSM) / Removal, Load and config FSM / 
+
+FXCT: FXCT INSTALLATION / 
+
+MISDIRECTS: 3rd Party Support Needed / transferred to domestic / 
+
+AHT Drivers: Café Removal, Load and config FSM 135 min / Café Repair 106 min / Café upgrade 45 min / 
+
+------------
+
+Cafe on FXRS: No email notification / 
+
+FXRS on Cafe: 

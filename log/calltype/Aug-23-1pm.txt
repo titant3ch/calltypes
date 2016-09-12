@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 1:00 PM FXRS 8/23/2016
+
+FXRS: Push 1407 to CIC / Issues with Signature Types / International shipment / Unable to add child meter / 
+
+Web Services: No Ground discounts / Help with transaction specs / registration process / Resolved error 1000/started Cert. proces / 3rd Party SW Login / 
+
+Café: repair/upgrade shipments writing deleted / cust disconnect before trans / Discussed hardware options, etc. / 
+
+FXCT: FXCT-LTL acct invalid / ground rtes / 
+
+MISDIRECTS: Transfer to Cust. Svc. / Dotcom / 
+
+AHT Drivers: Café repair/upgrade shipments writing deleted 53 min / FXRS FXCT-LTL acct invalid 24 min / FXRS Issues with Signature Types 22 min / 
+
+------------
+
+Cafe on FXRS: bill third party / fxi cic site visit / 
+
+FXRS on Cafe: 

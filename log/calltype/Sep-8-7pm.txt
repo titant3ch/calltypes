@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 7:00 PM FXRS 9/8/2016
+
+FXRS: Lost Call / Configuration id / 
+
+Web Services: Advised cust. on rating/zone spreadsheet / Authentication Failed / Communications issues / DRC Prod Reg / 
+
+Café: Contact AE to order hardware / writing as deleted v.2912 / upgrade failed/clean load / Call Dropped / Help register FSM / PK Request / LTL acct enablement / EOD Report / Network config / zebra printer not functioning / hardware replacement / 
+
+FXCT: Install code / 
+
+MISDIRECTS: Dotcom Printer Issue / transferred to fedex.com / customer disconnect / Misdirected to dotcom / Dotcom / Dotcom / Lost Call / 
+
+AHT Drivers: Café writing as deleted v.2912 60 min / Café upgrade failed/clean load 55 min / FXRS Configuration id 18 min / 
+
+------------
+
+Cafe on FXRS: 
+
+FXRS on Cafe: 

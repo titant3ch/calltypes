@@ -1,0 +1,23 @@
+Reported Calls for: Aug-25-3pm
+
+Agent, Computer Name, Duration of Call, LOB, Type, Message,
+chkelley,ausrca0055,90 min,FXRS,FSMS,uninstall 10.69
+wcrosby,ausrca0071,40 min,FXRS,FSMS,upgrade  10.69 to 13.07
+anewman,ausrca0074,33 min,Café,Café,EEI assistance
+sroberts,ausrca0072,25 min,FXRS,WIS,Error 1000/Trans Errors
+mbarth,auswrca0230,20 min,FXRS,WIS,drc reg prod and test
+rmcneil,ausrcb0061a,17 min,FXRS,FSMS,McAfee
+macampbell,ausrca0057,16 min,FXRS,FXCT,Install FXCT
+mbarth,auswrca0230,15 min,FXRS,Café,fxi source
+macampbell,ausrca0057,11 min,FXRS,WIS,Certification request
+mbarth,auswrca0230,10 min,FXRS,WIS,drc cert
+mbarth,auswrca0230,10 min,FXRS,Café,tech tix printer
+anewman,ausrca0074,8 min,FXRS,WIS,Get Production Credentials
+cdriskell,auswidf1d62,6 min,FXRS,FSMS,TLS update
+rhagemann,ausrcwa043,5 min,FXRS,WIS,Needs Creds / Doesn't have info
+macampbell,ausrca0057,5 min,FXRS,FSMS,Upgrade questions
+sroberts,ausrca0072,5 min,FXRS,FSMS,Reinstalled Communications
+macampbell,ausrca0057,4 min,FXRS,WIS,Previous case status
+rhagemann,ausrcwa043,4 min,FXRS,Misdirect,Intl Cust Srvc
+macampbell,ausrca0057,3 min,FXRS,WIS,WIS questions
+rhagemann,ausrcwa043,2.5 min,FXRS,FSMS,CIC Enabled 1D

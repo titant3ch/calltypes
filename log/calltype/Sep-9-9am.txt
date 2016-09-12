@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 9:00 AM FXRS 9/9/2016
+
+FXRS: Confirm URSA / 1d Barcode / Escalated call smart post trk # / 
+
+Web Services: certified for shipping request / auth error / 
+
+Café: download fsm / reports not printing / Upgrade failed / Trouble shooting communications / ETD enabled / cleanload / 
+
+FXCT: 
+
+MISDIRECTS: 
+
+AHT Drivers: Café cleanload 52 min / FXRS Escalated call smart post trk # 35 min / Café Upgrade failed 33 min / 
+
+------------
+
+Cafe on FXRS: software download request / admin service missing / URSA Expired / 
+
+FXRS on Cafe: 

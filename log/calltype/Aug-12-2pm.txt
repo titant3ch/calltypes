@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 2:00 PM FXRS 8/12/2016
+
+FXRS: rates not showing / Invalid Tracking Range / Server upgrade to 15.03 / label  type  setting to 1D / printer issue poor print quality / 
+
+Web Services: Test credentials, certification question / register/certified for credentials. / WIS label certification / Creds Reg / Volusion / reinstall ZP505 / 2x Cert Request / 
+
+Café: FXI -Data source / printer installation / Smartpost Enablement / Product key for CIC / FSM Inquiry / 
+
+FXCT: Install / Config / 
+
+MISDIRECTS: Dotcom / FSM Lite / dot com caller / 
+
+AHT Drivers: FXRS rates not showing 40 min / FXRS reinstall ZP505 30 min / FXRS register/certified for credentials. 25 min / 
+
+------------
+
+Cafe on FXRS: 
+
+FXRS on Cafe: 

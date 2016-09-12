@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 12:00 PM FXRS 8/5/2016
+
+FXRS: Cust needed help with the fxct..rates / disconnect / smart post / no uploads admin stopped / tracking number questions / Letter head not on CI / hazmat paperwork and 11 upgrade / comm issue.. / Incorrect rates/stage new rates / Ursa expired / FXCT rates / no smartpost rates / 
+
+Web Services: Get production credentials / Register for web services / WIS Prod certification / Rate requests set to list rates / Get production credentials / account couldnt be validated / wanted to get set up with shipping / general questions / communication terms / Ship date issue / Additional handling transaction spec / auth faield in test / Referred cust to ship rush for questions / 
+
+Café: cic needed product key / needs scale, needs call ae / FXIA profile setup / Dial-up FSM cannot communicate / Ship history cannot be transferred / Document reprint walkthru / Submitted Hardware Tech Ticket for Print / Troubleshoot dial-up comms / 
+
+FXCT: cust says wrong rates in fxct / no discounts loaded contact AE / general questions / general question about ltl acct / install fxct tool onto new computer / 
+
+MISDIRECTS: misdirect / transferred to fedex.com / needs csp / transferred to dotcom / misdirect / needed new acct setup / transferred to dotcom / 
+
+AHT Drivers: FXRS comm issue.. 48 min / FXRS no smartpost rates 45 min / FXRS WIS Prod certification 37 min / 
+
+------------
+
+Cafe on FXRS: cafe consultation and abilities / tech tix scan gun and monitor / ship services have stopped running on th / communication problems / 
+
+FXRS on Cafe: 

@@ -1,0 +1,15 @@
+Reported Calls for: Aug-12-3pm
+
+Agent, Computer Name, Duration of Call, LOB, Type, Message,
+dneal,ausrca0098,68 min,FXRS,FSMS,Communications Issues
+wcrosby,ausrca0071,15 min,FXRS,Café,-i integration odbc error
+wcrosby,ausrca0071,15 min,FXRS,FSMS,trans test of a new install
+ianderson,auswlspigelmire,13 min,Café,Café,rates are incorrect
+rhagemann,ausrcwa043,12 min,FXRS,WIS,DRC Prod Reg
+mbarth,auswrca0230,10 min,FXRS,WIS,cert info
+macampbell,ausrca0057,5 min,FXRS,FSMS,Enable 1D barcode
+mbarth,auswrca0230,5 min,FXRS,FXCT,cic work req for fxct
+wcrosby,ausrca0071,3 min,FXRS,Misdirect,transfer to CS
+macampbell,ausrca0057,2 min,FXRS,WIS,Referred cust to front-end provider
+macampbell,ausrca0057,2 min,Café,Café,Rcpt zip code is invalid
+macampbell,ausrca0057,1 min,FXRS,Misdirect,transferred to fedex.com

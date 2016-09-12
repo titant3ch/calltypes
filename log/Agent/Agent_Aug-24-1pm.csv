@@ -1,0 +1,33 @@
+Reported Calls for: Aug-24-1pm
+
+Agent, Computer Name, Duration of Call, LOB, Type, Message,
+jzamora,ausrcwa049,65 min,Café,Café,Rates on label displaying "0.00"
+chkelley,ausrca0055,60 min,Café,Café,registration
+gdeharo,ausrca0050,60 min,FXRS,FSMS,CLEAN LOAD TO 1407
+mbarth,auswrca0230,20 min,FXRS,WIS,not hitting test environment
+rhagemann,ausrcwa043,18 min,Café,Misdirect,Dotcom
+rhagemann,ausrcwa043,15 min,FXRS,FXCT,Install and Configure
+gdeharo,ausrca0050,14 min,FXRS,WIS,register for credentials/certification
+sroberts,ausrca0072,13 min,FXRS,WIS,Helped cust. get Prod. creds.
+rhagemann,ausrcwa043,13 min,Café,Café,Signature Options
+anewman,ausrca0074,13 min,FXRS,WIS,Freight Service Codes
+anewman,ausrca0074,11 min,FXRS,WIS,Address validation timed out
+macampbell,ausrca0057,11 min,FXRS,WIS,Re-certification for intl
+sroberts,ausrca0072,11 min,FXRS,WIS,Submitted FXCT Consult/CIC Request
+wcrosby,ausrca0071,10 min,FXRS,FXCT,batch processing
+sroberts,ausrca0072,10 min,FXRS,WIS,Helped cust get Prod. creds.
+macampbell,ausrca0057,9 min,Café,Café,Intl email returns
+ianderson,auswlspigelmire,9 min,Café,Registration,assisted with registration
+rhagemann,ausrcwa043,8.5 min,Café,Café,Validation
+mbarth,auswrca0230,8 min,FXRS,FSMS,mru errors
+mbarth,auswrca0230,7 min,FXRS,WIS,comms check
+rhagemann,ausrcwa043,6 min,FXRS,FSMS,IP Address for FSMS
+mbarth,auswrca0230,5 min,FXRS,WIS,drc down? asked for ss
+macampbell,ausrca0057,5 min,Café,Café,Enable ETD
+anewman,ausrca0074,5 min,FXRS,FXCT,FXCT- Restore database
+sroberts,ausrca0072,4 min,FXRS,WIS,Submitted Label Cert. Request
+sroberts,ausrca0072,3 min,FXRS,WIS,Cust. will call back to get creds.
+rhagemann,ausrcwa043,2.5 min,FXRS,FSMS,Bad Zip Code during registration
+anewman,ausrca0074,2 min,FXRS,Misdirect,Misdirected to dotcom
+anewman,ausrca0074,2 min,FXRS,WIS,Get production credentials
+macampbell,ausrca0057,1 min,FXRS,FSMS,disconnect

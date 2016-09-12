@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 5:00 PM FXRS 9/7/2016
+
+FXRS: Duplicate Tracking #/Cleanload / disconnect / server install help / help installing server / 
+
+Web Services: WIS questions / needs csp / Get production credentials / 
+
+Café: disconnect / reinstall FSM / Need admin rights to upgrade to 3009 / Clean Load, Restore / Label not printing / Hazmat forms not printing / Upgrade to 3009 / Writing to Shipping List as Deleted / No sender selected / failed upgraded/ cleanload / Assisted w/missing barcode issue / Issue resolved itself / Customize forms / 
+
+FXCT: 
+
+MISDIRECTS: Misdirected call to dotcom / Dotcom Agent Bad Transfer / transferred to fedex.com / 
+
+AHT Drivers: Café failed upgraded/ cleanload 180 min / Café reinstall FSM 115 min / Café Clean Load, Restore 90 min / 
+
+------------
+
+Cafe on FXRS: encoutnered an error run instalelr / General questions / Submitted printer tech ticket / Assisted w/Out of Tracking #'s issue / software req / shipping disabled error / transferred to DG hotline / 
+
+FXRS on Cafe: 

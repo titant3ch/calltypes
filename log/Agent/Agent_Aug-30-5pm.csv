@@ -1,0 +1,30 @@
+Agent, Computer Name, Duration of Call, LOB, Type, Message,
+rhagemann,ausrcwa043,178 min,Café,Café,DB Short > Clean Load > URSA
+rhagemann,ausrcwa043,78 min,Café,Café,URSA / Upgrade to 3009
+mwildman,ausrca0229,45 min,FXRS,FSMS,Ground list rates not downloading
+macampbell,auscrwfxrs3,40 min,Café,Café,Troubleshoot freight shipping
+anewman,ausrca0074,33 min,FXRS,WIS,Install zebra printer
+jemcavin,ausrca0052,25 min,FXRS,WIS,incorrect rates
+mwildman,ausrca0229,14 min,FXRS,WIS,Certification
+anewman,ausrca0074,14 min,Café,Café,zebra 505 not functioning
+mwildman,ausrca0229,14 min,Café,Café,URSA not downloading 2916
+macampbell,auscrwfxrs3,14 min,Café,Café,troubleshoot FXIA
+sroberts,ausrca0072,13 min,Café,Café,Software Freezing Upon Launch/upgrade
+mwildman,ausrca0229,13 min,FXRS,WIS,Get Test Credentials
+sroberts,ausrca0072,12 min,FXRS,WIS,Submitted Label Cert. Request
+macampbell,auscrwfxrs3,11 min,Café,Café,URSA expired
+mwildman,ausrca0229,11 min,Café,Café,URSA not downloading 2916
+mbarth,auswrca0230,10 min,FXRS,Café,ursa
+mbarth,auswrca0230,10 min,FXRS,Café,ursa issue
+anewman,ausrca0074,10 min,FXRS,WIS,Get production credential
+sroberts,ausrca0072,9 min,Café,Café,Submitted Hardware Tech Ticket on Scale
+sroberts,ausrca0072,8 min,Café,Café,Resolved Expired URSA Issue
+sroberts,ausrca0072,7 min,FXRS,WIS,Assisted w/thermal printer install
+sroberts,ausrca0072,6 min,Café,Café,Answered ?s re: multi-weight rates/mps
+mbarth,auswrca0230,5 min,FXRS,FSMS,.net framework
+mbarth,auswrca0230,5 min,FXRS,Café,printer
+mbarth,auswrca0230,5 min,FXRS,WIS,creds reg
+sroberts,ausrca0072,4 min,FXRS,Misdirect,Transfer to Dot Com
+anewman,ausrca0074,4 min,Café,Café,Customer disconnected
+jemcavin,ausrca0052,3 min,FXRS,Misdirect,misdirect to dcom
+anewman,ausrca0074,1 min,FXRS,WIS,Customer disconnected

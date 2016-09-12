@@ -1,0 +1,32 @@
+Agent, Computer Name, Duration of Call, LOB, Type, Message,
+anewman,ausrca0074,90 min,Café,Café,Problem encountered must exit
+macampbell,auscrwfxrs3,65 min,Café,Café,Repair FSM
+jemcavin,ausrca0052,63 min,Café,Café,software upgrade help
+rhagemann,ausrcwa043,62 min,Café,Café,Upgrade to 3009
+mwildman,ausrca0229,50 min,Café,Café,3009 Upgrade
+chkelley,ausrca0055,40 min,Café,Café,upgrade
+jemcavin,ausrca0052,30 min,Café,Café,LTL authentication failure
+chkelley,ausrca0055,25 min,FXRS,FSMS,invalid tracking range -sp
+sroberts,ausrca0072,25 min,FXRS,FXCT,Assisted w/Freight Rate Quote
+anewman,ausrca0074,21 min,FXRS,FSMS,FSMS return settings
+macampbell,auscrwfxrs3,19 min,Café,Café,FXIA ODBC export
+anewman,ausrca0074,14 min,Café,Café,Created a label/ ground manifest
+macampbell,auscrwfxrs3,12 min,FXRS,WIS,Certification status inquiry
+anewman,ausrca0074,11 min,Café,Café,Upgrade software to 3009
+ianderson,auswlspigelmire,11 min,Café,Café,product key
+mbarth,auswrca0230,10 min,FXRS,Café,hazmat dg
+rhagemann,ausrcwa043,8 min,Café,Café,Validation
+macampbell,auscrwfxrs3,8 min,FXRS,WIS,Transaction errors
+mbarth,auswrca0230,7 min,FXRS,WIS,needs prod creds
+mbarth,auswrca0230,7 min,FXRS,Café,ltl freight
+rmcneil,ausrcb0061a,6 min,Café,Café,Software download product key
+mbarth,auswrca0230,5 min,FXRS,Café,forced upgrade
+mbarth,auswrca0230,5 min,Café,Café,hazmat, needs that team
+rhagemann,ausrcwa043,5 min,Café,Café,database assist
+mbarth,auswrca0230,5 min,FXRS,Café,upgrade force
+mbarth,auswrca0230,5 min,FXRS,Café,service type
+mbarth,auswrca0230,5 min,FXRS,Café,bpu stuck
+mbarth,auswrca0230,5 min,FXRS,WIS,intl etd
+mbarth,auswrca0230,2 min,FXRS,Misdirect,needs .com
+rhagemann,ausrcwa043,1.5 min,FXRS,Misdirect,Ebay
+anewman,ausrca0074,1 min,FXRS,Misdirect,Misdirected call to dotcom

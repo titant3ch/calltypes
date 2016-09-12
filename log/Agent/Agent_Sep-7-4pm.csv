@@ -1,0 +1,40 @@
+Agent, Computer Name, Duration of Call, LOB, Type, Message,
+rmcneil,ausrcb0061a,78 min,Café,Café,Failed update
+rhagemann,ausrcwa043,60 min,FXRS,FSMS,FSMS Service Issue
+mbarth,auswrca0230,45 min,FXRS,Café,ship intl
+ianderson,auswlspigelmire,43 min,Café,Café,Unhandled Exception Caught in Base Contr
+mbarth,auswrca0230,41 min,FXRS,FSMS,health check
+chkelley,ausrca0055,40 min,FXRS,FSMS,reference numbers are not uploading
+pgarza,ausrcwb148,39 min,Café,Café,Shipping Disabled
+jemcavin,ausrca0052,33 min,Café,Café,software upgrade help
+macampbell,auscrwfxrs3,32 min,Café,Café,Upgrade to 3009
+anewman,ausrca0074,31 min,FXRS,FSMS,Rate ship error
+rhagemann,ausrcwa043,29 min,FXRS,Café,TIS Transfer
+jemcavin,ausrca0052,15 min,FXRS,WIS,generic WIS questions
+anewman,ausrca0074,14 min,FXRS,FSMS,Scale not functioning
+macampbell,auscrwfxrs3,14 min,FXRS,WIS,Authentication failed
+rhagemann,ausrcwa043,14 min,Café,Café,DG Export
+sroberts,ausrca0072,12 min,FXRS,Registration,Assisted w/obtaining creds
+anewman,ausrca0074,10 min,FXRS,WIS,Test webservices failed
+anewman,ausrca0074,8 min,FXRS,WIS,Get production credentials
+jemcavin,ausrca0052,7 min,Café,Café,shipping has been disabled message
+mbarth,auswrca0230,7 min,FXRS,Café,esclated
+anewman,ausrca0074,7 min,FXRS,FSMS,Install Server 12.01
+rhagemann,ausrcwa043,7 min,Café,Café,DG Printer Assignment
+mbarth,auswrca0230,5 min,FXRS,Misdirect,needs .com
+anewman,ausrca0074,5 min,Café,Café,Return shipment
+anewman,ausrca0074,5 min,Café,Café,Return shipment declare value
+mbarth,auswrca0230,5 min,FXRS,Misdirect,needs .com
+mbarth,auswrca0230,5 min,FXRS,WIS,needs billing team
+mbarth,auswrca0230,5 min,FXRS,Café,needs prod key
+anewman,ausrca0074,5 min,Café,Café,Upgrade Failed
+jemcavin,ausrca0052,4 min,FXRS,Misdirect,needed credentials but no user ID
+mwildman,ausrca0229,4 min,Café,Café,CIC work request new install
+mwildman,ausrca0229,4 min,Café,Café,Communication TECH TICKET Hardware
+mendrys,ausrca0070,3 min,FXRS,WIS,check freight acct in WIS
+macampbell,auscrwfxrs3,3 min,FXRS,Misdirect,transferred to fedex.com
+macampbell,auscrwfxrs3,3 min,FXRS,Misdirect,transferred to fedex.com
+rhagemann,ausrcwa043,2 min,FXRS,FSMS,Doc Req for CA to US
+anewman,ausrca0074,2 min,FXRS,Misdirect,Misdirected call to dotcom
+rhagemann,ausrcwa043,1.5 min,Café,Café,Hold Music till Disconnect
+mendrys,ausrca0070,1 min,FXRS,Misdirect,dotcom

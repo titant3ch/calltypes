@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 9:00 AM FXRS 8/12/2016
+
+FXRS: Software upgrade questions / cust table error / Adding an new child meter for s/p / beeping empty line / duplicate tracking numbers / 
+
+Web Services: customer disconnect / Registration ( Escalation required) / Isell created for A/E contact / general questions / Troubleshoot rate requests / authentication failure / Integration credentials / 
+
+Café: set signature option default / Communications issue Local proxy / zp 505 printer broken tech ticket / Meter Deletion / 
+
+FXCT: ltl not adding / 
+
+MISDIRECTS: No response / POS caller / misdirect dot com caller / dot com caller / needs .com / 
+
+AHT Drivers: FXRS cust table error 50 min / FXRS duplicate tracking numbers 25 min / FXRS Adding an new child meter for s/p 18 min / 
+
+------------
+
+Cafe on FXRS: Acct validation failed, will call back / eod stuck / 
+
+FXRS on Cafe: Transfer .com / 

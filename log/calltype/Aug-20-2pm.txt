@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 2:00 PM FXRS 8/20/2016
+
+FXRS: FSMS download ( upgrade) / FSMS Clean Install / 
+
+Web Services: Trans Spec / DRC Reg / Assist with tying to Paypal / NO / dimensions issue / WS registration / 
+
+Café: 
+
+FXCT: 
+
+MISDIRECTS: Misdirected caller-to cust service / 
+
+AHT Drivers: FXRS FSMS Clean Install 120 min / FXRS WS registration 14 min / FXRS dimensions issue 12 min / 
+
+------------
+
+Cafe on FXRS: broken bpu tech tix / 
+
+FXRS on Cafe: 

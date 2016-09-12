@@ -1,0 +1,32 @@
+Agent, Computer Name, Duration of Call, LOB, Type, Message,
+wcrosby,ausrca0071,180 min,Café,Café,failed upgraded/ cleanload
+mendrys,ausrca0070,115 min,Café,Café,reinstall FSM
+mwildman,ausrca0229,90 min,Café,Café,Clean Load, Restore
+mendrys,ausrca0070,35 min,FXRS,Registration,assist with test transactions
+mbarth,auswrca0230,34 min,FXRS,Café,software req
+jemcavin,ausrca0052,30 min,FXRS,FSMS,help installing server
+sroberts,ausrca0072,28 min,Café,Café,Writing to Shipping List as Deleted
+anewman,ausrca0074,26 min,FXRS,FSMS,Duplicate Tracking #/Cleanload
+mbarth,auswrca0230,20 min,FXRS,Café,encoutnered an error run instalelr
+macampbell,auscrwfxrs3,18 min,Café,Café,Upgrade to 3009
+macampbell,auscrwfxrs3,16 min,Café,Café,Need admin rights to upgrade to 3009
+sroberts,ausrca0072,13 min,Café,Café,Assisted w/missing barcode issue
+jemcavin,ausrca0052,10 min,FXRS,Café,shipping disabled error
+jemcavin,ausrca0052,10 min,FXRS,FSMS,server install help
+sroberts,ausrca0072,8 min,FXRS,Café,Submitted printer tech ticket
+mwildman,ausrca0229,8 min,Café,Café,Hazmat forms not printing
+macampbell,auscrwfxrs3,8 min,FXRS,Café,transferred to DG hotline
+mbarth,auswrca0230,7 min,FXRS,WIS,needs csp
+sroberts,ausrca0072,7 min,FXRS,Café,Assisted w/Out of Tracking #'s issue
+macampbell,auscrwfxrs3,6.5 min,Café,Café,Issue resolved itself
+anewman,ausrca0074,6 min,FXRS,Misdirect,Misdirected call to dotcom
+macampbell,auscrwfxrs3,6 min,Café,Café,No sender selected
+macampbell,auscrwfxrs3,5.5 min,FXRS,WIS,Get production credentials
+macampbell,auscrwfxrs3,4 min,FXRS,Misdirect,transferred to fedex.com
+macampbell,auscrwfxrs3,3 min,FXRS,WIS,WIS questions
+macampbell,auscrwfxrs3,3 min,FXRS,Café,General questions
+mwildman,ausrca0229,3 min,Café,Café,Label not printing
+macampbell,auscrwfxrs3,3 min,Café,Café,Customize forms
+macampbell,auscrwfxrs3,.5 min,Café,Café,disconnect
+macampbell,auscrwfxrs3,.5 min,FXRS,FSMS,disconnect
+rhagemann,ausrcwa043,.5 min,Café,Misdirect,Dotcom Agent Bad Transfer

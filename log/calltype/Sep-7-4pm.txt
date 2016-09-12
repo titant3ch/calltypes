@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 4:00 PM FXRS 9/7/2016
+
+FXRS: Rate ship error / Scale not functioning / FSMS Service Issue / reference numbers are not uploading / Install Server 12.01 / health check / Doc Req for CA to US / 
+
+Web Services: check freight acct in WIS / Get production credentials / Authentication failed / generic WIS questions / Test webservices failed / needs billing team / 
+
+Café: shipping has been disabled message / Shipping Disabled / CIC work request new install / Communication TECH TICKET Hardware / software upgrade help / Failed update / Unhandled Exception Caught in Base Contr / Return shipment / Return shipment declare value / Upgrade to 3009 / DG Printer Assignment / Hold Music till Disconnect / Upgrade Failed / DG Export / 
+
+FXCT: 
+
+MISDIRECTS: needed credentials but no user ID / dotcom / needs .com / transferred to fedex.com / needs .com / Misdirected call to dotcom / transferred to fedex.com / 
+
+AHT Drivers: Café Failed update 78 min / FXRS FSMS Service Issue 60 min / FXRS ship intl 45 min / 
+
+------------
+
+Cafe on FXRS: ship intl / esclated / TIS Transfer / needs prod key / 
+
+FXRS on Cafe: 

@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 10:00 AM FXRS 8/23/2016
+
+FXRS: Set 1D flag / Set 1D flag / Clean load / 
+
+Web Services: Error 1000 / No Discounts / no discounts, contact AE / 
+
+Café: iSell to have HazMat enabled / software download request / Software download request / alignment issues zp505 / kaspersky ate the admin / 
+
+FXCT: FXCT installation / 
+
+MISDIRECTS: Dotcom / Contact Name / caller hung up wrong number / 
+
+AHT Drivers: Café kaspersky ate the admin 38 min / FXRS Clean load 34 min / FXRS Error 1000 25 min / 
+
+------------
+
+Cafe on FXRS: Kaspersky corrupted ship service / Anti-virus removed admin service / No rates / rates ddl / 
+
+FXRS on Cafe: 

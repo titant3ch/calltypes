@@ -1,0 +1,57 @@
+Reported Calls for: Aug-25-12pm
+
+Agent, Computer Name, Duration of Call, LOB, Type, Message,
+dneal,ausrca0098,93 min,FXRS,Café,Clean Load
+mbarth,auswrca0230,30 min,FXRS,FSMS,tls update patch
+rmcneil,ausrcb0061a,21 min,FXRS,WIS,FXI web services registration
+gdeharo,ausrca0050,18 min,FXRS,FSMS,URSA questions
+gdeharo,ausrca0050,16 min,FXRS,FXCT,Install fxct onto a new computer
+gdeharo,ausrca0050,15 min,FXRS,FXCT,error acct could not be validated ltl
+mbarth,auswrca0230,15 min,FXRS,WIS,ltl rates
+rhagemann,ausrcwa043,15 min,Café,Café,Client Issue
+mbarth,auswrca0230,15 min,FXRS,WIS,cert req
+gdeharo,ausrca0050,15 min,FXRS,FSMS,demand download rates on test box
+mbarth,auswrca0230,14 min,FXRS,WIS,prod creds req and cert req
+rhagemann,ausrcwa043,13 min,FXRS,WIS,Cert Request
+sroberts,ausrca0072,13 min,FXRS,FSMS,Assisted CIC w/Communications Issue
+ianderson,auswlspigelmire,12 min,FXRS,FSMS,broken printer roller
+anewman,ausrca0074,12 min,Café,Café,FXI-Datas ource issue
+ianderson,auswlspigelmire,12 min,Café,Café,printer setup
+gdeharo,ausrca0050,12 min,FXRS,WIS,pickup request errors
+ianderson,auswlspigelmire,11 min,FXRS,WIS,web-service registration
+rmanley,ausrca0054,11 min,Café,Café,currency exchange issue
+sseals,ausrca0064,10 min,FXRS,WIS,Certification Request
+chkelley,ausrca0055,10 min,FXRS,FSMS,enabled 1d barcode
+mbarth,auswrca0230,10 min,FXRS,FSMS,mru stops ship manager
+macampbell,ausrca0057,10 min,Café,Café,Cannot delete parent meter/acct
+anewman,ausrca0074,9 min,Café,Café,FXI-application repair
+ianderson,auswlspigelmire,9 min,Café,Café,default fields
+anewman,ausrca0074,9 min,FXRS,WIS,Authentication failed
+ianderson,auswlspigelmire,8 min,Café,Café,credit priviledges suspended
+anewman,ausrca0074,7 min,Café,Café,Service Type
+anewman,ausrca0074,7 min,Café,Café,CIC-New install
+anewman,ausrca0074,7 min,Café,Café,Third party payment
+rhagemann,ausrcwa043,6.5 min,FXRS,FSMS,Life Cycle Inquiry 10.69
+ianderson,auswlspigelmire,6 min,FXRS,FSMS,1d enable
+mbarth,auswrca0230,6 min,Café,Café,tech tix scale
+gdeharo,ausrca0050,6 min,FXRS,FSMS,Changed to 1D baracode
+rhagemann,ausrcwa043,5 min,FXRS,WIS,WIS Reg Issues
+macampbell,ausrca0057,5 min,FXRS,WIS,No service type filters on our side
+gdeharo,ausrca0050,5 min,FXRS,FSMS,rate table expired demand download
+mbarth,auswrca0230,5 min,FXRS,FSMS,system time
+pgarza,ausrcwb148,5 min,FXRS,WIS,Questions about configuring WIS Freight
+rhagemann,ausrcwa043,4 min,Café,Misdirect,Dotcom
+gdeharo,ausrca0050,4 min,Café,Café,change label type to doc tab
+gdeharo,ausrca0050,4 min,Café,Café,software download request
+macampbell,ausrca0057,3 min,Café,Café,Upgrade questions
+gdeharo,ausrca0050,3 min,Café,Café,integration profile restore assistance
+rhagemann,ausrcwa043,2.5 min,Café,Café,Dimension Database
+rhagemann,ausrcwa043,2.5 min,Café,Café,ReImage PCs / Backup DB Assist
+gdeharo,ausrca0050,2 min,FXRS,Misdirect,dot com caller
+rhagemann,ausrcwa043,2 min,FXRS,FSMS,Invalid Account / MRU Failure
+mbarth,auswrca0230,2 min,FXRS,Misdirect,needs cust serv
+macampbell,ausrca0057,2 min,FXRS,WIS,WIS questions
+macampbell,ausrca0057,1 min,FXRS,FSMS,disconnect
+gdeharo,ausrca0050,1 min,FXRS,FSMS,customer disconnect
+pgarza,ausrcwb148,1 min,FXRS,MisdirectMisdirect
+macampbell,ausrca0057,.5 min,Café,Café,disconnect

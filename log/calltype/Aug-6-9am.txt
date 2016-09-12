@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 9:00 AM FXRS 8/6/2016
+
+FXRS: TEST TEST TEST TEST / 
+
+Web Services: TESTY / 
+
+Café: TEST TEST / 
+
+FXCT: TEST / 
+
+MISDIRECTS: 
+
+AHT Drivers: FXRS TESTY 15 min / FXRS TEST TEST TEST TEST 8 min / Café TEST TEST 7 min / 
+
+------------
+
+Cafe on FXRS: 
+
+FXRS on Cafe: 

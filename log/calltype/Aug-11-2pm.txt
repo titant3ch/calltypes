@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 2:00 PM FXRS 8/11/2016
+
+FXRS: turn on chux / MRU fails, web services blocked / disconnect / disconnect / Smartpost shipment / new install  with previous meter / issue w/demand download / Rating Issue / Reset barcode to ASTRA / WIS Prod registration / Add meter in fsms configuration / 
+
+Web Services: Issues w/freight 3rd party billing / drc questions / RateRequest errors / 3rd Party SmartPost / Troubleshoot communications / webservice information. / WIS Prod registration / smartpost rates / Pickup WSDL / WIS Transaction Assist / Previous case status / drc reg / Intl shipping questions / 
+
+Café: Cannot get reports due to purge / FSM Change Sender Address / lp2844 install / Hardware tech ticket / Client writing as deleted / disconnect / backup / CIC request for new FSM install / dump printer zp 505 / Int'l commodity shipment / Export AB / 
+
+FXCT: 
+
+MISDIRECTS: transferred to domestic / needed fedex.com LTL support / needed  Dom CS / needed fedex.com / needed fedex.com / needs .com from .com / 
+
+AHT Drivers: FXRS Issues w/freight 3rd party billing 60 min / FXRS Add meter in fsms configuration 50 min / FXRS new install  with previous meter 40 min / 
+
+------------
+
+Cafe on FXRS: reports how to get / default country / processing a DG shipment / zp 505 issues tech ticket / software req web form / custom label / 
+
+FXRS on Cafe: 

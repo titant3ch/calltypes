@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 8:00 PM FXRS 8/26/2016
+
+FXRS: invalid account number / 
+
+Web Services: Authentication failed / 
+
+Café: 
+
+FXCT: 
+
+MISDIRECTS: Lost Call / 
+
+AHT Drivers: FXRS Authentication failed 13 min / FXRS invalid account number 2 min / FXRS Lost Call 1 min / 
+
+------------
+
+Cafe on FXRS: 
+
+FXRS on Cafe: 

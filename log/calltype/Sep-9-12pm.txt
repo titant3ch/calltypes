@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 12:00 PM FXRS 9/9/2016
+
+FXRS: Confirm URSA / 1d Barcode / Escalated call smart post trk # / server Kewill issues on 1407 / No barcode on labels / hourly upload files / Acct not enabled for smartpost / services trouble / cert req / TRACKING NUMBERS / Smartpost issue ARC 16120 / disconnect / 
+
+Web Services: certified for shipping request / auth error / WIS not transacting / needs csp / Address validation questions / Test credentials / cert req / not hitting test server / customer requesting consultation request / Escalate certification request / wrong address / Certification inquiry / Get production credentials / Get test credentials / Certification questions / Sat Del Unavaliable / 
+
+Café: download fsm / reports not printing / Upgrade failed / Trouble shooting communications / ETD enabled / cleanload / Troubleshoot FXI / Software download request / fxia iase / Zebra printer not aligning correctly / DCS not needed for non-ITAR / some kidn of error then line died / Acct validation failed, cust call back / FXIA problem encountered error / Clean load fails, contact IT / Return shipment billing details / Needing product key / HAL inquiry / update error/clean load escalate / 3009 does not support Windows XP / set default to PO service type / EEI filing / software download reqeust / general question reports / CIC URSA Issue / update address on system / 
+
+FXCT: Batch rating / 
+
+MISDIRECTS: Misdirected to customer service / needs .com / 
+
+AHT Drivers: FXRS Smartpost issue ARC 16120 165 min / Café update error/clean load escalate 143 min / FXRS server Kewill issues on 1407 60 min / 
+
+------------
+
+Cafe on FXRS: software download request / admin service missing / URSA Expired / Configure network client/backup database / needs [prod key software / download rates / Acct validation for product key / Cafe upgrade takes too long to run / Cannot give product key to AE / Tech ticket for dialup / 
+
+FXRS on Cafe: 

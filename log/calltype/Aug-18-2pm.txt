@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 2:00 PM FXRS 8/18/2016
+
+FXRS: ace needs ace support comms / error recipient name can't be blank / upgraded 1407 1D baracode change / No Contact Name Being Sent / wanted 1308 server software / Troubleshoot MPS labels / disconnect / customer waiting to hear back ss / Enable 1D barcode / clean loan 1109 to 1407 / Downloads Not Working / clean load inquiry / Issue with mps shipments not printing / 
+
+Web Services: Status on case / needs csp / drc issue / invalid master tracking / certified for shipping / cert instructions / Process shipment request / Issues getting TRK# from WIS trans / v7 / drc reg / migration namespace / AE insisting SS resolve issue now / ETD turning it off / register for credentials/certify for shi / Labels not printing / authentication failed error 1000 / WIS Prod registration / WSDL Update / WIS questions / Tracking # Not Returned / AV Enabled / WSGW ROUTING / Tracking number not showing up / WIS questions / WSGW routing change call/EShip User / drc reg / Communications / Intl Ground not showing / drc reg / Gave CIC History Mgr Support Info / service types not returning / WIS questions / 
+
+Café: Active system accounts info / software download request / software download request / Validation Inquiry / Adobe DC / Advised to get Adobe 11 / kaspersky ate admin srv / URSA/Ground rates modify / EPDI Check / Software upgrade to 3009 / kaspersky ate admin srv repair / URSA / zm400 poor print quality / Clean Load Nightmare / Reprint 1421C / Anti-virus / Writing to the Shipping List as Deleted / 
+
+FXCT: Dimensional Factor / Install FXCT / FXCT install / 
+
+MISDIRECTS: needs .com / needs .com / needs.com / dot com caller / transferred to fedex.com / Dotcom / dot com caller / Misdirect call to dotcom / 
+
+AHT Drivers: Café Software upgrade to 3009 125 min / Café Clean Load Nightmare 100 min / FXRS shipping engine and kaperski and admin s 75 min / 
+
+------------
+
+Cafe on FXRS: Validation / Kaspersky error / Kaspersky error / kasperky ate admin srv ran repair / Aggro modify / ursa expired / Aggro modify / Broken Zebra 2348 / shipping engine and kaperski and admin s / Hardware tech ticket / Anti-virus removed admin service / freisght box / 
+
+FXRS on Cafe: 

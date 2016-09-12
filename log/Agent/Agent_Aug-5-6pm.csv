@@ -1,0 +1,13 @@
+Reported Calls for: Aug-5-6pm
+
+Agent, Computer Name, Duration of Call, LOB, Type, Message,
+rhagemann,ausrca0050,55 min,FXRS,FSMS,ShipManager Service Crash / Escalated
+cdriskell,ausrcwa041,31 min,FXRS,FSMS,1407 upgrade cleanload from 1207
+mbarth,auswrca0230,15 min,FXRS,FXCT,batch laod
+macampbell,ausrcwa049,8 min,FXRS,FXCT,Restore from backup
+sroberts,ausrca0072,7 min,FXRS,Misdirect,Transfer to Cust. Svc.
+sroberts,ausrca0072,7 min,FXRS,WIS,Web Svcs Label Certification
+ianderson,auswlspigelmire,6 min,FXRS,WIS,account and meter are invalid
+sroberts,ausrca0072,4 min,FXRS,WIS,Assisted w/Discount Rates Issue
+rhagemann,ausrca0050,3 min,FXRS,WIS,Creds Check
+mbarth,auswrca0230,2 min,FXRS,WIS,rates no discounts

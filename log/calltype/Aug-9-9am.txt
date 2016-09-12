@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 9:00 AM FXRS 8/9/2016
+
+FXRS: comms and installer / unable to download rates / austhenication failure / astra to 1d / invalid tracking number range / Upgrade questions / clean load required / mru errors and comms / enable 1d / 
+
+Web Services: smart post issues / rates wrong / general questions / 
+
+Café: Issue with FXI look up box popping up / dg paperwork not printing / FXI issue / database restore / cust disconnect / 
+
+FXCT: fxct enter ltl account / 
+
+MISDIRECTS: 
+
+AHT Drivers: FXRS invalid tracking number range 30 min / FXRS unable to download rates 25 min / Café Issue with FXI look up box popping up 23 min / 
+
+------------
+
+Cafe on FXRS: doc tabs configure / printer / comms dial up / 
+
+FXRS on Cafe: 

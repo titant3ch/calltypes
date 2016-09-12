@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 9:00 AM FXRS 8/10/2016
+
+FXRS: Needed new server software / URSA not implementing / Communication issue..IT needed / communication failure / ursa issues / ursa updates / 
+
+Web Services: Starship failed registering account / rates ltl / empty / drc cert req / test creds no kb / 
+
+Café: backup, restore / Credit Privileges Suspended / labels last how long / Download rates / manually uninstall with regedit / 
+
+FXCT: install fxct / add ltl account to fxct / install code / 
+
+MISDIRECTS: misdirect / misdirect / 
+
+AHT Drivers: Café manually uninstall with regedit 120 min / FXRS ursa updates 45 min / FXRS Needed new server software 24 min / 
+
+------------
+
+Cafe on FXRS: Turn off end of days report printing / add meters in canada / Hardware questions / db import csv / 
+
+FXRS on Cafe: Communication..EOD / 

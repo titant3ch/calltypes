@@ -1,0 +1,6 @@
+Agent, Computer Name, Duration of Call, LOB, Type, Message,
+jemcavin,ausrca0052,10 min,FXRS,WIS,production credentials req
+rhagemann,ausrcwa043,6 min,FXRS,WIS,General Questions
+jemcavin,ausrca0052,6 min,FXRS,WIS,test credentials req
+sroberts,ausrca0072,3 min,FXRS,Misdirect,Cust. Svc. Transfer
+sroberts,ausrca0072,2 min,FXRS,WIS,Empty Line/Call did not transfer

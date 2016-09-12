@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 4:00 PM FXRS 8/22/2016
+
+FXRS: can i turn off my computer? / Assist w/non FedEx-Provided BPU / 
+
+Web Services: drc reg / do we rate in canadian dollars / dg and rates / Error Invalid meter number / LTL / WIS Testing / cert req / Call immediately dropped. / invalid frieght account / DRC Prod Reg / drc prior call / Authentication Failed, error 1000 / 
+
+Café: DG not showing type of packaging / Stuck on initializing screen / Anti-virus removed admin service / Out of Ground tracking numbers / 
+
+FXCT: FXCT GROUND / 
+
+MISDIRECTS: Dom / Order Labels / Transfer to Cust. Svc. / transferred to domestic / needed fedex.com / needs .com / 
+
+AHT Drivers: FXRS Troubleshoot rates 86 min / Café DG not showing type of packaging 42 min / Café Stuck on initializing screen 38 min / 
+
+------------
+
+Cafe on FXRS: wants a new install and swap serv/client / Troubleshoot rates / network client / Assisted w/Kaspersky Issue / 
+
+FXRS on Cafe: 

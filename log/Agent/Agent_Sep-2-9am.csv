@@ -1,0 +1,17 @@
+Agent, Computer Name, Duration of Call, LOB, Type, Message,
+gdeharo,ausrca0050,41 min,FXRS,FXCT,Install/rate to bill issues
+mbarth,auswrca0230,15 min,FXRS,FSMS,invalid shipping charge
+ianderson,auswlspigelmire,13 min,FXRS,WIS,web-svc certification
+mbarth,auswrca0230,12 min,FXRS,WIS,drc reg
+rhagemann,ausrcwa043,10 min,Café,Café,LTL Doc Reprint
+macampbell,auscrwfxrs3,9 min,FXRS,Café,Anti-virus removed services
+anewman,ausrca0074,8 min,FXRS,WIS,Authentication Failed
+sseals,ausrca0064,7 min,FXRS,FXCT,Batch Processing
+mbarth,auswrca0230,7 min,FXRS,FSMS,ipd master label
+anewman,ausrca0074,7 min,FXRS,Registration,Get prooduction credentials
+gdeharo,ausrca0050,6 min,FXRS,Misdirect,dot com caller
+anewman,ausrca0074,5 min,Café,Café,Bill duties and taxes
+rhagemann,ausrcwa043,5 min,FXRS,WIS,Express CallTag
+agonzales,ausrca0056,3 min,FXRS,FSMS,Smartpost Hub ID request
+rhagemann,ausrcwa043,2 min,FXRS,Misdirect,Cust Srvc
+gdeharo,ausrca0050,1 min,FXRS,FSMS,Testing fxrs lines

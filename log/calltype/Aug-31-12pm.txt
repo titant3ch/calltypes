@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 12:00 PM FXRS 8/31/2016
+
+FXRS: 1D baracode enabled / disconnect / 
+
+Web Services: International Issue / 
+
+Café: Software upgrade / Software upgrade CA / URSA NOT DOWNLOADING 2916 / Shipmanager has encountered a error / Sender code information / install software will call back / 
+
+FXCT: FXCT install / 
+
+MISDIRECTS: transferred to freight @fedex.com / 
+
+AHT Drivers: Café Shipmanager has encountered a error 20 min / FXRS FXI 11 min / Café URSA NOT DOWNLOADING 2916 9 min / 
+
+------------
+
+Cafe on FXRS: FXI / 
+
+FXRS on Cafe: 

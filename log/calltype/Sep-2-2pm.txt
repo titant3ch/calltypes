@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 2:00 PM FXRS 9/2/2016
+
+FXRS: payor acct not configured error / 
+
+Web Services: Troubleshoot rates / DRC Prod Reg / DRC Prod Reg / 
+
+Café: Empty Line / FXIA ship alert notifications / TSR Request / saturday deliv / 
+
+FXCT: add account help / 
+
+MISDIRECTS: 
+
+AHT Drivers: Café FXIA ship alert notifications 33 min / FXRS payor acct not configured error 18 min / FXRS Troubleshoot rates 12 min / 
+
+------------
+
+Cafe on FXRS: 
+
+FXRS on Cafe: 

@@ -1,0 +1,24 @@
+Agent, Computer Name, Duration of Call, LOB, Type, Message,
+wcrosby,ausrca0071,70 min,Café,Café,fsm will not launch
+anewman,ausrca0074,60 min,Café,Café,Upgrade software
+macampbell,auscrwfxrs3,37 min,FXRS,Café,Upgrade to 3009
+ianderson,auswlspigelmire,30 min,Café,Café,expired ursa, upgrade
+rmcneil,ausrcb0061a,27 min,FXRS,WIS,API password
+macampbell,auscrwfxrs3,20 min,Café,Café,Create new shipping profiles
+anewman,ausrca0074,19 min,FXRS,FXCT,FXCT generator code
+mbarth,auswrca0230,10 min,Café,Café,freeze lockup initializing
+macampbell,auscrwfxrs3,10 min,FXRS,Café,invalid account number
+mbarth,auswrca0230,7 min,FXRS,Café,ship alerts
+anewman,ausrca0074,7 min,Café,Café,International shipment
+mbarth,auswrca0230,7 min,FXRS,WIS,rates drc
+rhagemann,ausrcwa043,6 min,Café,Café,Update Sender Info
+mbarth,auswrca0230,5 min,Café,Café,hal
+rhagemann,ausrcwa043,5 min,Café,Café,Validation
+rhagemann,ausrcwa043,3 min,Café,Misdirect,Dotcom
+rhagemann,ausrcwa043,3 min,Café,Misdirect,Dotcom
+anewman,ausrca0074,2 min,FXRS,Misdirect,Misdirected call
+mbarth,auswrca0230,1 min,FXRS,Misdirect,needs cust serv
+anewman,ausrca0074,1 min,FXRS,WIS,customer disconnect
+anewman,ausrca0074,1 min,Café,Misdirect,Misdirected call to dotcom
+macampbell,auscrwfxrs3,1 min,FXRS,FSMS,disconnect
+macampbell,auscrwfxrs3,1 min,FXRS,WIS,disconnect

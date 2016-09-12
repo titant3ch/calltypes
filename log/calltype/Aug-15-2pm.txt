@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 2:00 PM FXRS 8/15/2016
+
+FXRS: v16.01 Meter Registration Escalation / customer disconnected / FSMS Coding Question / FSMS Meter Registration / Misdirected to dotcom / 
+
+Web Services: Caller Hung Up / WIS Error Message / Confirm meter is enabled to ship / smartpsot returns / drc reg address / tech tix scale / certification request / webservices./Smartpost req / thrid party software registration / tech tix printer / fxct fail / Service codes / Authentication Failed / 
+
+Café: Cust. will call back w/info / Repair / iSell to locate printer / 
+
+FXCT: Registration error / 
+
+MISDIRECTS: dot com caller / Misdirect / 
+
+AHT Drivers: Café Repair 61 min / FXRS webservices./Smartpost req 60 min / FXRS Admin Srvc Removed / Repair 46 min / 
+
+------------
+
+Cafe on FXRS: web services blocked ETD issue / FSM Install / Reg Failed / Anti-virus interfering w/Admin Svc / Cust. called to get CIC WR status / Admin service not functioning / Admin Srvc Removed / Repair / haz mat papers / 
+
+FXRS on Cafe: 

@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 1:00 PM FXRS 8/29/2016
+
+FXRS: misdirect / URSA Issue / Local Admin Needed / Non system disc error/submitted ticket / 1D label change / Open shipment Process / 
+
+Web Services: LTL freight failed validation / Hub ID Questions / general questions test web srvs / General question wis rating / Cert Request / HUB / Test Creds Reg / address update question / Assisted w/Web Svcs Certification / 
+
+Café: ursa expired / expired ursa / expired ursa / Assisted w/Expired URSA issue / zebra poor print quality / FXIA not exporting to ODBC / Expired URSA issue/Manual Install / Expired URSA / Ursa expired / ursa expired / 
+
+FXCT: INTL Discounts not showing / 
+
+MISDIRECTS: Dotcom / FBO / Misdirected call to dotcom / 
+
+AHT Drivers: Café FXIA not exporting to ODBC 65 min / Café expired ursa 53 min / FXRS Open shipment Process 50 min / 
+
+------------
+
+Cafe on FXRS: printer isntalla nd asked cic visit / URSA expired / URSA expired / networked printer not recognized / URSA Expired / software req / ursa message / 
+
+FXRS on Cafe: won't communicate (no internet) / 

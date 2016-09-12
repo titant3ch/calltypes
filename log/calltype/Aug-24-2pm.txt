@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 2:00 PM FXRS 8/24/2016
+
+FXRS: Delete Shipment / 
+
+Web Services: comsm and web serv issues / Misdirected to Billing dept / Printer Question / ZP450 / Plugin for Rates / Call Dropped / Address validation timed out / Get keys / 
+
+Café: Invalid zip code / Software question / credit privileges suspended / 
+
+FXCT: 
+
+MISDIRECTS: needs fasc / transferred to fedex.com / 
+
+AHT Drivers: FXRS Delete Shipment 30 min / FXRS fxi coding 10 min / Café credit privileges suspended 9 min / 
+
+------------
+
+Cafe on FXRS: printer issues / fxi coding / 
+
+FXRS on Cafe: 

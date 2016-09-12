@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 8:00 PM FXRS 8/12/2016
+
+FXRS: Dup Trk Range / disconnect / admin service stopped / 
+
+Web Services: 
+
+Café: 
+
+FXCT: fxct  install / 
+
+MISDIRECTS: 
+
+AHT Drivers: FXRS admin service stopped 45 min / FXRS Dup Trk Range 34 min / FXRS walk thru to register for wis test key 10 min / 
+
+------------
+
+Cafe on FXRS: 
+
+FXRS on Cafe: 

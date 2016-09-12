@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 10:00 AM FXRS 8/16/2016
+
+FXRS: 1069 uninstall / rates / Enable 1D barcode / Server upgrade / Enable Smartpost / dg shipment / 
+
+Web Services: test wrong address / Reprint label / invalid payment type / WIS questions / Certification questions, test credential / No password email / Needed the test credentials / Questions about webservices / Gnd Collect coding / 
+
+Café: Kaspersky...Modify / ship manager not opening / Kaspersky - Modify / Tech ticket for jammed printer. / Anti-virus removed admin service / disconnect / stuck on initializing / Ship services not responding / DG Express Freight / shipments remaining after eod / Transmission file CD error / SA notification triggers / 
+
+FXCT: wrong ltl account / 
+
+MISDIRECTS: misdirect / Misdirect / needs .com / International cust service / transferred to fedex.com / dot com caller / 
+
+AHT Drivers: Café stuck on initializing 90 min / FXRS Kapersky deleted admin service upgraded 77 min / FXRS network client error 47 min / 
+
+------------
+
+Cafe on FXRS: admin srv eaten by kasperky virus / Anti-virus removed fedex services / Clean Load / Ship service not responding / Kaspersky- Modify / network client error / Comms issue, cannot GTA in / Antivirus ate my services / Anti-virus removed admin service / Kaspersky- Modify / Anti-virus removed admin service / needs upgrade / Anti-Virus stopped services / Kapersky deleted admin service upgraded / Admin Srvc Removed / Repair / Ship service not responding / kaperski and server error / Kapersky deletes admin srv repair needed / 
+
+FXRS on Cafe: FSM will not launch/upgrade to 3009 / 

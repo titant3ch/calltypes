@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 3:00 PM FXRS 8/30/2016
+
+FXRS: rates / empty line / 
+
+Web Services: Shipping history / prod creds and cert / Get production credentials / Get production credentials / Certification status inquiry / test account / Troubleshoot rates / 
+
+Café: zscale errors / URSA Expired / Ship intl DG / add percentage / customer hung up / reports / FXI integration, sup call / URSA expired / Assisted w/Override Prefs Tab / NEW INSTALL, / ursa expired / URSA / Sender code / Assisted w/Expired URSA Issue / Resolved Expired URSA Issue / printed return labels / FSM won't open (clean load) / 
+
+FXCT: Gave FXCT URL to AE / 
+
+MISDIRECTS: Misdirected to dotcom / Misdirected to dotcom / Misdirected call / Transfer Back to Cust. Svc. / Transfer BACK to Dot Com. / 
+
+AHT Drivers: Café NEW INSTALL, 150 min / Café FSM won't open (clean load) 100 min / Café FXI integration, sup call 53 min / 
+
+------------
+
+Cafe on FXRS: profiles change / printer not selected / field color / 
+
+FXRS on Cafe: 

@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 1:00 PM FXRS 8/16/2016
+
+FXRS: Set 1D barcode / needed 1304 install key / 
+
+Web Services: WIS questions / web-sevices registration / credentials needed / Test server errors / Unable to ship to Canada / Web Svcs Consultation/Answered Questions / customer disconnect / 
+
+Café: Kaspersky deleted admin srv had to modif / upgrade / Troubleshoot freight shipping / server not response....Kaspersky user / report for previoius shipments / Validation / Meter Suspect / Kaspersky quarantined admin service / Anti-virus removed admin service / Kaspersky AV ate the admin svc / Kapersky quarantined admin service / 
+
+FXCT: Assisted w/Install of the tool / 
+
+MISDIRECTS: needed to get dot com reset / transferred to domestic / transferred to domestic / Transfer to Cust. Svc. / Transfer to Dot Com / Transfer to Cust. Svc. / Transfer to Dot Com / 
+
+AHT Drivers: Café upgrade 60 min / Café Kaspersky deleted admin srv had to modif 48 min / FXRS missing int profiles greyd out 48 min / 
+
+------------
+
+Cafe on FXRS: Ship services not running / kapersky freeze lock up / missing int profiles greyd out / Software upgrade / Enter company TaxID / Assisted w/Launch Issue/Advised Upgrade / update address / Kaspersky- Aggressive modify / 
+
+FXRS on Cafe: 

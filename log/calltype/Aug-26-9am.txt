@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 9:00 AM FXRS 8/26/2016
+
+FXRS: wanted 1210 patch / smart post shipping / account number showing on the label / enable 1D baracode / set level to test / Previous call status / Enable 1D barcode / turn on 1d / 
+
+Web Services: Register for web service credentials / Get Production Credential / General questions international rates / drc reg / 
+
+Café: 
+
+FXCT: 
+
+MISDIRECTS: needs call csp / 
+
+AHT Drivers: FXRS account number showing on the label 45 min / FXRS Enable 1D barcode 13 min / FXRS intl ship england 10 min / 
+
+------------
+
+Cafe on FXRS: intl ship england / tls comms / tech tix cic asked bpu network card / 
+
+FXRS on Cafe: 

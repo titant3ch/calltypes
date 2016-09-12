@@ -1,0 +1,16 @@
+Agent, Computer Name, Duration of Call, LOB, Type, Message,
+sroberts,ausrca0072,60 min,Café,Café,Helped cust. get DG processed
+rhagemann,ausrcwa043,57 min,FXRS,FSMS,HazMat Table not Implementing
+sroberts,ausrca0072,55 min,FXRS,Registration,Assisted cust get Prod & Test Creds, etc
+jzamora,ausrcwa049,45 min,Café,Café,LP2844 setup
+macampbell,auscrwfxrs3,39 min,Café,Café,Upgrade to 3009
+macampbell,auscrwfxrs3,33 min,FXRS,FXCT,No intl discounts
+mbarth,auswrca0230,25 min,Café,Café,intl ship and return
+rhagemann,ausrcwa043,16 min,FXRS,WIS,Tracking thru WIS
+anewman,ausrca0074,10 min,FXRS,FSMS,Ground manifest reports
+macampbell,auscrwfxrs3,10 min,FXRS,FSMS,Hardware tech tickets
+mbarth,auswrca0230,10 min,FXRS,WIS,drc reg
+anewman,ausrca0074,8 min,Café,Café,Writing as deleted 3009
+macampbell,auscrwfxrs3,5 min,FXRS,WIS,Get production credentials
+sroberts,ausrca0072,2 min,FXRS,WIS,Cust. hung up when agent tried to transf
+anewman,ausrca0074,1 min,FXRS,FSMS,customer disconnect

@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 10:00 AM FXRS 8/22/2016
+
+FXRS: communications / Line Test / change baracode type to 1D / ntracking number info no kb / database swap / shipment notifications / Meter registration / Enabled FDX 1D Barcode / Confirm 1D is enabled / disconnect / Coding/scriptings / 
+
+Web Services: Transaction Detail / general questions about rates / return shipping / previous case status / invalid pkge weight / invalid meter / Customer disconnected / Install ZP 500 plus / Authentication Failed / Certification started / Get production credentials / Get production credentials / 
+
+Café: Acct validation failed, web form sent / 
+
+FXCT: Add freight accts / account cant be validated / 
+
+MISDIRECTS: 
+
+AHT Drivers: FXRS database swap 20 min / FXRS Meter registration 20 min / FXRS account cant be validated 20 min / 
+
+------------
+
+Cafe on FXRS: 
+
+FXRS on Cafe: 

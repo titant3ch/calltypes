@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 12:00 PM FXRS 8/22/2016
+
+FXRS: Rates expired. / HW Migration questions / Restore backup / CIC needs 1407 install key / CIC confirming install key / 1407 / mru / Acct not enabled for smartpost returns / Billed third party accts / Enable 1D / 
+
+Web Services: cert req / drc reg / Troubleshoot rates / Registering at DRC with LTL account / WIS Prod registration / Certification not needed for smartpost / Pkg Info not being sent / drc reg / Web browser issues / drc cert / Incorrect Acct in WIS Email / 
+
+Café: printer install / Escalate to TIS / intl ship to PR / Misdirected call- dotcom / Kaspersky ate the admin service / host/client issue clean load required / Disconnected before agent xfer / TSR Request / Faint Barcode / disconnect / International Assist / Create email return / international shipment assistance / Download rates / 
+
+FXCT: Install tool issue no admin rights / Configuration- Setup / install fxct / 
+
+MISDIRECTS: Transferred to Intl Cust Serv / needs .com / cafe caller agent kept call / needed fedex.com FRO / 
+
+AHT Drivers: Café host/client issue clean load required 100 min / FXRS Upgrade 2912 to 3009 35 min / FXRS Install tool issue no admin rights 33 min / 
+
+------------
+
+Cafe on FXRS: software req / Upgrade 2912 to 3009 / Increase of Ground rates / 
+
+FXRS on Cafe: 

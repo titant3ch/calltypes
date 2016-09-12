@@ -1,0 +1,26 @@
+Agent, Computer Name, Duration of Call, LOB, Type, Message,
+chkelley,ausrca0055,180 min,Café,Café,new install
+gdeharo,ausrca0050,37 min,Café,Café,Upgrade cafe system
+gdeharo,ausrca0050,19 min,FXRS,WIS,Register for production credentials
+sseals,ausrca0064,15 min,FXRS,Café,CAFE Repair
+mbarth,auswrca0230,15 min,FXRS,WIS,drc cert
+anewman,ausrca0074,11 min,FXRS,FXCT,FXCT Rates
+rmcneil,ausrcb0061a,10 min,Café,Café,DG presettings
+sseals,ausrca0064,10 min,Café,Café,Doc Tab Configuration
+anewman,ausrca0074,10 min,FXRS,WIS,Get Productions Credentials
+mbarth,auswrca0230,10 min,FXRS,Café,software req
+macampbell,auscrwfxrs3,10 min,FXRS,WIS,Get production credentials
+macampbell,auscrwfxrs3,9 min,FXRS,FXCT,Enable smartpost
+anewman,ausrca0074,8 min,FXRS,WIS,Rate ship error
+anewman,ausrca0074,8 min,Café,Café,Comm idle failure
+anewman,ausrca0074,8 min,Café,Café,No barcode on Label
+gdeharo,ausrca0050,6 min,FXRS,Café,software upgrade questions
+mbarth,auswrca0230,5 min,FXRS,Café,tech tix printer
+mbarth,auswrca0230,5 min,FXRS,WIS,drc reg
+mbarth,auswrca0230,5 min,FXRS,WIS,drc question
+mbarth,auswrca0230,5 min,FXRS,FSMS,os fsms
+mbarth,auswrca0230,5 min,Café,Café,server not responding
+anewman,ausrca0074,3 min,FXRS,WIS,Get Production credentials
+anewman,ausrca0074,2 min,Café,Misdirect,Misdirected call to dotcom
+sseals,ausrca0064,1 min,Café,Café,Line Test
+macampbell,auscrwfxrs3,1 min,FXRS,FSMS,disconnect

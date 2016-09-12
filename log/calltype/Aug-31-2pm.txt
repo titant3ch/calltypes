@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 2:00 PM FXRS 8/31/2016
+
+FXRS: Bar-code not showing up on label / disconnect / 
+
+Web Services: dotcom / dotcom / dotcom / Questions about Web services / Answered ?s about drop-shipping. / transaction lookup / Cert Inquiry by SalesRep / international shipment error / 
+
+Café: intl ship / Troubleshoot freight shipping / Integration tab grayed out / No signature options for intl / intl ship / 
+
+FXCT: 
+
+MISDIRECTS: dcom service disruption / Dotcom Outage / Dotcom Disruption / dcom service disruption / Dotcom Disruption / Misdirected call to dotcom / dcom service disruption / .com outage / needs .com / CA Fedex.com / is .com broken? yes / .com trouble / misdirected call to dotcom / .com / .com / Dot Com Transfer/Svc Disruption / needs .com / broken .com / Dot Com Transfer/Svc Disruption / needs .com / Dot Com Transfer/Svc Disruption / need .com / Dotcom Disruption / Dotcom Disruption / Dotcom Disruption / Dotcom Disruption / Dotcom Disruption / transferred to fedex.com / Misdirected call to dotcom / transferred to fedex.com / 
+
+AHT Drivers: FXRS transaction lookup 21 min / FXRS host/client setup 20 min / Café Integration tab grayed out 20 min / 
+
+------------
+
+Cafe on FXRS: host/client setup / host/client setup / Restore Database / 
+
+FXRS on Cafe: 

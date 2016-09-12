@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 5:00 PM FXRS 8/11/2016
+
+FXRS: disconnect / Add child meter, general questions / 
+
+Web Services: DRC Prod Reg / drc trans function / future fxct instruction / Get production credentials / DRC PROD REG / Authentication failed / 
+
+Café: FSM Registration / Service Type Override / Writing As Deleted / 2807 Client / 
+
+FXCT: Product code FXCT / 
+
+MISDIRECTS: needed fedex.com Supplies / Domestic / transferred to fedex.com / transferred to domestic / needs .com / 
+
+AHT Drivers: FXRS Registration for webservice 23 min / FXRS Add child meter, general questions 16 min / FXRS Product code FXCT 15 min / 
+
+------------
+
+Cafe on FXRS: Edit shipping profiles, save addresses / 
+
+FXRS on Cafe: 

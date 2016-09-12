@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 1:00 PM FXRS 9/1/2016
+
+FXRS: 
+
+Web Services: WIS consultation / Web Svcs Consultation/Discussed pkg wts / wsdl type / label format / Assisted Developer w/Cert. Process / 
+
+Café: clean load required issue with comm / wrong address / Helped cust. add LTL Acct/Profile / 
+
+FXCT: Install FXCT / Enabling SPX / Backup/restore databases / 
+
+MISDIRECTS: cust service / Domestic / needs rev / 
+
+AHT Drivers: Café clean load required issue with comm 95 min / FXRS Assisted Developer w/Cert. Process 16 min / FXRS Web Svcs Consultation/Discussed pkg wts 15 min / 
+
+------------
+
+Cafe on FXRS: cic work request new install / aes and ltl rates / 
+
+FXRS on Cafe: 

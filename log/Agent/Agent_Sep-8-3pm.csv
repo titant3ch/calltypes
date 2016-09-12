@@ -1,0 +1,13 @@
+Agent, Computer Name, Duration of Call, LOB, Type, Message,
+chkelley,ausrca0055,60 min,Café,Café,client upgrade
+rhagemann,ausrcwa043,52 min,Café,Café,Upgrade to 3009
+macampbell,auswidf1057,39 min,Café,Café,Upgrade to 3009
+wcrosby,ausrca0071,30 min,FXRS,Café,client upgrade fails
+mwildman,ausrca0229,13 min,FXRS,WIS,WIS consultation
+wcrosby,ausrca0071,10 min,FXRS,WIS,delete  a shipment
+wcrosby,ausrca0071,10 min,Café,Café,cafe upgrade
+rhagemann,ausrcwa043,9.5 min,FXRS,WIS,Integration to Amazon
+mwildman,ausrca0229,5 min,Café,Café,Reports
+mwildman,ausrca0229,4 min,Café,Café,Change auto close time
+macampbell,auswidf1057,3 min,FXRS,FSMS,Contact Kewill to upgrade to 1407
+rhagemann,ausrcwa043,2.5 min,Café,Café,HAL Assist

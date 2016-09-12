@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 5:00 PM FXRS 8/31/2016
+
+FXRS: Contact clippership to upgrade to 1407 / Answered URSA Effective Date ?s, etc. / 
+
+Web Services: Submitted iSell Request to AE / cert req / 
+
+Café: epdi and trans / Rcpt zip invalid for country selected / Upgrade Assist / printer setup / needs report / 
+
+FXCT: 
+
+MISDIRECTS: transfer to dcom / transferred to fedex.com / misdirect to customer service / general dcom question / 
+
+AHT Drivers: FXRS Installing client failing 26 min / Café printer setup 15 min / Café Upgrade Assist 14 min / 
+
+------------
+
+Cafe on FXRS: Installing client failing / 
+
+FXRS on Cafe: 

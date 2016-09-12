@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 7:00 AM FXRS 8/12/2016
+
+FXRS: Transaction Error / 
+
+Web Services: 
+
+Café: Printer Issue / 
+
+FXCT: Account Discount Inquiry / rates different on fxct tools / 
+
+MISDIRECTS: 
+
+AHT Drivers: FXRS Transaction Error 40 min / FXRS rates different on fxct tools 12 min / FXRS Account Discount Inquiry 10 min / 
+
+------------
+
+Cafe on FXRS: 
+
+FXRS on Cafe: 

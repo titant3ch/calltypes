@@ -1,0 +1,35 @@
+Reported Calls for: Aug-11-11am
+
+Agent, Computer Name, Duration of Call, LOB, Type, Message,
+cdriskell,auswidf1d62,67 min,Café,Café,FXIA ODBC errors
+dneal,ausrca0098,59 min,FXRS,Café,Clean load
+rmcneil,ausrcb0061a,42 min,Café,Café,URSA expired
+ianderson,auswlspigelmire,33 min,Café,Café,partial barcode
+macampbell,ausrca0057,25 min,FXRS,FSMS,Uninstall FSMS 1210
+macampbell,ausrca0057,20 min,Café,Café,Create FXIA profile
+anewman,ausrca0074,16 min,Café,Café,Sender information
+ahendon,ausrca0069,11 min,Café,Café,Earned discounts not available
+rmanley,ausrca0054,10 min,FXRS,FSMS,needs 10 printers replaced
+agonzales,ausrca0056,10 min,FXRS,WIS,auth. failed error 1000
+mbarth,auswrca0230,10 min,FXRS,FSMS,ursa trick
+ahendon,ausrca0069,10 min,Café,Café,Alternate return address configuration
+pgarza,ausrcwb148,9 min,FXRS,Registration,WIS Registration
+cdriskell,auswidf1d62,8 min,FXRS,WIS,WIS label cert request
+gdeharo,ausrca0050,8 min,FXRS,WIS,shipment assistance to puerto rico
+macampbell,ausrca0057,7 min,FXRS,FXCT,FXCT walkthru
+cdriskell,auswidf1d62,7 min,FXRS,FSMS,Confirm HUFs uploading
+mbarth,auswrca0230,7 min,FXRS,Café,fxi needs tis
+mbarth,auswrca0230,5 min,Café,Café,comms ursa
+mbarth,auswrca0230,5 min,Café,Café,shipping list inquire
+mbarth,auswrca0230,5 min,FXRS,Café,install and repair help
+mbarth,auswrca0230,5 min,FXRS,WIS,drc fxct
+mbarth,auswrca0230,5 min,Café,Café,label isntructions
+mbarth,auswrca0230,5 min,FXRS,WIS,drc reg attempt
+gdeharo,ausrca0050,4 min,Café,Café,question about new software
+rmanley,ausrca0054,3 min,FXRS,Misdirect,transferred to customer service
+cdriskell,auswidf1d62,3 min,FXRS,FSMS,Verify 1D barcode enabled
+anewman,ausrca0074,3 min,FXRS,FXCT,Registration
+cdriskell,auswidf1d62,3 min,FXRS,Misdirect,needed Dom CS
+aljohnson,ausrca0058,3 min,Café,Café,software install request
+mbarth,auswrca0230,2 min,FXRS,Misdirect,needs .com
+mbarth,auswrca0230,.5 min,FXRS,FSMS,disconnect

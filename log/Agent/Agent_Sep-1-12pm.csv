@@ -1,0 +1,54 @@
+Agent, Computer Name, Duration of Call, LOB, Type, Message,
+gdeharo,ausrca0050,118 min,Café,Café,comm issues it dept needed
+mbarth,auswrca0230,75 min,FXRS,FSMS,hangs on mps esclated
+chkelley,ausrca0055,60 min,Café,Café,CCI button missing on TD Shipment
+ianderson,auswlspigelmire,53 min,Café,Café,downgrade to 2912
+macampbell,auscrwfxrs3,50 min,FXRS,FSMS,Web services blocked
+rmcneil,ausrcb0061a,28 min,FXRS,WIS,Failed communication
+mwildman,ausrca0229,24 min,Café,Café,Client install
+rhagemann,ausrcwa043,22 min,FXRS,WIS,NameSpace Update
+gdeharo,ausrca0050,18 min,FXRS,FSMS,tls patch comm issues
+anewman,ausrca0074,16 min,Café,Café,MPS /Hardware Upgrade
+sroberts,ausrca0072,15 min,FXRS,Registration,Helped cust. get Prod. creds.
+anewman,ausrca0074,14 min,Café,Café,Problem encountered registeration
+rhagemann,ausrcwa043,14 min,FXRS,FSMS,FSMS 150x Install
+macampbell,auscrwfxrs3,13 min,Café,Café,FXIA batch import
+gdeharo,ausrca0050,13 min,FXRS,FXCT,Add freight acct to fxct tool
+ahendon,ausrca0069,12 min,Café,Café,FSM request ( SUSPECT COMPLETED)
+agonzales,ausrca0056,11 min,FXRS,WIS,WIS announcements
+gdeharo,ausrca0050,11 min,FXRS,FSMS,epdi uploads restarted admin
+anewman,ausrca0074,11 min,FXRS,WIS,Pick up request
+macampbell,auscrwfxrs3,10 min,Café,Café,Custom label images must be approved
+mbarth,auswrca0230,10 min,FXRS,FSMS,printer
+macampbell,auscrwfxrs3,10 min,FXRS,WIS,Get production credentials
+anewman,ausrca0074,10 min,FXRS,WIS,Production Key Credentials
+anewman,ausrca0074,10 min,Café,Café,FXIA
+ianderson,auswlspigelmire,10 min,FXRS,WIS,label certification request
+wcrosby,ausrca0071,10 min,FXRS,WIS,invalid billing address
+dsims,ausrca0062,9 min,Café,Café,Scale configuration
+mendrys,ausrca0070,8 min,Café,Café,2915 writing to delete
+rhagemann,ausrcwa043,7 min,FXRS,FXCT,Add account
+rhagemann,ausrcwa043,7 min,Café,Café,Unable to launch FSM
+mbarth,auswrca0230,7 min,FXRS,WIS,bad postal code phillipines
+mbarth,auswrca0230,6 min,FXRS,FSMS,tls win 2000
+agonzales,ausrca0056,6 min,FXRS,FSMS,Tech ticket -BPU
+sroberts,ausrca0072,6 min,FXRS,WIS,Advised cust on getting set up w/Web Svc
+agonzales,ausrca0056,5 min,Café,Café,Hazmat shipment
+macampbell,auscrwfxrs3,5 min,FXRS,Café,Cannot start shipping service
+rhagemann,ausrcwa043,5 min,FXRS,WIS,DRC / Blank Creds
+jzamora,ausrcwa049,5 min,Café,Café,Smartpost enablement
+rhagemann,ausrcwa043,5 min,Café,Café,TSR / Scale not functioning
+macampbell,auscrwfxrs3,5 min,Café,Café,Hardware tech ticket
+mbarth,auswrca0230,5 min,FXRS,WIS,can i have multi meters
+mbarth,auswrca0230,5 min,Café,Café,software req
+rhagemann,ausrcwa043,3 min,Café,Misdirect,FRO
+rhagemann,ausrcwa043,3 min,FXRS,WIS,DRC Questions
+anewman,ausrca0074,3 min,FXRS,FSMS,TLS Patch
+anewman,ausrca0074,3 min,Café,Misdirect,Misdirected to dotcom
+sroberts,ausrca0072,3 min,FXRS,Misdirect,Mis-Transferred Dot Com Call
+mbarth,auswrca0230,2 min,FXRS,Misdirect,needs cust serv
+rhagemann,ausrcwa043,2 min,FXRS,Misdirect,Dotcom
+anewman,ausrca0074,2 min,FXRS,Misdirect,Misdirected call to customer service
+sroberts,ausrca0072,2 min,FXRS,WIS,Cust. will call back/bad connection
+rhagemann,ausrcwa043,1 min,FXRS,FSMS,Enable 1D
+wcrosby,ausrca0071,1 min,Café,Café,wrong country code

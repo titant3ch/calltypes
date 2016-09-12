@@ -1,0 +1,44 @@
+Agent, Computer Name, Duration of Call, LOB, Type, Message,
+mendrys,ausrca0070,140 min,FXRS,WIS,dotcom
+mendrys,ausrca0070,135 min,FXRS,WIS,misdirect from AE
+mendrys,ausrca0070,124 min,Café,Café,URSA expired
+mendrys,ausrca0070,123 min,Café,FSMS,printer call
+jemcavin,ausrca0052,56 min,Café,Café,Upgrade help
+mbarth,auswrca0230,47 min,FXRS,FSMS,ipd nascar rate serve
+gdeharo,ausrca0050,43 min,Café,Café,Clean load needed
+mwildman,ausrca0229,41 min,FXRS,FSMS,Rates, Close error
+rhagemann,ausrcwa043,38 min,FXRS,FSMS,2D Barcode Issues
+mbarth,auswrca0230,27 min,Café,Café,ursa expired
+sroberts,ausrca0072,23 min,FXRS,Café,Expired URSA/Resolved
+macampbell,auscrwfxrs3,15 min,FXRS,Misdirect,transferred to fedex.com
+jemcavin,ausrca0052,12 min,Café,Café,Batch shipping question
+gdeharo,ausrca0050,11 min,FXRS,Café,international mps assistance
+gdeharo,ausrca0050,11 min,Café,Café,International mps assistance
+anewman,ausrca0074,11 min,FXRS,Misdirect,Misdirected call to dotcom
+jemcavin,ausrca0052,10 min,FXRS,Misdirect,misdirect to dcom
+macampbell,auscrwfxrs3,10 min,FXRS,Misdirect,transferred to fedex.com
+jemcavin,ausrca0052,10 min,FXRS,Misdirect,dcom misdirect
+rhagemann,ausrcwa043,9.5 min,FXRS,WIS,authentication failed in test
+anewman,ausrca0074,9 min,Café,FSMS,Upgrade stuck on databases
+macampbell,auscrwfxrs3,8 min,FXRS,FSMS,transaction errors
+rhagemann,ausrcwa043,8 min,FXRS,WIS,Consultation Request
+rhagemann,ausrcwa043,7.5 min,FXRS,Misdirect,Dotcom Disruption
+sroberts,ausrca0072,5 min,FXRS,Misdirect,Transfer to Dot Com/Long Hold Time
+pgarza,ausrcwb148,5 min,Café,Café,FSM LTL Error
+sroberts,ausrca0072,4 min,FXRS,WIS,Set barcode type to 1D
+jemcavin,ausrca0052,3 min,FXRS,Misdirect,dcom misdirect
+jemcavin,ausrca0052,3 min,FXRS,Misdirect,dcom service disruption
+rhagemann,ausrcwa043,2 min,FXRS,Misdirect,Revenue
+jemcavin,ausrca0052,2 min,FXRS,Misdirect,general service question
+jemcavin,ausrca0052,2 min,FXRS,Café,general integration question
+pgarza,ausrcwb148,2 min,FXRS,FSMS,1D barcode enablement
+anewman,ausrca0074,2 min,FXRS,Misdirect,Misdirected call to dotcom
+jemcavin,ausrca0052,2 min,FXRS,Misdirect,dcom service disruption
+jemcavin,ausrca0052,2 min,FXRS,Misdirect,dcom service disruption
+jemcavin,ausrca0052,2 min,FXRS,Misdirect,dcom service disruption
+anewman,ausrca0074,1 min,FXRS,Misdirect,Misdirected call to dotcom
+rhagemann,ausrcwa043,1 min,FXRS,Misdirect,Dotcom Disruption
+rhagemann,ausrcwa043,1 min,FXRS,Misdirect,Disruption Dotcom
+rhagemann,ausrcwa043,1 min,FXRS,Misdirect,Dotcom Disruption
+rhagemann,ausrcwa043,1 min,FXRS,Misdirect,Empty Line
+jemcavin,ausrca0052,1 min,FXRS,Misdirect,dcom service disruption

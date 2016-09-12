@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 3:00 PM FXRS 8/25/2016
+
+FXRS: McAfee / TLS update / Upgrade questions / upgrade  10.69 to 13.07 / uninstall 10.69 / Reinstalled Communications / CIC Enabled 1D / 
+
+Web Services: Needs Creds / Doesn't have info / Get Production Credentials / drc reg prod and test / Certification request / Previous case status / drc cert / WIS questions / Error 1000/Trans Errors / 
+
+Café: EEI assistance / 
+
+FXCT: Install FXCT / 
+
+MISDIRECTS: Intl Cust Srvc / 
+
+AHT Drivers: FXRS uninstall 10.69 90 min / FXRS upgrade  10.69 to 13.07 40 min / Café EEI assistance 33 min / 
+
+------------
+
+Cafe on FXRS: fxi source / tech tix printer / 
+
+FXRS on Cafe: 

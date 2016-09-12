@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 1:00 PM FXRS 8/31/2016
+
+FXRS: 2D Barcode Issues / Rates, Close error / ipd nascar rate serve / transaction errors / 1D barcode enablement / 
+
+Web Services: Consultation Request / Set barcode type to 1D / authentication failed in test / dotcom / misdirect from AE / 
+
+Café: Batch shipping question / Upgrade help / Clean load needed / URSA expired / FSM LTL Error / International mps assistance / ursa expired / 
+
+FXCT: 
+
+MISDIRECTS: Revenue / Transfer to Dot Com/Long Hold Time / transferred to fedex.com / misdirect to dcom / general service question / transferred to fedex.com / dcom misdirect / Dotcom Disruption / Misdirected call to dotcom / dcom misdirect / Dotcom Disruption / Disruption Dotcom / Dotcom Disruption / Empty Line / Misdirected call to dotcom / dcom service disruption / dcom service disruption / dcom service disruption / dcom service disruption / dcom service disruption / Misdirected call to dotcom / 
+
+AHT Drivers: FXRS dotcom 140 min / FXRS misdirect from AE 135 min / Café URSA expired 124 min / 
+
+------------
+
+Cafe on FXRS: general integration question / international mps assistance / Expired URSA/Resolved / 
+
+FXRS on Cafe: printer call / Upgrade stuck on databases / 

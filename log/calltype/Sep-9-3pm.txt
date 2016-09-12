@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 3:00 PM FXRS 9/9/2016
+
+FXRS: disconnect / mps when tracking / ship manager service won't start / Server Peak Proactive Check Procedure / incorrect rates / Cannot GTA in to troubleshoot / disconnect / 
+
+Web Services: WIS questions / rates / WIS questions / Get production credentials / DRC Prod Reg / Troubleshot Web Svcs Rating Issue / 
+
+Café: Software download request / Assisted w/Z4M+ issue / Doc-tab not aligning correctly with trk / Troubleshoot ZM 400 / Email Label / Updated notes for CIC escalation / 
+
+FXCT: General questions / 
+
+MISDIRECTS: transferred to domestic / transferred to cust service / Dotcom / Dotcom / Dot Com Transfer / Dot Com Transfer / 
+
+AHT Drivers: FXRS forced upgrade 65 min / FXRS ship manager service won't start 55 min / FXRS Server Peak Proactive Check Procedure 55 min / 
+
+------------
+
+Cafe on FXRS: Hardware tech ticket / forced upgrade / ODBC not connecting to server / bill third party / fxia quickbooks / 
+
+FXRS on Cafe: 

@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 12:00 PM FXRS 8/17/2016
+
+FXRS: Enable Chux / check iof meter is real / Unable to track pkgs / Previous case status / 
+
+Web Services: drc info and reg instructions / wis production registration / WIS Escalation / Error message: acct not found / Test Cred Reg / Get test credentials / 
+
+Café: Anti-virus removed admin service / Shipping Profile Edit / Shipping Profile Edit / ormd not printing on doc tabs / Shipping Profile Modification / AE WinVista Compat Question / Troubleshoot freight shipping / FXI not uploading / Anti-virus removed admin service / 
+
+FXCT: FXCT Install / FSM Install and Removal / 
+
+MISDIRECTS: Dotcom / Unable to Track Pkgs in CAFE / IT Needed / 
+
+AHT Drivers: FXRS Aggressive modify 50 min / Café ormd not printing on doc tabs 45 min / FXRS FXCT Install / FSM Install and Removal 40 min / 
+
+------------
+
+Cafe on FXRS: Anti-virus removed admin service / Anti-virus removed admin service / Previous case status / return label email / client configuration / Aggressive modify / stuck on initializing / rates question / 
+
+FXRS on Cafe: 

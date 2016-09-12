@@ -1,0 +1,64 @@
+Agent, Computer Name, Duration of Call, LOB, Type, Message,
+ahendon,ausrca0069,50 min,Café,Café,Attempted clean install (escalation )
+gdeharo,ausrca0050,41 min,FXRS,FXCT,Install/rate to bill issues
+gdeharo,ausrca0050,32 min,FXRS,WIS,questions about how web srvs worked
+rhagemann,ausrcwa043,30 min,Café,Café,Escalated / Writing as deleted 3009
+jemcavin,ausrca0052,25 min,FXRS,Café,saturday delivery question
+macampbell,auscrwfxrs3,24 min,Café,Café,Install client
+gdeharo,ausrca0050,23 min,FXRS,FXCT,freight box acct rates incorrect
+mbarth,auswrca0230,22 min,Café,Café,ursa
+anewman,ausrca0074,19 min,FXRS,WIS,Install zebra printer/scale
+rhagemann,ausrcwa043,17 min,Café,Café,Printer Install
+mbarth,auswrca0230,15 min,FXRS,FSMS,invalid shipping charge
+macampbell,auscrwfxrs3,15 min,Café,Café,Writing as deleted
+mbarth,auswrca0230,15 min,FXRS,Café,rates
+ahendon,ausrca0069,14 min,FXRS,FSMS,transaction coding debug
+ianderson,auswlspigelmire,13 min,FXRS,WIS,web-svc certification
+mbarth,auswrca0230,12 min,FXRS,WIS,drc reg
+macampbell,auscrwfxrs3,12 min,Café,Café,Acct validation failed, cust disconnect
+rhagemann,ausrcwa043,12 min,FXRS,WIS,Rates
+anewman,ausrca0074,11 min,Café,Café,Country Code
+anewman,ausrca0074,11 min,FXRS,WIS,Certification request
+rhagemann,ausrcwa043,10 min,Café,Café,LTL Doc Reprint
+mbarth,auswrca0230,10 min,Café,Café,integration look up box
+mbarth,auswrca0230,10 min,FXRS,FSMS,tracking numbers
+macampbell,auscrwfxrs3,10 min,FXRS,WIS,Get production credentials
+gdeharo,ausrca0050,10 min,Café,Café,printer issue tech ticket needed
+mbarth,auswrca0230,10 min,FXRS,Café,intl ship
+macampbell,auscrwfxrs3,9 min,FXRS,Café,Anti-virus removed services
+anewman,ausrca0074,9 min,FXRS,Misdirect,Misdirected call to dotcom
+ianderson,auswlspigelmire,9 min,FXRS,FSMS,mru registration
+anewman,ausrca0074,8 min,FXRS,WIS,Authentication Failed
+sseals,ausrca0064,7 min,FXRS,FXCT,Batch Processing
+mbarth,auswrca0230,7 min,FXRS,FSMS,ipd master label
+anewman,ausrca0074,7 min,FXRS,Registration,Get prooduction credentials
+anewman,ausrca0074,7 min,FXRS,WIS,Get production credentials
+gdeharo,ausrca0050,6 min,FXRS,Misdirect,dot com caller
+gdeharo,ausrca0050,6 min,FXRS,FSMS,cic question on upgrade paths
+gdeharo,ausrca0050,6 min,Café,Café,scale issues needed to recalibrate
+jemcavin,ausrca0052,6 min,FXRS,WIS,needs production credentials
+gdeharo,ausrca0050,6 min,Café,Café,printer issue
+anewman,ausrca0074,5 min,Café,Café,Bill duties and taxes
+rhagemann,ausrcwa043,5 min,FXRS,WIS,Express CallTag
+macampbell,auscrwfxrs3,5 min,FXRS,FSMS,Previous case status
+rhagemann,ausrcwa043,5 min,FXRS,WIS,Intra French Issue
+mbarth,auswrca0230,5 min,FXRS,FXCT,install help wrong address
+mbarth,auswrca0230,5 min,FXRS,FXCT,hjistory manager
+gdeharo,ausrca0050,5 min,Café,Café,cust disconnect
+anewman,ausrca0074,5 min,FXRS,WIS,zebra printer
+mbarth,auswrca0230,5 min,FXRS,WIS,needs csp
+rhagemann,ausrcwa043,4 min,FXRS,WIS,Lost Creds
+macampbell,auscrwfxrs3,4 min,Café,Café,Install client
+anewman,ausrca0074,4 min,Café,Misdirect,Misdirected to dotcom
+agonzales,ausrca0056,3 min,FXRS,FSMS,Smartpost Hub ID request
+macampbell,auscrwfxrs3,3 min,Café,Café,Customize forms, assign printers
+macampbell,auscrwfxrs3,3 min,Café,Café,Return label questions
+gdeharo,ausrca0050,3 min,Café,Misdirect,dot com caller
+rhagemann,ausrcwa043,3 min,Café,Misdirect,Dotcom
+rhagemann,ausrcwa043,2 min,FXRS,Misdirect,Cust Srvc
+rhagemann,ausrcwa043,2 min,Café,Café,500 MPS
+mbarth,auswrca0230,2 min,FXRS,Misdirect,needs ace
+gdeharo,ausrca0050,2 min,Café,Café,customer disconnected
+mbarth,auswrca0230,2 min,FXRS,Misdirect,needs cust serv
+anewman,ausrca0074,2 min,FXRS,Misdirect,Misdirected call to customer service
+gdeharo,ausrca0050,1 min,FXRS,FSMS,Testing fxrs lines

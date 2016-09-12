@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 11:00 AM FXRS 8/9/2016
+
+FXRS: Answered  general refence questions / LINE TEST / 1D TO ASTRA BARCODE TYPE / Install server/register / Check EPDI for transmissions / Cleanload v16.01 / no ground transmission on all meters / meter validation / EXPIRED FSMS URSA / disconnect / disconnect / smart post delivery confirmation / Verify ground transmission / discounts rate / Previous Case Inquiry / 
+
+Web Services: WIS questions / WIS Registration & Certification / answered questions about track services / WIS Prod registration / WIS Rating Issues / authentication failure / csp front end issues / rates problem escalated / ae about third party hazmat / 
+
+Café: TECH TICKET / TECH TICKET / Host/ Client installation of FSM / Dangerous Goods Shipment Assistance / NW Client setup / host client install / unable to open software / software download request / Redo Exp labels as Gnd / export address book. / Troubleshoot URSA / Cust requesting a product key / Cust wanted to update his address / LP2844 printer dump / FXIA, custom labels / 
+
+FXCT: 
+
+MISDIRECTS: transferred to fedex.com / needs .com / misdirect / transferred to fedex.com / 
+
+AHT Drivers: Café unable to open software 50 min / FXRS no ground transmission on all meters 45 min / FXRS Cleanload v16.01 43 min / 
+
+------------
+
+Cafe on FXRS: Printer PEP ticket / Acct validation failed, web form sent / server stopped running error / new isntalls cic req / 
+
+FXRS on Cafe: 

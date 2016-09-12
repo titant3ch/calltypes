@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 7:00 PM FXRS 8/24/2016
+
+FXRS: Transferred v.15.0.3 to CSP / No SPX Rates or Tracking Range / 
+
+Web Services: Multiweight shipment / Answered question about Web Svcs error / 
+
+Café: no web services / tracking ,address chec / Assisted CIC w/Rev files upload issue / 
+
+FXCT: FXCT-LTL accounts / 
+
+MISDIRECTS: 
+
+AHT Drivers: FXRS No SPX Rates or Tracking Range 59 min / FXRS Transferred v.15.0.3 to CSP 12 min / Café no web services / tracking ,address chec 10 min / 
+
+------------
+
+Cafe on FXRS: 
+
+FXRS on Cafe: 

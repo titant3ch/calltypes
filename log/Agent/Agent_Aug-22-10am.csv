@@ -1,0 +1,29 @@
+Reported Calls for: Aug-22-10am
+
+Agent, Computer Name, Duration of Call, LOB, Type, Message,
+chkelley,ausrca0055,20 min,FXRS,FSMS,database swap
+anewman,ausrca0074,20 min,FXRS,FSMS,Meter registration
+ianderson,auswlspigelmire,20 min,FXRS,FXCT,account cant be validated
+gdeharo,ausrca0050,17 min,FXRS,FSMS,shipment notifications
+macampbell,ausrca0057,11 min,FXRS,WIS,Get production credentials
+sseals,ausrca0064,10 min,FXRS,WIS,Transaction Detail
+macampbell,ausrca0057,9 min,FXRS,WIS,Install ZP 500 plus
+ianderson,auswlspigelmire,8 min,FXRS,FSMS,communications
+macampbell,ausrca0057,8 min,FXRS,FXCT,Add freight accts
+chkelley,ausrca0055,8 min,FXRS,WIS,invalid meter
+anewman,ausrca0074,8 min,FXRS,WIS,Get production credentials
+gdeharo,ausrca0050,7 min,FXRS,WIS,general questions about rates
+macampbell,ausrca0057,7 min,Café,Café,Acct validation failed, web form sent
+anewman,ausrca0074,7 min,FXRS,WIS,Authentication Failed
+gdeharo,ausrca0050,6 min,FXRS,WIS,previous case status
+mbarth,auswrca0230,5 min,FXRS,FSMS,ntracking number info no kb
+mbarth,auswrca0230,5 min,FXRS,WIS,invalid pkge weight
+rmcneil,ausrcb0061a,5 min,FXRS,WIS,Certification started
+anewman,ausrca0074,5 min,FXRS,FSMS,Coding/scriptings
+rmcneil,ausrcb0061a,3 min,FXRS,WIS,return shipping
+gdeharo,ausrca0050,3 min,FXRS,FSMS,change baracode type to 1D
+anewman,ausrca0074,2 min,FXRS,FSMS,Enabled FDX 1D Barcode
+anewman,ausrca0074,2 min,FXRS,WIS,Customer disconnected
+macampbell,ausrca0057,1.5 min,FXRS,FSMS,Confirm 1D is enabled
+sseals,ausrca0064,1 min,FXRS,FSMS,Line Test
+macampbell,ausrca0057,1 min,FXRS,FSMS,disconnect

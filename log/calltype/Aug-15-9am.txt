@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 9:00 AM FXRS 8/15/2016
+
+FXRS: Smartpost tracking not implementing / unable download update features / sp tn / Previous Case Update / TLS Patch questions / Smartpost tracking / 
+
+Web Services: pu function / WIS questions / Meter not enabled to ship yet / Update Address / Empty Line / Transaction errors / 
+
+Café: tracking numbwers / Software would not launch / printer zp 505 install assistance / Upgrade of FSM / Shipmanager server is not responding / 
+
+FXCT: Authentication Failure when Registering / register for tool escalated up / 
+
+MISDIRECTS: needs ,com / 
+
+AHT Drivers: FXRS unable download update features / sp tn 70 min / Café Upgrade of FSM 67 min / FXRS issue opening had to update software 45 min / 
+
+------------
+
+Cafe on FXRS: Printer issues / needs ship dry ice israel / select dg printer / issue opening had to update software / Upgrade questions / 
+
+FXRS on Cafe: Dataimport/fxia / 

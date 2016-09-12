@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 9:00 AM FXRS 8/5/2016
+
+FXRS: customer disconnect / CLS service not starting / Hazmat shipping / turn on 1d barcode / 
+
+Web Services: general questions / multi cert req *7 call / Authentication failed, error 1000 / soap env errors / 
+
+Café: does zm400 work? / install printer drivers lp 2844 / barcode unscannable / CIC request for new FXI / 
+
+FXCT: Address checker questions / 
+
+MISDIRECTS: dot com caller / misdirect / transferred to fedex.com / dot com caller / .com Transfer / Domestic Transfer / 
+
+AHT Drivers: FXRS Hazmat shipping 51 min / FXRS CLS service not starting 40 min / FXRS multi cert req *7 call 25 min / 
+
+------------
+
+Cafe on FXRS: Printer issue / 
+
+FXRS on Cafe: 

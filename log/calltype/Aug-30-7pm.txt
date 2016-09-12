@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 7:00 PM FXRS 8/30/2016
+
+FXRS: Escalated Barcode Type Issue to SS / 
+
+Web Services: 
+
+Café: call dropped / Resolved Expired URSA Issue / 
+
+FXCT: 
+
+MISDIRECTS: 
+
+AHT Drivers: FXRS Escalated Barcode Type Issue to SS 52 min / Café Resolved Expired URSA Issue 10 min / Café call dropped .1 min / 
+
+------------
+
+Cafe on FXRS: 
+
+FXRS on Cafe: 

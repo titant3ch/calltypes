@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 9:00 AM FXRS 8/30/2016
+
+FXRS: Line test / Line Test / prassigned tracking and epl format / URSA not implementing / ursa? / 
+
+Web Services: TSR Request for printer / label didnt print / Referred cust to front end provider / Get production credentials / WIS questions / Get test credentials / 3rd Party Support needed / 
+
+Café: LTL Rating / expired ursa / URSA expired / expired ursa / LTL schedule pick ups / express discount rates not showing / zm400 assistance / URSA Expired / URSA Expired / DG error / Signature options / zebra 500 Poor Print quality / Enable ETD / Printer Assist / Get Production Credentials / Doc Reprint for CI with Broker Info / FSM Upgrade took a while to open / Repair needed.  Local IT required / Issue with comm/upload / iSell for new HW / cic req software install / URSA EXPIRED KB 14006 / ursa trouble / 
+
+FXCT: 
+
+MISDIRECTS: Dotcom / Bad Transfer / needs .com / Transfer to Domestic / 
+
+AHT Drivers: Café DG error 74 min / Café Repair needed.  Local IT required 37 min / Café Issue with comm/upload 37 min / 
+
+------------
+
+Cafe on FXRS: URSA expired / server cant reach / questions about interrogation/software / printer trouble / ursa trouble / 
+
+FXRS on Cafe: URSA DSMS failed / 

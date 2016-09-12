@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 9:00 AM FXRS 8/31/2016
+
+FXRS: testing fxrs line / URSA update / meter reg errors / 
+
+Web Services: Get production credentials / passing wrong weight? / Zebra printer configuration / ETD upload questions / Transit Times not being returned / 
+
+Café: FXIA Issue with ODBC / product key new install / key for new install / product key validation / Ship services not responding / clean load required / Reset scale / URSA NOT DOWNLOADING 2916 / 
+
+FXCT: 
+
+MISDIRECTS: air ops workbench? / 
+
+AHT Drivers: Café clean load required 83 min / FXRS Transit Times not being returned 30 min / Café FXIA Issue with ODBC 27 min / 
+
+------------
+
+Cafe on FXRS: URSA / 
+
+FXRS on Cafe: Comm issue / 

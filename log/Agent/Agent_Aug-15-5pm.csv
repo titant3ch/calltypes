@@ -1,0 +1,30 @@
+Reported Calls for: Aug-15-5pm
+
+Agent, Computer Name, Duration of Call, LOB, Type, Message,
+mbarth,auswrca0230,120 min,FXRS,Café,kapersky and server error
+rhagemann,ausrcwa043,106 min,FXRS,Café,Admin Srvc Removed / Clean Load
+cdriskell,auswidf1d62,36 min,FXRS,Café,Kaspersky AV ate the admin svc
+rmanley,ausrca0054,30 min,Café,Café,Kaspersky quarantined admin service
+sroberts,ausrca0072,27 min,FXRS,FSMS,Unable to get Test Rates for Express
+macampbell,ausrca0057,25 min,FXRS,FSMS,McAffee stops shipmanager service
+anewman,ausrca0074,20 min,FXRS,Café,Software validation
+cdriskell,auswidf1d62,20 min,FXRS,WIS,Customer rates don't show, only List
+cdriskell,auswidf1d62,20 min,FXRS,Café,Kaspersky AV ate the admin svc
+sroberts,ausrca0072,17 min,FXRS,WIS,Answered general Web Svcs questions.
+pgarza,ausrcwb148,14 min,Café,Café,FSM Shipmanager Service Wont Start
+anewman,ausrca0074,14 min,FXRS,FSMS,Smartpost References.
+pgarza,ausrcwb148,11 min,FXRS,WIS,Test Environment Status Question
+anewman,ausrca0074,10 min,FXRS,FSMS,Service type
+sroberts,ausrca0072,10 min,FXRS,WIS,Answered general web svcs questions
+macampbell,ausrca0057,8 min,Café,Café,Anti-virus removed admin service
+sroberts,ausrca0072,8 min,FXRS,FSMS,Answered CIC's hardware question.
+anewman,ausrca0074,7 min,Café,Café,Software upgrade
+mbarth,auswrca0230,7 min,Café,Café,kapersky issues
+jzamora,ausrcwa049,5 min,FXRS,WIS,declare value question
+macampbell,ausrca0057,5 min,Café,Café,Rcpt ID drop down
+mbarth,auswrca0230,5 min,FXRS,WIS,ae drc questions
+sroberts,ausrca0072,3 min,FXRS,Misdirect,Integration Mgr (Dot Com) Call
+macampbell,ausrca0057,3 min,FXRS,WIS,Confirm meter is enabled to ship
+anewman,ausrca0074,2 min,FXRS,Misdirect,customer did not have an account number
+anewman,ausrca0074,2 min,Café,Café,Registeration
+macampbell,ausrca0057,1 min,FXRS,FSMS,disconnect

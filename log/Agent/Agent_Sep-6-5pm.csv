@@ -1,0 +1,39 @@
+Agent, Computer Name, Duration of Call, LOB, Type, Message,
+mendrys,ausrca0070,60 min,Café,Café,Brazil shipment
+rmanley,ausrca0054,60 min,Café,Café,encountered error must exit
+mwildman,ausrca0229,55 min,Café,Café,Upgrade to 3009
+mwildman,ausrca0229,40 min,Café,Café,Upgrade to 3009
+wcrosby,ausrca0071,40 min,FXRS,FSMS,DD failed / bad comm
+macampbell,auscrwfxrs3,37 min,Café,Café,Writing as deleted
+anewman,ausrca0074,33 min,Café,Café,International DG shipment
+macampbell,auscrwfxrs3,30 min,Café,Café,Admin rights needed to upgrade
+wcrosby,ausrca0071,20 min,Café,Café,failed upgrade
+wcrosby,ausrca0071,15 min,Café,Café,failed upgrade
+jemcavin,ausrca0052,15 min,Café,Café,product key request
+rhagemann,ausrcwa043,15 min,Café,Café,Return label
+anewman,ausrca0074,14 min,FXRS,Café,Authentication failed
+sroberts,ausrca0072,13 min,FXRS,WIS,Answered Web Svcs/SP Questions
+mwildman,ausrca0229,12 min,FXRS,WIS,Certification
+anewman,ausrca0074,11 min,FXRS,FXCT,FXCT add LTL account
+wcrosby,ausrca0071,10 min,Café,Café,failed upgrade
+mbarth,auswrca0230,10 min,FXRS,FXCT,fxct install
+sroberts,ausrca0072,10 min,FXRS,Registration,Assist w/Web Svcs Error 500
+mbarth,auswrca0230,10 min,FXRS,Café,tech tix printer
+sroberts,ausrca0072,10 min,Café,Café,Assisted w/printer alignment issue
+macampbell,auscrwfxrs3,8 min,FXRS,WIS,Get production credentials
+macampbell,auscrwfxrs3,8 min,FXRS,WIS,Get production credentials
+mbarth,auswrca0230,7 min,FXRS,Café,eod
+rhagemann,ausrcwa043,6 min,FXRS,WIS,DRC Prod Reg
+sroberts,ausrca0072,6 min,FXRS,Misdirect,Transfer to OM Help Desk
+mendrys,ausrca0070,5 min,Café,Café,upgrade to 3009 questions
+mbarth,auswrca0230,5 min,Café,Café,update
+jemcavin,ausrca0052,5 min,Café,Café,monitor broke, tech ticket
+wcrosby,ausrca0071,5 min,FXRS,FSMS,changed the label to 1D
+macampbell,auscrwfxrs3,4.5 min,Café,Café,MPS shipping
+sroberts,ausrca0072,4 min,Café,Café,Assisted w/FXIA Intermittent Issue
+rhagemann,ausrcwa043,4 min,Café,Café,LTL Update
+sroberts,ausrca0072,3 min,FXRS,Misdirect,Dot Com Transfer
+sroberts,ausrca0072,3 min,Café,Café,Answered Upgrade Question
+sroberts,ausrca0072,3 min,FXRS,Misdirect,Misdirected OD/OM Call.
+mbarth,auswrca0230,2 min,FXRS,Misdirect,needs .com
+mbarth,auswrca0230,2 min,FXRS,Misdirect,needs intl cust serv

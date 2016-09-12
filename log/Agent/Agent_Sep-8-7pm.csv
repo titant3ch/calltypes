@@ -1,0 +1,28 @@
+Agent, Computer Name, Duration of Call, LOB, Type, Message,
+rmanley,ausrca0054,60 min,Café,Café,writing as deleted v.2912
+anewman,ausrca0074,55 min,Café,Café,upgrade failed/clean load
+anewman,ausrca0074,18 min,FXRS,FSMS,Configuration id
+macampbell,auswidf1057,15 min,Café,Café,Help register FSM
+rhagemann,ausrcwa043,13 min,FXRS,Misdirect,Dotcom Printer Issue
+sroberts,ausrca0072,12 min,FXRS,Registration,Helped caller get Prod. Creds
+macampbell,auswidf1057,9.5 min,FXRS,WIS,Communications issues
+rhagemann,ausrcwa043,7.5 min,Café,Café,EOD Report
+sroberts,ausrca0072,7 min,FXRS,Registration,Assisted w/Billing Address Issue
+macampbell,auswidf1057,6 min,Café,Café,Contact AE to order hardware
+anewman,ausrca0074,6 min,Café,Café,LTL acct enablement
+anewman,ausrca0074,6 min,Café,Café,Network config
+rhagemann,ausrcwa043,6 min,FXRS,FSMS,Lost Call
+rhagemann,ausrcwa043,6 min,FXRS,WIS,DRC Prod Reg
+anewman,ausrca0074,5 min,FXRS,WIS,Authentication Failed
+rhagemann,ausrcwa043,5 min,Café,Café,PK Request
+anewman,ausrca0074,4 min,Café,Café,hardware replacement
+macampbell,auswidf1057,3 min,FXRS,FXCT,Install code
+rhagemann,ausrcwa043,3 min,FXRS,Misdirect,Dotcom
+anewman,ausrca0074,3 min,Café,Café,zebra printer not functioning
+sroberts,ausrca0072,2 min,FXRS,WIS,Advised cust. on rating/zone spreadsheet
+macampbell,auswidf1057,2 min,Café,Misdirect,transferred to fedex.com
+anewman,ausrca0074,2 min,FXRS,Misdirect,Misdirected to dotcom
+rhagemann,ausrcwa043,1 min,Café,Café,Call Dropped
+anewman,ausrca0074,1 min,FXRS,Misdirect,customer disconnect
+rhagemann,ausrcwa043,1 min,Café,Misdirect,Dotcom
+rhagemann,ausrcwa043,1 min,FXRS,Misdirect,Lost Call

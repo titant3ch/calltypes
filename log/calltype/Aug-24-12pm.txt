@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 12:00 PM FXRS 8/24/2016
+
+FXRS: 1d enable / TLS update 0855 server / what version am i on / tracking number missing / Troubleshoot labels / Troubleshoot communications / changed label type to 1D / changed label type to 1D / bill 3rd party not seeing rates / Troubleshoot manifest, services / Upgrade from 110x to 140x / tls update / Transfer setup files thru GTA / 
+
+Web Services: send in invoices and we print? / register for test credentials / what number to call / certified for shipping request / Register for credentials / Get production credentials / Get production credentials / drc reg / Get production credentials. / Certification questions / Get production credentials / Get Production Credentials / Cert Request / Certification request / Get Production Credentials / future pick up day incorrect / 
+
+Café: previous call status / Upgrade / Admin srv removed Kasperky modify needed / TD end of the day closing / exports and fxia / update ursa/printer setup / New Install / 
+
+FXCT: Config Assist / 
+
+MISDIRECTS: cust service call / transferred to fedex.com / transferred to fedex.com / transferred to fedex.com / 
+
+AHT Drivers: FXRS host/client issues 57 min / Café Upgrade 40 min / FXRS future pick up day incorrect 40 min / 
+
+------------
+
+Cafe on FXRS: Download request of software / Troubleshoot communications / Validation for product key / tech tix printer / Kaspersky killed shipping service / host/client issues / 
+
+FXRS on Cafe: 

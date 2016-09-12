@@ -1,0 +1,34 @@
+Agent, Computer Name, Duration of Call, LOB, Type, Message,
+mbarth,auswrca0230,65 min,FXRS,Café,forced upgrade
+jemcavin,ausrca0052,55 min,FXRS,FSMS,ship manager service won't start
+anewman,ausrca0074,55 min,FXRS,FSMS,Server Peak Proactive Check Procedure
+rhagemann,ausrcwa043,24 min,Café,Café,Email Label
+chkelley,ausrca0055,20 min,FXRS,FSMS,incorrect rates
+sroberts,ausrca0072,18 min,FXRS,WIS,Troubleshot Web Svcs Rating Issue
+anewman,ausrca0074,16 min,FXRS,Café,ODBC not connecting to server
+ahendon,ausrca0069,12 min,Café,Café,Software download request
+rhagemann,ausrcwa043,12 min,FXRS,WIS,DRC Prod Reg
+macampbell,auscrwfxrs3,11 min,Café,Café,Troubleshoot ZM 400
+mbarth,auswrca0230,10 min,FXRS,Café,fxia quickbooks
+macampbell,auscrwfxrs3,8 min,FXRS,WIS,WIS questions
+macampbell,auscrwfxrs3,8 min,FXRS,FSMS,Cannot GTA in to troubleshoot
+macampbell,auscrwfxrs3,6.5 min,FXRS,WIS,WIS questions
+macampbell,auscrwfxrs3,6 min,FXRS,Café,Hardware tech ticket
+sroberts,ausrca0072,6 min,Café,Café,Assisted w/Z4M+ issue
+sroberts,ausrca0072,5 min,FXRS,Registration,Helped callers get Test Creds.
+mbarth,auswrca0230,5 min,FXRS,WIS,rates
+mbarth,auswrca0230,5 min,FXRS,FSMS,mps when tracking
+macampbell,auscrwfxrs3,5 min,FXRS,Misdirect,transferred to cust service
+anewman,ausrca0074,5 min,Café,Café,Doc-tab not aligning correctly with trk
+mbarth,auswrca0230,5 min,FXRS,Café,bill third party
+anewman,ausrca0074,5 min,Café,Café,Updated notes for CIC escalation
+macampbell,auscrwfxrs3,4 min,FXRS,FXCT,General questions
+rhagemann,ausrcwa043,3 min,Café,Misdirect,Dotcom
+sroberts,ausrca0072,3 min,FXRS,Registration,Assisted caller w/getting creds.
+macampbell,auscrwfxrs3,2 min,FXRS,Misdirect,transferred to domestic
+rhagemann,ausrcwa043,2 min,FXRS,Misdirect,Dotcom
+sroberts,ausrca0072,2 min,FXRS,Misdirect,Dot Com Transfer
+anewman,ausrca0074,2 min,FXRS,WIS,Get production credentials
+macampbell,auscrwfxrs3,1 min,FXRS,FSMS,disconnect
+sroberts,ausrca0072,1 min,FXRS,Misdirect,Dot Com Transfer
+macampbell,auscrwfxrs3,1 min,FXRS,FSMS,disconnect

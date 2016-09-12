@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 7:00 PM FXRS 8/17/2016
+
+FXRS: Customer inquiry on escalation status / 
+
+Web Services: Comms Blocked / DRC Prod Reg / Namespace update / 
+
+Café: Java script issue / 
+
+FXCT: 
+
+MISDIRECTS: 
+
+AHT Drivers: FXRS Comms Blocked 37 min / FXRS Validation 10 min / FXRS DRC Prod Reg 8 min / 
+
+------------
+
+Cafe on FXRS: Validation / Assisted w/network/client setup error / 
+
+FXRS on Cafe: 

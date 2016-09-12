@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 12:00 PM FXRS 9/2/2016
+
+FXRS: Testing fxrs lines / Smartpost Hub ID request / ipd master label / invalid shipping charge / Previous case status / mru registration / cic question on upgrade paths / tracking numbers / transaction coding debug / 
+
+Web Services: web-svc certification / Authentication Failed / drc reg / Express CallTag / Lost Creds / questions about how web srvs worked / Intra French Issue / Install zebra printer/scale / Get production credentials / needs production credentials / Rates / Certification request / zebra printer / Get production credentials / needs csp / 
+
+Café: Bill duties and taxes / LTL Doc Reprint / Attempted clean install (escalation ) / Install client / integration look up box / Acct validation failed, cust disconnect / 500 MPS / Install client / scale issues needed to recalibrate / Customize forms, assign printers / Country Code / cust disconnect / ursa / Writing as deleted / Return label questions / Escalated / Writing as deleted 3009 / printer issue / printer issue tech ticket needed / Printer Install / customer disconnected / 
+
+FXCT: Batch Processing / Install/rate to bill issues / install help wrong address / freight box acct rates incorrect / hjistory manager / 
+
+MISDIRECTS: Cust Srvc / dot com caller / Misdirected call to dotcom / needs ace / dot com caller / Misdirected to dotcom / needs cust serv / Misdirected call to customer service / Dotcom / 
+
+AHT Drivers: Café Attempted clean install (escalation ) 50 min / FXRS Install/rate to bill issues 41 min / FXRS questions about how web srvs worked 32 min / 
+
+------------
+
+Cafe on FXRS: Anti-virus removed services / rates / saturday delivery question / intl ship / 
+
+FXRS on Cafe: 

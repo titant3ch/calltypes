@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 12:00 PM FXRS 9/6/2016
+
+FXRS: transaction log enablement / errors in transaction / 
+
+Web Services: register for production/test credentials / WIS questions / general questions / Submitted iSell re: ShipRush license / 
+
+Café: slow open time / new install cic request / shipping disabled / Product key validation / International shipment / shipments writing as deleted upgraded / MPS shipping help / ursa expired / update software prompt / repair 3009 bad upgrade / writing as deleted / 
+
+FXCT: MPS rate quote errors / 
+
+MISDIRECTS: dot com caller / misdirect to dcom / dot com caller / transferred to fedex.com / 
+
+AHT Drivers: Café writing as deleted 90 min / Café shipping disabled 80 min / FXRS cafe weird issue intl 78 min / 
+
+------------
+
+Cafe on FXRS: FXIA profile not running / hardware tech tix / Software won't launch / 3009 writing as deleted / NEEDS .COM and win xp on 3009 / 2916 writing as deleted / cafe weird issue intl / needed to upgrade sent file / 
+
+FXRS on Cafe: 

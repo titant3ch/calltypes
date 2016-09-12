@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 3:00 PM FXRS 8/9/2016
+
+FXRS: Assist w/server trans error / disconnect / Previous call status / 
+
+Web Services: cert req / hardware printer 3pl / wis registration / Label Issue / Contact CSP / registration / Frozen Tracking Number / Transaction errors / Prod Creds hitting test enviorment / 
+
+Café: 1D Barcode Reverted to Astra (Repair) / Transfer AE to Snr Support / New Install / 
+
+FXCT: 
+
+MISDIRECTS: needs .com / needs billing / transferred to domestic / transferred to fedex.com / 
+
+AHT Drivers: Café 1D Barcode Reverted to Astra (Repair) 56 min / FXRS Assist w/server trans error 30 min / FXRS Transaction errors 25 min / 
+
+------------
+
+Cafe on FXRS: Submitted hardware tech ticket/Scale / intl returns / 
+
+FXRS on Cafe: 

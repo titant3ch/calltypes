@@ -1,0 +1,53 @@
+Agent, Computer Name, Duration of Call, LOB, Type, Message,
+anewman,ausrca0074,90 min,Café,Café,ship services not responding
+anewman,ausrca0074,82 min,Café,Café,Software won't upgrade/clean load
+gdeharo,ausrca0050,71 min,Café,Café,scale issue/update software
+rmcneil,ausrcb0061a,65 min,Café,Café,Failed install
+mbarth,auswrca0230,49 min,FXRS,Café,aggressive mod
+gdeharo,ausrca0050,48 min,FXRS,FSMS,error inserting record into database
+macampbell,auscrwfxrs3,45 min,Café,Café,Repair FSM
+mbarth,auswrca0230,45 min,FXRS,Café,forced upgrade
+chkelley,ausrca0055,40 min,Café,Café,upgrade
+gdeharo,ausrca0050,37 min,FXRS,WIS,register for test/production credentials
+mbarth,auswrca0230,35 min,FXRS,Café,fxia greyed out
+ianderson,auswlspigelmire,32 min,Café,Café,swo upgrade
+mbarth,auswrca0230,30 min,FXRS,WIS,broken printer tech tix
+chkelley,ausrca0055,30 min,Café,Café,upgrade
+macampbell,auscrwfxrs3,26 min,Café,Café,URSA expired
+gdeharo,ausrca0050,21 min,Café,Café,shipping international DG assistance
+chkelley,ausrca0055,20 min,FXRS,WIS,incorrect rates
+mwildman,ausrca0229,17 min,Café,Café,FXI
+gdeharo,ausrca0050,15 min,FXRS,FSMS,URSA expired
+macampbell,auscrwfxrs3,15 min,FXRS,FXCT,Troubleshoot rates, iSell to AE
+mbarth,auswrca0230,15 min,Café,Café,forced upgrade
+anewman,ausrca0074,13 min,Café,Café,Reset communications
+mwildman,ausrca0229,12 min,FXRS,FSMS,FSMS Configuration Add New Meter
+mwildman,ausrca0229,12 min,Café,Café,FSM freezes when using scale
+macampbell,auscrwfxrs3,12 min,FXRS,FSMS,Delete IPD shipment
+ianderson,auswlspigelmire,12 min,FXRS,WIS,registration for credentials
+mwildman,ausrca0229,12 min,Café,Café,Assistance with shipping after upgrade
+mwildman,ausrca0229,11 min,FXRS,WIS,Customer needs assistance with WSDL
+anewman,ausrca0074,10 min,Café,Café,Authentication failed
+mbarth,auswrca0230,10 min,FXRS,Café,fxia trouble
+mbarth,auswrca0230,10 min,FXRS,FSMS,wants uninstall but hung up
+anewman,ausrca0074,10 min,Café,Café,Product key /Transfer to customer serv
+anewman,ausrca0074,10 min,Café,Café,API error message
+macampbell,auscrwfxrs3,9 min,FXRS,FSMS,Cannot GTA in, IT needed
+anewman,ausrca0074,9 min,FXRS,WIS,Rate request
+chkelley,ausrca0055,8 min,FXRS,WIS,1d enabledment
+gdeharo,ausrca0050,7 min,Café,Misdirect,dot com caller
+sseals,ausrca0064,6 min,Café,Café,DB Backup
+mwildman,ausrca0229,6 min,Café,Café,Ursa Expired
+gdeharo,ausrca0050,6 min,Café,Café,export address book
+agonzales,ausrca0056,5 min,FXRS,FSMS,Tech ticket - scale
+mbarth,auswrca0230,5 min,FXRS,WIS,csp
+mbarth,auswrca0230,5 min,FXRS,Misdirect,needs .com
+agonzales,ausrca0056,4 min,FXRS,FSMS,1D enablement
+agonzales,ausrca0056,4 min,Café,Café,Tech ticket inquiry
+rhagemann,ausrcwa043,3 min,FXRS,WIS,Pickup Request
+gdeharo,ausrca0050,3 min,Café,Misdirect,dot com caller
+anewman,ausrca0074,3 min,FXRS,Misdirect,Misdirected call to customer service
+macampbell,auscrwfxrs3,3 min,Café,Café,Acct validation failed, cust call back
+gdeharo,ausrca0050,3 min,FXRS,Misdirect,DOT COM CALLER
+macampbell,auscrwfxrs3,2 min,FXRS,FSMS,Enable 1D barcode
+macampbell,auscrwfxrs3,1 min,FXRS,Misdirect,transferred to domestic

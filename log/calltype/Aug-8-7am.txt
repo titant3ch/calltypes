@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 7:00 AM FXRS 8/8/2016
+
+FXRS: Line Test / misdirect / 
+
+Web Services: Rates question from AE / 
+
+Café: 
+
+FXCT: 
+
+MISDIRECTS: .com Transfer / Line Test / .com Transfer / 
+
+AHT Drivers: FXRS Rates question from AE 4 min / FXRS Line Test 1 min / FXRS .com Transfer 1 min / 
+
+------------
+
+Cafe on FXRS: 
+
+FXRS on Cafe: 

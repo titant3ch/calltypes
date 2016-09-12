@@ -1,0 +1,29 @@
+Reported Calls for: Aug-12-9am
+
+Agent, Computer Name, Duration of Call, LOB, Type, Message,
+agonzales,ausrca0056,50 min,FXRS,FSMS,cust table error
+ianderson,auswlspigelmire,25 min,FXRS,FSMS,duplicate tracking numbers
+aljohnson,ausrca0058,18 min,FXRS,FSMS,Adding an new child meter for s/p
+mbarth,auswrca0230,15 min,FXRS,Café,eod stuck
+macampbell,ausrca0057,13 min,FXRS,WIS,Troubleshoot rate requests
+ahendon,ausrca0069,12 min,FXRS,WIS,Registration ( Escalation required)
+ianderson,auswlspigelmire,11 min,FXRS,WIS,authentication failure
+ahendon,ausrca0069,10 min,Café,Café,Communications issue Local proxy
+gdeharo,ausrca0050,10 min,FXRS,WIS,general questions
+mbarth,auswrca0230,10 min,FXRS,FXCT,ltl not adding
+kkumi,auscrwfxrs3,10 min,Café,Café,Meter Deletion
+ahendon,ausrca0069,9 min,FXRS,WIS,Isell created for A/E contact
+dneal,ausrca0098,7 min,FXRS,FSMS,Software upgrade questions
+gdeharo,ausrca0050,7 min,FXRS,Misdirect,POS caller
+ahendon,ausrca0069,7 min,Café,WIS,WS documentation, navigation assistance
+chkelley,ausrca0055,6 min,Café,Café,set signature option default
+macampbell,ausrca0057,5 min,FXRS,Café,Acct validation failed, will call back
+gdeharo,ausrca0050,5 min,Café,Café,zp 505 printer broken tech ticket
+kkumi,auscrwfxrs3,5 min,FXRS,WIS,Integration credentials
+ahendon,ausrca0069,3 min,Café,FSMS,Transfer .com
+gdeharo,ausrca0050,3 min,FXRS,Misdirect,misdirect dot com caller
+gdeharo,ausrca0050,3 min,FXRS,Misdirect,dot com caller
+mbarth,auswrca0230,2 min,FXRS,Misdirect,needs .com
+ahendon,ausrca0069,1 min,Café,Misdirect,No response
+gdeharo,ausrca0050,1 min,FXRS,WIS,customer disconnect
+mbarth,auswrca0230,.5 min,FXRS,FSMS,beeping empty line

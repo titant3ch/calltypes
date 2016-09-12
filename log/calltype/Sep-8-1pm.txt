@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 1:00 PM FXRS 9/8/2016
+
+FXRS: Rating Error / Line test / line test / adding international acct to fxrs / Needing IP address for test server / server question / 1D bar code activation / transferred to fedex.com / URSA not implementing / empty line / Health Check / TSR Request / TLS Patch / admin service crashing / Upgrade to 1407 / Troubleshoot hourly uploads / customer disconnect / which server version is compatible? / Certification / 
+
+Web Services: Credential Registration / WIS rates / certification process / No ground in rate requests / Get production credentials / disconnect / Address validation / Troubleshoot ZP 505 / WIS Prod registration / General questions about test/ltl / Previous case status / Test Creds Issue / Enable address validation / Acct not enabled for smartpost / Consultation / 
+
+Café: Writing as deleted sent to sr support / Product key validations / printer setup /  backup database / zip code invalid / new install FSM / PCA destage delta / Rates issue demand download / scale issues / No barcode on label / zp 505 printer issues tech ticket / client install / Monitor replacement / integration / upgrade / assist with barcode on label / Tech Request / Scale / FSM Repair / Repair / validation/install / LTL account set up (FSM) / Removal, Load and config FSM / FXi not working properly / PK Request / Incorrect Rates / Contact AE / new software update prompt / ZP505 printer dump / Failed Validation / Customer references / software update assistance / Validation for product key / Needing product key / Kaspersky AV ate the Admin svc / Problem encountered and must exit / Upgrade to 3009 / Restore Database / Problem encountered and must exit / clean load / turn of eod prints / Acct validation successful / FSM clean load / disconnect / ASKING ABOUT REFERENCE FIELDS / upgrade install / reports / 3009 upgrade; no delta /had to download / 3009 provided download link / 3009 pushed over file / 3009 upgrade / Ran 3009 upgrade manually / Writing as deleted / 
+
+FXCT: FXCT INSTALLATION / PK Needed / FXCT LTL 3rd party freight / 
+
+MISDIRECTS: 3rd Party Support Needed / transferred to domestic / No one on other side of phone / Dotcom / needed Rev Svcs / transferred to fedex.com / needed fedex.com / DOTCOM / DOTCOM / 
+
+AHT Drivers: Café clean load 180 min / Café FSM clean load 177 min / Café Removal, Load and config FSM 135 min / 
+
+------------
+
+Cafe on FXRS: No email notification / Needs to print shipment report / Incorrect rates / 
+
+FXRS on Cafe: 

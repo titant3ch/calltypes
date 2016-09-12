@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 3:00 PM FXRS 8/12/2016
+
+FXRS: Enable 1D barcode / trans test of a new install / Communications Issues / 
+
+Web Services: Referred cust to front-end provider / cert info / DRC Prod Reg / 
+
+Café: rates are incorrect / Rcpt zip code is invalid / 
+
+FXCT: cic work req for fxct / 
+
+MISDIRECTS: transferred to fedex.com / transfer to CS / 
+
+AHT Drivers: FXRS Communications Issues 68 min / FXRS -i integration odbc error 15 min / FXRS trans test of a new install 15 min / 
+
+------------
+
+Cafe on FXRS: -i integration odbc error / 
+
+FXRS on Cafe: 

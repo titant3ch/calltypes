@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 4:00 PM FXRS 8/16/2016
+
+FXRS: printer drivers / Field for PO# / cic install info / 1d enable / invalid password for the fsms install / Assisted w/Test Rates Issue / turn on 1d / 
+
+Web Services: coding and environment / drc reg / Where to get Prod Meter / needs priro call escalated / WIS consultation / Get production credentials / 
+
+Café: Misdirected call to dotcom / defaulted service type to ground / scale configuation / Acct validation successful / disconnect / clean load / disconnect / ETD has wrong custom value / incorrect label format / fsm install validation / Repair FSM / Kaspersky issue unable to repair / anti-virus removed the admin service / admin service kapersky / 
+
+FXCT: rate quotes not printing / request for the fxct / Answered rating questions re: the Tool / Install / 
+
+MISDIRECTS: transferred to fedex.com / needs .com / Careers @ Fedex.com / Transfer to Dot Com / transferred to domestic / 
+
+AHT Drivers: Café clean load 200 min / Café Repair FSM 45 min / FXRS Install 37 min / 
+
+------------
+
+Cafe on FXRS: Anti-Virus caused issue / reprots and shipping profiels / Validation / 
+
+FXRS on Cafe: 

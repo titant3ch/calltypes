@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 4:00 PM FXRS 8/17/2016
+
+FXRS: Previous Case Update / CHUX Questions / 
+
+Web Services: rates discounts / Questions about cover sheet labels / drc functions, quopte emails? / Referred cust to front-end provider / rates and transit times / ae compatible email / Transaction errors / front end not receiving wis replies / Transaction errors / Pickup Request Random Failure / Confirm meter is not enabled to ship / Assisted w/Coding Errors / 
+
+Café: Repair / Kaspersky / label format not correct / shipping engine not running / Edit databases, shipping profiles / 
+
+FXCT: lotl accoutns / windows permish / FXCT INSTALL / if service a city in panama / 
+
+MISDIRECTS: needs.com / transferred to fedex.com / 
+
+AHT Drivers: Café Repair / Kaspersky 74 min / FXRS Pickup Request Random Failure 33 min / FXRS Assisted w/Coding Errors 33 min / 
+
+------------
+
+Cafe on FXRS: LTL Authentication failed / 
+
+FXRS on Cafe: 

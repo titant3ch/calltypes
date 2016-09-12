@@ -31,6 +31,10 @@
 
     // Agent Data
     require "inc/agent.php";
+    
+    // Remove Error Log
+    error_reporting(E_ALL ^ E_DEPRECATED);
+
   ?>
 
   

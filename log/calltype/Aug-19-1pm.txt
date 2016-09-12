@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 1:00 PM FXRS 8/19/2016
+
+FXRS: enable 1d baracodes / failed update features demand download / Enable 1D barcode / ursa expired general questions / register meter issues soul type updated / he hung up / FSMS question / 1D Enablement / Tracking # range questions / NW printer config / Confirm FSMS generates shipment / Communication / 
+
+Web Services: Authentication Failed / Test shipment request error / URL Change from Beta to Live / label missing tracking numbers / issue 3rd party billing escalated / Tracking number not uploading / Customer disconnected / wis questions / REGISTER FOR CREDENTIALS / Address validation / Previous Call Status / cert troubles / Cert status inquiry / WSGW routing changes / No smartpost 3rd party billing / 
+
+Café: Install FSM taking long time / Integration tab grayed out / client install / Canadian acct does not need product key / product key validation / No service types, bad rcpt zip code / Data Export assistance / Kaspersky / Repair / International Assist / Transfer to TIS / find return shipment in reports / Edit freight acct in database / priority alert / Printer Assist / printer issues / Client writing as deleted / Validation / Acct validation successful / CIC new install request / CIC needed product key / ZP505 NW install / hardware tech ticket won't open / Kaspersky -aggro modify / Anti-virus removed admin service / Validation / Meter Suspect / modify needed software won't open / 
+
+FXCT: Confirming LTL acounts / rates different on 2 diff fxct tools / 
+
+MISDIRECTS: dot com caller / FXO billing issue / needed Rev Svcs / ACE Customer / needs .com / Domestic / 
+
+AHT Drivers: FXRS Troubleshoot URSA 59 min / Café hardware tech ticket won't open 54 min / FXRS LTL labels not printing 41 min / 
+
+------------
+
+Cafe on FXRS: needs software / ltl label / td shipment / Troubleshoot URSA / LTL labels not printing / printer setup / fsm questions for ddl / reports for intl / Questions about shipping / NW client config / Missing Visual J# / CIC FXI request / Software not launching / 
+
+FXRS on Cafe: 

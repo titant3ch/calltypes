@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 12:00 PM FXRS 8/30/2016
+
+FXRS: questions about grouping shipments / ursa / 1D Barcode Questions / Enable 1D barcode / URSA issues / bill third party / Wrong ground acct in configuration / Enabled 1d barcode / comm issues tls update/network issues / no info/ will call back / 1D enablement / epdi transmission issues / unisntall required / 
+
+Web Services: Test Creds Issue / Get production credentials / Cover sheet information / WSDL updates in DRC / rates ltl / tech tix scale / certification request / Get production credentials / Customer disconnected / not receiving rate/name space change / 
+
+Café: issue with ursa / Expired URSA, escalated / URSA Expired / URSA / URSA / disconnect / Expired URSA / URSA / ship services not responding / URSA expired / COD general question / LTL Issues / Comm Down / 
+
+FXCT: Blank screen / disconnect / 
+
+MISDIRECTS: needs cust serv / Dotcom / transfer to dcom / 
+
+AHT Drivers: FXRS comm issues tls update/network issues 44 min / Café ship services not responding 34 min / FXRS 1D Barcode Questions 24 min / 
+
+------------
+
+Cafe on FXRS: URSA Expired / op 900 / ursa trouble / Ship services stop responding / wrong postal code / Printer Replacement / 
+
+FXRS on Cafe: 

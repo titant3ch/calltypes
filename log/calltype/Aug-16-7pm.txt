@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 7:00 PM FXRS 8/16/2016
+
+FXRS: 
+
+Web Services: Verify Rates / Test Creds / xfer from CAT / 
+
+Café: Gave CIC requested EPDI info / 
+
+FXCT: 
+
+MISDIRECTS: 
+
+AHT Drivers: FXRS FXI Integration Issues 39 min / FXRS Verify Rates 34 min / FXRS Register for webservices 18 min / 
+
+------------
+
+Cafe on FXRS: FXI Integration Issues / anti virus removed the admin service / 
+
+FXRS on Cafe: 

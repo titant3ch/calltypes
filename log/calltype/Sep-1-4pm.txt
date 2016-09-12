@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 4:00 PM FXRS 9/1/2016
+
+FXRS: disconnect / 1D Bar-code enable / return adress / 1D Bar-code enable / 
+
+Web Services: customer disconnect / rates drc / API password / disconnect / Intra Paris Shipment Failure / insists on cic visit / FTR exemption error / WIS rating questions / eei and ftr / third party ltl / 
+
+Café: Update Sender Info / hal / Upgrade software / International shipment / Validation / expired ursa, upgrade / Create new shipping profiles / freeze lockup initializing / fsm will not launch / whats my ein? / Product key / customer feedback / 
+
+FXCT: FXCT generator code / 
+
+MISDIRECTS: Dotcom / Misdirected call / needs cust serv / Dotcom / Misdirected call to dotcom / Misdirected call to dotcom / needs .com / 
+
+AHT Drivers: Café fsm will not launch 70 min / Café Upgrade software 60 min / FXRS Upgrade to 3009 37 min / 
+
+------------
+
+Cafe on FXRS: ship alerts / Upgrade to 3009 / invalid account number / 
+
+FXRS on Cafe: 

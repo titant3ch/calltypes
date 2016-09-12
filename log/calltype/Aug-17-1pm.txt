@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 1:00 PM FXRS 8/17/2016
+
+FXRS: tec tix printers and scale / No intl routing # on intl MPS labels / 
+
+Web Services: Cert Request taking too long / DRC Prod Reg / Label certification and production reg / Process Shipment request / rates and transactions / 
+
+Café: communications / iSell about removing Master Acct / FSM cannot launch due to Kaspersky issue / Submitted CIC Work Request / 
+
+FXCT: Assisted w/choosing Sat. Delivery / install fxct / 
+
+MISDIRECTS: needs .com / transferred to fedex.com / 
+
+AHT Drivers: FXRS No intl routing # on intl MPS labels 45 min / FXRS Label certification and production reg 30 min / FXRS Cert Request taking too long 25 min / 
+
+------------
+
+Cafe on FXRS: Edit senders in database / Anti-virus removed admin service / FXI Batch shipments / tech tix hardware bpu / Cust. unable to launch FSM / shipping service engine server / 
+
+FXRS on Cafe: 

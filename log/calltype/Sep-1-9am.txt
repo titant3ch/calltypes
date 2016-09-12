@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 9:00 AM FXRS 9/1/2016
+
+FXRS: Rate error / 1D enablement / ursa expired / Ground Issue / Missing account / Enable 1D / 
+
+Web Services: Address validation activation / asking about certification / asking about web integration / Delete shipment wsdl / Ship service activation confirmed / 
+
+Café: How to backup groups / add acct to existing system / Unit relocation assistance / Transfer .COM related / Canadian postal code assistance / reset uploads / customer disconnected / Kaspersky - repair FSM / printer dump / 
+
+FXCT: FXCT LTL rating / 
+
+MISDIRECTS: needs .com / needs .com / needs .com / 
+
+AHT Drivers: FXRS Rate error 58 min / Café Kaspersky - repair FSM 42 min / Café add acct to existing system 17 min / 
+
+------------
+
+Cafe on FXRS: ursa on client / Customize forms / hardware printer tech tix / 
+
+FXRS on Cafe: 

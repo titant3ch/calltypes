@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 12:00 PM FXRS 9/7/2016
+
+FXRS: Tech ticket - scale / 1D enablement / FSMS Configuration Add New Meter / URSA expired / Enable 1D barcode / Delete IPD shipment / wants uninstall but hung up / Cannot GTA in, IT needed / error inserting record into database / 
+
+Web Services: Pickup Request / register for test/production credentials / incorrect rates / Customer needs assistance with WSDL / csp / registration for credentials / 1d enabledment / broken printer tech tix / Rate request / 
+
+Café: DB Backup / Tech ticket inquiry / shipping international DG assistance / upgrade / Failed install / Software won't upgrade/clean load / Ursa Expired / Authentication failed / URSA expired / Acct validation failed, cust call back / FSM freezes when using scale / FXI / forced upgrade / scale issue/update software / ship services not responding / Assistance with shipping after upgrade / Repair FSM / upgrade / Reset communications / swo upgrade / Product key /Transfer to customer serv / export address book / API error message / 
+
+FXCT: Troubleshoot rates, iSell to AE / 
+
+MISDIRECTS: dot com caller / dot com caller / Misdirected call to customer service / needs .com / transferred to domestic / DOT COM CALLER / 
+
+AHT Drivers: Café ship services not responding 90 min / Café Software won't upgrade/clean load 82 min / Café scale issue/update software 71 min / 
+
+------------
+
+Cafe on FXRS: fxia greyed out / aggressive mod / fxia trouble / forced upgrade / 
+
+FXRS on Cafe: 

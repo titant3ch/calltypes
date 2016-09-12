@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 2:00 PM FXRS 9/9/2016
+
+FXRS: disconnect / mps when tracking / ship manager service won't start / Server Peak Proactive Check Procedure / incorrect rates / 
+
+Web Services: WIS questions / rates / WIS questions / 
+
+Café: Software download request / 
+
+FXCT: General questions / 
+
+MISDIRECTS: transferred to domestic / transferred to cust service / Dotcom / 
+
+AHT Drivers: FXRS forced upgrade 65 min / FXRS ship manager service won't start 55 min / FXRS Server Peak Proactive Check Procedure 55 min / 
+
+------------
+
+Cafe on FXRS: Hardware tech ticket / forced upgrade / 
+
+FXRS on Cafe: 

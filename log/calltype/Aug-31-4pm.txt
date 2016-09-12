@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 4:00 PM FXRS 8/31/2016
+
+FXRS: Bar-code not showing up on label / disconnect / mru error / 
+
+Web Services: dotcom / dotcom / dotcom / Questions about Web services / Answered ?s about drop-shipping. / transaction lookup / Cert Inquiry by SalesRep / international shipment error / auth error / WIS questions / DRC Prod Reg / drc reg / Confirm credentials are correct / Answered Label Cert. Questions / certification request / 
+
+Café: intl ship / Troubleshoot freight shipping / Integration tab grayed out / No signature options for intl / intl ship / Acct validation failed, cust call back / Answered AE ?s re: Dot Com/CAFE issues / doc tab / Backup/restore databases / Answered SED/EEI Questions / Questions about 28xx to 30xx / 
+
+FXCT: 
+
+MISDIRECTS: dcom service disruption / Dotcom Outage / Dotcom Disruption / dcom service disruption / Dotcom Disruption / Misdirected call to dotcom / dcom service disruption / .com outage / needs .com / CA Fedex.com / is .com broken? yes / .com trouble / misdirected call to dotcom / .com / .com / Dot Com Transfer/Svc Disruption / needs .com / broken .com / Dot Com Transfer/Svc Disruption / needs .com / Dot Com Transfer/Svc Disruption / need .com / Dotcom Disruption / Dotcom Disruption / Dotcom Disruption / Dotcom Disruption / Dotcom Disruption / transferred to fedex.com / Misdirected call to dotcom / transferred to fedex.com / Misdirected call to dotcom / Misdirected call to revenue services / Dotcom Disruption / Dot Com Transfer/Svc Disruption / transferred to fedex.com / Dotcom / need s.com / needs .com / 
+
+AHT Drivers: FXRS Upgrade software 60 min / FXRS certification request 35 min / FXRS auth error 25 min / 
+
+------------
+
+Cafe on FXRS: host/client setup / host/client setup / Restore Database / Upgrade software / needs .com / Submitted hardware tech ticket on BPU / 
+
+FXRS on Cafe: 

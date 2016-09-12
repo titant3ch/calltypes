@@ -1,0 +1,11 @@
+Agent, Computer Name, Duration of Call, LOB, Type, Message,
+gdeharo,ausrca0050,93 min,Café,Café,clean load required
+wcrosby,ausrca0071,60 min,Café,Café,install of the fsm and printer
+rmanley,ausrca0054,30 min,FXRS,FSMS,tls patch
+cdriskell,auswidf1d62,20 min,FXRS,WIS,WIS Prod certification
+sroberts,ausrca0072,14 min,Café,Café,I.T. rep called in w/Expired URSA
+sroberts,ausrca0072,11 min,Café,Café,FSM Freezing on Initializing Screen
+wcrosby,ausrca0071,10 min,FXRS,FXCT,cic need code
+wcrosby,ausrca0071,10 min,FXRS,Café,cust missing the ein  for intl ship
+anewman,ausrca0074,8 min,FXRS,FSMS,Error service type
+wcrosby,ausrca0071,1 min,FXRS,FSMS,dropped call

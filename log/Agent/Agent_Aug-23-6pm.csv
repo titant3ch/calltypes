@@ -1,0 +1,16 @@
+Reported Calls for: Aug-23-6pm
+
+Agent, Computer Name, Duration of Call, LOB, Type, Message,
+sroberts,ausrca0072,45 min,FXRS,FXCT,Issue w/.netframework 4.6.1/tool install
+macampbell,ausrca0057,15 min,Café,Café,PEP ticket
+rhagemann,ausrcwa043,11 min,FXRS,WIS,DRC Test Reg
+macampbell,ausrca0057,11 min,FXRS,WIS,Get production credentials
+macampbell,ausrca0057,6 min,FXRS,WIS,Get production credentials
+mbarth,auswrca0230,5 min,FXRS,Café,network client
+mbarth,auswrca0230,5 min,FXRS,FSMS,1d activate
+mbarth,auswrca0230,5 min,FXRS,WIS,hazmat
+mbarth,auswrca0230,5 min,FXRS,FSMS,rates issue
+macampbell,ausrca0057,5 min,FXRS,WIS,Get production credentials
+sroberts,ausrca0072,3 min,FXRS,FSMS,Changed label Format to 1D
+mbarth,auswrca0230,2 min,FXRS,WIS,disconnected before trans
+macampbell,ausrca0057,1 min,FXRS,FSMS,disconnect

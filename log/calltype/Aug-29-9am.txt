@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 9:00 AM FXRS 8/29/2016
+
+FXRS: wanted to get certified for shipping / Duplicate tracking number / ursa / prior call status / configmanager.xml system time / 
+
+Web Services: Get Production credentials / instyall printer / registration / Authentication Failed / Troubleshoot transactions / needed production credentials / 
+
+Café: Ship services not responding / URSA Expired / URSA issue/Update software / URSA expired / URSA expired / 
+
+FXCT: 
+
+MISDIRECTS: 
+
+AHT Drivers: Café URSA issue/Update software 98 min / FXRS ursa 62 min / FXRS Duplicate tracking number 55 min / 
+
+------------
+
+Cafe on FXRS: ursa expired / ursa expired / new install / Download URSA / URSA expired not updating / 
+
+FXRS on Cafe: 

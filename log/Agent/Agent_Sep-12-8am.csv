@@ -1,0 +1,22 @@
+Agent, Computer Name, Duration of Call, LOB, Type, Message,
+chkelley,ausrca0055,55 min,FXRS,FSMS,labels not printing
+dsims,ausrca0062,50 min,FXRS,Café,Customer has CAFE and server on same sys
+ianderson,auswlspigelmire,45 min,Café,Café,upgrade
+dsims,ausrca0062,27 min,Café,Café,CAFE cleanload
+gdeharo,ausrca0050,23 min,Café,Café,Install printer 2844
+mendrys,ausrca0070,15 min,Café,Café,Upgrade to v3009
+sseals,ausrca0064,10 min,FXRS,FXCT,Rate Incorrect
+mendrys,ausrca0070,10 min,Café,Café,FSM upgrade
+anewman,ausrca0074,8 min,Café,Café,error Error Opening Installation Logfil
+gdeharo,ausrca0050,6 min,Café,Café,service type not showing up
+gdeharo,ausrca0050,5 min,FXRS,WIS,question about log in/web srv
+mendrys,ausrca0070,5 min,Café,Café,replace monitor
+anewman,ausrca0074,5 min,Café,Café,unable to print DG form
+anewman,ausrca0074,4 min,Café,Café,Credit privilages have been suspended
+gdeharo,ausrca0050,4 min,Café,Misdirect,dot com caller
+anewman,ausrca0074,4 min,FXRS,FSMS,Server not working properly
+anewman,ausrca0074,4 min,FXRS,FSMS,tls patch update
+anewman,ausrca0074,3 min,Café,Café,writing as deleted
+anewman,ausrca0074,2 min,FXRS,Misdirect,misdirected to customer service
+mendrys,ausrca0070,2 min,FXRS,FSMS,INQ abt FSMS 3P Smartpost billing
+sseals,ausrca0064,1 min,FXRS,FSMS,Line Test

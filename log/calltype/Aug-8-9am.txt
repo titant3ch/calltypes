@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 9:00 AM FXRS 8/8/2016
+
+FXRS: services not starting after upgrade / Dual master meter number / smartpost tracking / add master meter to configuration / Ursa expired / FXCT / transaction validation request / FXCT install code.. / Rating on  smartpost / Mcafee stops shipmanager service / 
+
+Web Services: authentication failure / Certification for web services. / rates / rates / 
+
+Café: software not opening / Troubleshoot FXIA / scale weight issue / Download rates / 
+
+FXCT: batch tutorial / Fxct configuration / 
+
+MISDIRECTS: dot com caller / needs cust serv PU / .com Transfer / 
+
+AHT Drivers: FXRS services not starting after upgrade 52 min / FXRS Mcafee stops shipmanager service 30 min / Café software not opening 30 min / 
+
+------------
+
+Cafe on FXRS: 
+
+FXRS on Cafe: 

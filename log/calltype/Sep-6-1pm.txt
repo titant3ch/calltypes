@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 1:00 PM FXRS 9/6/2016
+
+FXRS: FSMS Install Issue / 
+
+Web Services: drc reg / Get production credentials / Call WooCommerce / tech for printer / needs production credentials / Call Dropped/Logged Call. / 
+
+Café: Assisted w/Expired URSA issue / lookup box not showing up./upgrade of FS / Assisted w/FSM Upgrade Issue / new install request / Assisted w/Forced Upgrade Issue / Ground manifest/Software won't launch / customer disconnect / Writing as Deleted / stuck service / Assisted w/FSM Acct. Validation,etc / 
+
+FXCT: Install FXCT / 
+
+MISDIRECTS: transferred to revenue services / 
+
+AHT Drivers: Café lookup box not showing up./upgrade of FS 86 min / FXRS upgrade before shipping error 50 min / FXRS repair bad 3009 upgrade 44 min / 
+
+------------
+
+Cafe on FXRS: upgrade before shipping error / Cannot GTA in, get IT to help / Upgrade to 3009 / Ship manager encountered an error / Assisted AE with Track Results FSM/FXCT / repair bad 3009 upgrade / add ein / 
+
+FXRS on Cafe: 

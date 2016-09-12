@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 12:00 PM FXRS 8/8/2016
+
+FXRS: EOD gnd manifest / openship service not responding / Change label format / Rates on fxct / Enable ETD / ursa / Reprint Ground Manfest / need to change hub id's / install 14xx errors / 
+
+Web Services: Transactions not hitting our servers / credentials / broken ZP505 / rates wrong escalatd / WIS rate questions / Certification / rates not showing discounts / DRC Prod Reg / Get production credentials / printer doesnt work with ShipStation / 
+
+Café: Cannot remote in, internet is down / reports print ( printer configuration ) / ltl rate quotes / Validation for product key / Shipments writing as deleted / int'l shipment / product key / integration install prompt / clean load required/escalate for rates / scale not working / Scale not reading / writing to deleted/ver2912/no printer / disconnect / delete shipment from shipping list / Issue with international etd shipment / Verify FXIA field codes / 
+
+FXCT: edit configurations / Discounts not available ( known issue ) / new fxct tool request / unable to see discount rates / Issues with rates displaying / FXCT Rating Error / rates not working properly / Freight accts in FXCT / issues with saved dimensions / Rates / Registration & batch rating / 
+
+MISDIRECTS: transferred to fedex.com / needed fedex.com / .COM transfer / needed fedex.com LTL / Dotcom / transferred to spanish cust service / Misdirect / Misdirect / .com / 
+
+AHT Drivers: Café clean load required/escalate for rates 116 min / Café Shipments writing as deleted 45 min / Café Scale not reading 40 min / 
+
+------------
+
+Cafe on FXRS: running on remote machine / fxi fix / comms dial up ursa / Acct validation failed, cust call back / 
+
+FXRS on Cafe: Client will not start..wrong ip / 

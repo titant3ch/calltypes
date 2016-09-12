@@ -1,0 +1,100 @@
+Agent, Computer Name, Duration of Call, LOB, Type, Message,
+chkelley,ausrca0055,180 min,Café,Café,clean load
+dsims,ausrca0062,177 min,Café,Café,FSM clean load
+dsims,ausrca0062,135 min,Café,Café,Removal, Load and config FSM
+dneal,ausrca0098,106 min,Café,Café,Repair
+gdeharo,ausrca0050,75 min,Café,Café,new software update prompt
+mendrys,ausrca0070,60 min,Café,Café,3009 upgrade; no delta /had to download
+mwildman,ausrca0229,55 min,Café,Café,3009 upgrade
+rhagemann,ausrcwa043,52 min,Café,Café,Writing as deleted
+anewman,ausrca0074,46 min,FXRS,WIS,Address validation
+mendrys,ausrca0070,45 min,Café,Café,upgrade
+cdriskell,auswidf1d62,45 min,Café,Café,Ran 3009 upgrade manually
+anewman,ausrca0074,43 min,Café,Café,Problem encountered and must exit
+chkelley,ausrca0055,40 min,Café,Café,client install
+chkelley,ausrca0055,30 min,Café,Café,integration
+cdriskell,auswidf1d62,30 min,Café,Café,Kaspersky AV ate the Admin svc
+gdeharo,ausrca0050,29 min,FXRS,FSMS,adding international acct to fxrs
+jzamora,ausrcwa049,27 min,Café,Café,validation/install
+rhagemann,ausrcwa043,26 min,FXRS,FSMS,Upgrade to 1407
+gdeharo,ausrca0050,25 min,Café,Café,Rates issue demand download
+macampbell,auscrwfxrs3,25 min,Café,Café,Upgrade to 3009
+mwildman,ausrca0229,25 min,Café,Café,3009 pushed over file
+gdeharo,ausrca0050,24 min,FXRS,WIS,General questions about test/ltl
+chkelley,ausrca0055,23 min,Café,Café,FXi not working properly
+anewman,ausrca0074,23 min,Café,Café,Problem encountered and must exit
+macampbell,auscrwfxrs3,22 min,FXRS,FSMS,Troubleshoot hourly uploads
+agonzales,ausrca0056,20 min,Café,Café,new install FSM
+macampbell,auscrwfxrs3,19 min,FXRS,WIS,No ground in rate requests
+rhagemann,ausrcwa043,19 min,Café,Café,FSM Repair
+gdeharo,ausrca0050,18 min,FXRS,FSMS,TLS Patch
+macampbell,auscrwfxrs3,17 min,FXRS,WIS,Troubleshoot ZP 505
+rhagemann,ausrcwa043,17 min,FXRS,FSMS,Health Check
+ianderson,auswlspigelmire,16 min,FXRS,FSMS,admin service crashing
+gdeharo,ausrca0050,15 min,FXRS,FXCT,FXCT LTL 3rd party freight
+rmcneil,ausrcb0061a,14 min,Café,Café,Writing as deleted sent to sr support
+mwildman,ausrca0229,14 min,FXRS,FSMS,Certification
+rhagemann,ausrcwa043,13 min,Café,Café,Incorrect Rates / Contact AE
+cdriskell,auswidf1d62,12 min,Café,Café,Validation for product key
+macampbell,auscrwfxrs3,12 min,Café,Café,Acct validation successful
+rhagemann,ausrcwa043,11 min,FXRS,FSMS,Rating Error
+gdeharo,ausrca0050,11 min,Café,Café,software update assistance
+agonzales,ausrca0056,10 min,Café,Café,printer setup /  backup database
+ianderson,auswlspigelmire,10 min,FXRS,WIS,certification process
+anewman,ausrca0074,10 min,Café,Café,No barcode on label
+mendrys,ausrca0070,10 min,Café,Café,assist with barcode on label
+agonzales,ausrca0056,10 min,FXRS,FXCT,FXCT INSTALLATION
+macampbell,auscrwfxrs3,10 min,FXRS,FSMS,URSA not implementing
+wcrosby,ausrca0071,10 min,Café,Café,upgrade install
+wcrosby,ausrca0071,10 min,Café,Café,reports
+anewman,ausrca0074,9 min,Café,Café,Product key validations
+macampbell,auscrwfxrs3,9 min,FXRS,WIS,Get production credentials
+mwildman,ausrca0229,9 min,Café,Café,3009 provided download link
+anewman,ausrca0074,8 min,Café,Café,Customer references
+anewman,ausrca0074,8 min,FXRS,Café,Incorrect rates
+cdriskell,auswidf1d62,7 min,Café,Café,ZP505 printer dump
+rhagemann,ausrcwa043,7 min,FXRS,FSMS,TSR Request
+mwildman,ausrca0229,7 min,FXRS,WIS,Consultation
+sseals,ausrca0064,6 min,FXRS,WIS,Credential Registration
+anewman,ausrca0074,6 min,Café,Café,PCA destage delta
+gdeharo,ausrca0050,6 min,Café,Café,zp 505 printer issues tech ticket
+cdriskell,auswidf1d62,6 min,FXRS,Café,Needs to print shipment report
+anewman,ausrca0074,6 min,Café,Café,Needing product key
+rhagemann,ausrcwa043,5.5 min,Café,Café,Failed Validation
+rhagemann,ausrcwa043,5.5 min,Café,Café,Restore Database
+agonzales,ausrca0056,5 min,FXRS,WIS,WIS rates
+anewman,ausrca0074,5 min,FXRS,FSMS,Needing IP address for test server
+mendrys,ausrca0070,5 min,FXRS,FSMS,server question
+mendrys,ausrca0070,5 min,FXRS,FSMS,1D bar code activation
+rhagemann,ausrcwa043,5 min,Café,Café,Tech Request / Scale
+cdriskell,auswidf1d62,5 min,FXRS,WIS,WIS Prod registration
+macampbell,auscrwfxrs3,5 min,FXRS,WIS,Enable address validation
+mendrys,ausrca0070,5 min,Café,Café,ASKING ABOUT REFERENCE FIELDS
+mendrys,ausrca0070,5 min,FXRS,FSMS,which server version is compatible?
+rhagemann,ausrcwa043,4.5 min,Café,Café,PK Request
+rhagemann,ausrcwa043,4.5 min,FXRS,WIS,Test Creds Issue
+rmcneil,ausrcb0061a,4 min,FXRS,Café,No email notification
+anewman,ausrca0074,4 min,Café,Café,zip code invalid
+rhagemann,ausrcwa043,4 min,FXRS,Misdirect,Dotcom
+gdeharo,ausrca0050,4 min,Café,Café,turn of eod prints
+macampbell,auscrwfxrs3,4 min,FXRS,WIS,Acct not enabled for smartpost
+rhagemann,ausrcwa043,3.5 min,FXRS,FXCT,PK Needed
+gdeharo,ausrca0050,3 min,Café,Café,scale issues
+anewman,ausrca0074,3 min,Café,Café,Monitor replacement
+macampbell,auscrwfxrs3,3 min,FXRS,FSMS,transferred to fedex.com
+macampbell,auscrwfxrs3,3 min,FXRS,Misdirect,transferred to domestic
+rhagemann,ausrcwa043,3 min,Café,Misdirect,No one on other side of phone
+cdriskell,auswidf1d62,3 min,FXRS,Misdirect,needed Rev Svcs
+macampbell,auscrwfxrs3,3 min,FXRS,WIS,Previous case status
+cdriskell,auswidf1d62,3 min,FXRS,Misdirect,needed fedex.com
+rhagemann,ausrcwa043,2 min,FXRS,Misdirect,3rd Party Support Needed
+agonzales,ausrca0056,2 min,Café,Café,LTL account set up (FSM)
+gdeharo,ausrca0050,2 min,FXRS,FSMS,empty line
+macampbell,auscrwfxrs3,2 min,FXRS,Misdirect,transferred to fedex.com
+agonzales,ausrca0056,1 min,FXRS,FSMS,line test
+macampbell,auscrwfxrs3,1 min,FXRS,WIS,disconnect
+gdeharo,ausrca0050,1 min,FXRS,FSMS,customer disconnect
+macampbell,auscrwfxrs3,1 min,Café,Café,disconnect
+mendrys,ausrca0070,1 min,FXRS,Misdirect,DOTCOM
+mendrys,ausrca0070,1 min,FXRS,Misdirect,DOTCOM
+rmcneil,ausrcb0061a,.17 min,FXRS,FSMS,Line test

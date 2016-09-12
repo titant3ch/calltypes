@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 2:00 PM FXRS 9/6/2016
+
+FXRS: invalid tracking range -sp / 
+
+Web Services: needs prod creds / Transaction errors / 
+
+Café: Validation / hazmat, needs that team / database assist / FXIA ODBC export / LTL authentication failure / Problem encountered must exit / Upgrade software to 3009 / 
+
+FXCT: 
+
+MISDIRECTS: Ebay / 
+
+AHT Drivers: Café Problem encountered must exit 90 min / Café LTL authentication failure 30 min / FXRS invalid tracking range -sp 25 min / 
+
+------------
+
+Cafe on FXRS: forced upgrade / upgrade force / ltl freight / service type / 
+
+FXRS on Cafe: 

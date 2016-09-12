@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 4:00 PM FXRS 9/8/2016
+
+FXRS: Contact Kewill to upgrade to 1407 / fsms 1503 uninstall / Assisted w/TD Reports Issue / 
+
+Web Services: WIS consultation / delete  a shipment / Integration to Amazon / WIS questions / Cert Request / Printer Install / Rate error / Transactions not hitting servers / 
+
+Café: Reports / Change auto close time / Upgrade to 3009 / HAL Assist / Upgrade to 3009 / cafe upgrade / client upgrade / Troubleshoot LP 2844 / Printer head replacement / FSM Clean Load/Prod. Key Required / fsm will not launch / GTA is blocked, contact IT / Return Shipment / upgrade / 
+
+FXCT: 
+
+MISDIRECTS: Misdirected to customer service / transferred to fedex.com / transferred to fedex.com / 
+
+AHT Drivers: FXRS Assisted w/TD Reports Issue 65 min / Café client upgrade 60 min / Café Upgrade to 3009 52 min / 
+
+------------
+
+Cafe on FXRS: client upgrade fails / CIC request for new install / registration failing / 
+
+FXRS on Cafe: 

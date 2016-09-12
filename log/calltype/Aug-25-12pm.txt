@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 12:00 PM FXRS 8/25/2016
+
+FXRS: Assisted CIC w/Communications Issue / 1d enable / enabled 1d barcode / disconnect / customer disconnect / broken printer roller / Life Cycle Inquiry 10.69 / Invalid Account / MRU Failure / Changed to 1D baracode / rate table expired demand download / tls update patch / system time / demand download rates on test box / mru stops ship manager / URSA questions / 
+
+Web Services: Cert Request / Certification Request / FXI web services registration / ltl rates / WIS Reg Issues / web-service registration / prod creds req and cert req / No service type filters on our side / pickup request errors / cert req / Questions about configuring WIS Freight / Authentication failed / WIS questions / 
+
+Café: FXI-application repair / disconnect / Client Issue / Upgrade questions / tech tix scale / credit priviledges suspended / FXI-Datas ource issue / Dimension Database / ReImage PCs / Backup DB Assist / change label type to doc tab / Service Type / CIC-New install / printer setup / integration profile restore assistance / currency exchange issue / software download request / default fields / Third party payment / Cannot delete parent meter/acct / 
+
+FXCT: error acct could not be validated ltl / Install fxct onto a new computer / 
+
+MISDIRECTS: dot com caller / Dotcom / needs cust serv / Misdirect / 
+
+AHT Drivers: FXRS Clean Load 93 min / FXRS tls update patch 30 min / FXRS FXI web services registration 21 min / 
+
+------------
+
+Cafe on FXRS: Clean Load / 
+
+FXRS on Cafe: 

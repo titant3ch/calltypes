@@ -1,0 +1,34 @@
+Reported Calls for: Aug-23-9am
+
+Agent, Computer Name, Duration of Call, LOB, Type, Message,
+mbarth,auswrca0230,90 min,Café,Café,clean load
+dneal,ausrca0098,43 min,FXRS,FSMS,Clean Load
+rmcneil,ausrcb0061a,28 min,Café,Café,FXIA setup
+gdeharo,ausrca0050,25 min,FXRS,WIS,Register for production credentials
+rhagemann,ausrcwa043,18 min,FXRS,WIS,DRC Prod Reg
+rhagemann,ausrcwa043,18 min,FXRS,WIS,Cert Request
+sroberts,ausrca0072,16 min,FXRS,WIS,Assisted w/Certification Request
+ahendon,ausrca0069,16 min,FXRS,WIS,Production registration errors
+gdeharo,ausrca0050,14 min,FXRS,FXCT,Issue with ground rates
+anewman,ausrca0074,14 min,FXRS,WIS,Importer of record
+gdeharo,ausrca0050,14 min,FXRS,WIS,register/get certified for shipping
+ianderson,auswlspigelmire,12 min,Café,Café,report for shipment history
+rhagemann,ausrcwa043,12 min,Café,Café,Validation
+gdeharo,ausrca0050,11 min,Café,Café,Issue with non responsive cic
+anewman,ausrca0074,10 min,FXRS,Registration,Get production credentials
+ahendon,ausrca0069,9 min,FXRS,FXCT,backup/ restore
+anewman,ausrca0074,8 min,FXRS,WIS,label thermal type
+gdeharo,ausrca0050,8 min,FXRS,WIS,name space change issue
+anewman,ausrca0074,8 min,Café,Café,Product key Validation
+macampbell,ausrca0057,6 min,FXRS,Misdirect,transferred to fedex.com
+anewman,ausrca0074,5 min,FXRS,Registration,Get production credentials
+ahendon,ausrca0069,5 min,Café,Café,communications issue
+macampbell,ausrca0057,5 min,FXRS,FXCT,Cust needs install code
+mbarth,auswrca0230,5 min,FXRS,Café,software req
+gdeharo,ausrca0050,4 min,Café,Café,dial up not communicating
+ahendon,ausrca0069,4 min,FXRS,Café,Label generation
+gdeharo,ausrca0050,4 min,FXRS,Misdirect,misdirect for international cust support
+macampbell,ausrca0057,3 min,FXRS,WIS,WIS questions
+anewman,ausrca0074,2 min,FXRS,Café,Misdirected call from cafe agent
+macampbell,ausrca0057,2 min,FXRS,FSMS,Enable 1D barcode
+rmcneil,ausrcb0061a,1.4 min,FXRS,Misdirect,Dot.com

@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 7:00 AM FXRS 8/9/2016
+
+FXRS: Line Test / 
+
+Web Services: Blank Creds / DRC Prod Reg / MPS DG / Dimension Inquiry / WIS Registration / WIS Registration / 
+
+Café: Dual label second blank / invalid tracking number range / 
+
+FXCT: 
+
+MISDIRECTS: 
+
+AHT Drivers: Café invalid tracking number range 20 min / FXRS DRC Prod Reg 5 min / FXRS Dimension Inquiry 5 min / 
+
+------------
+
+Cafe on FXRS: 
+
+FXRS on Cafe: 

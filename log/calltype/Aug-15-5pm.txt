@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 5:00 PM FXRS 8/15/2016
+
+FXRS: disconnect / Unable to get Test Rates for Express / Service type / McAffee stops shipmanager service / Smartpost References. / Answered CIC's hardware question. / 
+
+Web Services: declare value question / Answered general Web Svcs questions. / ae drc questions / Confirm meter is enabled to ship / Test Environment Status Question / Answered general web svcs questions / Customer rates don't show, only List / 
+
+Café: Kaspersky quarantined admin service / Rcpt ID drop down / FSM Shipmanager Service Wont Start / Software upgrade / kapersky issues / Anti-virus removed admin service / Registeration / 
+
+FXCT: 
+
+MISDIRECTS: Integration Mgr (Dot Com) Call / customer did not have an account number / 
+
+AHT Drivers: FXRS kapersky and server error 120 min / FXRS Admin Srvc Removed / Clean Load 106 min / FXRS Kaspersky AV ate the admin svc 36 min / 
+
+------------
+
+Cafe on FXRS: Kaspersky AV ate the admin svc / Admin Srvc Removed / Clean Load / kapersky and server error / Software validation / Kaspersky AV ate the admin svc / 
+
+FXRS on Cafe: 

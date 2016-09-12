@@ -1,0 +1,75 @@
+Agent, Computer Name, Duration of Call, LOB, Type, Message,
+dsims,ausrca0062,155 min,Café,Café,Clean load; insufficient space
+macampbell,auscrwfxrs3,132 min,Café,Café,Clean load
+rmcneil,ausrcb0061a,113 min,Café,Café,Failed 3009 update.
+anewman,ausrca0074,75 min,FXRS,Café,Ship services is not responding
+mbarth,auswrca0230,60 min,Café,Café,upgrade
+chkelley,ausrca0055,55 min,FXRS,FSMS,labels not printing
+rhagemann,ausrcwa043,55 min,Café,Café,FSM will not start
+dsims,ausrca0062,50 min,FXRS,Café,Customer has CAFE and server on same sys
+ianderson,auswlspigelmire,45 min,Café,Café,upgrade
+gdeharo,ausrca0050,43 min,Café,Café,asking for upgrade even though he had it
+ianderson,auswlspigelmire,40 min,FXRS,Café,new install.fsm swo, fxct
+anewman,ausrca0074,35 min,Café,Café,FXI failed installed
+gdeharo,ausrca0050,28 min,Café,Café,fxia odbc import issue
+dsims,ausrca0062,27 min,Café,Café,CAFE cleanload
+mbarth,auswrca0230,27 min,FXRS,Café,fxia trouble
+chkelley,ausrca0055,25 min,Café,Café,failed upgrade
+jemcavin,ausrca0052,25 min,FXRS,Café,wanted FSM to sort inbound shipping
+gdeharo,ausrca0050,23 min,Café,Café,Install printer 2844
+dsims,ausrca0062,23 min,FXRS,Café,Operation failed DG
+pgarza,ausrcwb148,22 min,Café,Café,FSM Upgrade
+jemcavin,ausrca0052,21 min,Café,Café,Ship manager encountered an error
+rhagemann,ausrcwa043,20 min,FXRS,Café,MPS Assist
+mendrys,ausrca0070,15 min,Café,Café,Upgrade to v3009
+gdeharo,ausrca0050,12 min,FXRS,FXCT,update ltl acct/address
+ianderson,auswlspigelmire,12 min,Café,Café,zp500 not printing
+ianderson,auswlspigelmire,11 min,Café,Café,sending missing from database
+sseals,ausrca0064,10 min,FXRS,FXCT,Rate Incorrect
+mendrys,ausrca0070,10 min,Café,Café,FSM upgrade
+mbarth,auswrca0230,10 min,Café,Café,comms
+gdeharo,ausrca0050,10 min,Café,Café,install lp 2844 printer
+mbarth,auswrca0230,10 min,FXRS,Café,fxi trouble
+mbarth,auswrca0230,10 min,FXRS,WIS,comms web serv
+anewman,ausrca0074,8 min,Café,Café,error Error Opening Installation Logfil
+macampbell,auscrwfxrs3,8 min,FXRS,WIS,Certification request
+gdeharo,ausrca0050,8 min,Café,Café,Slow launch after upgrade
+rhagemann,ausrcwa043,7.5 min,Café,Café,Printer Removal
+mbarth,auswrca0230,7 min,Café,Café,upgrade
+rhagemann,ausrcwa043,7 min,Café,Café,Integration Profile Not Enabled
+gdeharo,ausrca0050,7 min,FXRS,FSMS,demand download rates
+anewman,ausrca0074,7 min,FXRS,WIS,Consultant certification request
+rhagemann,ausrcwa043,7 min,FXRS,WIS,Cert Request
+gdeharo,ausrca0050,7 min,FXRS,WIS,general questions
+rhagemann,ausrcwa043,7 min,Café,Café,validation
+jemcavin,ausrca0052,7 min,FXRS,WIS,needed HUB ID for smartpost
+gdeharo,ausrca0050,6 min,Café,Café,service type not showing up
+mbarth,auswrca0230,6 min,Café,Café,printer tech tix
+gdeharo,ausrca0050,6 min,FXRS,FSMS,MRU failing
+anewman,ausrca0074,6 min,FXRS,WIS,Address validations
+gdeharo,ausrca0050,5 min,FXRS,WIS,question about log in/web srv
+mendrys,ausrca0070,5 min,Café,Café,replace monitor
+anewman,ausrca0074,5 min,Café,Café,unable to print DG form
+anewman,ausrca0074,5 min,Café,Café,Software validation
+rhagemann,ausrcwa043,5 min,Café,Café,International Doc Shipment
+gdeharo,ausrca0050,5 min,Café,Café,switch to doc tab labels
+mbarth,auswrca0230,5 min,FXRS,Café,opening software
+mbarth,auswrca0230,5 min,FXRS,WIS,rate question
+mbarth,auswrca0230,5 min,FXRS,FSMS,csp
+anewman,ausrca0074,4 min,Café,Café,Credit privilages have been suspended
+gdeharo,ausrca0050,4 min,Café,Misdirect,dot com caller
+anewman,ausrca0074,4 min,FXRS,FSMS,Server not working properly
+anewman,ausrca0074,4 min,FXRS,FSMS,tls patch update
+gdeharo,ausrca0050,4 min,Café,Café,software download request
+jemcavin,ausrca0052,4 min,Café,Café,ODBC question
+anewman,ausrca0074,3 min,Café,Café,writing as deleted
+anewman,ausrca0074,3 min,FXRS,FSMS,Enabled 1D barcode
+rhagemann,ausrcwa043,2.5 min,FXRS,WIS,AV Enabled
+anewman,ausrca0074,2 min,FXRS,Misdirect,misdirected to customer service
+mendrys,ausrca0070,2 min,FXRS,FSMS,INQ abt FSMS 3P Smartpost billing
+mbarth,auswrca0230,2 min,Café,Misdirect,needs to open account
+rhagemann,ausrcwa043,2 min,FXRS,WIS,New Rates
+rhagemann,ausrcwa043,2 min,Café,Misdirect,Dotcom Label Issue
+sseals,ausrca0064,1 min,FXRS,FSMS,Line Test
+gdeharo,ausrca0050,1 min,FXRS,FSMS,cust disconnect
+gdeharo,ausrca0050,1 min,Café,Café,customer disconnect

@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 5:00 PM FXRS 8/10/2016
+
+FXRS: Home delivery transactions / disconnect / disconnect / 
+
+Web Services: drc cert fucntions / Assist w/Web Svcs Cert. Process / drc reg through csp / pallet rate / Bad connection/cust. will call back. / CSP registration failure / Authentication failed / Cert Request / CSP Registration Outage / label certification / 
+
+Café: Cust needed help with shipping S/P / Download FSM, Canada acct / Validation / 
+
+FXCT: 
+
+MISDIRECTS: 
+
+AHT Drivers: FXRS label certification 45 min / FXRS CSP registration failure 32 min / FXRS Assist w/Web Svcs Cert. Process 23 min / 
+
+------------
+
+Cafe on FXRS: 
+
+FXRS on Cafe: 

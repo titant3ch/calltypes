@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 6:00 PM FXRS 8/25/2016
+
+FXRS: turn on 1d / tracking numbers / Domestic shipment not processing / Clean load questions / ETD Error shipment / 
+
+Web Services: WIS Inquiry / Intl Requests / drc cert / WIS questions / Get production credentials / questions about the pickup service / 
+
+Café: Unhandled Excpetion / 
+
+FXCT: LTL freight quotes / 
+
+MISDIRECTS: Transferred to fedex.com / Needing Billing info to account / Bad Transfer / transfer to .com / 
+
+AHT Drivers: FXRS Domestic shipment not processing 17 min / Café Unhandled Excpetion 16 min / FXRS ETD Error shipment 15 min / 
+
+------------
+
+Cafe on FXRS: Zebra printer / Cust. is able to reprint reports now. / software req / Cust. will call back w/acct. info. / Not charged for labels not shipped / 
+
+FXRS on Cafe: 

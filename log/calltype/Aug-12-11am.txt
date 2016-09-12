@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 11:00 AM FXRS 8/12/2016
+
+FXRS: 1d flag enablement / Ursa issue / invalid service type smartpost / 
+
+Web Services: Estimated Duties reference info / WIS FIMS support / cert and smartpost questions / cert and smartpost questions / Troubleshoot smartpost requests / Issues with certification / label certification / rates / 
+
+Café: zp505 install / payment type for ltl freight / CIC onsite esc Shipment Receipt / International shipment / 
+
+FXCT: AE needs FXCT for customer / FXCT install / 
+
+MISDIRECTS: needed Dom CS for PRP / 
+
+AHT Drivers: FXRS Ursa issue 43 min / FXRS Troubleshoot smartpost requests 25 min / FXRS 1d flag enablement 23 min / 
+
+------------
+
+Cafe on FXRS: system won't start up disc error tech ti / 
+
+FXRS on Cafe: 

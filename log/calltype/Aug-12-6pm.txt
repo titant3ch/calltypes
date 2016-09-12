@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 6:00 PM FXRS 8/12/2016
+
+FXRS: cert process walk thru / Express labels missing barcodes / disconnect / cust  disconnect / 
+
+Web Services: drc reg function / DRC Test Reg / cust  want t add refer field to trans / DRC Prod Reg / Confirm cust is certified to ship / Download WSDLs / Confirm meter is enabled to ship / WIS question / smartpost  hub id incorrect / Hardware tech ticket / 
+
+Café: change label format in shipping profile / Import address book from fedex.com / 
+
+FXCT: need fxct product key for new install / 
+
+MISDIRECTS: Domestic / needed Dom CS / 
+
+AHT Drivers: FXRS Express labels missing barcodes 54 min / FXRS intl dg air fireght 20 min / FXRS cert process walk thru 13 min / 
+
+------------
+
+Cafe on FXRS: intl dg air fireght / 
+
+FXRS on Cafe: 

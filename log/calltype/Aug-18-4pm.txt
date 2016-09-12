@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 4:00 PM FXRS 8/18/2016
+
+FXRS: URSA not downloading / FXRS cleanload / Upgrade from 1109 to 1407 / 
+
+Web Services: Get production credentials / Tracking request / Misdirected call / Callback on case 41486303 / drc reg / WIS questions / Helped cust. get Prod. Creds. / ltl trans / WIS questions / 
+
+Café: international shipment / Writing as deleted / broken printer / add dimensions to report / Product key validation / Configure totals doc tab for MPS / 
+
+FXCT: Assisted w/Backup/Restore of the Tool / 
+
+MISDIRECTS: needs csp / Misdirected call-customer serv / Misdirected call-dotcom / 
+
+AHT Drivers: FXRS Upgrade from 1109 to 1407 53 min / FXRS FXRS cleanload 48 min / FXRS URSA not downloading 47 min / 
+
+------------
+
+Cafe on FXRS: printer non standard dynamo / Writing as deleted / kaperski ship engine service / Cafe upgrade questions / 
+
+FXRS on Cafe: 

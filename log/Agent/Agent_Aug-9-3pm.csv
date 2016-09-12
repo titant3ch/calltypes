@@ -1,0 +1,23 @@
+Reported Calls for: Aug-9-3pm
+
+Agent, Computer Name, Duration of Call, LOB, Type, Message,
+pgarza,ausrcwb148,56 min,Café,Café,1D Barcode Reverted to Astra (Repair)
+sroberts,ausrca0072,30 min,FXRS,FSMS,Assist w/server trans error
+macampbell,ausrcwa049,25 min,FXRS,WIS,Transaction errors
+chkelley,ausrca0055,20 min,FXRS,WIS,wis registration
+rhagemann,ausrca0050,20 min,Café,Café,New Install
+mbarth,auswrca0230,15 min,FXRS,Café,intl returns
+rhagemann,ausrca0050,12 min,FXRS,WIS,Label Issue / Contact CSP
+ianderson,auswlspigelmire,10 min,FXRS,WIS,registration
+sroberts,ausrca0072,7 min,FXRS,Café,Submitted hardware tech ticket/Scale
+macampbell,ausrcwa049,6 min,Café,Café,Transfer AE to Snr Support
+mbarth,auswrca0230,5 min,FXRS,WIS,cert req
+mbarth,auswrca0230,5 min,FXRS,WIS,hardware printer 3pl
+mbarth,auswrca0230,5 min,FXRS,Misdirect,needs billing
+rhagemann,ausrca0050,5 min,FXRS,WIS,Frozen Tracking Number
+rhagemann,ausrca0050,4 min,FXRS,WIS,Prod Creds hitting test enviorment
+macampbell,ausrcwa049,3 min,FXRS,Misdirect,transferred to domestic
+mbarth,auswrca0230,2 min,FXRS,Misdirect,needs .com
+macampbell,ausrcwa049,1 min,FXRS,Misdirect,transferred to fedex.com
+macampbell,ausrcwa049,1 min,FXRS,FSMS,Previous call status
+macampbell,ausrcwa049,.5 min,FXRS,FSMS,disconnect

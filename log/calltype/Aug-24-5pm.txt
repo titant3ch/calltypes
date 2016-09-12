@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 5:00 PM FXRS 8/24/2016
+
+FXRS: disconnect / Enabled 1D barcode express/ground / Certification request / Admin Services not responding / No SP Rates in Clippership / 
+
+Web Services: Get production credentials / Requested advanced svc enablement. / Disabled shipping method / box types? / iSell message to AE / Signature options / Get production credentials / Get production credentials / 
+
+Café: Credit privileges restored / International shipment / 
+
+FXCT: Backup / Restore / 
+
+MISDIRECTS: International Tracking / Cold-transfer to me/Transfer to Dot Com / Misdirected call to dotcom / 
+
+AHT Drivers: FXRS No SP Rates in Clippership 45 min / FXRS Backup / Restore 12 min / FXRS Requested advanced svc enablement. 11 min / 
+
+------------
+
+Cafe on FXRS: LTL accounts / URSA expired / 
+
+FXRS on Cafe: 

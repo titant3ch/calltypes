@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 6:00 PM FXRS 8/18/2016
+
+FXRS: needs smartpost added / unable to download update services / 
+
+Web Services: Assisted w/Prod. Creds/CAS Issue / WSGW Routing 2016 Issue / Previous call status / Enable address validation / Printer Dump Needed / 
+
+Café: Intl commodity shipment / Kaspersky admin service / Rate not showing up on label / 
+
+FXCT: Assisted w/backup/restore of the Tool / 
+
+MISDIRECTS: transferred to fedex.com / Dotcom / transferred to fedex.com / transferred to fedex.com / 
+
+AHT Drivers: FXRS unable to download update services 75 min / Café Kaspersky admin service 50 min / FXRS needs smartpost added 35 min / 
+
+------------
+
+Cafe on FXRS: hardwre printer info / software req / 
+
+FXRS on Cafe: 

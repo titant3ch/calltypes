@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 9:00 AM FXRS 9/6/2016
+
+FXRS: disconnect / os fsms / 
+
+Web Services: Rate ship error / Get Productions Credentials / drc cert / Register for production credentials / drc reg / Get Production credentials / drc question / Get production credentials / 
+
+Café: Line Test / DG presettings / Doc Tab Configuration / Upgrade cafe system / Comm idle failure / No barcode on Label / server not responding / new install / 
+
+FXCT: Enable smartpost / FXCT Rates / 
+
+MISDIRECTS: Misdirected call to dotcom / 
+
+AHT Drivers: Café new install 180 min / Café Upgrade cafe system 37 min / FXRS Register for production credentials 19 min / 
+
+------------
+
+Cafe on FXRS: CAFE Repair / software req / tech tix printer / software upgrade questions / 
+
+FXRS on Cafe: 

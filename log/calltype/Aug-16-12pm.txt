@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 12:00 PM FXRS 8/16/2016
+
+FXRS: disconnect / Clean load / 
+
+Web Services: register for production credentials / Certification questions / ltl rating error 9999 EJB Method / Get production credentials / 
+
+Café: Kaspersky AV ate the admin svc / PEP and printer setup / kaperski lovk up / Acct validation successful / freeze lockup ship engine service / Kaspersky AV ate the admin svc / FSM P-key Request / kaspersky quarantined admin / empty line / FSM Freezes Upon Launch / FXI REPAIR / Admin Srvc Removed / Repair / 
+
+FXCT: 
+
+MISDIRECTS: transferred to fedex.com / Domestic / transfer to .com / Update CC on Account / 
+
+AHT Drivers: FXRS Clean load 124 min / Café KASPERSKY-REPAIR 120 min / Café kaspersky quarantined admin 60 min / 
+
+------------
+
+Cafe on FXRS: New Tracking Range / freeze locku[p kapetrski / Anti-virus removed admin service / Ship services not responding / AVG ate my services / Anti-virus removed admin service / Anti-virus removed admin service / 
+
+FXRS on Cafe: KASPERSKY-REPAIR / 

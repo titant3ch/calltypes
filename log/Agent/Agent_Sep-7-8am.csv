@@ -1,0 +1,13 @@
+Agent, Computer Name, Duration of Call, LOB, Type, Message
+agonzales,ausrca0056,4 min,FXRS,FSMS,1D enablement
+agonzales,ausrca0056,4 min,Café,Café,Tech ticket inquiry
+agonzales,ausrca0056,5 min,FXRS,FSMS,Tech ticket - scale
+chkelley,ausrca0055,20 min,FXRS,WIS,incorrect rates
+chkelley,ausrca0055,40 min,Café,Café,upgrade
+gdeharo,ausrca0050,21 min,Café,Café,shipping international DG assistance
+gdeharo,ausrca0050,37 min,FXRS,WIS,register for test/production credentials
+gdeharo,ausrca0050,7 min,Café,Misdirect,dot com caller
+mbarth,auswrca0230,35 min,FXRS,Café,fxia greyed out
+rhagemann,ausrcwa043,3 min,FXRS,WIS,Pickup Request
+rmcneil,ausrcb0061a,65 min,Café,Café,Failed install
+sseals,ausrca0064,6 min,Café,Café,DB Backup

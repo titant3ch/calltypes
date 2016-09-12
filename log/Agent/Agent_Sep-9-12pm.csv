@@ -1,0 +1,68 @@
+Agent, Computer Name, Duration of Call, LOB, Type, Message,
+ahendon,ausrca0069,165 min,FXRS,FSMS,Smartpost issue ARC 16120
+gdeharo,ausrca0050,143 min,Café,Café,update error/clean load escalate
+mendrys,ausrca0070,60 min,FXRS,FSMS,server Kewill issues on 1407
+chkelley,ausrca0055,52 min,Café,Café,cleanload
+mbarth,auswrca0230,43 min,Café,Café,fxia iase
+macampbell,auscrwfxrs3,36 min,Café,Café,Clean load fails, contact IT
+gdeharo,ausrca0050,35 min,FXRS,FSMS,Escalated call smart post trk #
+anewman,ausrca0074,33 min,Café,Café,Upgrade failed
+rhagemann,ausrcwa043,29 min,Café,Café,CIC URSA Issue
+chkelley,ausrca0055,25 min,Café,Café,reports not printing
+mbarth,auswrca0230,23 min,FXRS,FSMS,TRACKING NUMBERS
+anewman,ausrca0074,22 min,Café,Café,FXIA problem encountered error
+macampbell,auscrwfxrs3,22 min,FXRS,FXCT,Batch rating
+gdeharo,ausrca0050,18 min,FXRS,Café,admin service missing
+macampbell,auscrwfxrs3,16 min,FXRS,WIS,Get test credentials
+gdeharo,ausrca0050,15 min,FXRS,WIS,certified for shipping request
+macampbell,auscrwfxrs3,15 min,Café,Café,DCS not needed for non-ITAR
+mendrys,ausrca0070,15 min,FXRS,WIS,WIS not transacting
+mendrys,ausrca0070,15 min,FXRS,WIS,Test credentials
+anewman,ausrca0074,15 min,FXRS,WIS,Escalate certification request
+macampbell,auscrwfxrs3,14 min,Café,Café,Troubleshoot FXI
+ahendon,ausrca0069,14 min,Café,Café,HAL inquiry
+anewman,ausrca0074,13 min,FXRS,Café,URSA Expired
+macampbell,auscrwfxrs3,13 min,FXRS,FSMS,No barcode on labels
+anewman,ausrca0074,13 min,Café,Café,Zebra printer not aligning correctly
+chkelley,ausrca0055,10 min,Café,Café,download fsm
+mendrys,ausrca0070,10 min,FXRS,FSMS,hourly upload files
+mbarth,auswrca0230,10 min,FXRS,Café,needs [prod key software
+cdriskell,auswidf1d62,10 min,FXRS,Café,Acct validation for product key
+mbarth,auswrca0230,10 min,FXRS,FSMS,cert req
+anewman,ausrca0074,9 min,FXRS,WIS,customer requesting consultation request
+ahendon,ausrca0069,9 min,FXRS,WIS,Certification inquiry
+gdeharo,ausrca0050,9 min,Café,Café,software download reqeust
+gdeharo,ausrca0050,8 min,Café,Café,ETD enabled
+anewman,ausrca0074,8 min,FXRS,Café,Configure network client/backup database
+anewman,ausrca0074,8 min,Café,Café,Needing product key
+macampbell,auscrwfxrs3,8 min,FXRS,WIS,Certification questions
+gdeharo,ausrca0050,8 min,Café,Café,update address on system
+gdeharo,ausrca0050,7 min,Café,Café,set default to PO service type
+rmcneil,ausrcb0061a,6 min,FXRS,FSMS,Confirm URSA
+macampbell,auscrwfxrs3,6 min,Café,Café,Acct validation failed, cust call back
+cdriskell,auswidf1d62,6 min,FXRS,Café,Cafe upgrade takes too long to run
+gdeharo,ausrca0050,5 min,FXRS,Café,software download request
+mendrys,ausrca0070,5 min,FXRS,WIS,auth error
+mbarth,auswrca0230,5 min,Café,Café,some kidn of error then line died
+mbarth,auswrca0230,5 min,FXRS,WIS,needs csp
+macampbell,auscrwfxrs3,5 min,FXRS,FSMS,Acct not enabled for smartpost
+mbarth,auswrca0230,5 min,FXRS,Café,download rates
+mbarth,auswrca0230,5 min,FXRS,WIS,cert req
+mbarth,auswrca0230,5 min,FXRS,FSMS,services trouble
+mbarth,auswrca0230,5 min,FXRS,WIS,not hitting test server
+mbarth,auswrca0230,5 min,FXRS,WIS,wrong address
+macampbell,auscrwfxrs3,5 min,FXRS,WIS,Get production credentials
+macampbell,auscrwfxrs3,5 min,Café,Café,3009 does not support Windows XP
+cdriskell,auswidf1d62,5 min,Café,Café,EEI filing
+macampbell,auscrwfxrs3,5 min,FXRS,Café,Tech ticket for dialup
+anewman,ausrca0074,4 min,Café,Café,Trouble shooting communications
+anewman,ausrca0074,3 min,Café,Café,Software download request
+anewman,ausrca0074,3 min,Café,Café,Return shipment billing details
+macampbell,auscrwfxrs3,3 min,FXRS,Café,Cannot give product key to AE
+gdeharo,ausrca0050,3 min,Café,Café,general question reports
+rmcneil,ausrcb0061a,2.5 min,FXRS,FSMS,1d Barcode
+anewman,ausrca0074,2 min,FXRS,Misdirect,Misdirected to customer service
+mbarth,auswrca0230,2 min,FXRS,Misdirect,needs .com
+rhagemann,ausrcwa043,1.5 min,FXRS,WIS,Sat Del Unavaliable
+macampbell,auscrwfxrs3,1 min,FXRS,WIS,Address validation questions
+macampbell,auscrwfxrs3,1 min,FXRS,FSMS,disconnect

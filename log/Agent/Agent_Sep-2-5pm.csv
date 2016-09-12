@@ -1,0 +1,13 @@
+Agent, Computer Name, Duration of Call, LOB, Type, Message,
+mbarth,auswrca0230,10 min,FXRS,WIS,drc reg and questions
+macampbell,auscrwfxrs3,10 min,FXRS,WIS,Transaction errors
+anewman,ausrca0074,6 min,FXRS,WIS,Saturday delivery option
+anewman,ausrca0074,6 min,FXRS,WIS,ETD labels
+anewman,ausrca0074,5 min,FXRS,Café,Get production credentials
+jemcavin,ausrca0052,5 min,FXRS,WIS,needed test credentials
+anewman,ausrca0074,4 min,Café,Café,Return email label
+jemcavin,ausrca0052,3 min,Café,Misdirect,misdirect to dcom
+anewman,ausrca0074,3 min,Café,Café,MPS assistance
+macampbell,auscrwfxrs3,2 min,Café,Café,Saturday delivery
+macampbell,auscrwfxrs3,2 min,FXRS,Misdirect,transferred to domestic
+macampbell,auscrwfxrs3,1 min,Café,Café,disconnect

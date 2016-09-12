@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 6:00 PM FXRS 9/9/2016
+
+FXRS: change environment level in commsetup / 
+
+Web Services: address issues / LTL Test Issues / 
+
+Café: Ship Saturday delivery / FXI not functioning properly / Helped cust. create & ship to group. / bill to recipient issue / Clean load FSM / Failed Validation / Assisted with Group Shipment, etc / Integration Issue / rate quote / 
+
+FXCT: 
+
+MISDIRECTS: 
+
+AHT Drivers: Café Clean load FSM 71 min / Café Assisted with Group Shipment, etc 45 min / FXRS certification request for ship service 32 min / 
+
+------------
+
+Cafe on FXRS: FSM has not communicate within 72hrs / printer / certification request for ship service / 
+
+FXRS on Cafe: 

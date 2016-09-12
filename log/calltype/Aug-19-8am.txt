@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 8:00 AM FXRS 8/19/2016
+
+FXRS: transmissions not transmitting admin srv / enable 1D barcodes / 
+
+Web Services: Assisted w/Web Svcs Registration / Assisted w/SP Hub I.D. question. / migration issue / Smartpost Tracking number / 
+
+Café: CIC New Install request / Previously escalated case / 
+
+FXCT: FXCT generator code / no [permsisions to add account / 
+
+MISDIRECTS: misdirect / 
+
+AHT Drivers: FXRS Kaspersky ran modify 31 min / FXRS Assisted w/Web Svcs Registration 12 min / FXRS transmissions not transmitting admin srv 11 min / 
+
+------------
+
+Cafe on FXRS: Kaspersky ran modify / 
+
+FXRS on Cafe: 

@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 5:00 PM FXRS 8/4/2016
+
+FXRS: general reference / 
+
+Web Services: label cert process / Assisted w/Transaction Error / Consultation Request for D&T / 
+
+Café: install- upgrade / Validation / FSM Upgrade / Problem Encountered Registering / 
+
+FXCT: Troubleshoot batch profile / Troubleshoot FXCT / 
+
+MISDIRECTS: 
+
+AHT Drivers: Café FSM Upgrade 38 min / FXRS Consultation Request for D&T 30 min / FXRS Troubleshoot FXCT 21 min / 
+
+------------
+
+Cafe on FXRS: change address and netwrk client / netwoprk client limitations / install ship managar / 
+
+FXRS on Cafe: 

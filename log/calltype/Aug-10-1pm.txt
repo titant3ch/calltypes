@@ -1,0 +1,19 @@
+Here is what the agents are reporting: 1:00 PM FXRS 8/10/2016
+
+FXRS: disconnect / Issues with EOD / zm400 not getting  ipadress / 
+
+Web Services: track function / Need meter to troubleshoot transactions / DRC Prod Reg / intl return / Rates service disruption resolved / drc reg / DRC Prod Reg / Assist w/multiple trans errors / DRC Questions / Hardware tech ticket / Missing WIS Password / 
+
+Café: barcode missing information / credit priveledges suspened / Assist w/Purged Meter/Install Issue / install and prod key / export add book to restore new computer / FSM Product Key Validation / FSM Upgrade Question / Change auto-close times / 
+
+FXCT: PRODUCT KEY / PK for Install / 
+
+MISDIRECTS: Int'l Cust. Svc. Call / dot com caller / Transfer to Cust. Svc. / 
+
+AHT Drivers: FXRS Issues with EOD 35 min / FXRS CSP Credentials Cannot Register User 34 min / Café export add book to restore new computer 28 min / 
+
+------------
+
+Cafe on FXRS: Service Issue / FSM Won't Launch / 
+
+FXRS on Cafe: international shipment..mps / 
